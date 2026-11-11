@@ -1,0 +1,28 @@
+{
+  "end_to_end": {
+    "total_pairs": 214,
+    "tp": 585,
+    "fp": 178,
+    "fn": 62,
+    "precision": 0.7667103538663171,
+    "recall": 0.9041731066460588,
+    "f1": 0.8297872340425532,
+    "accuracy": 0.7090909090909091,
+    "pair_accuracy": 0.3878504672897196,
+    "exact_matches": 83,
+    "total_gt_correspondences": 647
+  },
+  "conditional": {
+    "total_pairs": 170,
+    "tp": 585,
+    "fp": 94,
+    "fn": 62,
+    "precision": 0.8615611192930781,
+    "recall": 0.9041731066460588,
+    "f1": 0.8823529411764707,
+    "accuracy": 0.7894736842105263,
+    "pair_accuracy": 0.48823529411764705,
+    "exact_matches": 83,
+    "total_gt_correspondences": 647
+  }
+}

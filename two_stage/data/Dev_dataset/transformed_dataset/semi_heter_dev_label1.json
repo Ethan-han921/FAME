@@ -1,0 +1,3661 @@
+[
+  {
+    "left": {
+      "ID": "BN0867",
+      "Title": "Death Cloud (Sherlock Holmes: The Legend Begins Series #1)",
+      "Price": "$9.03 ",
+      "Author": "Andrew Lane",
+      "ISBN13": 9780312563714,
+      "Publisher": "Square Fish",
+      "Pages": 336.0,
+      "Dimensions": "5.50(w) x 8.20(h) x 1.00(d)",
+      "Publication_year": "2011",
+      "Publication_month_day": "Oct-25th"
+    },
+    "right": {
+      "id": "HC0794",
+      "title": "Death Cloud(Sherlock Holmes: The Legend Begins (Paperback))",
+      "Pages": 311,
+      "Dimensions": "5.58 x 8.23 x 0.94 inches",
+      "prices": {
+        "UsedPrice": "$7.44",
+        "NewPrice": "$11.43"
+      },
+      "authors": "Andy Lane",
+      "publication_info": {
+        "ISBN10": "031256371X",
+        "ISBN13": 9780312563714,
+        "Publisher": "Square Fish",
+        "Publication_year_month": "2011-10",
+        "Publication_day": "25"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 2754,
+      "title": "Professional ADO.NET 3.5 with LINQ and the Entity Framework",
+      "authors": "Roger Jennings;",
+      "publisher": "Wrox",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 672.0,
+      "pub_year_month": "9-02",
+      "pub_day": "03"
+    },
+    "right": {
+      "id": 2722,
+      "title": "Professional ADO. NET 3. 5 with LINQ and the Entity Framework",
+      "pages": 672.0,
+      "authors": "Roger Jennings",
+      "publication_info": {
+        "publication_date": "2/3/9",
+        "edition": 1.0,
+        "publisher": "Wiley",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3334,
+      "title": "World Wide Web Database Programming for Windows NT",
+      "authors": "Brian Jepson;",
+      "publisher": "Wiley",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 352.0,
+      "pub_year_month": "1996-06",
+      "pub_day": "06"
+    },
+    "right": {
+      "id": 3492,
+      "title": "World Wide Web Database Programming for Windows NT",
+      "pages": 352.0,
+      "authors": "Brian Jepson",
+      "publication_info": {
+        "edition": 1.0,
+        "publisher": "Wiley",
+        "isbn13": 9780000000000.0,
+        "Publication_year": "1996",
+        "Publication_month_day": "Jun-6th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 2415,
+      "title": "Expert Performance Indexing for SQL Server 2012",
+      "authors": "Jason Strate;Ted Krueger;",
+      "pubyear": 10,
+      "pubmonth": 7.0,
+      "pubday": 3.0,
+      "edition": "1",
+      "publisher": "Apress",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 354.0
+    },
+    "right": {
+      "id": 1388,
+      "title": "Expert Performance Indexing for SQL Server 2012",
+      "pages": 354.0,
+      "authors": [
+        "Jason Strate",
+        " Ted Krueger"
+      ],
+      "publication_info": {
+        "edition": 1.0,
+        "publisher": "Apress",
+        "isbn13": 9780000000000.0,
+        "Publication_year": "2012",
+        "Publication_month_day": "Jul-4th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 150,
+      "title": "Refactoring Databases: Evolutionary Database Design",
+      "authors": "Scott W. Ambler;Pramodkumar J. Sadalage;",
+      "edition": "1",
+      "publisher": "Addison-Wesley Professional",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 384.0,
+      "pub_year_month": "6-03",
+      "pub_day": "13th"
+    },
+    "right": {
+      "id": 2826,
+      "title": "Refactoring Databases: Evolutionary Database Design",
+      "series": "Addison-Wesley Signature Series",
+      "pages": 384.0,
+      "authors": [
+        "Scott W. Ambler",
+        " Pramodkumar J. Sadalage"
+      ],
+      "publication_info": {
+        "publication_date": "3/3/6",
+        "edition": 1.0,
+        "publisher": "Addison-Wesley",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1920,
+      "title": "Visual Basic and Databases - Professional Edition",
+      "authors": "Philip Conrod;Lou Tylee;",
+      "edition": "2012 Update",
+      "publisher": "Kidware Software",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 908.0,
+      "pub_year_month": "2013-Feb",
+      "pub_day": "18th"
+    },
+    "right": {
+      "id": 3424,
+      "title": "Visual Basic and Databases - Professional Edition",
+      "pages": 908.0,
+      "authors": [
+        "Philip Conrod",
+        " Lou Tylee"
+      ],
+      "publication_info": {
+        "edition": 12.0,
+        "publisher": "Kidware Software & BibleByte Books",
+        "isbn13": 9780000000000.0,
+        "Publication_year": "2013",
+        "Publication_month_day": "Feb-18"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0426",
+      "Title": "Crocodile Tears (Alex Rider Series #8)",
+      "Price": "$8.99 ",
+      "Author": "Anthony Horowitz",
+      "ISBN13": 9780142417195,
+      "Publisher": "Penguin Young Readers Group",
+      "Pages": 416.0,
+      "Dimensions": "8.64(w) x 11.80(h) x 1.12(d)",
+      "Publication_year": "2010",
+      "Publication_month_day": "Nov-16th"
+    },
+    "right": {
+      "id": "HC0725",
+      "title": "Crocodile Tears(Alex Rider Adventures (Paperback))",
+      "Pages": 388,
+      "Dimensions": "5.20 x 7.70 x 1.10 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$10.17"
+      },
+      "authors": "Anthony Horowitz",
+      "publication_info": {
+        "ISBN10": "014241719X",
+        "ISBN13": 9780142417195,
+        "Publisher": "Puffin Books",
+        "Publication_Date": "Nov. 16th, 2010"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 932,
+      "title": "Data Mining For Dummies  )",
+      "authors": "Meta S. Brown;",
+      "edition": "1",
+      "publisher": "For Dummies",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "For Dummies (Computer/Tech)",
+      "pages": 408.0,
+      "pub_year": "2014",
+      "pub_month_day": "Sep-29th"
+    },
+    "right": {
+      "id": 751,
+      "title": "Data Mining For Dummies",
+      "series": "For Dummies Series",
+      "pages": 408.0,
+      "authors": "Meta S. Brown",
+      "publication_info": {
+        "edition": 1.0,
+        "publisher": "Wiley",
+        "isbn13": 9780000000000.0,
+        "Publication_year_month": "2014-Sep",
+        "Publication_day": "15th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 1870,
+      "Title": "A Bazaar Life: The Autobiography of David Alliance",
+      "Description": "In 1950 David Alliance arrived in Manchester with £14, within six years, aged twenty-four, he bought a loss-making textile mill, turned it around in six months and went on to build the biggest textile company in the western world, employing over 80,000 people. Lord Alliance describes his business philosophy and his charitable work in Iran and Israel.",
+      "ISBN": "1849541922",
+      "ISBN13": "9781849541923",
+      "PageCount": 448,
+      "FirstAuthor": "David Alliance",
+      "SecondAuthor": " ",
+      "ThirdAuthor": " ",
+      "Rating": 5.0,
+      "NumberofRatings": 2,
+      "NumberofReviews": "0",
+      "Publisher": "The Robson Press",
+      "PublishDate": "June 2nd 2015",
+      "Format": "Paperback",
+      "Language": " ",
+      "FileName": "2681-17248865-a-bazaar-life.html"
+    },
+    "right": {
+      "id": 303,
+      "title": "A Bazaar Life: The Autobiography of David Alliance",
+      "Pages": "448",
+      "Productdimensions": "5.90(w) x 9.30(h) x 1.60(d)",
+      "Salesrank": "399,552",
+      "authors": "David Alliance",
+      "publication_info": {
+        "Publisher": "Biteback Publishing, Ltd.",
+        "ISBN13": "9781849541923",
+        "PublicationDate": "06/02/2015"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0340",
+      "Title": "Silence (Hush, Hush Saga #3)",
+      "Price": "$9.86 ",
+      "Author": "Becca Fitzpatrick",
+      "ISBN13": 9781442426658,
+      "Publisher": "Simon & Schuster Books For Young Readers",
+      "Pages": 438.0,
+      "Dimensions": "5.40(w) x 8.20(h) x 1.00(d)",
+      "Publication_year_month": "2013-Jan",
+      "Publication_day": "01"
+    },
+    "right": {
+      "id": "HC0456",
+      "title": "Silence(Hush, Hush Saga)",
+      "Pages": 464,
+      "prices": {
+        "UsedPrice": "$8.32",
+        "NewPrice": "$8.32"
+      },
+      "authors": "Becca Fitzpatrick",
+      "publication_info": {
+        "ISBN10": "1442426659",
+        "ISBN13": 9781442426658,
+        "Publisher": "Simon & Schuster Books for Young Readers",
+        "Publication_Date": "Jan. 1st, 2013"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 1373,
+      "Title": "Where White Men Fear to Tread: The Autobiography of Russell Means",
+      "Description": "Russell Means is the most controversial Indian leader of our time. Where White Men Fear to Tread is the well-detailed, first-hand story of his life so far, in which he has done everything possible to dramatize and justify the Native American aim of self-determination, such as storming Mount Rushmore, seizing Plymouth Rock, running for President in 1988, and--most notoriously--leading a 71-day takeover of Wounded Knee, South Dakota, in 1973. This visionary autobiography by one of our most magnetic personalities will fascinate, educate, and inspire. As Dee Brown has written, \"A reading of Means's story is essential for any clear understanding of American Indians during the last half of the twentieth century.\"",
+      "ISBN": "0312147619",
+      "ISBN13": "9780312147617",
+      "PageCount": 624,
+      "FirstAuthor": "Russell Means",
+      "SecondAuthor": "Marvin J. Wolf",
+      "ThirdAuthor": " ",
+      "Rating": 4.06,
+      "NumberofRatings": 760,
+      "NumberofReviews": "64",
+      "Publisher": "St. Martin's Griffin",
+      "PublishDate": "November 15th 1996",
+      "Format": "Paperback",
+      "Language": "English",
+      "FileName": "223-187799.Where_White_Men_Fear_to_Tread.html"
+    },
+    "right": {
+      "id": 136,
+      "title": "Where White Men Fear to Tread: The Autobiography of Russell Means",
+      "Pages": "624",
+      "Productdimensions": "6.10(w) x 9.23(h) x 1.69(d)",
+      "Salesrank": "209,937",
+      "ratings": {
+        "Ratingscount": "6",
+        "Ratingvalue": "5.0"
+      },
+      "prices": {
+        "Paperbackprice": "$14.99",
+        "Nookbookprice": "$9.99"
+      },
+      "authors": [
+        "Russell Means",
+        "Marvin Wolf"
+      ],
+      "publication_info": {
+        "Publisher": "St. Martin's Press",
+        "ISBN13": "9780312147617",
+        "PublicationDate": "11/28/1996"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 2448,
+      "Title": "Beyond the Light Barrier: The Autobiography of Elizabeth Klarer",
+      "Description": "Beyond the Light Barrier is the autobiographical story of Elizabeth Klarer, a South African woman and Akon, an astrophysicist from Meton, a planet of Proxima Centuri that, at a distance of about 4.3 light years, is our nearest stellar neighbor. Elizabeth was taken in his spaceship to Meton, where she lived with him and his family for four months and where she bore his child. Her life on Meton is fascinatingly described. Akon brought Elizabeth back to Earth after the birth of their son, and continued to visit her thereafter. Akon explained how his spaceship's light-propulsion technology operated, and how it allowed him and his people to travel across vast interstellar distances. This technology is explained in detail in the book. Elizabeth was given a standing ovation at the 11th International Congress of UFO Research Groups at Weisbaden in 1975, and her speech as guest of honor was applauded by scientists of twenty-two nations. Light Technology Publishing is proud to bring you the long-awaited American edition in both hard copy and electronic format of Beyond the Light Barrier, which was first published in English in 1980.",
+      "ISBN13": " ",
+      "PageCount": 200,
+      "FirstAuthor": "Elizabeth Klarer",
+      "SecondAuthor": " ",
+      "ThirdAuthor": " ",
+      "Rating": 3.0,
+      "NumberofRatings": 8,
+      "NumberofReviews": "2",
+      "Publisher": "Light Technology Publishing",
+      "PublishDate": "June 1st 2009",
+      "Format": "Kindle Edition",
+      "Language": "English",
+      "FileName": "3219-19174073-beyond-the-light-barrier.html"
+    },
+    "right": {
+      "id": 752,
+      "title": "Beyond the Light Barrier: The Autobiography of Elizabeth Klarer",
+      "Pages": "244",
+      "Productdimensions": "5.90(w) x 8.90(h) x 0.50(d)",
+      "Salesrank": "901,987",
+      "authors": "Elizabeth Klarer",
+      "publication_info": {
+        "Publisher": "Light Technology Publishing, LLC",
+        "ISBN13": "9781891824777",
+        "Publication_year": "2009",
+        "Publication_month_day": "03-01"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1507,
+      "title": "Modern Database Management Casebook",
+      "authors": "Jeffrey A. Hoffer;",
+      "publisher": "Prentice-Hall",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 96.0,
+      "pub_year": "2",
+      "pub_month_day": "Jun-26th"
+    },
+    "right": {
+      "id": 2185,
+      "title": "Modern Database Management - Casebook",
+      "authors": [
+        "Whitlock",
+        " Jeffrey A. Hoffer"
+      ],
+      "publication_info": {
+        "publication_date": "6/28/2",
+        "edition": 6.0,
+        "publisher": "Pearson",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN1301",
+      "Title": "A Northern Light",
+      "Price": "$9.99 ",
+      "Author": "Jennifer Donnelly",
+      "ISBN13": 9780152053109,
+      "Publisher": "Houghton Mifflin Harcourt",
+      "Pages": 408.0,
+      "Dimensions": "5.31(w) x 8.00(h) x 0.99(d)",
+      "Publication_year_month": "2004-09",
+      "Publication_day": "28"
+    },
+    "right": {
+      "id": "HC1073",
+      "title": "A Northern Light",
+      "Pages": 396,
+      "Dimensions": "5.30 x 7.98 x 1.08 inches",
+      "prices": {
+        "UsedPrice": "$6.48",
+        "NewPrice": "$10.88"
+      },
+      "authors": "Jennifer Donnelly",
+      "publication_info": {
+        "ISBN10": "0152053107",
+        "ISBN13": 9780152053109,
+        "Publisher": "Harcourt Paperbacks",
+        "Publication_Date": "Sep. 1st, 2004"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0849",
+      "Title": "Airborn",
+      "Price": "$8.99 ",
+      "Author": "Kenneth Oppel",
+      "ISBN13": 9780060531829,
+      "Publisher": "HarperCollins Publishers",
+      "Publication_Date": "5/24/05",
+      "Pages": 544.0,
+      "Dimensions": "4.18(w) x 6.75(h) x 1.08(d)"
+    },
+    "right": {
+      "id": "HC1063",
+      "title": "Airborn",
+      "Pages": 544,
+      "Dimensions": "5.00 x 6.76 x 1.26 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$9.99"
+      },
+      "authors": "Kenneth Oppel",
+      "publication_info": {
+        "ISBN10": "0060531827",
+        "ISBN13": 9780060531829,
+        "Publisher": "HarperCollins",
+        "Publication_year": "2005",
+        "Publication_month_day": "May-24"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 2935,
+      "title": "Data Visualization: a successful design process",
+      "authors": "Andy Kirk;",
+      "publisher": "Packt Publishing",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 206.0,
+      "pub_year_month": "2012-Dec",
+      "pub_day": "26th"
+    },
+    "right": {
+      "id": 802,
+      "title": "Data Visualization: A Successful Design Process",
+      "pages": 206.0,
+      "authors": "Andy Kirk",
+      "publication_info": {
+        "publisher": "Packt Publishing",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 200,
+      "Title": "Here and Now!: The Autobiography of Pat Martino",
+      "Description": "(Book). By age 16, Pat Martino was already working as a member of R&B star Lloyd Price's touring musical revue. By age 18, Martino moved to Harlem, where he quickly earned a reputation as a hard-bopping six-stringer with formidable chops through a series of apprenticeships with the likes of honking tenor saxophonist Willis \"Gaitor Tail\" Jackson and Hammond B-3 organ master Jack McDuff. Martino made his auspicious debut as a leader at age 22 with 1967's El Hombre on Prestige and followed with a string of potent recordings for the label that further established him as one of the most distinctive guitar voices on the jazz scene. Then, at the peak of his powers, the bottom fell out. In 1980, he underwent surgery as the result of a nearly fatal brain aneurysm. The surgery left him without any memory of the guitar or his musical career. From that point, Martino undertook the long process of recovery, eventually learning how to play the guitar again; but more important, learning to transcend the instrument itself and live his life completely in the moment. More than just the remarkable story of one of the most original and profoundly influential guitarists in jazz history, this extraordinarily revealing autobiography is also a survival manual, of sorts, in overcoming incredible adversity and learning to live in the here and now.",
+      "ISBN": "1617130273",
+      "ISBN13": "9781617130274",
+      "PageCount": 192,
+      "FirstAuthor": "Pat Martino",
+      "SecondAuthor": "Bill Milkowski",
+      "ThirdAuthor": " ",
+      "Rating": 4.08,
+      "NumberofRatings": 24,
+      "NumberofReviews": "3",
+      "Publisher": "Backbeat Books",
+      "PublishDate": "September 1st 2011",
+      "Format": "Hardcover",
+      "Language": "English",
+      "FileName": "1181-12529503-here-and-now.html"
+    },
+    "right": {
+      "id": 514,
+      "title": "Here and Now!: The Autobiography of Pat Martino",
+      "Pages": "224",
+      "Productdimensions": "6.10(w) x 9.10(h) x 0.80(d)",
+      "Salesrank": "620,523",
+      "ratings": {
+        "Ratingscount": "3",
+        "Ratingvalue": "5.0"
+      },
+      "prices": {
+        "Hardcoverprice": "$17.54",
+        "Nookbookprice": "$13.99"
+      },
+      "authors": "Pat Martino",
+      "publication_info": {
+        "Publisher": "Hal Leonard Corporation",
+        "ISBN13": "9781617130274",
+        "PublicationDate": "10/25/2011"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 2139,
+      "title": "Oracle Applications Performance Tuning Handbook  ",
+      "authors": "Andy Tremayne;",
+      "publisher": "McGraw-Hill Companies",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Oracle Press Series",
+      "pages": 908.0,
+      "pub_year": "0",
+      "pub_month_day": "Sep-19th"
+    },
+    "right": {
+      "id": 2413,
+      "title": "Oracle Applications Performance Tuning Handbook  ",
+      "series": "Oracle Press Series",
+      "pages": 908.0,
+      "authors": [
+        "Andy Tremayne",
+        " Roger E. Sanders (Joint Author)"
+      ],
+      "publication_info": {
+        "publication_date": "9/19/0",
+        "edition": 1.0,
+        "publisher": "McGraw-Hill Companies, The",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0674",
+      "Title": "That Summer",
+      "Price": "$9.99 ",
+      "Author": "Sarah Dessen",
+      "ISBN13": 9780142401729,
+      "Publisher": "Penguin Young Readers Group",
+      "Publication_Date": "5/11/04",
+      "Pages": 224.0,
+      "Dimensions": "5.50(w) x 8.25(h) x 0.50(d)"
+    },
+    "right": {
+      "id": "HC0853",
+      "title": "That Summer",
+      "Pages": 198,
+      "Dimensions": "5.40 x 8.63 x 0.57 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$9.88"
+      },
+      "authors": "Sarah Dessen",
+      "publication_info": {
+        "ISBN10": "0142401722",
+        "ISBN13": 9780142401729,
+        "Publisher": "Speak",
+        "Publication_year_month": "2004-May",
+        "Publication_day": "11"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 392,
+      "Title": "Mark Twain's Autobiography, Part 1",
+      "Description": "Volume 1 of 2. In this autobiography, Mark Twain is speaking from the grave, literally. He would not allow the book to be published until after his death, so that he could speak freely, as in a love letter. In the manner in which Twain is so well-known, his autobiography is really not an autobiography at all, but a series of entertaining stories and opinions, dinner table talks, such as he had always delivered in his own home and elsewhere, and with about the same latitude and elaboration. Twain's narrative is not in any sense a mere fairy tale, many of the chapters, especially the earlier ones, are vividly true in their presentation. The things he told of Mrs. Clemens and Susy are marvelously and beautifully true in spirit and aspect, and the story as a whole is amazingly faithful in the character picture it presents of the man himself.",
+      "ISBN": "0766161366",
+      "ISBN13": "9780766161368",
+      "PageCount": 386,
+      "FirstAuthor": "Mark Twain",
+      "SecondAuthor": "Albert Bigelow Paine",
+      "ThirdAuthor": " ",
+      "Rating": 3.8,
+      "NumberofRatings": 10,
+      "NumberofReviews": "0",
+      "Publisher": "Kessinger Publishin",
+      "PublishDate": "June 5th 2003",
+      "Format": "Paperback",
+      "Language": "English",
+      "FileName": "1356-286361.Mark_Twain_s_Autobiography_Part_1.html"
+    },
+    "right": {
+      "id": 3325,
+      "title": "Mark Twain's Autobiography, Volume",
+      "Pages": "376",
+      "Productdimensions": "8.25(w) x 11.00(h) x 0.78(d)",
+      "authors": "Mark Twain",
+      "publication_info": {
+        "Publisher": "Kessinger Publishing Company",
+        "ISBN13": "9780766161368",
+        "Publication_year_month": "2003-Jun",
+        "Publication_day": "28th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN1226",
+      "Title": "The Awakening (Darkest Powers Series #2)",
+      "Price": "$9.99 ",
+      "Author": "Kelley Armstrong",
+      "ISBN13": 9780061450556,
+      "Publisher": "HarperCollins Publishers",
+      "Pages": 360.0,
+      "Dimensions": "5.30(w) x 7.90(h) x 1.00(d)",
+      "Publication_year_month": "2010-Mar",
+      "Publication_day": "23"
+    },
+    "right": {
+      "id": "HC1246",
+      "title": "The Awakening(Darkest Powers (Paperback))",
+      "Pages": 360,
+      "Dimensions": "5.54 x 7.98 x 0.90 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$10.61"
+      },
+      "authors": "Kelley Armstrong",
+      "publication_info": {
+        "ISBN10": "0061450553",
+        "ISBN13": 9780061450556,
+        "Publisher": "HarperCollins",
+        "Publication_year": "2010",
+        "Publication_month_day": "Mar-23"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1871,
+      "title": "SQL Server 2008 Transact-SQL Recipes: A Problem-Solution Approach  ",
+      "authors": "Joseph Sack;",
+      "pubyear": 8.0,
+      "pubmonth": 7.0,
+      "pubday": 24.0,
+      "publisher": "Apress",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Books for Professionals by Professionals",
+      "pages": 872.0
+    },
+    "right": {
+      "id": 3074,
+      "title": "SQL Server 2008 Transact-SQL Recipes: A Problem-Solution Approach",
+      "series": "The Expert's Voice in SQL Server Series",
+      "pages": 872.0,
+      "authors": "Joseph Sack",
+      "publication_info": {
+        "publication_date": "7/25/8",
+        "edition": 1.0,
+        "publisher": "Apress",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1891,
+      "title": "The Official Guide to Informix/Red Brick Data Warehousing  )",
+      "authors": "Robert J. Hocutt;",
+      "pubyear": 0.0,
+      "pubmonth": 11.0,
+      "pubday": 15.0,
+      "publisher": "Wiley",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Bible (Wiley)",
+      "pages": 395.0
+    },
+    "right": {
+      "id": 3286,
+      "title": "The Official Guide to Informix/Red Brick Data Warehousing",
+      "series": "Bible Ser.",
+      "pages": 395.0,
+      "authors": [
+        "Robert J. Hocutt",
+        " Bob Hocutt (Joint Author)"
+      ],
+      "publication_info": {
+        "publication_date": "9/30/0",
+        "edition": 1.0,
+        "publisher": "Wiley, John & Sons, Incorporated",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN1294",
+      "Title": "Darkest Mercy (Wicked Lovely Series #5)",
+      "Price": "$9.99 ",
+      "Author": "Melissa Marr",
+      "ISBN13": 9780061659270,
+      "Publisher": "HarperCollins Publishers",
+      "Pages": 336.0,
+      "Dimensions": "5.30(w) x 7.90(h) x 1.00(d)",
+      "Publication_year": "2012",
+      "Publication_month_day": "Feb-21"
+    },
+    "right": {
+      "id": "HC2155",
+      "title": "Darkest Mercy(Wicked Lovely (Paper))",
+      "Pages": 327,
+      "Dimensions": "5.42 x 7.96 x 0.82 inches",
+      "prices": {
+        "UsedPrice": "$7.48",
+        "NewPrice": "$11.29"
+      },
+      "authors": "Melissa Marr",
+      "publication_info": {
+        "ISBN10": "0061659274",
+        "ISBN13": 9780061659270,
+        "Publisher": "HarperCollins",
+        "Publication_year_month": "2012-02",
+        "Publication_day": "21"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 63,
+      "title": "Oracle Web Application Programming for PL/SQL Developers",
+      "authors": "Susan Boardman;Melanie Caffrey;Solomon Morse;",
+      "edition": "1",
+      "publisher": "Prentice Hall",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 745.0,
+      "pub_year_month": "2-12",
+      "pub_day": "28"
+    },
+    "right": {
+      "id": 2522,
+      "title": "Oracle Web Application Programming for PL/SQL Developers",
+      "series": "Prentice Hall Professional Oracle Series",
+      "pages": 745.0,
+      "authors": [
+        "Susan Boardman",
+        " Melanie Caffrey",
+        " Solomon Morse",
+        " Benjamin Rosenzweig"
+      ],
+      "publication_info": {
+        "publisher": "Prentice Hall",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1350,
+      "title": "Transactions on Large-Scale Data- and Knowledge-Centered Systems I  ",
+      "authors": "Abdelkader Hameurlain;Josef K��__ng;Roland Wagner;",
+      "edition": "2009",
+      "publisher": "Springer",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Lecture Notes in Computer Science / Transactions on Large-Scale Data- and Knowledge-Centered Systems (Book 5740)",
+      "pages": 374.0,
+      "pub_year": "9",
+      "pub_month_day": "09-29"
+    },
+    "right": {
+      "id": 3333,
+      "title": "Transactions on Large-Scale Data- and Knowledge-Centered Systems I",
+      "series": "Lecture Notes in Computer Science / Transactions on Large-Scale Data- and Knowledge-Centered Systems Series ,#5740",
+      "pages": 374.0,
+      "authors": [
+        "Abdelkader Hameurlain (Editor)",
+        " Josef Kung (Editor)",
+        " Roland Wagner (Editor)"
+      ],
+      "publication_info": {
+        "publication_date": "9/1/9",
+        "edition": 1.0,
+        "publisher": "Springer Berlin Heidelberg",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN1299",
+      "Title": "Wicked (Pretty Little Liars Series #5)",
+      "Price": "$9.99 ",
+      "Author": "Sara Shepard",
+      "ISBN13": 9780061566103,
+      "Publisher": "HarperCollins Publishers",
+      "Pages": 336.0,
+      "Dimensions": "5.30(w) x 7.90(h) x 0.90(d)",
+      "Publication_year_month": "2009-Jun",
+      "Publication_day": "02"
+    },
+    "right": {
+      "id": "HC0477",
+      "title": "Wicked(Pretty Little Liars (Quality))",
+      "Pages": 310,
+      "Dimensions": "5.20 x 8.10 x 0.90 inches",
+      "prices": {
+        "UsedPrice": "$5.79",
+        "NewPrice": "$10.60"
+      },
+      "authors": "Sara Shepard",
+      "publication_info": {
+        "ISBN10": "0061566101",
+        "ISBN13": 9780061566103,
+        "Publisher": "Harper Teen",
+        "Publication_year": "2009",
+        "Publication_month_day": "06-2nd"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 2175,
+      "title": "Unauthorized Access: The Crisis in Online Privacy and Security",
+      "authors": "Robert H. Sloan;Richard Warner;",
+      "edition": "1",
+      "publisher": "CRC Press",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 398.0,
+      "pub_year": "2013",
+      "pub_month_day": "07-15th"
+    },
+    "right": {
+      "id": 3363,
+      "title": "Unauthorized Access: The Crisis in Online Privacy and Security",
+      "pages": 398.0,
+      "authors": [
+        "Robert H. Sloan",
+        " Richard Warner"
+      ],
+      "publication_info": {
+        "publisher": "CRC Press",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1210,
+      "title": "Multimedia Data Mining: A Systematic Introduction to Concepts and Theory  ",
+      "authors": "Zhongfei Zhang;Ruofei Zhang;",
+      "edition": "0",
+      "publisher": "Chapman and Hall/CRC",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Chapman & Hall/CRC Data Mining and Knowledge Discovery Series",
+      "pages": 320.0,
+      "pub_year": "8",
+      "pub_month_day": "12-02"
+    },
+    "right": {
+      "id": 2216,
+      "title": "Multimedia Data Mining: A Systematic Introduction to Concepts and Theory",
+      "series": "Chapman & Hall/CRC Data Mining and Knowledge Discovery Series",
+      "pages": 320.0,
+      "authors": [
+        "Zhongfei Zhang",
+        " Ruofei Zhang"
+      ],
+      "publication_info": {
+        "publisher": "Taylor & Francis",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 114,
+      "title": "Big Data Analytics: Second International Conference, BDA 2013, Mysore, India, December 16-18, 2013, Proceedings  ",
+      "authors": "Vasudha Bhatnagar;Srinath Srinivasa;",
+      "publisher": "Springer",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Lecture Notes in Computer Science / Information Systems and Applications, incl. Internet/Web, and HCI (Book 8302)",
+      "pages": 197.0,
+      "pub_year": "2013",
+      "pub_month_day": "Nov-13"
+    },
+    "right": {
+      "id": 408,
+      "title": "Big Data Analytics: Second International Conference, BDA 2013, Mysore, India, December 16-18, 2013, Proceedings",
+      "series": "Lecture Notes in Computer Science / Information Systems and Applications, incl. Internet/Web, and HCI Series",
+      "pages": 197.0,
+      "authors": [
+        "Vasudha Bhatnagar (Editor)",
+        " Srinath Srinivasa (Editor)"
+      ],
+      "publication_info": {
+        "publisher": "Springer International Publishing",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0273",
+      "Title": "Pure (Covenant Series #2)",
+      "Price": "$9.95 ",
+      "Author": "Jennifer L. Armentrout",
+      "ISBN13": 9780983157229,
+      "Publisher": "Spencer Hill Press",
+      "Pages": 360.0,
+      "Dimensions": "5.90(w) x 8.90(h) x 1.10(d)",
+      "Publication_year": "2012",
+      "Publication_month_day": "Apr-3rd"
+    },
+    "right": {
+      "id": "HC0760",
+      "title": "Pure(Covenant)",
+      "Pages": 329,
+      "Dimensions": "6.00 x 8.90 x 1.00 inches",
+      "prices": {
+        "UsedPrice": "$10.18",
+        "NewPrice": "$12.28"
+      },
+      "authors": "Jennifer L. Armentrout",
+      "publication_info": {
+        "ISBN10": "0983157227",
+        "ISBN13": 9780983157229,
+        "Publisher": "Spencer Hill Press",
+        "Publication_year_month": "2012-04",
+        "Publication_day": "3rd"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0194",
+      "Title": "Hunger (Gone Series #2)",
+      "Price": "$9.99 ",
+      "Author": "Michael Grant",
+      "ISBN13": 9780061449086,
+      "Publisher": "HarperCollins Publishers",
+      "Pages": 590.0,
+      "Dimensions": "5.31(w) x 8.00(h) x 1.44(d)",
+      "Publication_year_month": "2014-Apr",
+      "Publication_day": "8th"
+    },
+    "right": {
+      "id": "HC0471",
+      "title": "Hunger(Gone (Paper))",
+      "Pages": 590,
+      "Dimensions": "5.50 x 8.04 x 1.46 inches",
+      "prices": {
+        "UsedPrice": "$5.79",
+        "NewPrice": "$10.90"
+      },
+      "authors": "Michael Grant",
+      "publication_info": {
+        "ISBN10": "0061449083",
+        "ISBN13": 9780061449086,
+        "Publisher": "Katherine Tegen Books",
+        "Publication_year": "2010",
+        "Publication_month_day": "Apr-06"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 839,
+      "title": "Professional Microsoft SQL Server 2012 Reporting Services",
+      "authors": "Paul Turley;Robert M. Bruckner;Thiago Silva;",
+      "pubyear": 12.0,
+      "pubmonth": 6.0,
+      "pubday": 5.0,
+      "edition": "1",
+      "publisher": "Wrox",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 912.0
+    },
+    "right": {
+      "id": 2739,
+      "title": "Professional Microsoft SQL Server 2012 Reporting Services",
+      "pages": 912.0,
+      "authors": [
+        "Paul Turley",
+        " Robert M. Bruckner",
+        " Thiago Silva",
+        " Ken Withee",
+        " Grant Paisley"
+      ],
+      "publication_info": {
+        "edition": 1.0,
+        "publisher": "Wiley",
+        "isbn13": 9780000000000.0,
+        "Publication_year_month": "2012-Jun",
+        "Publication_day": "5th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN1194",
+      "Title": "The Goddess Legacy: The Goddess Queen\\The Lovestruck Goddess\\Goddess of the Underworld\\God of Thieves\\God of Darkness",
+      "Price": "$9.99 ",
+      "Author": "Aim��e Carter",
+      "ISBN13": 9780373210756,
+      "Publisher": "Harlequin",
+      "Pages": 400.0,
+      "Dimensions": "5.44(w) x 8.12(h) x 1.08(d)",
+      "Publication_year": "2012",
+      "Publication_month_day": "Jul-31st"
+    },
+    "right": {
+      "id": "HC0652",
+      "title": "The Goddess Legacy(Harlequin Teen)",
+      "Pages": 395,
+      "Dimensions": "5.40 x 8.10 x 1.20 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$10.86"
+      },
+      "authors": "Aimee Carter",
+      "publication_info": {
+        "ISBN10": "0373210752",
+        "ISBN13": 9780373210756,
+        "Publisher": "Harlequin Teen",
+        "Publication_year_month": "2012-Jul",
+        "Publication_day": "31"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0199",
+      "Title": "Messenger",
+      "Price": "$7.99 ",
+      "Author": "Lois Lowry",
+      "ISBN13": 9780440239123,
+      "Publisher": "Random House Children's Books",
+      "Pages": 176.0,
+      "Dimensions": "4.19(w) x 6.88(h) x 0.50(d)",
+      "Publication_year_month": "2006-Jan",
+      "Publication_day": "24th"
+    },
+    "right": {
+      "id": "HC1862",
+      "title": "Messenger",
+      "Pages": 169,
+      "Dimensions": "4.26 x 6.86 x 0.53 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$9.14"
+      },
+      "authors": "Lois Lowry",
+      "publication_info": {
+        "ISBN10": "0440239125",
+        "ISBN13": 9780440239123,
+        "Publisher": "Laurel Leaf Library",
+        "Publication_Date": "Unknown"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3096,
+      "title": "Beginning Relational Data Modeling, Second Edition",
+      "authors": "Sharon Allen;Evan Terry;",
+      "edition": "2nd",
+      "publisher": "Apress",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 632.0,
+      "pub_year": "5",
+      "pub_month_day": "03-24th"
+    },
+    "right": {
+      "id": 380,
+      "title": "Beginning Relational Data Modeling",
+      "pages": 632.0,
+      "authors": [
+        "Sharon Allen",
+        " Evan Terry"
+      ],
+      "publication_info": {
+        "publication_date": "3/25/5",
+        "edition": 2.0,
+        "publisher": "Apress",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 788,
+      "title": "Distributed Data-base Management Systems  ",
+      "authors": "Olin H. Bray;",
+      "pubyear": 82.0,
+      "pubmonth": 3.0,
+      "publisher": "Lexington Books",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Lexington Books series in computer science",
+      "pages": 176.0
+    },
+    "right": {
+      "id": 1242,
+      "title": "Distributed Database Management Systems",
+      "series": "Lexington Books Series in Computer Science",
+      "pages": 176.0,
+      "authors": [
+        "Olin H. Bray",
+        " William Stieger (Foreword by)"
+      ],
+      "publication_info": {
+        "publisher": "Free Press",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0657",
+      "Title": "The Disreputable History of Frankie Landau-Banks",
+      "Price": "$9.99 ",
+      "Author": "E. Lockhart",
+      "ISBN13": 9780786838196,
+      "Publisher": "Disney-Hyperion",
+      "Publication_Date": "8/25/09",
+      "Pages": 352.0,
+      "Dimensions": "5.50(w) x 8.20(h) x 0.90(d)"
+    },
+    "right": {
+      "id": "HC0764",
+      "title": "The Disreputable History of Frankie Landau-Banks",
+      "Pages": 352,
+      "Dimensions": "5.34 x 8.44 x 0.74 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$10.99"
+      },
+      "authors": "E. Lockhart",
+      "publication_info": {
+        "ISBN10": "0786838191",
+        "ISBN13": 9780786838196,
+        "Publisher": "Hyperion Books",
+        "Publication_year": "2009",
+        "Publication_month_day": "Aug-1st"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3243,
+      "title": "Oracle Enterprise Manager 12c Command-Line Interface",
+      "authors": "Kellyn Pot'Vin;Seth Miller;Ray Smith;",
+      "edition": "1",
+      "publisher": "Apress",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 300.0,
+      "pub_year": "2014",
+      "pub_month_day": "Oct-15"
+    },
+    "right": {
+      "id": 2464,
+      "title": "Oracle Enterprise Manager 12c Command-Line Interface",
+      "pages": 300.0,
+      "authors": "Kellyn Pot'Vin",
+      "publication_info": {
+        "edition": 1.0,
+        "publisher": "Apress",
+        "isbn13": 9780000000000.0,
+        "Publication_year_month": "2014-Oct",
+        "Publication_day": "31st"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3030,
+      "title": "Microsoft Office Access 2010: A Lesson Approach, Complete",
+      "authors": "John Carter;Jon Juarez;",
+      "edition": "1",
+      "publisher": "McGraw-Hill/Irwin",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 688.0,
+      "pub_year_month": "2010-Sep",
+      "pub_day": "30th"
+    },
+    "right": {
+      "id": 2095,
+      "title": "Microsoft Office Access 2010: A Lesson Approach, Complete",
+      "pages": 688.0,
+      "authors": [
+        "John Carter",
+        " Jon Juarez",
+        " Juarez Jon"
+      ],
+      "publication_info": {
+        "edition": 1.0,
+        "publisher": "McGraw-Hill Higher Education",
+        "isbn13": 9780000000000.0,
+        "Publication_year": "2010",
+        "Publication_month_day": "09-30th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1910,
+      "title": "Practical Text Mining with Perl",
+      "authors": "Roger Bilisoly;",
+      "edition": "1",
+      "publisher": "Wiley",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 320.0,
+      "pub_year_month": "8-08",
+      "pub_day": "18th"
+    },
+    "right": {
+      "id": 2633,
+      "title": "Practical Text Mining with Perl",
+      "series": "Wiley Series on Methods and Applications in Data Mining Series ,#2",
+      "pages": 320.0,
+      "authors": "Roger Bilisoly",
+      "publication_info": {
+        "publication_date": "8/18/8",
+        "edition": 1.0,
+        "publisher": "Wiley",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0544",
+      "Title": "Only the Good Spy Young (Gallagher Girls Series #4)",
+      "Price": "$8.99 ",
+      "Author": "Ally Carter",
+      "ISBN13": 9781423129738,
+      "Publisher": "Disney-Hyperion",
+      "Publication_Date": "1/3/12",
+      "Pages": 288.0,
+      "Dimensions": "5.50(w) x 8.20(h) x 0.40(d)"
+    },
+    "right": {
+      "id": "HC0864",
+      "title": "Only the Good Spy Young(Gallagher Girls)",
+      "Pages": 265,
+      "Dimensions": "5.59 x 8.14 x 0.59 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$9.91"
+      },
+      "authors": "Ally Carter",
+      "publication_info": {
+        "ISBN10": "1423129733",
+        "ISBN13": 9781423129738,
+        "Publisher": "Hyperion Books",
+        "Publication_Date": "Jan. 3rd, 2012"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0372",
+      "Title": "Seedfolks",
+      "Price": "$8.99 ",
+      "Author": "Paul Fleischman",
+      "ISBN13": 9780064472074,
+      "Publisher": "HarperCollins Publishers",
+      "Publication_Date": "12/28/04",
+      "Pages": 112.0,
+      "Dimensions": "6.74(w) x 7.92(h) x 0.32(d)"
+    },
+    "right": {
+      "id": "HC0053",
+      "title": "Seedfolks(Joanna Colter Books)",
+      "Pages": 80,
+      "Dimensions": "4.18 x 6.80 x 0.31 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$8.98"
+      },
+      "authors": "Paul Fleischman",
+      "publication_info": {
+        "ISBN10": "0064472078",
+        "ISBN13": 9780064472074,
+        "Publisher": "HarperTrophy",
+        "Publication_year": "1999",
+        "Publication_month_day": "03-24"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 614,
+      "Title": "The Autobiography of G. K. Chesterton",
+      "Description": "G.K. Chesterton Here is a special two-in-one book that is both by G.K. Chesterton and about Chesterton. This volume offers an irresistible opportunity to see who this remarkable man really was. Chesterton was one of the most stimulating and well-loved writers of the 20th century. His 100 books, and hundreds of essays and columns on a great variety of themes have made G.K. Chesterton the most widely quoted writers of modern times. Here is Chesterton in his own words, in a book he preferred not to write, but did so near the end of his life after much insistence by friends and admirers. Critic Sydney Dark wrote after Chesterton died that perhaps the happiest thing that happened in Gilbert Chesterton's extraordinarily happy life was that his autobiography was finished a few weeks before his death. It is a stimulating, exciting, tremendously interesting book. It is a draught - indeed,",
+      "ISBN": "1586170716",
+      "ISBN13": "9781586170714",
+      "PageCount": 336,
+      "FirstAuthor": "G.K. Chesterton",
+      "SecondAuthor": "Randall Paine",
+      "ThirdAuthor": " ",
+      "Rating": 4.11,
+      "NumberofRatings": 252,
+      "NumberofReviews": "24",
+      "Publisher": "Ignatius Press",
+      "PublishDate": "April 30th 2006",
+      "Format": "Paperback",
+      "Language": "English",
+      "FileName": "154-174851.The_Autobiography_of_G_K_Chesterton.html"
+    },
+    "right": {
+      "id": 379,
+      "title": "The Autobiography of G. K. Chesterton",
+      "Pages": "336",
+      "Productdimensions": "5.20(w) x 7.90(h) x 1.10(d)",
+      "Salesrank": "475,558",
+      "authors": "G. K. Chesterton",
+      "publication_info": {
+        "Publisher": "Ignatius Press",
+        "ISBN13": "9781586170714",
+        "Publication_year_month": "2006-Apr",
+        "Publication_day": "01"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0956",
+      "Title": "The Realm of Possibility",
+      "Price": "$9.99 ",
+      "Author": "David Levithan",
+      "ISBN13": 9780375836572,
+      "Publisher": "Random House Children's Books",
+      "Pages": 224.0,
+      "Dimensions": "5.20(w) x 7.90(h) x 0.50(d)",
+      "Publication_year_month": "2006-05",
+      "Publication_day": "09"
+    },
+    "right": {
+      "id": "HC0792",
+      "title": "The Realm of Possibility",
+      "Pages": 210,
+      "Dimensions": "5.22 x 8.02 x 0.50 inches",
+      "prices": {
+        "UsedPrice": "$4.48",
+        "NewPrice": "$9.89"
+      },
+      "authors": "David Levithan",
+      "publication_info": {
+        "ISBN10": "0375836578",
+        "ISBN13": 9780375836572,
+        "Publisher": "Alfred A. Knopf Books for Young Readers",
+        "Publication_Date": "May. 9th, 2006"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3166,
+      "title": "Apache Mahout Cookbook",
+      "authors": "Piero Giacomelli;",
+      "publisher": "Packt Publishing",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 250.0,
+      "pub_year_month": "2013-12",
+      "pub_day": "26"
+    },
+    "right": {
+      "id": 285,
+      "title": "Apache Mahout Cookbook",
+      "pages": 250.0,
+      "authors": "Piero Giacomelli",
+      "publication_info": {
+        "publisher": "Packt Publishing",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0206",
+      "Title": "Wrath of the Bloodeye (Last Apprentice Series #5)",
+      "Price": "$9.99 ",
+      "Author": "Joseph Delaney",
+      "ISBN13": 9780061344619,
+      "Publisher": "HarperCollins Publishers",
+      "Pages": 544.0,
+      "Dimensions": "5.30(w) x 8.02(h) x 1.29(d)",
+      "Publication_year_month": "2009-Jul",
+      "Publication_day": "28th"
+    },
+    "right": {
+      "id": "HC3094",
+      "title": "Wrath of the Bloodeye(Last Apprentice (Paperback))",
+      "Pages": 511,
+      "Dimensions": "5.20 x 7.90 x 1.20 inches",
+      "prices": {
+        "UsedPrice": "$13.62",
+        "NewPrice": "$10.86"
+      },
+      "authors": "Joseph Delaney",
+      "publication_info": {
+        "ISBN10": "0061344613",
+        "ISBN13": 9780061344619,
+        "Publisher": "Greenwillow Books",
+        "Publication_year": "2009",
+        "Publication_month_day": "Jul-28"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1669,
+      "title": "Data Visualization Techniques  ",
+      "authors": "Chandrajit Bajaj;",
+      "pubyear": 99.0,
+      "pubmonth": 7.0,
+      "pubday": 6.0,
+      "edition": "1",
+      "publisher": "Wiley",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Trends in Software (Book 6)",
+      "pages": 156.0
+    },
+    "right": {
+      "id": 807,
+      "title": "Data Visualization Techniques",
+      "series": "Trends in Software Series",
+      "pages": 156.0,
+      "authors": [
+        "Chandrajit Bajaj (Editor)",
+        " Bala Krishnamurthy",
+        " Bala Krishnamurthy"
+      ],
+      "publication_info": {
+        "edition": 1.0,
+        "publisher": "Wiley, John & Sons, Incorporated",
+        "isbn13": 9780000000000.0,
+        "Publication_year_month": "1999-Jun",
+        "Publication_day": "01"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0408",
+      "Title": "A Swiftly Tilting Planet (Time Quintet Series #3)",
+      "Price": "$6.99 ",
+      "Author": "Madeleine L'Engle",
+      "ISBN13": 9780312368562,
+      "Publisher": "Square Fish",
+      "Pages": 320.0,
+      "Dimensions": "5.54(w) x 7.63(h) x 0.88(d)",
+      "Publication_year": "2007",
+      "Publication_month_day": "May-1st"
+    },
+    "right": {
+      "id": "HC1219",
+      "title": "A Swiftly Tilting Planet(Madeleine L'Engle's Time Quintet)",
+      "Pages": 309,
+      "Dimensions": "5.28 x 7.64 x 0.83 inches",
+      "prices": {
+        "UsedPrice": "$5.79",
+        "NewPrice": "$8.48"
+      },
+      "authors": "Madeleine L'Engle",
+      "publication_info": {
+        "ISBN10": "0312368569",
+        "ISBN13": 9780312368562,
+        "Publisher": "Square Fish",
+        "Publication_Date": "May. 1st, 2007"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0059",
+      "Title": "Hatchet (Brian's Saga Series #1)",
+      "Price": "$7.99 ",
+      "Author": "Gary Paulsen",
+      "ISBN13": 9781416936473,
+      "Publisher": "Simon & Schuster Books For Young Readers",
+      "Pages": 192.0,
+      "Dimensions": "5.12(w) x 7.62(h) x 0.50(d)",
+      "Publication_year_month": "2007-Jan",
+      "Publication_day": "23rd"
+    },
+    "right": {
+      "id": "HC0014",
+      "title": "Hatchet",
+      "Pages": 186,
+      "Dimensions": "4.83 x 8.08 x 0.53 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$9.26"
+      },
+      "authors": "Gary Paulsen",
+      "publication_info": {
+        "ISBN10": "1416936475",
+        "ISBN13": 9781416936473,
+        "Publisher": "Simon & Schuster Books for Young Readers",
+        "Publication_year": "2007",
+        "Publication_month_day": "Jan-1st"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0420",
+      "Title": "Fire (Graceling Realm Series #2)",
+      "Price": "$9.84 ",
+      "Author": "Kristin Cashore",
+      "ISBN13": 9780142415917,
+      "Publisher": "Penguin Young Readers Group",
+      "Pages": 528.0,
+      "Dimensions": "8.20(w) x 5.40(h) x 1.60(d)",
+      "Publication_year": "2011",
+      "Publication_month_day": "Jan-25"
+    },
+    "right": {
+      "id": "HC0299",
+      "title": "Fire(Graceling (Paperback))",
+      "Pages": 461,
+      "Dimensions": "5.54 x 8.20 x 1.31 inches",
+      "prices": {
+        "UsedPrice": "$4.48",
+        "NewPrice": "$10.82"
+      },
+      "authors": "Kristin Cashore",
+      "publication_info": {
+        "ISBN10": "014241591X",
+        "ISBN13": 9780142415917,
+        "Publisher": "Speak",
+        "Publication_year_month": "2011-01",
+        "Publication_day": "25th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3488,
+      "title": "Knowledge and Systems Science: Enabling Systemic Knowledge Synthesis",
+      "authors": "Yoshiteru Nakamori;",
+      "publisher": "Chapman and Hall/CRC",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 246.0,
+      "pub_year_month": "2013-07",
+      "pub_day": "12th"
+    },
+    "right": {
+      "id": 1849,
+      "title": "Knowledge and Systems Science: Enabling Systemic Knowledge Synthesis",
+      "pages": 246.0,
+      "authors": "Yoshiteru Nakamori",
+      "publication_info": {
+        "publisher": "Taylor & Francis",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0791",
+      "Title": "Identical",
+      "Price": "$11.37 ",
+      "Author": "Ellen Hopkins",
+      "ISBN13": 9781416950066,
+      "Publisher": "Margaret K. McElderry Books",
+      "Pages": 592.0,
+      "Dimensions": "5.00(w) x 6.80(h) x 1.90(d)",
+      "Publication_year_month": "2010-Dec",
+      "Publication_day": "21st"
+    },
+    "right": {
+      "id": "HC0525",
+      "title": "Identical",
+      "Pages": 565,
+      "Dimensions": "4.90 x 6.80 x 1.60 inches",
+      "prices": {
+        "UsedPrice": "$8.90",
+        "NewPrice": "$12.99"
+      },
+      "authors": "Ellen Hopkins",
+      "publication_info": {
+        "ISBN10": "1416950060",
+        "ISBN13": 9781416950066,
+        "Publisher": "Margaret K. McElderry Books",
+        "Publication_year": "2010",
+        "Publication_month_day": "Dec-21st"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0093",
+      "Title": "Harry Potter and the Prisoner of Azkaban (Harry Potter Series #3)",
+      "Price": "$6.82 ",
+      "Author": "J. K. Rowling",
+      "ISBN13": 9780439136365,
+      "Publisher": "Scholastic, Inc.",
+      "Pages": 448.0,
+      "Dimensions": "5.66(w) x 7.86(h) x 1.04(d)",
+      "Publication_year": "2001",
+      "Publication_month_day": "09-11th"
+    },
+    "right": {
+      "id": "HC0112",
+      "title": "Harry Potter and the Prisoner of Azkaban(Harry Potter (Paperback))",
+      "Pages": 435,
+      "Dimensions": "5.32 x 7.52 x 1.07 inches",
+      "prices": {
+        "UsedPrice": "$5.98",
+        "NewPrice": "$11.12"
+      },
+      "authors": "J. K. Rowling",
+      "publication_info": {
+        "ISBN10": "0439136369",
+        "ISBN13": 9780439136365,
+        "Publisher": "Scholastic",
+        "Publication_year_month": "2001-Oct",
+        "Publication_day": "1st"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 448,
+      "title": "Data Mining for Business Intelligence: Concepts, Techniques, and Applications in Microsoft Office Excel with XLMiner",
+      "authors": "Galit Shmueli;Nitin R. Patel;Peter C. Bruce;",
+      "edition": "2",
+      "publisher": "Wiley",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 428.0,
+      "pub_year": "2010",
+      "pub_month_day": "Oct-26"
+    },
+    "right": {
+      "id": 750,
+      "title": "Data Mining for Business Intelligence: Concepts, Techniques, and Applications in Microsoft Office Excel with XLMiner",
+      "pages": 428.0,
+      "authors": [
+        "Galit Shmueli",
+        " Nitin R. Patel",
+        " Peter C. Bruce"
+      ],
+      "publication_info": {
+        "edition": 2.0,
+        "publisher": "Wiley",
+        "isbn13": 9780000000000.0,
+        "Publication_year_month": "2010-Oct",
+        "Publication_day": "26"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1217,
+      "title": "SQL Interoperability Joes 2 Pros: A Guide to Integrating SQL Server with XML, C#, and PowerShell  ",
+      "authors": "Rick A. Morelan;Jessica Brown;Vinay Chopra;",
+      "pubyear": 11.0,
+      "pubmonth": 7.0,
+      "pubday": 5.0,
+      "publisher": "CreateSpace Independent Publishing Platform",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Sql Exam Prep Series 70-433",
+      "pages": 418.0
+    },
+    "right": {
+      "id": 3053,
+      "title": "SQL Interoperability Joes 2 Pros: A Guide to Integrating SQL Server with XML, C#, and PowerShell",
+      "pages": 418.0,
+      "authors": [
+        "Jessica Brown (Editor)",
+        " Vinay Chopra (Editor)",
+        " Simon Nicholson (Editor)",
+        " Rick Morelan"
+      ],
+      "publication_info": {
+        "publisher": "CreateSpace",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 604,
+      "title": "SQL Server and ADO Programming Complete",
+      "authors": "Greg Jarboe, Hollis Thomases, Mari Smith, Chris Treadaway Dave Evans;Sybex Inc.;",
+      "pubyear": 1.0,
+      "pubmonth": 9.0,
+      "pubday": 4.0,
+      "edition": "1",
+      "publisher": "Sybex",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 1024.0
+    },
+    "right": {
+      "id": 3090,
+      "title": "SQL Server and Ado Programming Complete",
+      "series": "Sybex Complete Series",
+      "pages": 1024.0,
+      "authors": [
+        "Dave Evans",
+        " Greg Jarboe",
+        " Hollis Thomases",
+        " Mari Smith",
+        " Chris Treadaway",
+        " Sybex Inc"
+      ],
+      "publication_info": {
+        "publication_date": "9/4/1",
+        "edition": 1.0,
+        "publisher": "Wiley",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 45,
+      "title": "Advances in Databases: 17th British National Conference on Databases, BNCOD 17 Exeter, UK, July 3-5, 2000 Proceedings  ",
+      "authors": "Brian Lings;Keith Jeffery;",
+      "edition": "2000",
+      "publisher": "Springer",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Lecture Notes in Computer Science (Book 1832)",
+      "pages": 226.0,
+      "pub_year_month": "0-07",
+      "pub_day": "31"
+    },
+    "right": {
+      "id": 195,
+      "title": "Advances in Databases: 17th British National Conference on Databases, BNCOD 17 Exeter, UK, July 3-5, 2000 Proceedings",
+      "series": "Lecture Notes in Computer Science Series ,#1832",
+      "pages": 226.0,
+      "authors": [
+        "Brian Lings (Editor)",
+        " Keith Jeffery (Editor)"
+      ],
+      "publication_info": {
+        "publication_date": "7/31/0",
+        "edition": 1.0,
+        "publisher": "Springer Berlin Heidelberg",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1754,
+      "title": "SQL Antipatterns: Avoiding the Pitfalls of Database Programming  ",
+      "authors": "Bill Karwin;",
+      "edition": "1",
+      "publisher": "Pragmatic Bookshelf",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Pragmatic Programmers",
+      "pages": 328.0,
+      "pub_year_month": "2010-Jul",
+      "pub_day": "5th"
+    },
+    "right": {
+      "id": 3042,
+      "title": "SQL Antipatterns: Avoiding the Pitfalls of Database Programming",
+      "pages": 328.0,
+      "authors": "Bill Karwin",
+      "publication_info": {
+        "publication_date": "7/2/10",
+        "edition": 1.0,
+        "publisher": "Pragmatic Programmers, LLC, The",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 2940,
+      "Title": "Israel Rank: The Autobiography of a Criminal",
+      "Description": "Newly edited by D.J. Natelson, Israel Rank is the black comedy that inspired the 1946 film \"Kind Hearts and Coronets\" and the award-winning Broadway show, \"A Gentleman's Guide to Love and Murder.\" Israel Rank has loving parents, a comfortable home, and the charm, brains, attractiveness, and ambition to get him through life with ease. But he's not satisfied. He's an heir the Gascoyne earldom, a position of power and wealth, and he's determined to get it. All he has to do is kill of everyone in line in front of him, preferably without getting caught.",
+      "ISBN13": " ",
+      "PageCount": 419,
+      "FirstAuthor": "Roy Horniman",
+      "SecondAuthor": "D.J. Natelson",
+      "ThirdAuthor": " ",
+      "Rating": 3.85,
+      "NumberofRatings": 46,
+      "NumberofReviews": "10",
+      "Publisher": "D.J. Natelson",
+      "PublishDate": "August 26th 2014",
+      "Format": "Kindle Edition",
+      "Language": "English",
+      "FileName": "3653-23453804-israel-rank.html"
+    },
+    "right": {
+      "id": 276,
+      "title": "Israel Rank: The Autobiography of a Criminal",
+      "Pages": "392",
+      "Productdimensions": "5.00(w) x 8.00(h) x 0.87(d)",
+      "Salesrank": "366,937",
+      "prices": {
+        "Paperbackprice": "$13.11"
+      },
+      "authors": "Roy Horniman",
+      "publication_info": {
+        "Publisher": "CreateSpace Publishing",
+        "ISBN13": "9781500857806",
+        "Publication_year": "2014",
+        "Publication_month_day": "Aug-27"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 2646,
+      "title": "Oracle and Open Source",
+      "authors": "Andy Duncan;Sean Hull;",
+      "pubyear": 1.0,
+      "pubmonth": 4.0,
+      "pubday": 11.0,
+      "edition": "1",
+      "publisher": "O'Reilly Media",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 426.0
+    },
+    "right": {
+      "id": 2407,
+      "title": "Oracle And Open Source",
+      "pages": 426.0,
+      "authors": [
+        "Andy Duncan",
+        " Sean Hull"
+      ],
+      "publication_info": {
+        "publication_date": "4/8/1",
+        "edition": 1.0,
+        "publisher": "O'Reilly Media, Incorporated",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 2254,
+      "Title": "The autobiography of a tomboy",
+      "Description": " ",
+      "ISBN13": " ",
+      "PageCount": 0,
+      "FirstAuthor": "Jeannette L. Gilder",
+      "SecondAuthor": " ",
+      "ThirdAuthor": " ",
+      "Rating": 2.0,
+      "NumberofRatings": 2,
+      "NumberofReviews": "1",
+      "Publisher": "New York : Doubleda",
+      "Format": "Nook",
+      "Language": "English",
+      "FileName": "3042-10284839-the-autobiography-of-a-tomboy.html"
+    },
+    "right": {
+      "id": 3286,
+      "title": "The autobiography of a tomboy",
+      "authors": "Jeannette L. Gilder",
+      "publication_info": {
+        "Publisher": "New York : Doubleday, Page",
+        "ISBN13": "2940017335062"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN1001",
+      "Title": "Maximum Security: Mission 3 (Cherub Series)",
+      "Price": "$9.99 ",
+      "Author": "Robert Muchamore",
+      "ISBN13": 9781442413627,
+      "Publisher": "Simon Pulse",
+      "Pages": 320.0,
+      "Dimensions": "5.58(w) x 8.06(h) x 0.82(d)",
+      "Publication_year_month": "2012-Apr",
+      "Publication_day": "24th"
+    },
+    "right": {
+      "id": "HC0977",
+      "title": "Maximum Security(Cherub)",
+      "Pages": 302,
+      "Dimensions": "5.40 x 8.20 x 1.00 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$6.90"
+      },
+      "authors": "Robert Muchamore",
+      "publication_info": {
+        "ISBN10": "144241362X",
+        "ISBN13": 9781442413627,
+        "Publisher": "Simon Pulse",
+        "Publication_year": "2012",
+        "Publication_month_day": "Apr-24"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1036,
+      "title": "Mobility Data Management and Exploration",
+      "authors": "Nikos Pelekis;Yannis Theodoridis;",
+      "edition": "2014",
+      "publisher": "Springer",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 300.0,
+      "pub_year": "2014",
+      "pub_month_day": "03-4th"
+    },
+    "right": {
+      "id": 2172,
+      "title": "Mobility Data Management and Exploration",
+      "pages": 300.0,
+      "authors": [
+        "Nikos Pelekis",
+        " Yannis Theodoridis"
+      ],
+      "publication_info": {
+        "publisher": "Springer New York",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1472,
+      "title": "OCA/OCP Oracle Database 12c All-in-One Exam Guide  ",
+      "authors": "John Watson;Roopesh Ramklass;Bob Bryla;",
+      "edition": "2",
+      "publisher": "McGraw-Hill Osborne Media",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "All-in-One",
+      "pages": 1072.0,
+      "pub_year_month": "2015-Mar",
+      "pub_day": "30"
+    },
+    "right": {
+      "id": 2333,
+      "title": "OCA/OCP Oracle Database 12c All-in-One Exam Guide  ",
+      "series": "All-in-One Series",
+      "pages": 1072.0,
+      "authors": [
+        "John Watson",
+        " Roopesh Ramklass",
+        " Bob Bryla"
+      ],
+      "publication_info": {
+        "publication_date": "3/30/15",
+        "edition": 2.0,
+        "publisher": "McGraw-Hill Professional Publishing",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 3901,
+      "Title": "Being Jordan: My Autobiography",
+      "Description": "Katie has brought this paperback edition of her autobiography right up-to-date with full details of her love for Peter, their new life together, their engagement, and their impending wedding. She also reveals the projects she has been working on and what the future holds for her career. No fan will want to miss out on the next installment of Katie's life—so fasten your seatbelts for another rollercoaster ride.",
+      "ISBN": "1844541320",
+      "ISBN13": "9781844541324",
+      "PageCount": 288,
+      "FirstAuthor": "Katie Price",
+      "SecondAuthor": " ",
+      "ThirdAuthor": " ",
+      "Rating": 3.35,
+      "NumberofRatings": 995,
+      "NumberofReviews": "62",
+      "Publisher": "John Blake",
+      "PublishDate": "July 1st 2005",
+      "Format": "Paperback",
+      "Language": "English",
+      "FileName": "94-847076.Being_Jordan.html"
+    },
+    "right": {
+      "id": 410,
+      "title": "Being Jordan: My Autobiography",
+      "Pages": "288",
+      "Salesrank": "508,988",
+      "ratings": {
+        "Ratingscount": "3",
+        "Ratingvalue": "4.3"
+      },
+      "prices": {
+        "Paperbackprice": "$13.43",
+        "Nookbookprice": "$8.49"
+      },
+      "authors": "Katie Price",
+      "publication_info": {
+        "Publisher": "John Blake Publishing, Limited",
+        "ISBN13": "9781843582434",
+        "Publication_year": "2005",
+        "Publication_month_day": "Jul-01"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 467,
+      "title": "Developing Essbase Applications: Advanced Techniques for Finance and IT Professionals",
+      "authors": "Cameron Lackpour;",
+      "pubyear": 12.0,
+      "pubmonth": 6.0,
+      "pubday": 13.0,
+      "publisher": "Auerbach Publications",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 445.0
+    },
+    "right": {
+      "id": 1195,
+      "title": "Developing Essbase Applications: Advanced Techniques for Finance and IT Professionals",
+      "pages": 445.0,
+      "authors": "Cameron Lackpour (Editor)",
+      "publication_info": {
+        "publisher": "Taylor & Francis",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 2575,
+      "title": "Data Replication: Tools and Techniques for Managing Distributed Information",
+      "authors": "Marie Buretta;",
+      "pubyear": 97.0,
+      "pubmonth": 3.0,
+      "pubday": 10.0,
+      "edition": "1",
+      "publisher": "Wiley",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 384.0
+    },
+    "right": {
+      "id": 791,
+      "title": "Data Replication: Tools and Techniques for Managing Distributed Information",
+      "pages": 384.0,
+      "authors": "Marie Buretta",
+      "publication_info": {
+        "edition": 1.0,
+        "publisher": "Wiley, John & Sons, Incorporated",
+        "isbn13": 9780000000000.0,
+        "Publication_year_month": "1997-Feb",
+        "Publication_day": "19"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0874",
+      "Title": "The Goose Girl",
+      "Price": "$9.99 ",
+      "Author": "Shannon Hale",
+      "ISBN13": 9781582349909,
+      "Publisher": "Bloomsbury USA",
+      "Pages": 400.0,
+      "Dimensions": "5.05(w) x 7.75(h) x 1.16(d)",
+      "Publication_year": "2005",
+      "Publication_month_day": "May-13"
+    },
+    "right": {
+      "id": "HC1113",
+      "title": "The Goose Girl(Books of Bayern (Paperback))",
+      "Pages": 383,
+      "Dimensions": "5.28 x 7.74 x 1.17 inches",
+      "prices": {
+        "UsedPrice": "$5.79",
+        "NewPrice": "$10.73"
+      },
+      "authors": "Shannon Hale",
+      "publication_info": {
+        "ISBN10": "1582349908",
+        "ISBN13": 9781582349909,
+        "Publisher": "Bloomsbury Publishing PLC",
+        "Publication_year_month": "2005-May",
+        "Publication_day": "13"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 2011,
+      "title": "Middleware 2006: ACM/IFIP/USENIX 7th International Middleware Conference, Melbourne, Australia, November 27 - December 1, 2006, Proceedings  ",
+      "authors": "Maarten van Steen;Michi Henning;",
+      "edition": "2006",
+      "publisher": "Springer",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Lecture Notes in Computer Science (Book 4290)",
+      "pages": 434.0,
+      "pub_year": "6",
+      "pub_month_day": "Nov-10th"
+    },
+    "right": {
+      "id": 2152,
+      "title": "Middleware 2006: ACM/IFIP/USENIX 7th International Middleware Conference, Melbourne, Australia, November 27 - December 1, 2006, Proceedings",
+      "series": "Lecture Notes in Computer Science Series ,#4290",
+      "pages": 434.0,
+      "authors": [
+        "Maarten van Steen (Editor)",
+        " Michi Henning (Editor)"
+      ],
+      "publication_info": {
+        "publication_date": "11/29/6",
+        "edition": 1.0,
+        "publisher": "Springer Berlin Heidelberg",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 488,
+      "Title": "General George Crook: His Autobiography",
+      "Description": "General George Crook was one Civil War general who didn’t win his reputation east of the Mississippi River. To him, the Civil War was just an interlude. Before and after this great conflict, Crook was an Indian fighter. Crook fought the greatest of the Indian chieftains; served at frontier posts from the Columbia River to the Rio Grande, from Illinois to the Pacific. Yet he was as good at defending Indians as he was at fighting them. Crook understood and sympathized with them. He spoke plainly and often against injustices in the treatment of the Indian. And when he died, Red Cloud, chief of the Sioux, gave him his epitaph: “He, at least, had never lied to us.” General George Crook: His Autobiography first came into print when Martin F. Schmitt, working in the archives of the Army War College in Washington, made the startling rediscovery of the Crook papers, which had been presented to the library of the War College by the widow of Walter S. Schuyler, one-time aid to General Crook. The existence of the autobiography had apparently not been previously suspected by any writer on the West, not even by the General’s friend, Captain John G. Bourke, who wrote the only existing sketch of his life. A West Point graduate of 1852, General Crook spent his entire military career, with the exception of the four Civil War years, 1861 to 1865, on the frontier. His life paralleled western expansion during the latter half of the nineteenth century. In 1890, at the time of this death, he was commanding general of the Department of the Missouri, the largest and most active of all frontier commands. The Rogue River and Yakima wars in the eighteen fifties, Paiute pacification in the late sixties, the Apache campaigns of the seventies and eighties—all found Crook actively involved, fighting, counseling and making peace with the Indians. His Civil War experiences, while not uniformly successful or profitable, brought him into close contact with the great military figures of the day. He was a favorite of Grant’s and a close associate of Sheridan, who had been in his class at West Point. His blunt, sometimes caustic opinions of his associates and the conduct of campaigns are new and often refreshing. General Crook’s autobiography covers the period from Crook’s graduation from West Point in 1852 to June 18, 1876, the day after the famous Battle of the Rosebud. The editor has supplemented it with other material, some from the Crook diaries and letters and contemporary clippings, on the other years of the General’s life.",
+      "ISBN": "0806119829",
+      "ISBN13": "9780806119823",
+      "PageCount": 368,
+      "FirstAuthor": "George Crook",
+      "SecondAuthor": "Martin F. Schmitt",
+      "ThirdAuthor": " ",
+      "Rating": 4.3,
+      "NumberofRatings": 10,
+      "NumberofReviews": "1",
+      "Publisher": "University of Oklahoma Press",
+      "PublishDate": "April 15th 1986",
+      "Format": "Paperback",
+      "Language": "English",
+      "FileName": "1443-769904.General_George_Crook.html"
+    },
+    "right": {
+      "id": 774,
+      "title": "General George Crook: His Autobiography",
+      "Pages": "370",
+      "Productdimensions": "5.50(w) x 8.50(h) x 0.82(d)",
+      "Salesrank": "922,138",
+      "authors": [
+        "George Crook",
+        "Martin F. Schmitt"
+      ],
+      "publication_info": {
+        "Publisher": "University of Oklahoma Press",
+        "ISBN13": "9780806119823",
+        "PublicationDate": "04/28/1986"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 423,
+      "title": "Oracle8i DBA Bible",
+      "authors": "Jonathan Gennick;Carol McCullough-Dieter;Gerrit-Jan Linker;",
+      "publisher": "Wiley",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Bible",
+      "pages": 1152.0,
+      "pub_year_month": "0-03",
+      "pub_day": "30th"
+    },
+    "right": {
+      "id": 2534,
+      "title": "Oracle8i DBA Bible  ",
+      "series": "Bible Series",
+      "pages": 1152.0,
+      "authors": [
+        "Jonathan Gennick",
+        " Carol McCullough-Dieter",
+        " Gerrit-Jan Linker"
+      ],
+      "publication_info": {
+        "publication_date": "3/28/0",
+        "edition": 1.0,
+        "publisher": "Wiley",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0936",
+      "Title": "Mossflower (Redwall Series #2)",
+      "Price": "$7.99 ",
+      "Author": "Brian Jacques",
+      "ISBN13": 9780441005765,
+      "Publisher": "Penguin Publishing Group",
+      "Publication_Date": "11/28/98",
+      "Pages": 384.0,
+      "Dimensions": "6.66(w) x 10.98(h) x 1.05(d)"
+    },
+    "right": {
+      "id": "HC2557",
+      "title": "Mossflower(Redwall (Ace Paperback))",
+      "Pages": 373,
+      "Dimensions": "4.26 x 6.82 x 1.03 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$9.16"
+      },
+      "authors": "Brian Jacques",
+      "publication_info": {
+        "ISBN10": "0441005764",
+        "ISBN13": 9780441005765,
+        "Publisher": "Ace Books",
+        "Publication_Date": "Nov. 1st, 1998"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1682,
+      "title": "Social Computing and Behavioral Modeling",
+      "authors": "Huan Liu;John Salerno;Michael J. Young;",
+      "pubyear": 9.0,
+      "pubmonth": 4.0,
+      "pubday": 23.0,
+      "edition": "2009",
+      "publisher": "Springer",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 264.0
+    },
+    "right": {
+      "id": 3000,
+      "title": "Social Computing and Behavioral Modeling",
+      "pages": 264.0,
+      "authors": [
+        "Huan Liu (Editor)",
+        " John Salerno (Editor)",
+        " Michael J. Young (Editor)"
+      ],
+      "publication_info": {
+        "publication_date": "4/23/9",
+        "edition": 1.0,
+        "publisher": "Springer US",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1818,
+      "title": "Oracle Applications DBA Field Guide  ",
+      "authors": "Paul Jackson;Elke Phelps;",
+      "pubyear": 6.0,
+      "pubmonth": 3.0,
+      "pubday": 30.0,
+      "publisher": "Apress",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Expert's Voice in Oracle",
+      "pages": 264.0
+    },
+    "right": {
+      "id": 2412,
+      "title": "Oracle Applications DBA Field Guide",
+      "series": "Expert's Voice in Oracle Series",
+      "pages": 264.0,
+      "authors": [
+        "Paul Jackson",
+        " Elke Phelps"
+      ],
+      "publication_info": {
+        "publication_date": "3/31/6",
+        "edition": 1.0,
+        "publisher": "Apress",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 2,
+      "Title": "Betty Boothroyd: Autobiography",
+      "Description": "The enormous respect and affection of the British public for Betty Boothroyd has its roots in a strong belief in what she stands for—fair play, an unshakeable sense of honor, and a passionate belief in the sovereignty of Parliament. This is a candid account of Betty Boothroyd’s life in politics, and she speaks frankly of the devastation of losing two elections, of campaigning for JFK in America, and the elation she felt on finally becoming an MP in 1973. But her long political career reached its apogee in 1992 when she was appointed the first woman Speaker of the House of Commons. Detailing many of the true stories behind the headlines, she writes of the sleaze scandals that beset the Major government, her feelings when Labour won their landslide election in 1997, and her strongly held views on the role of Parliament.",
+      "ISBN": "0712679480",
+      "ISBN13": "9780712679480",
+      "PageCount": 384,
+      "FirstAuthor": "Betty Boothroyd",
+      "SecondAuthor": " ",
+      "ThirdAuthor": " ",
+      "Rating": 3.6,
+      "NumberofRatings": 20,
+      "NumberofReviews": "3",
+      "Publisher": "Random House UK",
+      "PublishDate": "November 1st 2002",
+      "Format": "Hardcover",
+      "Language": "English",
+      "FileName": "1001-2155002.Betty_Boothroyd.html"
+    },
+    "right": {
+      "id": 2541,
+      "title": "Betty Boothroyd Autobiography",
+      "Pages": "434",
+      "Productdimensions": "4.20(w) x 6.80(h) x 1.60(d)",
+      "authors": "Betty Boothroyd",
+      "publication_info": {
+        "Publisher": "Random House UK",
+        "ISBN13": "9780099427049",
+        "PublicationDate": "10/28/2002"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3405,
+      "title": "Relational Database Technology",
+      "authors": "SUAD ALAGIC;",
+      "pubyear": 86.0,
+      "publisher": "Springer"
+    },
+    "right": {
+      "id": 2846,
+      "title": "Relational Database Technology",
+      "series": "Monographs in Computer Science Series",
+      "pages": 276.0,
+      "authors": [
+        "Suad Alagic",
+        " S. Alagic"
+      ],
+      "publication_info": {
+        "publication_date": "6/24/86",
+        "edition": 1.0,
+        "publisher": "Springer New York",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 693,
+      "title": "MySQL Management and Administration with Navicat",
+      "authors": "G��__khan Ozar;",
+      "pubyear": 12.0,
+      "pubmonth": 9.0,
+      "pubday": 13.0,
+      "publisher": "Packt Publishing",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 134.0
+    },
+    "right": {
+      "id": 2244,
+      "title": "MySQL Management and Administration with Navicat",
+      "pages": 134.0,
+      "authors": "G̦khan Ozar",
+      "publication_info": {
+        "publisher": "Packt Publishing",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 1461,
+      "Title": "The Curious Autobiography of Elaine Jakes",
+      "Description": "From the jacket-flap: E l a i n e J a k e s was a schoolteacher in suburban Philadelphia. Living in the vivacious and eccentric community of New Hope, Pa, in the 1970s and 1980s, she very much reflected that town's character. Yet another place, Wales, the land of her forefathers, ever kept a spiritual hold on her, beckoning her homeward through the most unexpected of mechanisms (e.g. scents, strolls along a canal, animals, family and friends) until she discovers who she really is and the redemptive power of the cross. Her son, H. R. Jakes, a writer who lives in Texas, compiled her story. He has been writing all his life, and she thus felt confident to entrust him with that task. Through him, further books in this series will be forthcoming, first among them Curious Recipes: the Mostly Welsh Cookbook of Elaine Jakes, a charming (and tasty) combination of Elaine's tales with detailed recipes, featuring as an aspect of every vignette the story behind each culinary delight. H. R. Jakes is married to Diana, whom he met in Italy in 1979. They have 7 children and one grandchild, in whose eyes it is evident to one and all that Elaine's legacy lives on.",
+      "ISBN": "9781480814",
+      "ISBN13": " ",
+      "PageCount": 268,
+      "FirstAuthor": "H.R. Jakes",
+      "SecondAuthor": " ",
+      "ThirdAuthor": " ",
+      "Rating": 5.0,
+      "NumberofRatings": 2,
+      "NumberofReviews": "2",
+      "Publisher": "Archway Publishing",
+      "PublishDate": "March 11th 2015",
+      "Format": "Paperback",
+      "Language": "English",
+      "FileName": "231-25628390-the-curious-autobiography-of-elaine-jakes.html"
+    },
+    "right": {
+      "id": 495,
+      "title": "The Curious Autobiography of Elaine Jakes",
+      "Pages": "268",
+      "Salesrank": "602,701",
+      "prices": {
+        "Paperbackprice": "$17.99",
+        "Hardcoverprice": "$35.95",
+        "Nookbookprice": "$6.49"
+      },
+      "authors": "H.R. Jakes",
+      "publication_info": {
+        "Publisher": "Archway Publishing",
+        "ISBN13": "9781480814752",
+        "PublicationDate": "03/30/2015"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0149",
+      "Title": "I Am the Messenger",
+      "Price": "$6.70 ",
+      "Author": "Markus Zusak",
+      "ISBN13": 9780375836671,
+      "Publisher": "Random House Children's Books",
+      "Publication_Date": "5/9/06",
+      "Pages": 368.0,
+      "Dimensions": "5.25(w) x 8.00(h) x 0.80(d)"
+    },
+    "right": {
+      "id": "HC0189",
+      "title": "I Am the Messenger",
+      "Pages": 357,
+      "Dimensions": "5.30 x 7.10 x 0.90 inches",
+      "prices": {
+        "UsedPrice": "$5.79",
+        "NewPrice": "$10.63"
+      },
+      "authors": "Markus Zusak",
+      "publication_info": {
+        "ISBN10": "0375836675",
+        "ISBN13": 9780375836671,
+        "Publisher": "Alfred A. Knopf Books for Young Readers",
+        "Publication_year": "2006",
+        "Publication_month_day": "May-09"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 569,
+      "title": "Web 2.0 and Beyond: Principles and Technologies  ",
+      "authors": "Paul Anderson;",
+      "edition": "1",
+      "publisher": "Chapman and Hall/CRC",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Chapman & Hall/CRC Textbooks in Computing (Book 7)",
+      "pages": 408.0,
+      "pub_year_month": "2012-05",
+      "pub_day": "15th"
+    },
+    "right": {
+      "id": 3442,
+      "title": "Web 2.0 and Beyond: Principles and Technologies",
+      "series": "Chapman & Hall/CRC Textbooks in Computing Series ,#7",
+      "pages": 408.0,
+      "authors": "Paul Anderson",
+      "publication_info": {
+        "publisher": "Taylor & Francis",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1455,
+      "title": "Strategic Data Warehousing: Achieving Alignment with Business",
+      "authors": "Neera Bhansali;",
+      "edition": "1",
+      "publisher": "Auerbach Publications",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 224.0,
+      "pub_year": "9",
+      "pub_month_day": "Jul-29"
+    },
+    "right": {
+      "id": 3131,
+      "title": "Strategic Data Warehousing: Achieving Alignment with Business",
+      "pages": 224.0,
+      "authors": "Neera Bhansali",
+      "publication_info": {
+        "publication_date": "7/27/9",
+        "edition": 1.0,
+        "publisher": "Taylor & Francis",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 488,
+      "title": "Advanced Approaches to Intelligent Information and Database Systems  ",
+      "authors": "Janusz Sobecki;Veera Boonjing;Suphamit Chittayasothorn;",
+      "edition": "2014",
+      "publisher": "Springer",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Studies in Computational Intelligence (Book 551)",
+      "pages": 366.0,
+      "pub_year": "2014",
+      "pub_month_day": "Mar-07"
+    },
+    "right": {
+      "id": 132,
+      "title": "Advanced Approaches to Intelligent Information and Database Systems",
+      "series": "Studies in Computational Intelligence Series",
+      "pages": 366.0,
+      "authors": [
+        "Janusz Sobecki (Editor)",
+        " Veera Boonjing (Editor)",
+        " Suphamit Chittayasothorn (Editor)"
+      ],
+      "publication_info": {
+        "publisher": "Springer International Publishing",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 3634,
+      "Title": "The Wind Spirit: An Autobiography",
+      "Description": "Michel Tournier, one of France's most acclaimed contemporary men of letters, received teh Prix Goncourt for his novel The Ogre and the Grand Prix du Roman from the Academie Francaise for his novel Friday. As a fabulist, his stature equals that of Gunter Grass, Gabriel Garcia Marquez, Italo Calvino, Milan Kundera, and John Barth. As an iconoclast in contemporary cultural criticism, he has been likened to Roland Barthes. The Wind Spirit is a literary/intellectual autobiography of extraorinary grace and intelligence, and yet the play of the author's ideas - and of his wicked wit - gives the book a depth and resonane that transcend the boudaries of the genre. Although the six essays that make up the book are ostensibly structured around the author's childhood, education, and the creation of his major works of fiction, they branch out to gice us fascinating glimpses of life in Frnace before and during World War II, of the frenetic bustle of postwar Europe, and of famous personalities such as Jean-Paul Sartre. Equally compelling are Tournier's fresh and controversial views on the topics of sexuality, education, and the uneasy relationship between French and German thought. For those unfamiliar with Tournier, The Wind Spirit provides and ideal introduction to one of Europe's foremost literary figures and to a brilliant body of work. Those who know and admire the author's novels will find here both a source of keen pleasure and an indispensable account of Tournier's creative development.",
+      "ISBN": "0807070408",
+      "ISBN13": "9780807070406",
+      "PageCount": 259,
+      "FirstAuthor": "Michel Tournier",
+      "SecondAuthor": "Arthur Goldhammer",
+      "ThirdAuthor": " ",
+      "Rating": 3.86,
+      "NumberofRatings": 21,
+      "NumberofReviews": "2",
+      "Publisher": "Beacon Press (MA)",
+      "PublishDate": "January 1st 1988",
+      "Format": "Hardcover",
+      "Language": "English",
+      "FileName": "697-3142148-the-wind-spirit.html"
+    },
+    "right": {
+      "id": 2619,
+      "title": "Wind Spirit: An Autobiography",
+      "Pages": "292",
+      "authors": "Michel Tournier",
+      "publication_info": {
+        "Publisher": "Beacon",
+        "ISBN13": "9780807070406",
+        "Publication_year": "1988",
+        "Publication_month_day": "Nov-28th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0811",
+      "Title": "Pretty Little Secrets (Pretty Little Liars Series)",
+      "Price": "$9.99 ",
+      "Author": "Sara Shepard",
+      "ISBN13": 9780062125927,
+      "Publisher": "HarperCollins Publishers",
+      "Pages": 450.0,
+      "Dimensions": "5.44(w) x 7.84(h) x 1.14(d)",
+      "Publication_year_month": "2013-01",
+      "Publication_day": "2nd"
+    },
+    "right": {
+      "id": "HC0783",
+      "title": "Pretty Little Liars(Pretty Little Liars)",
+      "Pages": 480,
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$7.98"
+      },
+      "authors": "Sara Shepard",
+      "publication_info": {
+        "ISBN10": "0062125923",
+        "ISBN13": 9780062125927,
+        "Publisher": "Harper Teen",
+        "Publication_year": "2013",
+        "Publication_month_day": "Jan-02"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 720,
+      "title": "Oracle 10g Developing Media Rich Applications",
+      "authors": "Lynne Dunckley;Larry Guros;",
+      "edition": "1",
+      "publisher": "Digital Press",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 520.0,
+      "pub_year_month": "6-12",
+      "pub_day": "05"
+    },
+    "right": {
+      "id": 2384,
+      "title": "Oracle 10g Developing Media Rich Applications",
+      "pages": 520.0,
+      "authors": [
+        "Lynne Dunckley",
+        " Larry Guros"
+      ],
+      "publication_info": {
+        "publisher": "Elsevier Science",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3180,
+      "title": "XML and SQL: Developing Web Applications",
+      "authors": "Daniel K. Appelquist;",
+      "edition": "1",
+      "publisher": "Addison-Wesley Professional",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 256.0,
+      "pub_year": "1",
+      "pub_month_day": "12-16"
+    },
+    "right": {
+      "id": 3497,
+      "title": "XML and SQL: Developing Web Applications",
+      "pages": 256.0,
+      "authors": [
+        "Daniel K. Appelquist",
+        " Daniel K. Appelquist (Other)",
+        " Daniel K. Applequist"
+      ],
+      "publication_info": {
+        "publication_date": "12/28/1",
+        "edition": 1.0,
+        "publisher": "Addison-Wesley",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 1777,
+      "title": "Build Your Own Database",
+      "authors": "Peter Jacso;F. Wilfrid Lancaster;",
+      "pubyear": 99.0,
+      "pubmonth": 2.0,
+      "publisher": "Amer Library Assn",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 163.0
+    },
+    "right": {
+      "id": 448,
+      "title": "Build Your Own Database",
+      "pages": 163.0,
+      "authors": [
+        "Peter Jacso",
+        " F. Wilfrid Lancaster",
+        " F. Wilfred Lancaster (Joint Author)"
+      ],
+      "publication_info": {
+        "publication_date": "2/28/99",
+        "edition": 1.0,
+        "publisher": "American Library Association",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN1009",
+      "Title": "My Anxious Mind: A Teen's Guide to Managing Anxiety and Panic",
+      "Price": "$11.83 ",
+      "Author": "Michael A. Tompkins",
+      "ISBN13": 9781433804502,
+      "Publisher": "American Psychological Association",
+      "Publication_Date": "4/15/09",
+      "Pages": 196.0,
+      "Dimensions": "5.50(w) x 8.40(h) x 0.60(d)"
+    },
+    "right": {
+      "id": "HC0716",
+      "title": "My Anxious Mind",
+      "Pages": 196,
+      "Dimensions": "5.56 x 8.36 x 0.43 inches",
+      "prices": {
+        "UsedPrice": "$12.65",
+        "NewPrice": "$14.12"
+      },
+      "authors": "Michael A. Tompkins",
+      "publication_info": {
+        "ISBN10": "1433804506",
+        "ISBN13": 9781433804502,
+        "Publisher": "Magination Press",
+        "Publication_Date": "Jul. 1st, 2009"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0605",
+      "Title": "The Statistical Probability of Love at First Sight",
+      "Price": "$8.78 ",
+      "Author": "Jennifer E. Smith",
+      "ISBN13": 9780316122399,
+      "Publisher": "Little, Brown Books for Young Readers",
+      "Pages": 272.0,
+      "Dimensions": "5.40(w) x 8.20(h) x 0.90(d)",
+      "Publication_year_month": "2013-Jan",
+      "Publication_day": "01"
+    },
+    "right": {
+      "id": "HC1378",
+      "title": "The Statistical Probability of Love at First Sight",
+      "Pages": 256,
+      "prices": {
+        "UsedPrice": "$5.79",
+        "NewPrice": "$6.97"
+      },
+      "authors": "Jennifer E. Smith",
+      "publication_info": {
+        "ISBN10": "0316122394",
+        "ISBN13": 9780316122399,
+        "Publisher": "Poppy Books",
+        "Publication_year": "2013",
+        "Publication_month_day": "01-02"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 3346,
+      "Title": "Ditka, An Autobiography",
+      "Description": "Follow the fascinating spurts of growth and introspection that helped a fiery coach with a wild temper learn to control himself and get the most from his players whose salaries and egos exceed his own.",
+      "ISBN": "0933893078",
+      "ISBN13": "9780933893078",
+      "PageCount": 0,
+      "FirstAuthor": "Mike Ditka",
+      "SecondAuthor": "Don Pierson",
+      "ThirdAuthor": " ",
+      "Rating": 3.75,
+      "NumberofRatings": 48,
+      "NumberofReviews": "4",
+      "Publisher": "Bonus Books",
+      "PublishDate": "May 31st 1982",
+      "Format": "Hardcover",
+      "Language": "English",
+      "FileName": "424-1047877.Ditka_An_Autobiography.html"
+    },
+    "right": {
+      "id": 1425,
+      "title": "Ditka: An Autobiography",
+      "Pages": "271",
+      "Productdimensions": "6.05(w) x 9.00(h) x 0.89(d)",
+      "authors": [
+        "Mike Ditka",
+        "Don Pierson"
+      ],
+      "publication_info": {
+        "Publisher": "Bonus Books, Inc.",
+        "ISBN13": "9780933893382",
+        "Publication_year_month": "1986-Jul",
+        "Publication_day": "1st"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0745",
+      "Title": "Curse of the Bane (Last Apprentice Series #2)",
+      "Price": "$9.99 ",
+      "Author": "Joseph Delaney",
+      "ISBN13": 9780060766238,
+      "Publisher": "HarperCollins Publishers",
+      "Pages": 496.0,
+      "Dimensions": "8.02(w) x 5.22(h) x 1.21(d)",
+      "Publication_year_month": "2007-Jul",
+      "Publication_day": "24"
+    },
+    "right": {
+      "id": "HC2141",
+      "title": "Curse of the Bane(Last Apprentice (Paperback))",
+      "Pages": 455,
+      "Dimensions": "5.40 x 8.00 x 1.20 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$11.00"
+      },
+      "authors": "Joseph Delaney",
+      "publication_info": {
+        "ISBN10": "0060766239",
+        "ISBN13": 9780060766238,
+        "Publisher": "Greenwillow Books",
+        "Publication_year": "2007",
+        "Publication_month_day": "07-24th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 301,
+      "title": "Mobility, Data Mining and Privacy: Geographic Knowledge Discovery",
+      "authors": "Fosca Giannotti;Dino Pedreschi;",
+      "pubyear": 8.0,
+      "pubmonth": 2.0,
+      "pubday": 6.0,
+      "edition": "2008",
+      "publisher": "Springer",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 410.0
+    },
+    "right": {
+      "id": 2173,
+      "title": "Mobility, Data Mining and Privacy: Geographic Knowledge Discovery",
+      "pages": 410.0,
+      "authors": [
+        "Fosca Giannotti (Editor)",
+        " Dino Pedreschi (Editor)"
+      ],
+      "publication_info": {
+        "publication_date": "2/6/8",
+        "edition": 1.0,
+        "publisher": "Springer Berlin Heidelberg",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 3101,
+      "Title": "Dear Theo: The Autobiography of Vincent Van Gogh",
+      "Description": "The story of Vincent Van Gogh, this narrative stands out as one of the most revealing and moving autobiographies of all time. Stone has collected Van Gogh's personal letters to his beloved brother Theo, and the result is a vivid self-portrait in words equal in intensity to his paintings.",
+      "ISBN": "0451162463",
+      "ISBN13": "9780451162465",
+      "PageCount": 480,
+      "FirstAuthor": "Irving Stone",
+      "SecondAuthor": " ",
+      "ThirdAuthor": " ",
+      "Rating": 4.08,
+      "NumberofRatings": 7562,
+      "NumberofReviews": "129",
+      "Publisher": "Signet",
+      "PublishDate": "April 1st 1969",
+      "Format": "Paperback",
+      "Language": "English",
+      "FileName": "380-158415.Dear_Theo.html"
+    },
+    "right": {
+      "id": 2712,
+      "title": "Dear Theo: The Autobiography of Vincent Van Gogh",
+      "Productdimensions": "7.00(w) x 5.00(h) x 1.00(d)",
+      "ratings": {
+        "Ratingscount": "6",
+        "Ratingvalue": "1.6"
+      },
+      "authors": "Irving Stone",
+      "publication_info": {
+        "Publisher": "Penguin Group (USA) Incorporated",
+        "ISBN13": "9780451038364",
+        "Publication_year": "1969",
+        "Publication_month_day": "04-1st"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3187,
+      "title": "Expert Oracle Exadata  ",
+      "authors": "Kerry Osborne;Randy Johnson;Tanel Pder;",
+      "pubyear": 11.0,
+      "pubmonth": 8.0,
+      "pubday": 7.0,
+      "edition": "1",
+      "publisher": "Apress",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Expert's Voice in Oracle",
+      "pages": 588.0
+    },
+    "right": {
+      "id": 1384,
+      "title": "Expert Oracle Exadata",
+      "pages": 588.0,
+      "authors": [
+        "Kerry Osborne",
+        " Randy Johnson",
+        " Tanel Pder"
+      ],
+      "publication_info": {
+        "publication_date": "8/8/11",
+        "edition": 1.0,
+        "publisher": "Apress",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0753",
+      "Title": "Parallel Journeys",
+      "Price": "$7.46 ",
+      "Author": "Eleanor H. Ayer",
+      "ISBN13": 9780689832369,
+      "Publisher": "Aladdin",
+      "Publication_Date": "3/28/00",
+      "Pages": 256.0,
+      "Dimensions": "5.10(w) x 7.50(h) x 0.70(d)"
+    },
+    "right": {
+      "id": "HC0362",
+      "title": "Parallel Journeys",
+      "Pages": 244,
+      "Dimensions": "5.26 x 7.68 x 0.74 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$9.16"
+      },
+      "authors": "Eleanor H. Ayer",
+      "publication_info": {
+        "ISBN10": "0689832362",
+        "ISBN13": 9780689832369,
+        "Publisher": "Aladdin Paperbacks",
+        "Publication_year_month": "2000-03",
+        "Publication_day": "01"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 729,
+      "title": "Oracle Database Ajax & PHP Web Application Development  ",
+      "authors": "Lee Barney;Michael McLaughlin;",
+      "edition": "1",
+      "publisher": "McGraw-Hill Osborne Media",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Oracle Press",
+      "pages": 458.0,
+      "pub_year": "8",
+      "pub_month_day": "Feb-21st"
+    },
+    "right": {
+      "id": 2439,
+      "title": "Oracle Database Ajax & PHP Web Application Development",
+      "series": "Oracle Press Series",
+      "pages": 458.0,
+      "authors": [
+        "Lee Barney",
+        " Michael McLaughlin"
+      ],
+      "publication_info": {
+        "publication_date": "2/21/8",
+        "edition": 1.0,
+        "publisher": "McGraw-Hill Professional Publishing",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 2110,
+      "Title": "Crusade for Justice: The Autobiography of Ida B. Wells",
+      "Description": "Ida B. Wells (1862-1931) was one of the foremost crusaders against black oppression. This engaging memoir tells of her private life as mother of a growing family as well as her public activities as teacher, lecturer, and journalist in her fight against attitudes and laws oppressing blacks. \"No student of black history should overlook Crusade for Justice .\"—William M. Tuttle, Jr., Journal of American History \"Besides being the story of an incredibly courageous and outspoken black woman in the face of innumerable odds, the book is a valuable contribution to the social history of the United States and to the literature of the women's movement as well.\"—Elizabeth Kolmer, American Quarterly \"[Wells was] a sophisticated fighter whose prose was as though as her intellect.\"—Walter Goodman, New York Times \"An illuminating narrative of a zealous, race-conscious, civic- and church-minded black woman reformer, whose life story is a significant chapter in the history of Negro-White relations.\"—Thelma D. Perry, Negro History Bulletin",
+      "ISBN": "0226893448",
+      "ISBN13": "9780226893440",
+      "PageCount": 466,
+      "FirstAuthor": "Ida B. Wells-Barnett",
+      "SecondAuthor": "Ada B. Wells",
+      "ThirdAuthor": "Alfreda M. Duster",
+      "Rating": 4.17,
+      "NumberofRatings": 127,
+      "NumberofReviews": "10",
+      "Publisher": "University Of Chicago Press",
+      "PublishDate": "July 23rd 1991",
+      "Format": "Paperback",
+      "Language": "English",
+      "FileName": "290-203938.Crusade_for_Justice.html"
+    },
+    "right": {
+      "id": 159,
+      "title": "Crusade for Justice: The Autobiography of IDA B. Wells",
+      "Pages": "466",
+      "Productdimensions": "5.50(w) x 8.50(h) x 1.40(d)",
+      "Salesrank": "234,173",
+      "prices": {
+        "Paperbackprice": "$30.00",
+        "Nookbookprice": "$27.00"
+      },
+      "authors": [
+        "Ida B. Wells",
+        "Ada B. Wells"
+      ],
+      "publication_info": {
+        "Publisher": "University of Chicago Press",
+        "ISBN13": "9780226893440",
+        "Publication_year_month": "1991-Jul",
+        "Publication_day": "28"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN1209",
+      "Title": "Blood Beast (Demonata Series #5)",
+      "Price": "$8.99 ",
+      "Author": "Darren Shan",
+      "ISBN13": 9780316003780,
+      "Publisher": "Little, Brown Books for Young Readers",
+      "Pages": 224.0,
+      "Dimensions": "5.48(w) x 10.86(h) x 0.59(d)",
+      "Publication_year": "2008",
+      "Publication_month_day": "10-1st"
+    },
+    "right": {
+      "id": "HC2628",
+      "title": "Blood Beast(Demonata (Paperback))",
+      "Pages": 217,
+      "Dimensions": "5.40 x 8.25 x 0.60 inches",
+      "prices": {
+        "UsedPrice": "$9.64",
+        "NewPrice": "$9.98"
+      },
+      "authors": "Darren Shan",
+      "publication_info": {
+        "ISBN10": "0316003786",
+        "ISBN13": 9780316003780,
+        "Publisher": "Little, Brown Young Readers",
+        "Publication_Date": "Oct. 1st, 2008"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0078",
+      "Title": "Harry Potter and the Chamber of Secrets (Harry Potter Series #2)",
+      "Price": "$7.20 ",
+      "Author": "J. K. Rowling",
+      "ISBN13": 9780439064873,
+      "Publisher": "Scholastic, Inc.",
+      "Pages": 352.0,
+      "Dimensions": "5.20(w) x 7.50(h) x 1.10(d)",
+      "Publication_year_month": "2000-Aug",
+      "Publication_day": "28"
+    },
+    "right": {
+      "id": "HC0095",
+      "title": "Harry Potter and the Chamber of Secrets(Harry Potter (Paperback))",
+      "Pages": 341,
+      "Dimensions": "5.26 x 7.62 x 0.90 inches",
+      "prices": {
+        "UsedPrice": "$6.48",
+        "NewPrice": "$11.09"
+      },
+      "authors": "J. K. Rowling",
+      "publication_info": {
+        "ISBN10": "0439064872",
+        "ISBN13": 9780439064873,
+        "Publisher": "Scholastic",
+        "Publication_year": "2000",
+        "Publication_month_day": "09-01"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 584,
+      "Title": "Autobiography of a Chinese Girl",
+      "Description": " ",
+      "ISBN": "0863580521",
+      "ISBN13": "9780863580529",
+      "PageCount": 216,
+      "FirstAuthor": "Ping-Ying Hsieh",
+      "SecondAuthor": " ",
+      "ThirdAuthor": " ",
+      "Rating": 3.38,
+      "NumberofRatings": 8,
+      "NumberofReviews": "3",
+      "Publisher": "Rivers Oram Press",
+      "PublishDate": "January 1st 1986",
+      "Format": "Paperback",
+      "Language": "English",
+      "FileName": "1512-1148920.Autobiography_of_a_Chinese_Girl.html"
+    },
+    "right": {
+      "id": 1568,
+      "title": "Autobiography of a Chinese Girl",
+      "Pages": "224",
+      "authors": "Ping-Ying Hsieh",
+      "publication_info": {
+        "Publisher": "Rivers Oram Press/Pandora Press",
+        "ISBN13": "9780863580529",
+        "Publication_year": "1986",
+        "Publication_month_day": "Feb-1st"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0757",
+      "Title": "Peter and the Secret of Rundoon (Starcatchers Series #3)",
+      "Price": "$8.99 ",
+      "Author": "Ridley Pearson",
+      "ISBN13": 9781423123262,
+      "Publisher": "Disney-Hyperion",
+      "Pages": 496.0,
+      "Dimensions": "5.70(w) x 7.80(h) x 1.10(d)",
+      "Publication_year_month": "2009-Jun",
+      "Publication_day": "09"
+    },
+    "right": {
+      "id": "HC1974",
+      "title": "Peter and the Secret of Rundoon(Starcatchers (Paperback))",
+      "Pages": 482,
+      "Dimensions": "5.24 x 7.59 x 1.06 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$10.29"
+      },
+      "authors": "Dave Barry",
+      "publication_info": {
+        "ISBN10": "1423123263",
+        "ISBN13": 9781423123262,
+        "Publisher": "Hyperion Books",
+        "Publication_Date": "Jun. 1st, 2009"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": 2473,
+      "Title": "Autobiography of St. Teresa of Avila (Dover Books on Western Philosophy)",
+      "Description": "In this landmark of Christian mysticism, the much-admired Carmelite nun offers moving accounts of her profound religious experiences and ultimate union with God. St. Teresa recounts her childhood and education in 16th-century Spain, her physical afflictions and spiritual crises, her many visions and mystical encounters, and her determination to embrace the contemplative life.",
+      "ISBN13": " ",
+      "PageCount": 354,
+      "FirstAuthor": "Teresa of Ávila",
+      "SecondAuthor": " ",
+      "ThirdAuthor": " ",
+      "Rating": 4.0,
+      "NumberofRatings": 6,
+      "NumberofReviews": "0",
+      "Publisher": "Dover Publications",
+      "PublishDate": "March 6th 2012",
+      "Format": "Kindle Edition",
+      "Language": "English",
+      "FileName": "3241-18942422-autobiography-of-st-teresa-of-avila.html"
+    },
+    "right": {
+      "id": 63,
+      "title": "Autobiography of St. Teresa of Avila",
+      "Pages": "352",
+      "Productdimensions": "5.30(w) x 8.40(h) x 0.80(d)",
+      "Salesrank": "192,077",
+      "prices": {
+        "Paperbackprice": "$7.52",
+        "Nookbookprice": "$9.99"
+      },
+      "authors": "St. Teresa of Avila",
+      "publication_info": {
+        "Publisher": "Dover Publications",
+        "ISBN13": "9780486475981",
+        "PublicationDate": "07/21/2010"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 395,
+      "title": "Oracle Grid and Real Application Clusters: Oracle Grid Computing with RAC    ",
+      "authors": "Steve Karam;Brian Jones;",
+      "publisher": "Rampant TechPress",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Oracle in-Focus Series",
+      "pages": 214.0,
+      "pub_year": "2014",
+      "pub_month_day": "Mar-08"
+    },
+    "right": {
+      "id": 2473,
+      "title": "Oracle Grid and Real Application Clusters: Oracle Grid Computing with RAC",
+      "pages": 214.0,
+      "authors": [
+        "Steve Karam",
+        " Brian Jones"
+      ],
+      "publication_info": {
+        "publisher": "Rampant TechPress",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3493,
+      "title": "Swarm Based Implementation of a Virtual Distributed Database System in a Sensor Network",
+      "authors": "Wen Chian Lee;Air Force Institute of Technology (U.S.);",
+      "publisher": "BiblioScholar",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 122.0,
+      "pub_year": "2012",
+      "pub_month_day": "Sep-17"
+    },
+    "right": {
+      "id": 3174,
+      "title": "Swarm Based Implementation of a Virtual Distributed Database System in a Sensor Network",
+      "pages": 122.0,
+      "authors": "Wen Chian Lee",
+      "publication_info": {
+        "publisher": "BiblioScholar",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 457,
+      "title": "Customer Data Integration: Reaching a Single Version of the Truth  ",
+      "authors": "Jill Dyche;Evan Levy;Don Peppers;",
+      "edition": "1",
+      "publisher": "Wiley",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 320.0,
+      "pub_year_month": "6-08",
+      "pub_day": "04"
+    },
+    "right": {
+      "id": 672,
+      "title": "Customer Data Integration: Reaching a Single Version of the Truth",
+      "series": "Wiley and SAS Business Series ,#7",
+      "pages": 320.0,
+      "authors": [
+        "Jill Dyche",
+        " Evan Levy",
+        " Don Peppers (Foreword by)",
+        " Martha Rogers (Foreword by)"
+      ],
+      "publication_info": {
+        "publication_date": "8/4/6",
+        "edition": 1.0,
+        "publisher": "Wiley",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0856",
+      "Title": "Bite Club (Morganville Vampires Series #10)",
+      "Price": "$9.99 ",
+      "Author": "Rachel Caine",
+      "ISBN13": 9780451234681,
+      "Publisher": "Penguin Publishing Group",
+      "Pages": 368.0,
+      "Dimensions": "5.50(w) x 8.28(h) x 0.81(d)",
+      "Publication_year": "2011",
+      "Publication_month_day": "10-4th"
+    },
+    "right": {
+      "id": "HC1912",
+      "title": "Bite Club(Morganville Vampires)",
+      "Pages": 352,
+      "Dimensions": "5.40 x 8.10 x 0.90 inches",
+      "prices": {
+        "UsedPrice": "$6.98",
+        "NewPrice": "$10.71"
+      },
+      "authors": "Rachel Caine",
+      "publication_info": {
+        "ISBN10": "0451234685",
+        "ISBN13": 9780451234681,
+        "Publisher": "New American Library",
+        "Publication_year_month": "2011-Oct",
+        "Publication_day": "04"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0705",
+      "Title": "Living Dead Girl",
+      "Price": "$9.99 ",
+      "Author": "Elizabeth Scott",
+      "ISBN13": 9781416960607,
+      "Publisher": "Simon Pulse",
+      "Pages": 176.0,
+      "Dimensions": "5.50(w) x 8.26(h) x 0.48(d)",
+      "Publication_year_month": "2009-Sep",
+      "Publication_day": "08"
+    },
+    "right": {
+      "id": "HC1558",
+      "title": "Living Dead Girl",
+      "Pages": 170,
+      "Dimensions": "5.50 x 8.10 x 0.70 inches",
+      "prices": {
+        "UsedPrice": "$4.98",
+        "NewPrice": "$10.67"
+      },
+      "authors": "Elizabeth Scott",
+      "publication_info": {
+        "ISBN10": "1416960600",
+        "ISBN13": 9781416960607,
+        "Publisher": "Simon Pulse",
+        "Publication_year": "2009",
+        "Publication_month_day": "09-8th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0095",
+      "Title": "Shatter Me (Shatter Me Series #1)",
+      "Price": "$9.99 ",
+      "Author": "Tahereh Mafi",
+      "ISBN13": 9780062085504,
+      "Publisher": "HarperCollins Publishers",
+      "Pages": 368.0,
+      "Dimensions": "5.20(w) x 7.90(h) x 0.90(d)",
+      "Publication_year": "2012",
+      "Publication_month_day": "Oct-02"
+    },
+    "right": {
+      "id": "HC0887",
+      "title": "Shatter Me(Shatter Me (Quality))",
+      "Pages": 368,
+      "prices": {
+        "UsedPrice": "$10.19",
+        "NewPrice": "$10.86"
+      },
+      "authors": "Tahereh Mafi",
+      "publication_info": {
+        "ISBN10": "0062085506",
+        "ISBN13": 9780062085504,
+        "Publisher": "HarperCollins",
+        "Publication_Date": "Oct. 16th, 2012"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3224,
+      "title": "Applied Microsoft SQL Server 2008 Reporting Services",
+      "authors": "Teo Lachev;",
+      "publisher": "Prologika Press",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "pages": 768.0,
+      "pub_year": "8",
+      "pub_month_day": "Aug-15"
+    },
+    "right": {
+      "id": 294,
+      "title": "Applied Microsoft SQL Server 2008 Reporting Services",
+      "pages": 768.0,
+      "authors": "Teo Lachev",
+      "publication_info": {
+        "publisher": "Prologika",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0908",
+      "Title": "The Prince of Mist",
+      "Price": "$6.89 ",
+      "Author": "Carlos Ruiz Zaf�_n",
+      "ISBN13": 9780316044806,
+      "Publisher": "Little, Brown Books for Young Readers",
+      "Pages": 256.0,
+      "Dimensions": "5.50(w) x 8.25(h) x 0.75(d)",
+      "Publication_year_month": "2011-Apr",
+      "Publication_day": "12"
+    },
+    "right": {
+      "id": "HC2150",
+      "title": "The Prince of Mist",
+      "Pages": 232,
+      "Dimensions": "5.52 x 8.19 x 0.69 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$9.98"
+      },
+      "authors": "Carlos Ruiz Zafon",
+      "publication_info": {
+        "ISBN10": "0316044806",
+        "ISBN13": 9780316044806,
+        "Publisher": "Little, Brown Books for Young Readers",
+        "Publication_year": "2011",
+        "Publication_month_day": "04-12th"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3416,
+      "title": "DATA MINING: INTRODUCTORY AND ADVANCED TOPICS",
+      "authors": "DUNHAM MARGARET H.;"
+    },
+    "right": {
+      "id": 759,
+      "title": "Data Mining: Introductory and Advanced Topics",
+      "pages": 315.0,
+      "authors": "Margaret H. Dunham",
+      "publication_info": {
+        "publication_date": "8/15/2",
+        "edition": 1.0,
+        "publisher": "Prentice Hall",
+        "isbn13": 9780000000000.0
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 3383,
+      "title": "Pro T-SQL 2012 Programmer's Guide  ",
+      "authors": "Jay Natarajan;Scott Shaw;Rudi Bruchez;",
+      "edition": "3",
+      "publisher": "Apress",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Expert's Voice in SQL Server",
+      "pages": 696.0,
+      "pub_year": "2012",
+      "pub_month_day": "Sep-26"
+    },
+    "right": {
+      "id": 2700,
+      "title": "Pro T-SQL 2012 Programmer's Guide",
+      "pages": 696.0,
+      "authors": [
+        "Jay Natarajan",
+        " Scott Shaw",
+        " Rudi Bruchez",
+        " Michael Coles"
+      ],
+      "publication_info": {
+        "edition": 3.0,
+        "publisher": "Apress",
+        "isbn13": 9780000000000.0,
+        "Publication_year_month": "2012-09",
+        "Publication_day": "26"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "id": 688,
+      "title": "Advanced Database Indexing  ",
+      "authors": "Yannis Manolopoulos;Yannis Theodoridis;Vassilis Tsotras;",
+      "pubyear": 99.0,
+      "pubmonth": 11.0,
+      "pubday": 30.0,
+      "edition": "2000",
+      "publisher": "Springer",
+      "isbn13": 9780000000000.0,
+      "language": "English",
+      "series": "Advances in Database Systems (Book 17)",
+      "pages": 286.0
+    },
+    "right": {
+      "id": 139,
+      "title": "Advanced Database Indexing",
+      "series": "Advances in Database Systems Series ,#17",
+      "pages": 286.0,
+      "authors": [
+        "Yannis Manolopoulos",
+        " Yannis Theodoridis",
+        " Vassilis Tsotras"
+      ],
+      "publication_info": {
+        "edition": 1.0,
+        "publisher": "Springer US",
+        "isbn13": 9780000000000.0,
+        "Publication_year": "1999",
+        "Publication_month_day": "Nov-30"
+      }
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "ID": "BN0988",
+      "Title": "Bloodrose (Nightshade Series #3)",
+      "Price": "$9.99 ",
+      "Author": "Andrea Cremer",
+      "ISBN13": 9780142423707,
+      "Publisher": "Penguin Young Readers Group",
+      "Pages": 448.0,
+      "Dimensions": "5.60(w) x 8.08(h) x 1.12(d)",
+      "Publication_year": "2012",
+      "Publication_month_day": "Aug-07"
+    },
+    "right": {
+      "id": "HC1167",
+      "title": "Bloodrose(Nightshade (Paperback))",
+      "Pages": 408,
+      "Dimensions": "5.40 x 8.10 x 1.20 inches",
+      "prices": {
+        "UsedPrice": "$6.78",
+        "NewPrice": "$7.76"
+      },
+      "authors": "Andrea Cremer",
+      "publication_info": {
+        "ISBN10": "014242370X",
+        "ISBN13": 9780142423707,
+        "Publisher": "Speak",
+        "Publication_Date": "Aug. 7th, 2012"
+      }
+    },
+    "label": 1
+  }
+]

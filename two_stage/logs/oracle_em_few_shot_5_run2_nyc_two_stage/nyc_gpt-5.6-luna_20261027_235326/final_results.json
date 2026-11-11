@@ -1,0 +1,37 @@
+{
+  "dataset": "nyc",
+  "model": "gpt-5.6-luna",
+  "mode": "two_stage",
+  "total_pairs": 500,
+  "matched_pairs": 500,
+  "stage1_em": {},
+  "stage2_attr": {
+    "end_to_end": {
+      "total_pairs": 500,
+      "tp": 1957,
+      "fp": 258,
+      "fn": 194,
+      "precision": 0.8835214446952596,
+      "recall": 0.909809390980939,
+      "f1": 0.8964727439303711,
+      "accuracy": 0.8123702781237028,
+      "pair_accuracy": 0.618,
+      "exact_matches": 309,
+      "total_gt_correspondences": 2151
+    },
+    "conditional": {
+      "total_pairs": 500,
+      "tp": 1957,
+      "fp": 258,
+      "fn": 194,
+      "precision": 0.8835214446952596,
+      "recall": 0.909809390980939,
+      "f1": 0.8964727439303711,
+      "accuracy": 0.8123702781237028,
+      "pair_accuracy": 0.618,
+      "exact_matches": 309,
+      "total_gt_correspondences": 2151
+    }
+  },
+  "joint_metrics": {}
+}

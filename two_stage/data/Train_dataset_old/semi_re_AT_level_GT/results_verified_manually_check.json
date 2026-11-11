@@ -1,0 +1,5575 @@
+[
+  {
+    "left_id": "tt0058530",
+    "right_id": "robinson_crusoe_on_mars",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1143",
+    "right_id": 509,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+
+    ]
+  },
+  {
+    "left_id": "tt0069280",
+    "right_id": "slaughterhouse_five",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Duration\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0080354",
+    "right_id": "alligator",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]",
+      "[[\"year\"], [\"YearRange\"]]"
+    ]
+  },
+  {
+    "left_id": "1600",
+    "right_id": 1980,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"actors\"], [\"actors\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0110955",
+    "right_id": "ref",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2692904",
+    "right_id": "locke",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0302640",
+    "right_id": "hot_chick",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+
+    ]
+  },
+  {
+    "left_id": "1843",
+    "right_id": 862,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1401152",
+    "right_id": "unknown_white_male",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0139134",
+    "right_id": "cruel_intentions",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "845",
+    "right_id": 935,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "265",
+    "right_id": 2207,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "757",
+    "right_id": 832,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1942",
+    "right_id": 2970,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-66",
+    "right_id": "b-67",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\",\"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "2982",
+    "right_id": 1224,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1108",
+    "right_id": "b-2155",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "2940",
+    "right_id": 2108,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2166",
+    "right_id": 1478,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1311",
+    "right_id": "b-1134",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1762399",
+    "right_id": "walking_with_dinosaurs_3d",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\",\"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2314824",
+    "right_id": "behaving_badly_2014",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+  
+    ]
+  },
+  {
+    "left_id": "2226",
+    "right_id": 686,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0079082",
+    "right_id": "the_driller_killer",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0101912",
+    "right_id": "1037161-frankie_and_johnny",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2484",
+    "right_id": 1277,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1637",
+    "right_id": "b-1419",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"Year\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt3057836",
+    "right_id": "documented",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2656",
+    "right_id": 2576,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1974",
+    "right_id": 1207,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0097659",
+    "right_id": "1011487-kickboxer",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2946762",
+    "right_id": "god_bless_the_child_2015",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-578",
+    "right_id": "b-543",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1365",
+    "right_id": "b-1184",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1229",
+    "right_id": "b-1056",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0054195",
+    "right_id": "1016512-pollyanna",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Duration\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0112851",
+    "right_id": "desperado",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0089424",
+    "right_id": "kiss_of_the_spider_woman",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "849",
+    "right_id": 1123,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0077869",
+    "right_id": "lord_of_the_rings",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Duration\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2768",
+    "right_id": 2352,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"information\"], [\"writers\"]]",
+      "[[\"year\"], [\"year\"]]"
+    ]
+  },
+  {
+    "left_id": "1261",
+    "right_id": 767,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2281159",
+    "right_id": "contracted",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\",\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt3896198",
+    "right_id": "guardians_of_the_galaxy_2",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1815862",
+    "right_id": "after_earth",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1500",
+    "right_id": 651,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2870648",
+    "right_id": "amy_2015",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\",\"Genre\", \"Duration\", \"Description\"]]"
+      
+    ]
+  },
+  {
+    "left_id": "a-1372",
+    "right_id": "b-1192",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"year_year\", \"year_month_day\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0110146",
+    "right_id": "intersection",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Duration\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2710",
+    "right_id": 2379,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1642",
+    "right_id": "b-1425",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0167427",
+    "right_id": "1093874-superstar",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\",\"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1896",
+    "right_id": "b-1667",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "2450",
+    "right_id": 1792,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0036261",
+    "right_id": "phantom_of_the_opera_1943",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+
+      
+    ]
+  },
+  {
+    "left_id": "tt0077402",
+    "right_id": "1005339-dawn_of_the_dead",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0099528",
+    "right_id": "exorcist_3",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+
+    ]
+  },
+  {
+    "left_id": "1489",
+    "right_id": 681,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2253",
+    "right_id": 1342,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1832",
+    "right_id": 1194,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-910",
+    "right_id": "b-846",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "1776",
+    "right_id": 2961,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1668",
+    "right_id": 2377,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1771",
+    "right_id": 497,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2075",
+    "right_id": 556,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1985966",
+    "right_id": "cloudy_with_a_chance_of_meatballs_2_2013",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1725",
+    "right_id": "b-1507",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "1002",
+    "right_id": 1253,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1058",
+    "right_id": 1203,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0492931",
+    "right_id": "11th_hour",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "177",
+    "right_id": 160,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1822",
+    "right_id": "b-1597",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"Year\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0990407",
+    "right_id": "green_hornet",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0462322",
+    "right_id": "grindhouse",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+
+    ]
+  },
+  {
+    "left_id": "tt2322482",
+    "right_id": "if_you_build_it",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Genre\", \"Duration\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1666",
+    "right_id": 3062,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "112",
+    "right_id": 104,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0268695",
+    "right_id": "1112951-time_machine",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Genre\", \"Description\"]]"
+
+    ]
+  },
+  {
+    "left_id": "2228",
+    "right_id": 479,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0443456",
+    "right_id": "breaking_and_entering",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "793",
+    "right_id": 239,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0105698",
+    "right_id": "universal_soldier",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\",\"Creator\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-430",
+    "right_id": "b-410",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "2967",
+    "right_id": 1847,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1873",
+    "right_id": 1612,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-242",
+    "right_id": "b-238",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "887",
+    "right_id": 1652,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "167",
+    "right_id": 773,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "478",
+    "right_id": 2345,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0469903",
+    "right_id": "1185801-the_express",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1827",
+    "right_id": "b-1602",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"year_year\", \"year_month_day\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0822854",
+    "right_id": "shooter",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1883",
+    "right_id": "b-1652",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"Year\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "2742",
+    "right_id": 2386,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0106665",
+    "right_id": "dark_tide",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2965",
+    "right_id": 1391,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2959",
+    "right_id": 1751,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "534",
+    "right_id": 303,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0119223",
+    "right_id": "1081200-great_expectations",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\",\"Genre\",\"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1590",
+    "right_id": 917,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "290",
+    "right_id": 1087,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1543",
+    "right_id": "b-1341",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"year_year\", \"year_month_day\"]]",
+      "[[\"information\"], [\"Genre\", \"Summary\", \"ratings.ContentRating\"]]"
+    ]
+  },
+  {
+    "left_id": "2487",
+    "right_id": 1536,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-734",
+    "right_id": "b-686",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "1077",
+    "right_id": 873,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-326",
+    "right_id": "b-315",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0215750",
+    "right_id": "enemy_at_the_gates",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1401",
+    "right_id": 668,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0104694",
+    "right_id": "league_of_their_own",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2147",
+    "right_id": 2237,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-486",
+    "right_id": "b-462",
+    "output": [
+        "[[\"title\"], [\"Title\"]]",
+        "[[\"director\"], [\"Director\"]]",
+        "[[\"year\"], [\"Year\"]]",
+        "[[\"information\"], [\"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "a-73",
+    "right_id": "b-73",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1274",
+    "right_id": "b-1098",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "2577",
+    "right_id": 2665,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "93",
+    "right_id": 51,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "102",
+    "right_id": 9,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2536",
+    "right_id": 955,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-307",
+    "right_id": "b-297",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"Year\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0067927",
+    "right_id": "1022504-vanishing_point",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1798684",
+    "right_id": "southpaw_2015",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt3297330",
+    "right_id": "good_kill",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1063",
+    "right_id": "b-986",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "1679",
+    "right_id": 2545,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "796",
+    "right_id": 1673,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1006",
+    "right_id": 1315,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "781",
+    "right_id": 1347,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0082200",
+    "right_id": "continental_divide",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0100157",
+    "right_id": "misery",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1435",
+    "right_id": 1034,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0051658",
+    "right_id": "gigi",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0221027",
+    "right_id": "blow",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "686",
+    "right_id": 493,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1852028",
+    "right_id": "minds_in_the_water_2011",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0052655",
+    "right_id": "bucket_of_blood",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2806",
+    "right_id": 1438,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2328",
+    "right_id": 701,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "930",
+    "right_id": 75,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0097731",
+    "right_id": "let_it_ride",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1037",
+    "right_id": "b-965",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "1",
+    "right_id": 1,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "926",
+    "right_id": 760,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0483726",
+    "right_id": "man_of_the_year",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-861",
+    "right_id": "b-806",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"year_year_month\", \"year_day\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0077416",
+    "right_id": "deer_hunter",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-751",
+    "right_id": "b-702",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "1885",
+    "right_id": 204,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2165",
+    "right_id": 1446,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "754",
+    "right_id": 1584,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1659",
+    "right_id": "b-1441",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2755016",
+    "right_id": "the_motivation_2013",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1840",
+    "right_id": 1147,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1735",
+    "right_id": "b-1517",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+
+    ]
+  },
+  {
+    "left_id": "1316",
+    "right_id": 537,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1522",
+    "right_id": "b-1323",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "1131",
+    "right_id": 1301,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2793",
+    "right_id": 825,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "109",
+    "right_id": 27,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1506",
+    "right_id": "b-1309",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0360139",
+    "right_id": "chasing_liberty",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0294870",
+    "right_id": "1152276-rent",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "488",
+    "right_id": 1108,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-340",
+    "right_id": "b-329",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"Year\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0053054",
+    "right_id": "mating_game",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "458",
+    "right_id": 3021,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]"
+    ]
+  },
+  {
+    "left_id": "1741",
+    "right_id": 1778,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2861",
+    "right_id": 2144,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0116928",
+    "right_id": "love_is_all_there_is",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0095756",
+    "right_id": "not_of_this_earth_1988",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0031750",
+    "right_id": "old_maid",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1168",
+    "right_id": 1431,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1281",
+    "right_id": 1845,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-719",
+    "right_id": "b-672",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "1838",
+    "right_id": 536,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0040367",
+    "right_id": "foreign_affair",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1141",
+    "right_id": 994,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1208",
+    "right_id": 2140,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1294",
+    "right_id": "b-1117",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"Year\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0101516",
+    "right_id": "bugsy",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "142",
+    "right_id": 415,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1090",
+    "right_id": "b-2137",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0175880",
+    "right_id": "magnolia",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2309",
+    "right_id": 813,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]"
+    ]
+  },
+  {
+    "left_id": "1376",
+    "right_id": 982,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0352248",
+    "right_id": "cinderella_man",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "922",
+    "right_id": 2564,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"information\"], [\"writers\"]]",
+      "[[\"year\"], [\"year\"]]"
+    ]
+  },
+  {
+    "left_id": "tt3567288",
+    "right_id": "the_visit_2015",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "388",
+    "right_id": 1171,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "173",
+    "right_id": 59,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1526",
+    "right_id": 1088,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "964",
+    "right_id": 1348,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2191",
+    "right_id": 1676,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-921",
+    "right_id": "b-858",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "223",
+    "right_id": 316,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2171902",
+    "right_id": "happy_valley_2014",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "881",
+    "right_id": 1432,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2582846",
+    "right_id": "the_fault_in_our_stars",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1409",
+    "right_id": 705,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0032455",
+    "right_id": "fantasia",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0396752",
+    "right_id": "1153987-nanny_mcphee",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0116191",
+    "right_id": "1073316-emma",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "294",
+    "right_id": 737,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "103",
+    "right_id": 80,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0120890",
+    "right_id": "wild_things",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1459",
+    "right_id": "b-1268",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "479",
+    "right_id": 958,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "5",
+    "right_id": 61,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-455",
+    "right_id": "b-433",
+    "output": [
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "1258",
+    "right_id": 930,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0190138",
+    "right_id": "whole_nine_yards",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1971",
+    "right_id": 2280,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0087054",
+    "right_id": "choose_me",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Description\", \"Genre\", \"Duration\"]]"
+    ]
+  },
+  {
+    "left_id": "tt3316948",
+    "right_id": "american_ultra",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2101",
+    "right_id": 2437,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1049",
+    "right_id": "b-976",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "498",
+    "right_id": 1151,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1954811",
+    "right_id": "see_girl_run_2012",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1226",
+    "right_id": 655,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1281",
+    "right_id": "b-1105",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"Year\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "2602",
+    "right_id": 1269,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1214962",
+    "right_id": "justice_2011",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1743",
+    "right_id": "b-1523",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "2287",
+    "right_id": 1068,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0074540",
+    "right_id": "the-food-of-the-gods",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "612",
+    "right_id": 343,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "823",
+    "right_id": 1607,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1093",
+    "right_id": "b-2140",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "326",
+    "right_id": 857,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1765",
+    "right_id": "b-1543",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1235837",
+    "right_id": "happily-never-after-2",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0266915",
+    "right_id": "rush_hour_2",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2055",
+    "right_id": 1392,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"actors\"], [\"actors\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0046269",
+    "right_id": "salome_1953",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "420",
+    "right_id": 161,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0085334",
+    "right_id": "1004151-christmas_story",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "627",
+    "right_id": 1263,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "799",
+    "right_id": 1014,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0109506",
+    "right_id": "crow",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "354",
+    "right_id": 335,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1008",
+    "right_id": 129,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1477076",
+    "right_id": "saw3d",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1464",
+    "right_id": 2193,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0048261",
+    "right_id": "kiss_me_deadly",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "770",
+    "right_id": 740,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "165",
+    "right_id": 485,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "778",
+    "right_id": 1105,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2171",
+    "right_id": 1421,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "894",
+    "right_id": 971,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0377066",
+    "right_id": "the-ghost-club",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0381707",
+    "right_id": "white_chicks",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1253864",
+    "right_id": "immortals_2011",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0952640",
+    "right_id": "1184827-alvin_and_the_chipmunks",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0413300",
+    "right_id": "spiderman_3",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "424",
+    "right_id": 168,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "341",
+    "right_id": 1654,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0040369",
+    "right_id": "fort_apache",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "853",
+    "right_id": 329,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "755",
+    "right_id": 1110,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0445990",
+    "right_id": "invincible",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1976",
+    "right_id": 2959,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "409",
+    "right_id": 364,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2273",
+    "right_id": 648,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-989",
+    "right_id": "b-920",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+
+    ]
+  },
+  {
+    "left_id": "2188",
+    "right_id": 1290,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0047422",
+    "right_id": "river_of_no_return",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2649",
+    "right_id": 1408,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "523",
+    "right_id": 1433,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"actors\"], [\"actors\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1304",
+    "right_id": "b-1127",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "1048",
+    "right_id": 328,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0102065",
+    "right_id": "house_party_2",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "828",
+    "right_id": 1626,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2005185",
+    "right_id": "concrete_blondes_2012",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2275",
+    "right_id": 2263,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-814",
+    "right_id": "b-756",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt3698558",
+    "right_id": "some_kind_of_hate",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "826",
+    "right_id": 504,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1230",
+    "right_id": "b-1057",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0278823",
+    "right_id": "hollywood_ending",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0092675",
+    "right_id": "bloodsport",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2931",
+    "right_id": 1727,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "529",
+    "right_id": 252,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1701",
+    "right_id": 2157,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1879",
+    "right_id": "b-1649",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1325",
+    "right_id": "b-1147",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1341341",
+    "right_id": "ceremony_2010",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0113748",
+    "right_id": "1061809-malicious",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-186",
+    "right_id": "b-184",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "710",
+    "right_id": 1050,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "904",
+    "right_id": 3008,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0101821",
+    "right_id": "ernest-scared-stupid",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1300854",
+    "right_id": "iron_man_3",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1118",
+    "right_id": "b-2164",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "2159",
+    "right_id": 1544,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "733",
+    "right_id": 199,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0100405",
+    "right_id": "pretty_woman",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "391",
+    "right_id": 1828,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2292",
+    "right_id": 2182,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1639",
+    "right_id": 2257,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1563",
+    "right_id": 2909,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0095271",
+    "right_id": "halloween_4_the_return_of_michael_myers",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2808",
+    "right_id": 1837,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2600",
+    "right_id": 2997,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2411",
+    "right_id": 2595,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-335",
+    "right_id": "b-324",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"information\"], [\"Genre\"]]"
+    ]
+  },
+  {
+    "left_id": "952",
+    "right_id": 893,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2002",
+    "right_id": 1424,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1020",
+    "right_id": 1350,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0042250",
+    "right_id": "highway-301-1950",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-283",
+    "right_id": "b-277",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"Year\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0103893",
+    "right_id": "buffy_the_vampire_slayer",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "636",
+    "right_id": 1019,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "242",
+    "right_id": 442,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0101812",
+    "right_id": "end_of_innocence",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1014",
+    "right_id": 1737,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "525",
+    "right_id": 2011,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2194",
+    "right_id": 1575,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0112435",
+    "right_id": "babysitters_club_the_movie",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1707",
+    "right_id": 242,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "588",
+    "right_id": 341,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "842",
+    "right_id": 148,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "125",
+    "right_id": 230,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0126916",
+    "right_id": "for_love_of_the_game",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2908",
+    "right_id": 1808,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-354",
+    "right_id": "b-340",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    
+    ]
+  },
+  {
+    "left_id": "a-842",
+    "right_id": "b-786",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0088275",
+    "right_id": "the_times_of_harvey_milk",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1618442",
+    "right_id": "the_last_witch_hunter",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+  "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "218",
+    "right_id": 427,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1205558",
+    "right_id": "hick_2012",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "775",
+    "right_id": 1060,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0431213",
+    "right_id": "lassie",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-853",
+    "right_id": "b-797",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "767",
+    "right_id": 607,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "67",
+    "right_id": 175,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0118689",
+    "right_id": "bean",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0432348",
+    "right_id": "saw_ii",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0270288",
+    "right_id": "confessions_of_a_dangerous_mind",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0092513",
+    "right_id": "adventures_in_babysitting",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1314",
+    "right_id": 494,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0080130",
+    "right_id": "1023461-when_a_stranger_calls",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "228",
+    "right_id": 93,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-167",
+    "right_id": "b-165",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "175",
+    "right_id": 155,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0443536",
+    "right_id": "1155109-hoodwinked",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "724",
+    "right_id": 1310,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "49",
+    "right_id": 141,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "433",
+    "right_id": 200,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-360",
+    "right_id": "b-346",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"information\"], [\"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0082146",
+    "right_id": "caveman",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\"]]"
+    ]
+  },
+  {
+    "left_id": "980",
+    "right_id": 1142,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-121",
+    "right_id": "b-119",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0110622",
+    "right_id": "the_naked_gun_33_13_the_final_insult_1994",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2823",
+    "right_id": 2871,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "211",
+    "right_id": 754,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1867",
+    "right_id": "b-1638",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "2828",
+    "right_id": 2482,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "772",
+    "right_id": 739,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2110",
+    "right_id": 1915,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2792",
+    "right_id": 1809,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1601",
+    "right_id": "b-1390",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+
+    ]
+  },
+  {
+    "left_id": "1649",
+    "right_id": 641,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0095270",
+    "right_id": "1009096-hairspray",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1198",
+    "right_id": "b-1030",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1613092",
+    "right_id": "happy_2011",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0255819",
+    "right_id": "baby_boy",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "362",
+    "right_id": 572,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2975",
+    "right_id": 2414,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1329",
+    "right_id": 1083,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1812",
+    "right_id": 721,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0421729",
+    "right_id": "1154157-big_mommas_house_2",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2234",
+    "right_id": 1784,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-122",
+    "right_id": "b-120",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0111280",
+    "right_id": "star_trek_generations",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0118755",
+    "right_id": "1081203-borrowers",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "445",
+    "right_id": 618,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0422774",
+    "right_id": "are_we_done_yet",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "801",
+    "right_id": 1168,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1138",
+    "right_id": 1403,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "357",
+    "right_id": 159,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]"
+    ]
+  },
+  {
+    "left_id": "1625",
+    "right_id": 863,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "224",
+    "right_id": 256,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1305",
+    "right_id": "b-1128",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0038776",
+    "right_id": "1015000-night_and_day",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1032",
+    "right_id": "b-961",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2053463",
+    "right_id": "side_effects_2013",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1022",
+    "right_id": 1505,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-534",
+    "right_id": "b-502",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "a-334",
+    "right_id": "b-323",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+
+    ]
+  },
+  {
+    "left_id": "tt0122933",
+    "right_id": "analyze_this",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2231253",
+    "right_id": "heat_2013",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "861",
+    "right_id": 203,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2262227",
+    "right_id": "the_book_of_life_2014",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1204",
+    "right_id": 1917,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0449467",
+    "right_id": "babel",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1411250",
+    "right_id": "riddick",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0100419",
+    "right_id": "problem_child",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0078723",
+    "right_id": "1941",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1721",
+    "right_id": "b-1503",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "873",
+    "right_id": 2271,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1172994",
+    "right_id": "house_of_the_devil",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1691917",
+    "right_id": "planes",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "63",
+    "right_id": 908,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1436568",
+    "right_id": "assassination_games",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "937",
+    "right_id": 763,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2104",
+    "right_id": 593,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0963966",
+    "right_id": "sorcerers_apprentice",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1568",
+    "right_id": "b-1367",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "1582",
+    "right_id": 1440,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "283",
+    "right_id": 1480,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0074285",
+    "right_id": "1003625-carrie",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "171",
+    "right_id": 63,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0340163",
+    "right_id": "1141099-hostage",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1233",
+    "right_id": 1418,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0415306",
+    "right_id": "talladega_nights_the_ballad_of_ricky_bobby",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2025690",
+    "right_id": "the_finest_hours_an_imax_3d_experience",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2938",
+    "right_id": 1785,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1713",
+    "right_id": "b-1497",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0044672",
+    "right_id": "greatest_show_on_earth",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "65",
+    "right_id": 156,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2894",
+    "right_id": 1164,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1014",
+    "right_id": "b-943",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1674771",
+    "right_id": "entourage",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2666",
+    "right_id": 2051,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "92",
+    "right_id": 226,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt3346224",
+    "right_id": "zipper",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1191",
+    "right_id": "b-1023",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "972",
+    "right_id": 1671,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"actors\"], [\"actors\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "555",
+    "right_id": 672,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "105",
+    "right_id": 1862,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1647",
+    "right_id": 1573,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0379786",
+    "right_id": "serenity",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-373",
+    "right_id": "b-356",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0079688",
+    "right_id": "over_the_edge",
+    "output": [
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0069303",
+    "right_id": "sounder",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1821658",
+    "right_id": "the_nut_job",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1571",
+    "right_id": 925,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0848557",
+    "right_id": "diary-of-the-dead2007",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0104511",
+    "right_id": "innocent_blood",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1606389",
+    "right_id": "the_vow_2012",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0113080",
+    "right_id": "flirt",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2926810",
+    "right_id": "abcs_of_death_2",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "32",
+    "right_id": 283,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2092",
+    "right_id": 2566,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0417001",
+    "right_id": "must_love_dogs",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1346",
+    "right_id": 1683,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "76",
+    "right_id": 67,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "429",
+    "right_id": 809,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt3235888",
+    "right_id": "it_follows",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2762",
+    "right_id": 2700,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "154",
+    "right_id": 136,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "82",
+    "right_id": 649,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1088",
+    "right_id": "b-2135",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "a-219",
+    "right_id": "b-213",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "942",
+    "right_id": 574,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0167360",
+    "right_id": "race_to_space",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-671",
+    "right_id": "b-627",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "a-968",
+    "right_id": "b-901",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "1830",
+    "right_id": 1023,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2333",
+    "right_id": 1802,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0096378",
+    "right_id": "vibes",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1418",
+    "right_id": 1127,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1326",
+    "right_id": "b-1148",
+    "output": [
+      "[[\"title\"], [\"Title\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0343818",
+    "right_id": "i_robot",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-78",
+    "right_id": "b-78",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "2812",
+    "right_id": 788,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "663",
+    "right_id": 211,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1125",
+    "right_id": 1276,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-624",
+    "right_id": "b-588",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"year_year\", \"year_month_day\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "2038",
+    "right_id": 519,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0051622",
+    "right_id": "1007600-fly",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0093349",
+    "right_id": "1039810-king_lear",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Genre\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1755",
+    "right_id": "b-1535",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "51",
+    "right_id": 24,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0108002",
+    "right_id": "rudy",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Genre\", \"Description\"]]"
+    
+    ]
+  },
+  {
+    "left_id": "tt0453467",
+    "right_id": "deja_vu",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "725",
+    "right_id": 654,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0433362",
+    "right_id": "daybreakers",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "911",
+    "right_id": 684,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1593",
+    "right_id": "b-1384",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"Year\"]]"
+    ]
+  },
+  {
+    "left_id": "a-333",
+    "right_id": "b-322",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "a-988",
+    "right_id": "b-919",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "a-347",
+    "right_id": "b-336",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"year_year\", \"year_month_day\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0055633",
+    "right_id": "young_savages",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-514",
+    "right_id": "b-486",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt2294677",
+    "right_id": "in_a_world_2013",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1831",
+    "right_id": 759,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0371746",
+    "right_id": "iron_man",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1521",
+    "right_id": 811,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "280",
+    "right_id": 64,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "839",
+    "right_id": 1595,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0257076",
+    "right_id": "swat",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1744",
+    "right_id": 2380,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-874",
+    "right_id": "b-816",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "a-22",
+    "right_id": "b-24",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0043924",
+    "right_id": "place_in_the_sun",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "736",
+    "right_id": 1483,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2529",
+    "right_id": 1021,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0113613",
+    "right_id": "1071464-last_supper",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0270560",
+    "right_id": "our_lips_are_sealed",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1914",
+    "right_id": 1447,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "876",
+    "right_id": 647,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0273923",
+    "right_id": "orange_county",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "449",
+    "right_id": 186,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt3081268",
+    "right_id": "reaper_2015",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2590",
+    "right_id": 1302,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-381",
+    "right_id": "b-363",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0082979",
+    "right_id": "reds",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1044",
+    "right_id": 1757,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1855199",
+    "right_id": "end_of_watch",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0405325",
+    "right_id": "1142872-sky_high",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1335",
+    "right_id": 2530,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-848",
+    "right_id": "b-792",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0436697",
+    "right_id": "queen",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "834",
+    "right_id": 1039,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1461",
+    "right_id": 1072,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "2010",
+    "right_id": 1245,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-845",
+    "right_id": "b-789",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "a-208",
+    "right_id": "b-203",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "3007",
+    "right_id": 1333,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0280969",
+    "right_id": "my_little_eye",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1667",
+    "right_id": "b-1450",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]"
+    ]
+  },
+  {
+    "left_id": "3026",
+    "right_id": 2620,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "642",
+    "right_id": 1185,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0028092",
+    "right_id": "pennies_from_heaven_1936",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "36",
+    "right_id": 549,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1145",
+    "right_id": "b-2187",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"Year\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0077663",
+    "right_id": "1009427-heaven_can_wait",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "tt1131734",
+    "right_id": "jennifers_body",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1863",
+    "right_id": 2218,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0062362",
+    "right_id": "thoroughly_modern_millie",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1150",
+    "right_id": 435,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0096928",
+    "right_id": "bill_and_teds_excellent_adventure",
+    "output": [
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-1086",
+    "right_id": "b-2134",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"Year\"]]"
+    ]
+  },
+  {
+    "left_id": "a-281",
+    "right_id": "b-275",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0119670",
+    "right_id": "mighty",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "1839",
+    "right_id": 1489,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1761",
+    "right_id": 1695,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"actors\"], [\"actors\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "a-502",
+    "right_id": "b-476",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year\", \"year_month_day\"], [\"year_year_month\", \"year_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0119432",
+    "right_id": "jungle_2_jungle",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"ReleaseDate\", \"Creator\", \"Duration\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "a-390",
+    "right_id": "b-372",
+    "output": [
+      "[[\"title\"], [\"Title\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"information\"], [\"Cast\", \"Genre\", \"Duration\", \"Summary\"]]",
+      "[[\"year_year_month\", \"year_day\"], [\"year_year\", \"year_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0305206",
+    "right_id": "american_splendor",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "237",
+    "right_id": 147,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "1562",
+    "right_id": 699,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  },
+  {
+    "left_id": "tt0057193",
+    "right_id": "its_a_mad_mad_mad_mad_world",
+    "output": [
+      "[[\"title\"], [\"Name\"]]",
+      "[[\"director\"], [\"Director\"]]",
+      "[[\"actors\"], [\"Cast\"]]",
+      "[[\"year\"], [\"YearRange\"]]",
+      "[[\"information\"], [\"Creator\", \"Genre\", \"Description\"]]"
+    ]
+  },
+  {
+    "left_id": "2280",
+    "right_id": 1756,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"director\"], [\"director(s)\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"information\"], [\"writers\"]]"
+    ]
+  }
+]

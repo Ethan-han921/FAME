@@ -1,0 +1,8 @@
+{
+  "joint_exact_match_correct": 309,
+  "joint_exact_match_total": 437,
+  "joint_exact_match_accuracy": 0.7070938215102975,
+  "missing_predictions": 0,
+  "invalid_am_outputs": 0,
+  "duplicate_gt_ids": 0
+}

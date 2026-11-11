@@ -1,0 +1,19 @@
+{
+  "dataset": "semi_rel",
+  "model": "gpt-5.6-luna",
+  "mode": "stage1_only",
+  "total_pairs": 437,
+  "matched_pairs": 166,
+  "stage1_em": {
+    "total": 437,
+    "tp": 164,
+    "fp": 2,
+    "tn": 252,
+    "fn": 19,
+    "precision": 0.9879518072289156,
+    "recall": 0.8961748633879781,
+    "f1": 0.9398280802292264,
+    "accuracy": 0.9519450800915332
+  },
+  "stage2_attr": null
+}

@@ -1,0 +1,5353 @@
+[
+  {
+    "left_id": "funding_12146",
+    "right_id": "funding_12147",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\", \"zipcode\"],  [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00598",
+    "right_id": "funding_00597",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05040",
+    "right_id": "funding_05039",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11451",
+    "right_id": "funding_11453",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04392",
+    "right_id": "funding_04388",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07549",
+    "right_id": "funding_07545",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07621",
+    "right_id": "funding_07622",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08300",
+    "right_id": "funding_08299",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06861",
+    "right_id": "funding_06860",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02457",
+    "right_id": "funding_02455",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05042",
+    "right_id": "funding_05041",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06623",
+    "right_id": "funding_06621",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08325",
+    "right_id": "funding_08324",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08083",
+    "right_id": "funding_08079",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08316",
+    "right_id": "funding_08315",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14282",
+    "right_id": "funding_14283",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02311",
+    "right_id": "funding_02313",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07359",
+    "right_id": "funding_07362",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09899",
+    "right_id": "funding_09903",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"city\", \"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00319",
+    "right_id": "funding_00320",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06324",
+    "right_id": "funding_06321",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13968",
+    "right_id": "funding_13965",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16077",
+    "right_id": "funding_16075",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05915",
+    "right_id": "funding_05914",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09264",
+    "right_id": "funding_09269",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06459",
+    "right_id": "funding_06458",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03768",
+    "right_id": "funding_03767",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00292",
+    "right_id": "funding_00291",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05287",
+    "right_id": "funding_05289",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06982",
+    "right_id": "funding_06980",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03458",
+    "right_id": "funding_03460",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08101",
+    "right_id": "funding_08102",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14281",
+    "right_id": "funding_14277",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12972",
+    "right_id": "funding_12971",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07782",
+    "right_id": "funding_07779",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06981",
+    "right_id": "funding_06982",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06395",
+    "right_id": "funding_06393",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01353",
+    "right_id": "funding_01355",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"street\", \"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05192",
+    "right_id": "funding_05191",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10714",
+    "right_id": "funding_10715",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00005",
+    "right_id": "funding_00003",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12557",
+    "right_id": "funding_12558",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08972",
+    "right_id": "funding_08971",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16052",
+    "right_id": "funding_16045",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10137",
+    "right_id": "funding_10141",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06328",
+    "right_id": "funding_06330",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14110",
+    "right_id": "funding_14113",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"street\", \"city\", \"state\", \"zipcode\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11634",
+    "right_id": "funding_11632",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"state\"]]"
+
+    ]
+  },
+  {
+    "left_id": "funding_07522",
+    "right_id": "funding_07525",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07647",
+    "right_id": "funding_07649",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13493",
+    "right_id": "funding_13495",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08164",
+    "right_id": "funding_08167",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04813",
+    "right_id": "funding_04816",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05294",
+    "right_id": "funding_05288",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04812",
+    "right_id": "funding_04815",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05189",
+    "right_id": "funding_05188",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"address\"], [\"city\", \"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12344",
+    "right_id": "funding_12346",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13004",
+    "right_id": "funding_13005",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02483",
+    "right_id": "funding_02481",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11886",
+    "right_id": "funding_11883",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10966",
+    "right_id": "funding_10967",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02558",
+    "right_id": "funding_02555",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+      
+    ]
+  },
+  {
+    "left_id": "funding_06933",
+    "right_id": "funding_06934",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10519",
+    "right_id": "funding_10517",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13998",
+    "right_id": "funding_13997",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11889",
+    "right_id": "funding_11883",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13975",
+    "right_id": "funding_13974",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13016",
+    "right_id": "funding_13017",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13356",
+    "right_id": "funding_13357",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13835",
+    "right_id": "funding_13833",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03955",
+    "right_id": "funding_03957",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14706",
+    "right_id": "funding_14707",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"street\", \"city\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04980",
+    "right_id": "funding_04986",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14784",
+    "right_id": "funding_14785",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05511",
+    "right_id": "funding_05517",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00686",
+    "right_id": "funding_00689",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03092",
+    "right_id": "funding_03090",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10583",
+    "right_id": "funding_10584",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01226",
+    "right_id": "funding_01225",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10648",
+    "right_id": "funding_10649",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11446",
+    "right_id": "funding_11449",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16044",
+    "right_id": "funding_16046",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01516",
+    "right_id": "funding_01519",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06360",
+    "right_id": "funding_06361",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05513",
+    "right_id": "funding_05509",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"street\", \"city\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03531",
+    "right_id": "funding_03530",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15876",
+    "right_id": "funding_15878",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09273",
+    "right_id": "funding_09275",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15878",
+    "right_id": "funding_15879",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09898",
+    "right_id": "funding_09903",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04659",
+    "right_id": "funding_04660",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01515",
+    "right_id": "funding_01521",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03103",
+    "right_id": "funding_03106",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14243",
+    "right_id": "funding_14244",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01247",
+    "right_id": "funding_01250",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12950",
+    "right_id": "funding_12949",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16052",
+    "right_id": "funding_16044",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11324",
+    "right_id": "funding_11322",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"street\", \"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15156",
+    "right_id": "funding_15157",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07857",
+    "right_id": "funding_07858",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08278",
+    "right_id": "funding_08279",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14426",
+    "right_id": "funding_14425",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14723",
+    "right_id": "funding_14720",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02553",
+    "right_id": "funding_02560",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13890",
+    "right_id": "funding_13895",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12701",
+    "right_id": "funding_12699",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04263",
+    "right_id": "funding_04262",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13721",
+    "right_id": "funding_13723",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00927",
+    "right_id": "funding_00928",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07532",
+    "right_id": "funding_07528",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00315",
+    "right_id": "funding_00314",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03494",
+    "right_id": "funding_03496",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09718",
+    "right_id": "funding_09716",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06556",
+    "right_id": "funding_06554",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16039",
+    "right_id": "funding_16038",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"city\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14267",
+    "right_id": "funding_14266",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05296",
+    "right_id": "funding_05297",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04343",
+    "right_id": "funding_04342",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06047",
+    "right_id": "funding_06046",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14867",
+    "right_id": "funding_14866",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05847",
+    "right_id": "funding_05850",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13489",
+    "right_id": "funding_13486",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11709",
+    "right_id": "funding_11708",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04880",
+    "right_id": "funding_04881",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09899",
+    "right_id": "funding_09906",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02558",
+    "right_id": "funding_02560",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06191",
+    "right_id": "funding_06193",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"state\"], [\"address\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14273",
+    "right_id": "funding_14274",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08037",
+    "right_id": "funding_08042",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"address\"], [\"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14621",
+    "right_id": "funding_14620",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00040",
+    "right_id": "funding_00042",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10066",
+    "right_id": "funding_10065",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01515",
+    "right_id": "funding_01519",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06037",
+    "right_id": "funding_06035",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12325",
+    "right_id": "funding_12324",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"street\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07339",
+    "right_id": "funding_07340",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08149",
+    "right_id": "funding_08148",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08166",
+    "right_id": "funding_08165",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08207",
+    "right_id": "funding_08206",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09118",
+    "right_id": "funding_09115",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16140",
+    "right_id": "funding_16138",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11040",
+    "right_id": "funding_11041",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00489",
+    "right_id": "funding_00493",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13350",
+    "right_id": "funding_13351",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07538",
+    "right_id": "funding_07537",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09432",
+    "right_id": "funding_09431",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14347",
+    "right_id": "funding_14348",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09676",
+    "right_id": "funding_09673",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08921",
+    "right_id": "funding_08920",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03169",
+    "right_id": "funding_03167",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11526",
+    "right_id": "funding_11524",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00702",
+    "right_id": "funding_00701",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08157",
+    "right_id": "funding_08158",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14285",
+    "right_id": "funding_14280",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11711",
+    "right_id": "funding_11712",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08270",
+    "right_id": "funding_08272",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00694",
+    "right_id": "funding_00695",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00478",
+    "right_id": "funding_00479",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08388",
+    "right_id": "funding_08390",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15180",
+    "right_id": "funding_15181",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11423",
+    "right_id": "funding_11428",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13894",
+    "right_id": "funding_13895",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13419",
+    "right_id": "funding_13417",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16107",
+    "right_id": "funding_16105",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13158",
+    "right_id": "funding_13159",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13487",
+    "right_id": "funding_13484",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11097",
+    "right_id": "funding_11098",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14127",
+    "right_id": "funding_14125",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05376",
+    "right_id": "funding_05374",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08512",
+    "right_id": "funding_08513",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14956",
+    "right_id": "funding_14955",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04776",
+    "right_id": "funding_04775",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12511",
+    "right_id": "funding_12509",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01922",
+    "right_id": "funding_01928",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05199",
+    "right_id": "funding_05198",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15549",
+    "right_id": "funding_15547",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11729",
+    "right_id": "funding_11730",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"street\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05217",
+    "right_id": "funding_05216",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08722",
+    "right_id": "funding_08723",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10650",
+    "right_id": "funding_10649",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15008",
+    "right_id": "funding_15012",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09596",
+    "right_id": "funding_09595",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13536",
+    "right_id": "funding_13537",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"address\"], [\"street\", \"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15673",
+    "right_id": "funding_15671",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00022",
+    "right_id": "funding_00021",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13836",
+    "right_id": "funding_13837",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07780",
+    "right_id": "funding_07781",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04856",
+    "right_id": "funding_04857",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04811",
+    "right_id": "funding_04813",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12151",
+    "right_id": "funding_12150",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04956",
+    "right_id": "funding_04955",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07789",
+    "right_id": "funding_07790",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04852",
+    "right_id": "funding_04849",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"address\"], [\"city\", \"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15087",
+    "right_id": "funding_15086",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12925",
+    "right_id": "funding_12932",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03180",
+    "right_id": "funding_03174",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13508",
+    "right_id": "funding_13507",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00963",
+    "right_id": "funding_00960",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09109",
+    "right_id": "funding_09110",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04276",
+    "right_id": "funding_04274",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04361",
+    "right_id": "funding_04364",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03452",
+    "right_id": "funding_03451",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02547",
+    "right_id": "funding_02550",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02063",
+    "right_id": "funding_02065",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"street\", \"city\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00378",
+    "right_id": "funding_00382",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09247",
+    "right_id": "funding_09249",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"street\", \"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11446",
+    "right_id": "funding_11450",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02457",
+    "right_id": "funding_02453",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03049",
+    "right_id": "funding_03045",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01227",
+    "right_id": "funding_01228",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05409",
+    "right_id": "funding_05416",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01250",
+    "right_id": "funding_01251",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14493",
+    "right_id": "funding_14496",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"street\", \"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08417",
+    "right_id": "funding_08416",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15579",
+    "right_id": "funding_15577",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06364",
+    "right_id": "funding_06361",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01517",
+    "right_id": "funding_01519",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11331",
+    "right_id": "funding_11330",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08100",
+    "right_id": "funding_08102",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09264",
+    "right_id": "funding_09268",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01515",
+    "right_id": "funding_01512",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12464",
+    "right_id": "funding_12465",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03633",
+    "right_id": "funding_03634",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13519",
+    "right_id": "funding_13518",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16030",
+    "right_id": "funding_16029",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13971",
+    "right_id": "funding_13972",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07530",
+    "right_id": "funding_07532",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14661",
+    "right_id": "funding_14660",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11678",
+    "right_id": "funding_11679",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16088",
+    "right_id": "funding_16090",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16242",
+    "right_id": "funding_16240",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15869",
+    "right_id": "funding_15870",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07651",
+    "right_id": "funding_07652",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02222",
+    "right_id": "funding_02228",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06361",
+    "right_id": "funding_06359",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13033",
+    "right_id": "funding_13027",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"street\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06978",
+    "right_id": "funding_06980",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15431",
+    "right_id": "funding_15429",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12946",
+    "right_id": "funding_12945",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04869",
+    "right_id": "funding_04871",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15104",
+    "right_id": "funding_15105",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05270",
+    "right_id": "funding_05271",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14236",
+    "right_id": "funding_14242",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"street\", \"city\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12270",
+    "right_id": "funding_12272",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15576",
+    "right_id": "funding_15580",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11411",
+    "right_id": "funding_11407",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02131",
+    "right_id": "funding_02133",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02892",
+    "right_id": "funding_02891",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13839",
+    "right_id": "funding_13833",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05370",
+    "right_id": "funding_05367",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13716",
+    "right_id": "funding_13715",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10197",
+    "right_id": "funding_10196",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04842",
+    "right_id": "funding_04843",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12494",
+    "right_id": "funding_12493",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02520",
+    "right_id": "funding_02515",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13018",
+    "right_id": "funding_13019",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11627",
+    "right_id": "funding_11628",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01324",
+    "right_id": "funding_01322",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14796",
+    "right_id": "funding_14795",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02883",
+    "right_id": "funding_02886",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12697",
+    "right_id": "funding_12699",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"address\"], [\"street\", \"city\", \"state\", \"zipcode\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04646",
+    "right_id": "funding_04649",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14011",
+    "right_id": "funding_14012",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15822",
+    "right_id": "funding_15819",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14243",
+    "right_id": "funding_14239",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"city\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15487",
+    "right_id": "funding_15485",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07527",
+    "right_id": "funding_07533",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"address\"], [\"street\", \"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03395",
+    "right_id": "funding_03398",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10606",
+    "right_id": "funding_10611",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15222",
+    "right_id": "funding_15219",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00317",
+    "right_id": "funding_00314",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06919",
+    "right_id": "funding_06922",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05219",
+    "right_id": "funding_05216",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14691",
+    "right_id": "funding_14692",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15482",
+    "right_id": "funding_15480",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13526",
+    "right_id": "funding_13529",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"city\", \"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04019",
+    "right_id": "funding_04018",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00966",
+    "right_id": "funding_00968",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"street\", \"city\", \"state\", \"zipcode\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07452",
+    "right_id": "funding_07447",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"street\", \"city\"]]",
+      "[[\"agency\"], [\"agency\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07483",
+    "right_id": "funding_07484",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05368",
+    "right_id": "funding_05370",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13974",
+    "right_id": "funding_13977",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10625",
+    "right_id": "funding_10622",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"city\", \"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11335",
+    "right_id": "funding_11336",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03178",
+    "right_id": "funding_03177",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02322",
+    "right_id": "funding_02318",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03630",
+    "right_id": "funding_03629",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02817",
+    "right_id": "funding_02815",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02271",
+    "right_id": "funding_02266",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05135",
+    "right_id": "funding_05134",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06228",
+    "right_id": "funding_06227",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04136",
+    "right_id": "funding_04139",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13257",
+    "right_id": "funding_13260",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]","[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15564",
+    "right_id": "funding_15562",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"street\", \"city\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04852",
+    "right_id": "funding_04855",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03611",
+    "right_id": "funding_03610",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"city\", \"state\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11762",
+    "right_id": "funding_11764",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00549",
+    "right_id": "funding_00550",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05286",
+    "right_id": "funding_05284",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11426",
+    "right_id": "funding_11424",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05109",
+    "right_id": "funding_05106",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04734",
+    "right_id": "funding_04736",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14702",
+    "right_id": "funding_14703",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12556",
+    "right_id": "funding_12560",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07477",
+    "right_id": "funding_07480",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11589",
+    "right_id": "funding_11588",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02519",
+    "right_id": "funding_02516",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14880",
+    "right_id": "funding_14881",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05927",
+    "right_id": "funding_05926",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08327",
+    "right_id": "funding_08326",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13014",
+    "right_id": "funding_13015",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05277",
+    "right_id": "funding_05273",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"street\", \"city\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10610",
+    "right_id": "funding_10613",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08388",
+    "right_id": "funding_08391",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02879",
+    "right_id": "funding_02878",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09902",
+    "right_id": "funding_09905",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_16162",
+    "right_id": "funding_16163",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"street\", \"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15950",
+    "right_id": "funding_15948",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13026",
+    "right_id": "funding_13032",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12601",
+    "right_id": "funding_12603",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08230",
+    "right_id": "funding_08224",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05425",
+    "right_id": "funding_05426",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02429",
+    "right_id": "funding_02428",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13942",
+    "right_id": "funding_13944",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15942",
+    "right_id": "funding_15943",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08389",
+    "right_id": "funding_08392",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13221",
+    "right_id": "funding_13218",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00949",
+    "right_id": "funding_00952",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06895",
+    "right_id": "funding_06896",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"city\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02433",
+    "right_id": "funding_02432",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06620",
+    "right_id": "funding_06621",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08947",
+    "right_id": "funding_08945",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14899",
+    "right_id": "funding_14896",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07341",
+    "right_id": "funding_07340",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09658",
+    "right_id": "funding_09657",
+    "output": [
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12072",
+    "right_id": "funding_12073",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02554",
+    "right_id": "funding_02558",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00671",
+    "right_id": "funding_00670",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09537",
+    "right_id": "funding_09536",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14242",
+    "right_id": "funding_14243",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07590",
+    "right_id": "funding_07591",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06622",
+    "right_id": "funding_06619",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"street\", \"city\", \"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00604",
+    "right_id": "funding_00602",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14829",
+    "right_id": "funding_14828",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03049",
+    "right_id": "funding_03048",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13257",
+    "right_id": "funding_13258",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06327",
+    "right_id": "funding_06330",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09119",
+    "right_id": "funding_09122",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00696",
+    "right_id": "funding_00694",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09739",
+    "right_id": "funding_09741",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01701",
+    "right_id": "funding_01697",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02672",
+    "right_id": "funding_02669",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09899",
+    "right_id": "funding_09905",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"state\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10550",
+    "right_id": "funding_10549",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"address\"], [\"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08466",
+    "right_id": "funding_08467",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09740",
+    "right_id": "funding_09739",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00690",
+    "right_id": "funding_00691",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10648",
+    "right_id": "funding_10645",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01769",
+    "right_id": "funding_01768",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02488",
+    "right_id": "funding_02486",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00435",
+    "right_id": "funding_00434",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02344",
+    "right_id": "funding_02345",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02073",
+    "right_id": "funding_02074",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"address\"], [\"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10639",
+    "right_id": "funding_10641",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15298",
+    "right_id": "funding_15296",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02552",
+    "right_id": "funding_02555",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"city\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02696",
+    "right_id": "funding_02698",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10525",
+    "right_id": "funding_10527",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11444",
+    "right_id": "funding_11452",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09274",
+    "right_id": "funding_09276",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02290",
+    "right_id": "funding_02294",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02453",
+    "right_id": "funding_02456",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"agency\"], [\"agency\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12974",
+    "right_id": "funding_12975",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01350",
+    "right_id": "funding_01349",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00299",
+    "right_id": "funding_00300",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08340",
+    "right_id": "funding_08337",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03737",
+    "right_id": "funding_03738",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14444",
+    "right_id": "funding_14445",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11453",
+    "right_id": "funding_11446",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12557",
+    "right_id": "funding_12556",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08083",
+    "right_id": "funding_08082",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15057",
+    "right_id": "funding_15058",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13558",
+    "right_id": "funding_13559",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13009",
+    "right_id": "funding_13007",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13938",
+    "right_id": "funding_13934",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07549",
+    "right_id": "funding_07544",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04365",
+    "right_id": "funding_04364",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11746",
+    "right_id": "funding_11747",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04586",
+    "right_id": "funding_04585",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15187",
+    "right_id": "funding_15188",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11674",
+    "right_id": "funding_11673",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"address\"], [\"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05412",
+    "right_id": "funding_05413",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10357",
+    "right_id": "funding_10359",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09432",
+    "right_id": "funding_09430",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00496",
+    "right_id": "funding_00494",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"address\"], [\"street\", \"city\", \"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15056",
+    "right_id": "funding_15055",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00388",
+    "right_id": "funding_00387",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14777",
+    "right_id": "funding_14773",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00553",
+    "right_id": "funding_00552",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02487",
+    "right_id": "funding_02485",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14013",
+    "right_id": "funding_14012",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"street\", \"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08321",
+    "right_id": "funding_08326",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"city\", \"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12510",
+    "right_id": "funding_12514",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03497",
+    "right_id": "funding_03496",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09681",
+    "right_id": "funding_09682",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15828",
+    "right_id": "funding_15827",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03038",
+    "right_id": "funding_03037",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07205",
+    "right_id": "funding_07204",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07444",
+    "right_id": "funding_07445",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00061",
+    "right_id": "funding_00062",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11651",
+    "right_id": "funding_11652",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05610",
+    "right_id": "funding_05611",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05846",
+    "right_id": "funding_05845",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11444",
+    "right_id": "funding_11445",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14898",
+    "right_id": "funding_14901",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03102",
+    "right_id": "funding_03099",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00960",
+    "right_id": "funding_00959",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"city\", \"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06362",
+    "right_id": "funding_06359",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14709",
+    "right_id": "funding_14706",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14760",
+    "right_id": "funding_14763",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"street\", \"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03047",
+    "right_id": "funding_03045",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11580",
+    "right_id": "funding_11581",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12992",
+    "right_id": "funding_12991",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12256",
+    "right_id": "funding_12255",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14554",
+    "right_id": "funding_14553",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04348",
+    "right_id": "funding_04347",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00752",
+    "right_id": "funding_00758",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"street\", \"state\", \"zipcode\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03492",
+    "right_id": "funding_03489",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"street\", \"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05946",
+    "right_id": "funding_05949",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04098",
+    "right_id": "funding_04095",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08166",
+    "right_id": "funding_08167",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07789",
+    "right_id": "funding_07787",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"city\", \"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14330",
+    "right_id": "funding_14331",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01381",
+    "right_id": "funding_01380",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01382",
+    "right_id": "funding_01380",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_02838",
+    "right_id": "funding_02835",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04262",
+    "right_id": "funding_04261",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13160",
+    "right_id": "funding_13161",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00722",
+    "right_id": "funding_00724",
+    "output": [
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"street\", \"city\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03049",
+    "right_id": "funding_03046",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11198",
+    "right_id": "funding_11196",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04366",
+    "right_id": "funding_04363",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00485",
+    "right_id": "funding_00484",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14281",
+    "right_id": "funding_14278",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03157",
+    "right_id": "funding_03159",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13938",
+    "right_id": "funding_13935",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15871",
+    "right_id": "funding_15869",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10401",
+    "right_id": "funding_10402",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03455",
+    "right_id": "funding_03456",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07646",
+    "right_id": "funding_07649",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01274",
+    "right_id": "funding_01275",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"street\", \"city\"]]",
+      "[[\"counselor\"], [\"counselor\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13719",
+    "right_id": "funding_13718",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05844",
+    "right_id": "funding_05845",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06618",
+    "right_id": "funding_06622",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06363",
+    "right_id": "funding_06359",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09657",
+    "right_id": "funding_09656",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04023",
+    "right_id": "funding_04024",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14238",
+    "right_id": "funding_14239",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15552",
+    "right_id": "funding_15551",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05480",
+    "right_id": "funding_05481",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12602",
+    "right_id": "funding_12605",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03049",
+    "right_id": "funding_03047",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04276",
+    "right_id": "funding_04275",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06830",
+    "right_id": "funding_06826",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"street\", \"city\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_07483",
+    "right_id": "funding_07482",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14112",
+    "right_id": "funding_14111",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12700",
+    "right_id": "funding_12696",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15777",
+    "right_id": "funding_15781",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_05374",
+    "right_id": "funding_05379",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09672",
+    "right_id": "funding_09675",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15791",
+    "right_id": "funding_15793",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"address\"], [\"street\", \"city\", \"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_09126",
+    "right_id": "funding_09124",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11230",
+    "right_id": "funding_11233",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00943",
+    "right_id": "funding_00947",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"address\"], [\"city\", \"state\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15486",
+    "right_id": "funding_15485",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_03760",
+    "right_id": "funding_03758",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"state\", \"zipcode\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_01222",
+    "right_id": "funding_01223",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"city\", \"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14108",
+    "right_id": "funding_14112",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04098",
+    "right_id": "funding_04097",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13006",
+    "right_id": "funding_13009",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11769",
+    "right_id": "funding_11767",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"state\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_08080",
+    "right_id": "funding_08081",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15422",
+    "right_id": "funding_15423",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04032",
+    "right_id": "funding_04034",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10930",
+    "right_id": "funding_10931",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11584",
+    "right_id": "funding_11582",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"address\"], [\"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10526",
+    "right_id": "funding_10527",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_12387",
+    "right_id": "funding_12386",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15360",
+    "right_id": "funding_15353",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_00042",
+    "right_id": "funding_00039",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13964",
+    "right_id": "funding_13965",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"street\", \"city\"], [\"address\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_04966",
+    "right_id": "funding_04968",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_13419",
+    "right_id": "funding_13416",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_06325",
+    "right_id": "funding_06323",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_11731",
+    "right_id": "funding_11728",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15417",
+    "right_id": "funding_15422",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"amount\"], [\"amount\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_14013",
+    "right_id": "funding_14014",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"city_state\", \"street_zip\"], [\"city_street\", \"state_zip\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10141",
+    "right_id": "funding_10139",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"address\"], [\"city\", \"state\", \"zipcode\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_15871",
+    "right_id": "funding_15872",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"source\"], [\"source\"]]",
+      "[[\"counselor\"], [\"counselor\"]]",
+      "[[\"amount\"], [\"amount\"]]"
+    ]
+  },
+  {
+    "left_id": "funding_10214",
+    "right_id": "funding_10213",
+    "output": [
+      "[[\"name\"], [\"name\"]]",
+      "[[\"address\"], [\"address\"]]",
+      "[[\"year\"], [\"year\"]]",
+      "[[\"agency\"], [\"agency\"]]",
+      "[[\"status\"], [\"status\"]]"
+    ]
+  }
+]

@@ -1,0 +1,3598 @@
+[
+  {
+    "left": {
+      "_id": "funding_06363",
+      "name": "Stanley M. Isaacs Neighborhood Center, Inc.",
+      "address": "York, NY",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs - Pending",
+      "amount": 6100.48
+    },
+    "right": {
+      "_id": "funding_06359",
+      "name": "Stanley M. Isaacs Neighborhood Inc.",
+      "address": "415 East 93rd Street New York, NY 10128",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_04263",
+      "name": "Flatbush Youth Association, Inc. (Brooklyn, NY)",
+      "agency": "DYCD",
+      "source": "Youth Services Initiative",
+      "counselor": "Mealy",
+      "amount": 10000.0,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_04262",
+      "name": "Flatbu#sh Youth Association, Inc.",
+      "address": "570 Ocean Avenue Brooklyn, NY 11226",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Eugene",
+      "amount": "7000.0",
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13016",
+      "name": "Marcus Garvey Park Houses Tenant Association",
+      "year": 2012,
+      "agency": "NYCHA",
+      "counselor": "Mealy",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "10 Amboy Street - 5B, 11212"
+    },
+    "right": {
+      "_id": "funding_13017",
+      "name": "Marcus Garvey Park Houses Tenant Association",
+      "year": 2013,
+      "agency": "NYCHA",
+      "source": "Local",
+      "counselor": "Mealy",
+      "amount": "5000.0",
+      "status": "Cleared",
+      "city_street": "Brooklyn, 10 Amboy Street -5B",
+      "state_zip": "NY 11212"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14281",
+      "name": "Fordham Road District Management Association, Inc., The",
+      "year": 2012,
+      "agency": "DSBS",
+      "counselor": "Rivera",
+      "amount": "32500.0",
+      "status": "Cleared",
+      "city_state": "Bronx - NY",
+      "street_zip": "2488 Grand Concourse | 10458"
+    },
+    "right": {
+      "_id": "funding_14277",
+      "name": "Fordham District Management Association, Inc.,",
+      "year": 2011,
+      "agency": "DSBS",
+      "source": "Local",
+      "counselor": "Rivera",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "city_street": "Bronx, 2488 Grand Concourse",
+      "state_zip": "NY 10458"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05277",
+      "name": "B'nai B'rith Hillel Foundation, Inc. at Brooklyn College",
+      "year": 2013,
+      "agency": "CUNY",
+      "source": "Local",
+      "amount": 25000.0,
+      "status": "Pending",
+      "street": "2901 campus rd",
+      "city": "Brooklyn"
+    },
+    "right": {
+      "_id": "funding_05273",
+      "name": "B'nai B'rith Hillel Foundation, Inc. at Brooklyn Companyllege",
+      "address": "2901 Campus Road Brooklyn, NY 11210",
+      "year": 2011,
+      "agency": "CUNY",
+      "counselor": "CC",
+      "amount": 25000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_06933",
+      "name": "Santa Maria Semiors Association",
+      "agency": "DFTA",
+      "source": "Lcal",
+      "counselor": "Vacca",
+      "amount": 1000.0,
+      "status": "Cleared",
+      "city_state": "Bronx, NY",
+      "street_zip": "2352 St Raymond Ave, 10462"
+    },
+    "right": {
+      "_id": "funding_06934",
+      "name": "Santa Maria Seniors Association",
+      "year": 2013,
+      "agency": "DFTA",
+      "source": "Local",
+      "counselor": "Vacca",
+      "amount": 1000.0,
+      "status": "Pending",
+      "city_street": "Bronx, 2352 St Raymond Ave",
+      "state_zip": "NY 10462"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05376",
+      "name": "Bedford Stuyvesant",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Vann",
+      "amount": "5000.0",
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "1368 Fulton Street, 11216"
+    },
+    "right": {
+      "_id": "funding_05374",
+      "name": "Bedford Stuyvesant Restoration Corporation",
+      "year": 2011,
+      "agency": "DSBS",
+      "source": "80000.0: Local",
+      "counselor": "Vann",
+      "status": "Cleared",
+      "city_street": "Brooklyn, 1368 Fulton Street",
+      "state_zip": "NY 11216"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_04811",
+      "name": "Neighborhood Technical Assistance Clinic",
+      "address": "Brooklyn, NY 11233",
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Mealy",
+      "amount": 10000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_04813",
+      "name": "Neighborhood Technical Assistance Clinic",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "City Council Discretionary Funding",
+      "amount": 15000.0,
+      "status": "Cleared",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zipcode": "11233"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11335",
+      "name": "Urban Dove, Incorporated, The",
+      "address": "40 Exchange Place New York, NY 10005",
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Mark-Viverito",
+      "amount": "6500.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_11336",
+      "name": "Urban Dove,",
+      "agency": "DYCD",
+      "source": "Youth (Cleared)",
+      "amount": 3500.0
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13836",
+      "name": "West Indian American Day Carnival Association,, Inc.",
+      "address": "323-325 Rogers Avenue Brooklyn, NY 11225",
+      "year": 2012,
+      "agency": "DYCD",
+      "counselor": "Recchia",
+      "amount": 3000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_13837",
+      "name": "West Indian American Day Carnival Association,, Inc.",
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 3000.0,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_08300",
+      "name": "Action For Progress, Incorporation",
+      "address": "180 Suffolk Street New York, NY 10002",
+      "agency": "ACS",
+      "source": "Local",
+      "counselor": "Recchia",
+      "amount": 4000.0,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_08299",
+      "name": "Action For Progress, Inc.",
+      "address": "York, NY",
+      "year": 2012,
+      "agency": "ACS",
+      "source": "Local",
+      "counselor": "Recchia",
+      "amount": "5000.0",
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14011",
+      "name": "Muray Hill Committee, Inc.",
+      "agency": "DPR",
+      "counselor": "Quinn",
+      "amount": "7500.0",
+      "status": "Cleared",
+      "city": "New York",
+      "state": "NY",
+      "zipcode": "10156-1897"
+    },
+    "right": {
+      "_id": "funding_14012",
+      "name": "Murray Hill Committee,",
+      "address": "York, NY",
+      "year": 2013,
+      "agency": "DPR",
+      "source": "Local",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_04019",
+      "name": "Q Kingom Ministries, Inc.",
+      "address": "1313 Union Street brooklyn, NY 11225",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "James",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_04018",
+      "name": "Q Kingom Ministries, Inc.",
+      "year": 2012,
+      "agency": "DYCD",
+      "amount": 10000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05109",
+      "name": "Reaching-Out Community Services, Incorporation",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Locel",
+      "counselor": "Gentile",
+      "amount": 6500.0,
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "7708 New Utrecht Avenue, 11214"
+    },
+    "right": {
+      "_id": "funding_05106",
+      "name": "Reaching-Out Community Services, Inc.",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": "4000.0",
+      "status": "Cleared",
+      "city_street": "Brooklyn, 7708 New Utrecht Avenue",
+      "state_zip": "NY 11214"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00671",
+      "name": "St. Demetrios Senior Center (Foundation)",
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Gennaro",
+      "amount": 6000.0,
+      "status": "Cleared",
+      "city_state": "Jamaica / NY",
+      "street_zip": "84-35 152nd Street, 11432"
+    },
+    "right": {
+      "_id": "funding_00670",
+      "name": "St. Demetrios Sr. Center",
+      "year": 2011,
+      "agency": "DFTA",
+      "amount": 8000.0,
+      "status": "Cleared",
+      "city_street": "Jamaica, 84-35 152nd Street",
+      "state_zip": "NY 11432"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12270",
+      "name": "Christ Chu-rch of New Brighton",
+      "address": "76 Franklin Avenue Staten Island, NY 10301",
+      "year": 2011,
+      "source": "Local - DYCD",
+      "counselor": "Rose",
+      "amount": "2000.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_12272",
+      "name": "Christ Chu-rch of New Brighton",
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13493",
+      "name": "New York Anti-Crime Agency A.K.A.Community Anti-Crime Graffiti Program",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Youth Services Initiative",
+      "counselor": "Vallone, Jr",
+      "amount": 13000.0,
+      "status": "Cleared",
+      "city_state": "Astoria, NY",
+      "street_zip": "24-40 Steinway Street, 11103"
+    },
+    "right": {
+      "_id": "funding_13495",
+      "name": "New York Anti-Crime Agency A.K.A.Community Anti-Crime Graffiti Program",
+      "agency": "DYCD",
+      "source": "Youth",
+      "amount": 13000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_15057",
+      "name": "Congregation Merkaz Shiurei Torah - Brooklyn",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Local (Cleared)",
+      "counselor": "Fidler",
+      "amount": 5000.0
+    },
+    "right": {
+      "_id": "funding_15058",
+      "name": "Cnogregation Merkaz Shiurei Torah",
+      "address": "3307 Ave N Brooklyn, NY 11234",
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_15222",
+      "name": "Coney Island Gospel Assembly",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local (5000.0)",
+      "counselor": "Recchia",
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "2828 Neptune Avenue, 11224"
+    },
+    "right": {
+      "_id": "funding_15219",
+      "name": "Coney Island Gospel Assembly",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Recchia",
+      "amount": "4000.0",
+      "status": "Cleared",
+      "city_street": "Brooklyn, 2828 Neptune Avenue",
+      "state_zip": "NY - 11224"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_04023",
+      "name": "New Life Community Development Corporationoration",
+      "address": "82-10 Queens Blvd Elmhurst, NY 11373",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_04024",
+      "name": "New Life Community Development Corporation",
+      "address": "Elmhurst, NY 11373",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "City Council Discretionary Funding",
+      "counselor": "Dromm",
+      "amount": "3500.0",
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05412",
+      "name": "Bethlehem Evangelical Lutheran Church",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "411 Ovington Avenue, 11209"
+    },
+    "right": {
+      "_id": "funding_05413",
+      "name": "Bethlehem Evangelical Lutheran Church",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operatlng Costs",
+      "amount": 6100.48,
+      "status": "Pending",
+      "city_street": "Brooklyn | 411 Ovington Avenue",
+      "state_zip": "NY 11209"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12700",
+      "name": "Richmond Senior Services,, Inc.",
+      "address": "500 Jewett Avenue Staten Island, NY 10302",
+      "agency": "DFTA",
+      "amount": "8750.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_12696",
+      "name": "Richmond Senior Services,, Inc.",
+      "address": "Island, NY 10302",
+      "year": 2011,
+      "agency": "DFTA",
+      "source": "Department for the Aging Services",
+      "counselor": "Rose",
+      "amount": 4750.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12972",
+      "name": "Melodia Womenn's Choir of NYC, Inc.",
+      "year": 2012,
+      "agency": "DCA",
+      "source": "Local",
+      "counselor": "Quinn",
+      "amount": 3000.0,
+      "status": "Cleared",
+      "city_state": "New York, NY",
+      "street_zip": "446 West 47th Street 1B @ 10036"
+    },
+    "right": {
+      "_id": "funding_12971",
+      "name": "Melodia Womenn's Choir of NYC, Inc.",
+      "year": 2011,
+      "agency": "DCA",
+      "amount": "3000.0",
+      "status": "Cleared",
+      "city_street": "New York, 446 West 47th Street, 1B",
+      "state_zip": "NY 10036"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_10214",
+      "name": "Korean American Family Service Center (KAFSC)",
+      "address": "Flushing, NY 11354",
+      "year": 2013,
+      "agency": "DYCD",
+      "counselor": "Koo",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_10213",
+      "name": "Korean Ameriican Family Service Center (KAFSC)",
+      "address": "PO Box 541429 Flushing, NY 11354",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Halloran",
+      "amount": 3000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_07452",
+      "name": "Eden II School for Autistic Children ",
+      "address": "150 Granite Avenue Staten Island, NY 10303",
+      "year": 2012,
+      "agency": "DOHMH",
+      "source": "Autism Awareness",
+      "amount": 42364.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_07447",
+      "name": "Eden II School for Autistic Childrne ",
+      "year": 2010,
+      "agency": "DOHMH",
+      "source": "Atism Awareness",
+      "amount": 47600.0,
+      "status": "Pending",
+      "street": "150 Granite Avenue",
+      "city": "Staten Island"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_03049",
+      "name": "Elmjack Community Little League, Inc. @ Elmhurst, NY",
+      "agency": "DYCD",
+      "source": "Youth",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_03045",
+      "name": "Elmjack Community Little League, Incorporation",
+      "year": 2012,
+      "agency": "DYCD",
+      "counselor": "Ferreras",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "city_street": "Elmhurst, 84-09 25th Avenue East",
+      "state_zip": "NY @ 11370"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_09899",
+      "name": "S.C.R.E.",
+      "agency": "DSBS",
+      "source": "Local",
+      "counselor": "Oddo",
+      "amount": 3000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_09906",
+      "name": "Service Corps of Retired - Executives (SCORE)",
+      "agency": "DSBS",
+      "source": "Local (2013)",
+      "counselor": "Rose",
+      "amount": 5500.0,
+      "status": "Pending",
+      "city_street": "Staten Island, 1550 Richmond Road",
+      "state_zip": "NY 10304"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_01227",
+      "name": "  Woodhaven Richmond Hill Volunteer Ambulance Corps  ",
+      "address": "Woodhaven, NY 11421",
+      "year": 2011,
+      "agency": "FDNY",
+      "source": "Local",
+      "amount": 5000.0,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_01228",
+      "name": "Woodhaven Richmond Hill Voluneter Ambulance Corps",
+      "address": "78-15 Jamaica Avenue Woodhaven, NY 11421",
+      "year": 2012,
+      "agency": "FDNY",
+      "source": "Local",
+      "counselor": "Ulrich",
+      "amount": 5000.0,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12072",
+      "name": "Visiting Nurse Association of Staten Island, Inc.",
+      "address": "Island, NY",
+      "agency": "DOHMH",
+      "source": "Boro",
+      "counselor": "Oddo",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_12073",
+      "name": "Visiting Nurse Association of Staten Island, Inc. (Staten Island, NY)",
+      "year": 2012,
+      "agency": "DOHMH",
+      "source": "Baro",
+      "amount": "3500.0",
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11589",
+      "name": "Child Welfare Organizing Project, Inc.",
+      "year": 2013,
+      "agency": "ACS",
+      "source": "Local",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "city_state": "New York | NY",
+      "street_zip": "East Harlem Neighborhood Center, 10009"
+    },
+    "right": {
+      "_id": "funding_11588",
+      "name": "Child Welfare Organizing Project, Inc.",
+      "year": 2013,
+      "agency": "ACS",
+      "counselor": "Arroyo",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "city_street": "New York - East Harlem Neighborhood Center",
+      "state_zip": "NY | 10009"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_08037",
+      "name": "Belmont Arthur Avenue Local Development Organization",
+      "address": "660 Bronx, NY",
+      "year": 2012,
+      "agency": "HPD",
+      "source": "Local",
+      "counselor": "Rivera",
+      "amount": 10000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_08042",
+      "name": "Belmont Arthur Avenue Local Development Organization",
+      "year": 2013,
+      "agency": "HPD",
+      "counselor": "Rivera",
+      "amount": "10000.0",
+      "status": "Pending",
+      "state": "NY"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00960",
+      "name": "United Inc.",
+      "address": "Brooklyn, NY",
+      "year": 2012,
+      "agency": "DOHMH",
+      "source": "Local",
+      "counselor": "Barron",
+      "amount": 10000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_00959",
+      "name": "United Community Centers, Inc.",
+      "year": 2011,
+      "agency": "DOHMH",
+      "source": "Local",
+      "counselor": "Barron",
+      "amount": 10000.0,
+      "status": "Cleared",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zipcode": "11207"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14282",
+      "name": "[Center] Fordham Road District Management Association, Inc., The",
+      "year": 2013,
+      "agency": "DSBS",
+      "source": "Loocal",
+      "counselor": "Rivera",
+      "amount": 25000.0,
+      "status": "Pending",
+      "state": "NY",
+      "zipcode": "10458"
+    },
+    "right": {
+      "_id": "funding_14283",
+      "name": "fordham road district management association, inc., the",
+      "address": "2488 Grand Concourse Rm 413 Bronx, NY 10458",
+      "year": 2013,
+      "agency": "DSBS",
+      "source": "Local",
+      "counselor": "Cabrera",
+      "amount": 10000.0,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_01324",
+      "name": "Sacred Heart School",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Crowley",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "city_state": "NY",
+      "street_zip": "83-17 78th Ave Glendale, 11385"
+    },
+    "right": {
+      "_id": "funding_01322",
+      "name": "Sacred School",
+      "agency": "DYCD",
+      "source": "Youth (2011)",
+      "counselor": "Crowley",
+      "amount": 3200.0,
+      "status": "Pending",
+      "city_street": "83-17 78th Avenue Glendale",
+      "state_zip": "NY 11385"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_07647",
+      "name": "Staten Island Ice Hockey Association, Inc.",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Ignizio",
+      "amount": 4000.0,
+      "status": "Cleared",
+      "city_state": "Staten Island, NY",
+      "street_zip": "1395 Arden Avenue, 10312"
+    },
+    "right": {
+      "_id": "funding_07649",
+      "name": "Staten Island Hockey Association,",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Youth Services Initiative",
+      "amount": "4000.0",
+      "status": "Cleared",
+      "city_street": "Staten Island & 1395 Arden Avenue",
+      "state_zip": "NY | 10312"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_06981",
+      "name": "Wildcat Service Corporation - 2 Washington Street 3rd Fl New York, NY",
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Comrie",
+      "amount": "7500.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_06982",
+      "name": "The Department of Wildcat Service Corporation",
+      "year": 2012,
+      "agency": "DSS",
+      "counselor": "CC",
+      "amount": 20000.0,
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "10004"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_02672",
+      "name": "Martin Luther King, Jr. Concert Series, Inc. (Institution)",
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "CC",
+      "amount": "200000.0",
+      "status": "Pending",
+      "state": "NY",
+      "zipcode": "11215"
+    },
+    "right": {
+      "_id": "funding_02669",
+      "name": "Martin Luther King, Jr. Concert Series, Inc. - 32 Court Street Brooklyn, NY",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Loal",
+      "counselor": "Mealy",
+      "amount": 10000.0,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_03494",
+      "name": "York College Performing Arts Center",
+      "year": 2012,
+      "agency": "CUNY",
+      "source": "Local",
+      "counselor": "Comrie",
+      "amount": 45000.0,
+      "status": "Cleared",
+      "city_state": "Jamaica, NY",
+      "street_zip": "94-20 Guy R Brewer Blvd, 11451"
+    },
+    "right": {
+      "_id": "funding_03496",
+      "name": "York C-ollege Performing Arts Center",
+      "agency": "CUNY",
+      "source": "Local",
+      "amount": 45000.0,
+      "status": "Cleared",
+      "city_street": "Jamaica, 94-20 Guy R Brewer Blvd",
+      "state_zip": "NY 11451"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13835",
+      "name": "West Indian American Day Carnival Association, Inc.",
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Eugene",
+      "amount": "7000.0",
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "323-325 Rogers Avenue, 11225"
+    },
+    "right": {
+      "_id": "funding_13833",
+      "name": "West Indian American Day Carnival Association, Inc.",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "CC",
+      "amount": 20000.0,
+      "status": "Cleared",
+      "city_street": "Brooklyn * 323-325 Rogers Avenue",
+      "state_zip": "NY @ 11225"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_02483",
+      "name": "Y.I.F.H.",
+      "year": 2013,
+      "agency": "DFTA",
+      "counselor": "Koslowitz",
+      "amount": 42400.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_02481",
+      "name": "Young Israel of Forest Hills",
+      "address": "68-07 Burns Street Forest Hills, NY 11375",
+      "year": 2011,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Koslowitz",
+      "amount": 35000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_15187",
+      "name": "Ridgewood Older Adult Center and Services, Inc. @ 59-14 70th aveue ridgewood, NY",
+      "year": 2013,
+      "agency": "DFTA",
+      "source": "Aging",
+      "amount": 20000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_15188",
+      "name": "Ridgewood Older Adult Center and Services, Inc.",
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Reyna",
+      "amount": "20000.0",
+      "status": "Cleared",
+      "street": "59-14 70th avenue",
+      "city": "Ridgewood"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14706",
+      "name": "Staten Island Project Homefront, Inc.",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Loal",
+      "counselor": "Ignizio",
+      "amount": 4000.0,
+      "status": "Cleared",
+      "street": "471 Bement Avenue",
+      "city": "Staten Island",
+      "state": "NY"
+    },
+    "right": {
+      "_id": "funding_14707",
+      "name": "Staten Island Project Homefront, Inc.",
+      "address": "471 Bement Avenue Staten Island, NY 10310",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 3000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11411",
+      "name": "Dr. Theodore A. Atlas F\u03bfundati\u03bfn, Inc.",
+      "address": "543 Island, NY",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Yauth",
+      "counselor": "Rose",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_11407",
+      "name": "Dr. Theodore A. Atlas F\u03bfundati\u03bfn, Inc.",
+      "address": "543 Cary Avenue Staten Island, NY 10310",
+      "agency": "DYCD",
+      "counselor": "Oddo",
+      "amount": "6000.0",
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12701",
+      "name": "Richmond Senior Services, Inc.",
+      "year": 2013,
+      "agency": "DFTA",
+      "amount": "8000.0",
+      "status": "Cleared",
+      "city_state": "Staten Island, NY",
+      "street_zip": "500 Jewett Avenue, 10302"
+    },
+    "right": {
+      "_id": "funding_12699",
+      "name": "Richmond Senior Services, Inc.",
+      "year": 2012,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Rose",
+      "amount": 7750.0,
+      "status": "Cleared",
+      "city_street": "Staten Island / 500 Jewett Avenue",
+      "state_zip": "NY @ 10302"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_16088",
+      "name": "Muslim Women's Institute for Research and Development (MWIRD) (Foundation)",
+      "year": 2011,
+      "agency": "DOHMH",
+      "source": "HIV/AIDS Faith Bsed Initiative",
+      "amount": 6400.0,
+      "status": "Cleared",
+      "city_state": "Bronx, NY",
+      "street_zip": "1363 Ogden Avenue, 10451"
+    },
+    "right": {
+      "_id": "funding_16090",
+      "name": "Muslim Women's for Research and Development (MWIRD)",
+      "year": 2012,
+      "agency": "DOHMH",
+      "source": "HIV/AIDS Faith Based Initiative",
+      "amount": 6400.0,
+      "status": "Cleared",
+      "city_street": "Bronx, 1363 Ogden Avenue",
+      "state_zip": "NY 10452"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_02879",
+      "name": "Sesame Flyers Intrnational, Inc.",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Williams",
+      "amount": 9214.0,
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "3510 Church Avenue, 11203"
+    },
+    "right": {
+      "_id": "funding_02878",
+      "name": "Ses\u03b1me Flyers Internation\u03b1l, Inc.",
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Eugene",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "city_street": "Brooklyn * 3510 Church Avenue",
+      "state_zip": "NY 11203"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_10197",
+      "name": "Metrotech Area District Management Association, Inc.",
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Levin",
+      "amount": 0.0,
+      "status": "CBO Defunded",
+      "city_state": "Brooklyn & NY",
+      "street_zip": "4 MetroTech Center - 11201"
+    },
+    "right": {
+      "_id": "funding_10196",
+      "name": "Metrotech Area District Management Association, Inc. (Brooklyn, 4 MetroTech Center)",
+      "year": 2012,
+      "agency": "DSBS",
+      "source": "Local",
+      "counselor": "Levin",
+      "amount": 3000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_08083",
+      "name": "Sandy Ground Historical Society, The",
+      "year": 2012,
+      "agency": "DCA",
+      "source": "Local",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "10309"
+    },
+    "right": {
+      "_id": "funding_08079",
+      "name": "Sandy Ground Historical Society,",
+      "address": "Island, NY",
+      "year": 2011,
+      "agency": "DCA",
+      "source": "Loal",
+      "counselor": "Oddo",
+      "amount": 3000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12151",
+      "name": "Ministers, Elders & Deacons of the Reformed Protestant Dutch Church, The AKA The Collegiate Church - New York, NY",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Jackson",
+      "amount": 7500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_12150",
+      "name": "Minister,Elders and Deacons of the Reformed Protestant Dutch Church of the City of New York c/o Collegiate Church",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Yotuh",
+      "counselor": "Rodriguez",
+      "amount": 7214.0,
+      "status": "Cleared",
+      "city_street": "New York, 500 Fifth Avenue",
+      "state_zip": "NY 10110"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_06618",
+      "name": "New York Foundation for Senior Citizens, Inc. (New York, NY)",
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs - 2010",
+      "amount": 6100.48,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_06622",
+      "name": "Association: New York Foundation for Senior Citizens, Inc.",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending",
+      "city_street": "New York - 11 Park Place",
+      "state_zip": "NY 10007"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13998",
+      "name": "Riverdale Senior Services. Inc,",
+      "year": 2013,
+      "agency": "DFTA",
+      "amount": 30750.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_13997",
+      "name": "Riverdale Senior Services. Inc,",
+      "address": "2600 Netherland Ave Bronx, NY 10463",
+      "agency": "DFTA",
+      "source": "Department for the Aging Services",
+      "counselor": "Koppell",
+      "amount": 30750.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_04734",
+      "name": "Bobbi - and the Strays, Inc.",
+      "address": "107-57 100th St Ozozne Park, NY 11417",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Crowley",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_04736",
+      "name": "Bobbi and the Strays Inc",
+      "year": 2013,
+      "agency": "DYCD",
+      "counselor": "Crowley",
+      "amount": "2500.0",
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "11417"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_06361",
+      "name": "Stanley M. Isaacs Neighborhood Center, Incorporated",
+      "address": "415 York, NY",
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs - 2010",
+      "amount": 6100.48,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_06359",
+      "name": "Stanley M. Isaacs Neighborhood Center, Incorporated",
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": "6100.48",
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_04842",
+      "name": "Philippine Forum,",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Dromm",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "city_state": "Woodside, NY",
+      "street_zip": "40-21 69TH STREET, 11377"
+    },
+    "right": {
+      "_id": "funding_04843",
+      "name": "Philippine Forum, Inc.",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Van Bramer",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "city_street": "Woodside, 40-21 69TH STREET",
+      "state_zip": "NY 11377"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_09902",
+      "name": "Program: Service Corps of Retired Executives (SCORE)",
+      "year": 2012,
+      "agency": "DSBS",
+      "source": "Local",
+      "amount": 3000.0,
+      "status": "Cleared",
+      "city_state": "Staten Island, NY",
+      "street_zip": "1550 Richmond Road, 10304"
+    },
+    "right": {
+      "_id": "funding_09905",
+      "name": "Service Corps of Retired Executives (SCORE) - Staten Island | 1550 Richmond Road",
+      "year": 2013,
+      "agency": "DSBS",
+      "source": "Local [3000.0]",
+      "counselor": "Oddo",
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_06620",
+      "name": "New York Foundation for Senior Citizens, Inc. @ New York, NY",
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_06621",
+      "name": "New York Foundation for Senior Citizens,",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending",
+      "city_street": "New York, 11 Park Place",
+      "state_zip": "NY 10007"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_01353",
+      "name": "The Office of Queens Council on the Arts, Inc.",
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Comrie",
+      "amount": 3500.0,
+      "status": "Pending",
+      "street": "One Forest Park",
+      "city": "Woodhaven",
+      "state": "NY",
+      "zipcode": "11424"
+    },
+    "right": {
+      "_id": "funding_01355",
+      "name": "Queens Council on the Arts, Incorporation",
+      "address": "One Forest Park Woodhaven, NY 11424",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Weprin",
+      "amount": 5000.0,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13158",
+      "name": "Council: Imagine Foundation, Inc. d/b/a Imagine Academy",
+      "agency": "DOHMH",
+      "source": "Autism Awareness",
+      "amount": 42364.0,
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "1465 East 7th Street, 11230"
+    },
+    "right": {
+      "_id": "funding_13159",
+      "name": "Imagine Foundation, Inc. d/b/a Imagine Academy @ Brooklyn, 1465 East 7th Street",
+      "year": 2012,
+      "agency": "DOHMH",
+      "source": "Autism Awareenss",
+      "amount": 42364.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14867",
+      "name": " 104th Precinct Law Explorers",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth",
+      "amount": 2000.0,
+      "status": "Cleared",
+      "city_state": "Ridgewood, NY",
+      "street_zip": "64-02 Catalpa Avenue, 11385"
+    },
+    "right": {
+      "_id": "funding_14866",
+      "name": "P.L.E.",
+      "agency": "DYCD",
+      "counselor": "Crowley",
+      "amount": 2000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12974",
+      "name": "Raider Youth Football, Ink.",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Koo",
+      "amount": 6000.0,
+      "status": "Cleared",
+      "city_state": "NY",
+      "street_zip": "2820 Merrick Road, Suite G Bellmore, 11710"
+    },
+    "right": {
+      "_id": "funding_12975",
+      "name": "Raider Youth Football, Inc.",
+      "agency": "DYCD",
+      "source": "Youth [2011]",
+      "counselor": "Halloran",
+      "amount": 15000.0,
+      "status": "Cleared",
+      "city_street": "2820 Merrick Road - Suite G Bellmore",
+      "state_zip": "NY 11710"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_15673",
+      "name": "BINA Ezras Cholim, In\u0441.",
+      "agency": "DOHMH",
+      "counselor": "Recchia",
+      "amount": "4000.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_15671",
+      "name": "BINA Ezras Cholim, In\u0441.",
+      "year": 2012,
+      "agency": "DOHMH",
+      "source": "Locaal",
+      "counselor": "CC",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "street": "2511 Avenue I LL",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zipcode": "11210"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05135",
+      "name": "Bureau: Hope City Empowerment Center, Inc.",
+      "agency": "DYCD",
+      "source": "City Council Discretionary Funding",
+      "amount": 500.0,
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "650-656 Washington Avenue, 11238"
+    },
+    "right": {
+      "_id": "funding_05134",
+      "name": "Hope City Empowerment Center,",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "James",
+      "amount": 3000.0,
+      "status": "Cleared",
+      "city_street": "Brooklyn, 650-656 Washington Avenue",
+      "state_zip": "NY 11238"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_15871",
+      "name": "School Sisters of Notre Dame - Educational Center",
+      "address": "87-04 88th Avenue Woodhaven, NY 11421",
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Ulrich",
+      "amount": "5000.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_15869",
+      "name": "School Sisters of Notre Dame - Educational Center",
+      "address": "Woodhaven, NY 11421",
+      "agency": "DYCD",
+      "counselor": "CC",
+      "amount": 25000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14444",
+      "name": "Brooklyn Center for the Quality of Life",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Eugene",
+      "amount": "5000.0",
+      "status": "Pending",
+      "city_state": "Brooklyn | NY",
+      "street_zip": "203 E 37th St, 11203"
+    },
+    "right": {
+      "_id": "funding_14445",
+      "name": "Brooklyn Center for the Quality of Life @ Brooklyn | 203 E 37th St",
+      "year": 2013,
+      "agency": "DYCD",
+      "amount": 3500.0,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_06556",
+      "name": "The Foundation of Legal Services NYC - Manhattan Legal Services",
+      "address": "York, NY",
+      "year": 2013,
+      "agency": "HPD",
+      "source": "Local",
+      "counselor": "Garodnick",
+      "amount": 3500.0,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_06554",
+      "name": "Leggal Services NYC - Manhattan Legal Services",
+      "address": "1 West 125th Street 2Fl New York, NY 10027-4546",
+      "year": 2013,
+      "agency": "HPD",
+      "counselor": "Jackson",
+      "amount": "3000.0",
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_06364",
+      "name": "Stanley M. Isaacs Neighborhood Center, Inc.",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending",
+      "city_state": "New York, NY",
+      "street_zip": "415 East 93rd Street, 10128"
+    },
+    "right": {
+      "_id": "funding_06361",
+      "name": "Stanley M. Isaacs Neighborhood Center, Inc.",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "6100.48: Transportation - Operating Costs",
+      "status": "Pending",
+      "city_street": "New York, 415 East 93rd Street",
+      "state_zip": "NY 10128"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13716",
+      "name": "New York Center for Interpersonal Development",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Oddo",
+      "amount": "4000.0",
+      "status": "Cleared",
+      "street": "130 Stuyvesant Place",
+      "unit": "5th floor",
+      "city": "Staten Island",
+      "state": "NY",
+      "zipcode": "10301"
+    },
+    "right": {
+      "_id": "funding_13715",
+      "name": "New York Center for Interpersonal Development (5th Floor Staten Island, NY)",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Youth",
+      "amount": 10000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_09537",
+      "name": "Street Aloysius Education Clinic",
+      "address": "York, NY",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Dickens",
+      "amount": "4000.0",
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_09536",
+      "name": "St. Aloysius Education Clinic (New York, NY)",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 4000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11324",
+      "name": "Varsity Club of Staten Island, Inc.",
+      "address": "215 Liberty Avenue Staten Island, NY 10305",
+      "year": 2012,
+      "source": "Local [DYCD]",
+      "counselor": "Oddo",
+      "amount": "1000.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_11322",
+      "name": "Varsity Club of Staten Island, Inc.",
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Oddo",
+      "amount": 2000.0,
+      "status": "Cleared",
+      "street": "215 Liberty Avenue",
+      "city": "Staten Island"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05189",
+      "name": "Pine Street Block Association and Community Garden",
+      "address": "559 Brooklyn, NY",
+      "year": 2012,
+      "agency": "DYCD",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_05188",
+      "name": "The Agency of Pine Street Block Association and Community Garden",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Barron",
+      "amount": "3500.0",
+      "status": "Pending",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zipcode": "11208"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14829",
+      "name": "Behind the, Inc.",
+      "agency": "DOE",
+      "counselor": "Koppell",
+      "amount": "5000.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_14828",
+      "name": "Behind  the  Book,  Inc.",
+      "year": 2012,
+      "agency": "DOE",
+      "source": "Local",
+      "counselor": "Dickens",
+      "amount": 4000.0,
+      "status": "Cleared",
+      "city_street": "New York, 145 West 96th Street",
+      "state_zip": "NY 10025"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_01769",
+      "name": "Greater Ridgewood Restoration Corporation (Ridgewood, NY)",
+      "year": 2011,
+      "agency": "DSBS",
+      "source": "Local",
+      "amount": 15000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_01768",
+      "name": "Greatar Ridgewood Restoration Corporation",
+      "year": 2011,
+      "agency": "DSBS",
+      "source": "Local",
+      "counselor": "Crowley",
+      "amount": "1000.0",
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "11385"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_08100",
+      "name": "Greenwich Village Society for Historic Preservation",
+      "address": "232 East 11th Street New York, NY 10003-7301",
+      "agency": "DCLA",
+      "source": "Local",
+      "counselor": "Chin",
+      "amount": "3500.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_08102",
+      "name": "Greenwich Society for Historic Preservation",
+      "address": "232 East 11th Street New York, NY 10003-7301",
+      "year": 2013,
+      "agency": "DCLA",
+      "source": "Local",
+      "counselor": "Quinn",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00686",
+      "name": "St.. Kevin's Senior Club",
+      "year": 2011,
+      "agency": "DFTA",
+      "source": "Aging - 3750.0",
+      "status": "Cleared",
+      "city_state": "Flushing, NY",
+      "street_zip": "45-21 194th Street, 11358"
+    },
+    "right": {
+      "_id": "funding_00689",
+      "name": "St. Kevin's Senior Club (Flushing, 45-21 194th Street)",
+      "year": 2013,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Halloran",
+      "amount": "3500.0",
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14661",
+      "name": "Hollaback, Inc.",
+      "address": "30 3rd Avenue Brooklyn, NY 11217",
+      "agency": "DYCD",
+      "amount": 4000.0,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_14660",
+      "name": "hollaback, inc.",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "CC",
+      "amount": "20000.0",
+      "status": "Pending",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zipcode": "11217"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_01274",
+      "name": "God's Battalian Prayer Church",
+      "address": "661 Linden Boulevard Brooklyn, NY 11203",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Food Pantries",
+      "counselor": "Brooklyn",
+      "amount": "6333.33",
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_01275",
+      "name": "God's Battalian Prayer Church (Center)",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Food Pantries-DYCD",
+      "counselor": "Brooklyn",
+      "amount": 6333.0,
+      "status": "Cleared",
+      "street": "661 Linden Boulevard",
+      "city": "Brooklyn"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_15579",
+      "name": "Failte Care Corp. dba New York Irish Center - Long Island City, NY",
+      "year": 2012,
+      "agency": "DFTA",
+      "source": "Local",
+      "counselor": "CC",
+      "amount": 50000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_15577",
+      "name": "Failte Care Corp. dba New York Irish Center",
+      "agency": "DFTA",
+      "source": "Local (2011)",
+      "counselor": "CC",
+      "amount": 50000.0,
+      "status": "Cleared",
+      "city_street": "Long Island City & 10-40 Jackson Avenue",
+      "state_zip": "NY 11101"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_09247",
+      "name": "Thorpe Family Residence",
+      "year": 2011,
+      "agency": "MISC",
+      "source": "DoVE",
+      "amount": 62500.0,
+      "status": "Cleared",
+      "street": "406 East 184th Street",
+      "city": "Bronx",
+      "state": "NY",
+      "zipcode": "10458"
+    },
+    "right": {
+      "_id": "funding_09249",
+      "name": "Thorpe Family Residence",
+      "address": "406 East 184th Street Bronx, NY 10458",
+      "year": 2013,
+      "agency": "OCJC",
+      "source": "Domestic Violence and Empowerment (DoVE Initiative [62000.0]",
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_07651",
+      "name": "Children's Storefront",
+      "agency": "DYCD",
+      "source": "Youth Services Initiative",
+      "counselor": "Dickens",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "city": "New York"
+    },
+    "right": {
+      "_id": "funding_07652",
+      "name": "Cildren's Storefront",
+      "address": "70 East 129th Street New York, NY 10035",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Dickens",
+      "amount": 4000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14242",
+      "name": "Search and Care, Incorporated",
+      "year": 2013,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Garodnick",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "city_state": "New York, NY",
+      "street_zip": "1844 Second Avenue, 10128"
+    },
+    "right": {
+      "_id": "funding_14243",
+      "name": "Search and Caree, Inc.",
+      "agency": "DFTA",
+      "counselor": "Lappin",
+      "amount": 4500.0,
+      "status": "Cleared",
+      "city_street": "New York @ 1844 Second Avenue",
+      "state_zip": "NY / 10128"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_04098",
+      "name": "B.E.F.",
+      "source": "Aging - DFTA",
+      "amount": 1000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_04095",
+      "name": "BWICA Educational Fund, Incorporation",
+      "address": "Brooklyn, NY 11219",
+      "year": 2011,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Gentile",
+      "amount": 1000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_10930",
+      "name": "Brotherhood/Sister Sol, The",
+      "address": "512 West 143rd Street New York, NY 10031",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Jackson",
+      "amount": "5900.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_10931",
+      "name": "Brotherhood/Sister Sol,",
+      "agency": "DYCD",
+      "source": "Youth Services Initiative",
+      "amount": 4000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13350",
+      "name": "Approaching Storm Marching Band, Incorporated, The",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Barron",
+      "amount": 12000.0,
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "361 East 29th Street, 11226"
+    },
+    "right": {
+      "_id": "funding_13351",
+      "name": "Approaching Storm Marchimg Band, Inc., The",
+      "year": 2012,
+      "agency": "DYCD",
+      "counselor": "Barron",
+      "amount": 12000.0,
+      "status": "Cleared",
+      "city_street": "Brooklyn, 361 East 29th Street",
+      "state_zip": "NY 11226"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12344",
+      "name": "Union of Orthodox Jewish Congregations of America (Bureau)",
+      "address": "York, NY 10004-1303",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth - 3500.0",
+      "counselor": "Nelson",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_12346",
+      "name": "Union of Orthodox Jewish Congregations of America - York, NY",
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Nelson",
+      "amount": 2500.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11711",
+      "name": "Young Israel Senior Services, Inc.",
+      "agency": "DFTA",
+      "source": "Department for the Aging Services",
+      "counselor": "Nelson",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "11230"
+    },
+    "right": {
+      "_id": "funding_11712",
+      "name": "Young Israel Senior Services, Inc.",
+      "address": "brooklyn, NY 11230",
+      "year": 2012,
+      "agency": "DFTA",
+      "source": "Aging",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00752",
+      "name": "St. Margaret's Sports Association",
+      "address": "66-05 79th Place Middle Village, NY 11379",
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Crowley",
+      "amount": "4500.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_00758",
+      "name": "St. Margaret's Sports",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Youth [8500.0]",
+      "counselor": "Crowley",
+      "status": "Cleared",
+      "street": "66-05 79th Place Middle Village",
+      "state": "NY",
+      "zipcode": "11379"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_03768",
+      "name": "Kehilat Sephardim of Ahavat Achim @ Flushing @ NY",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Gennaro",
+      "amount": 7500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_03767",
+      "name": "Kehilat Sephardim of Ahavat Achim",
+      "agency": "DYCD",
+      "source": "Youth Services Initiative",
+      "counselor": "Gennaro",
+      "amount": 10000.0,
+      "status": "Cleared",
+      "city_street": "Flushing, 150-62 78th Road",
+      "state_zip": "NY @ 11367"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_03497",
+      "name": "York College Performing Arts Center",
+      "address": "94-20 Guy R Brewer Blvd Jamaica, NY 11451",
+      "year": 2013,
+      "agency": "CUNY",
+      "source": "Local",
+      "counselor": "Comrie",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_03496",
+      "name": "York College Performing Arts Center",
+      "agency": "CUNY",
+      "source": "Local [Cleared]",
+      "amount": 45000.0
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13938",
+      "name": "Charles A Walburg Multi-Service Organization, Inc.",
+      "address": "163 York, NY",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_13935",
+      "name": "Charles A Walbburg Multi-Service Organization, Inc.",
+      "address": "163 West 125th Street New York, NY 10027",
+      "agency": "DFTA",
+      "source": "2010: Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_15869",
+      "name": "School Sisters of Notre Dame Educational Center",
+      "address": "Woodhaven, NY",
+      "year": 2011,
+      "agency": "DYCD",
+      "counselor": "CC",
+      "amount": 25000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_15870",
+      "name": "School Sisters of Notre Dame Educational Centar",
+      "address": "Woodhaven, NY 11421",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "CC",
+      "amount": "25000.0",
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_06895",
+      "name": "Find Aid for the Aged, Inc.",
+      "agency": "DFTA",
+      "amount": 10000.0,
+      "status": "Cleared",
+      "street": "160 West 71st Street 2F",
+      "city": "New York"
+    },
+    "right": {
+      "_id": "funding_06896",
+      "name": "Find Aid for the Aged, Inc.",
+      "address": "York, NY 10023",
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Brewer",
+      "amount": "12000.0",
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11731",
+      "name": "The Center of African American Women In Cinema",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Loocal",
+      "amount": 3500.0,
+      "status": "Pending",
+      "city_state": "NY",
+      "street_zip": "2006 Westchester Avenue Parkchester, 10462"
+    },
+    "right": {
+      "_id": "funding_11728",
+      "name": "African American Women In Cinema @ 206 Westchester Avenue Parkchester",
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Dickens",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_02311",
+      "name": "Forest Park Senior Citizens Center, Inc. (Foundation)",
+      "year": 2012,
+      "agency": "DFTA",
+      "source": "Local",
+      "counselor": "Ulrich",
+      "amount": 25000.0,
+      "status": "Cleared",
+      "city_state": "Woodhaven, NY",
+      "street_zip": "89-02 91 Street, 11421-2600"
+    },
+    "right": {
+      "_id": "funding_02313",
+      "name": "Forest Park Senior Citizens Center, Incorporation",
+      "agency": "DFTA",
+      "source": "Local",
+      "counselor": "Crowley",
+      "amount": "5000.0",
+      "status": "Cleared",
+      "city_street": "Woodhaven, 89-02 91 Street",
+      "state_zip": "NY 11421-2600"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_02063",
+      "name": "Korean American Senior Citizens Society of Greater New York, Inc.",
+      "agency": "DFTA",
+      "source": "10000.0: Aging",
+      "status": "Cleared",
+      "street": "149-18 41st Avenue",
+      "unit": "1st Floor",
+      "city": "Flushing",
+      "state": "NY",
+      "zipcode": "11355"
+    },
+    "right": {
+      "_id": "funding_02065",
+      "name": "[Foundation] Korean American Senior Citizens Society of Greater New York, Inc.",
+      "address": "14918 Flushing, NY",
+      "year": 2012,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Koo",
+      "amount": "11000.0",
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_06459",
+      "name": "Legal Services NYC - Queens Legal Services Corporation",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Immigrant Opportunitiez Initiative",
+      "counselor": "Queens",
+      "amount": 40000.0,
+      "status": "Cleared",
+      "city_state": "Jamaica, NY",
+      "street_zip": "89-00 Sutphin Boulevard, 11435"
+    },
+    "right": {
+      "_id": "funding_06458",
+      "name": "Legal Services NYC - Queens Legal Services Corporation - Jamaica, 89-00 Sutphin Boulevard",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "IOI",
+      "counselor": "Queens",
+      "amount": 49400.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00927",
+      "name": "Good Shepherd Sport sProgram",
+      "agency": "DYCD",
+      "source": "Yooth",
+      "counselor": "Fidler",
+      "amount": 3000.0,
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "1950 Batchelder Street, 11229"
+    },
+    "right": {
+      "_id": "funding_00928",
+      "name": "Good Shepherd Sports Program",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Fidler",
+      "amount": 3500.0,
+      "status": "Pending",
+      "city_street": "Brooklyn / 1950 Batchelder Street",
+      "state_zip": "NY / 11229"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14281",
+      "name": "Fordham Road District Management Association, Inc., The @ 2488 Grand Concourse Room 411 Bronx, NY",
+      "year": 2012,
+      "source": "Local - DSBS",
+      "counselor": "Rivera",
+      "amount": 32500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_14278",
+      "name": "Fordham Road District Management Association, Inc., The",
+      "address": "Room 411 Bronx, NY 10458",
+      "year": 2011,
+      "agency": "DSBS",
+      "source": "Local",
+      "counselor": "Cabrera",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13489",
+      "name": "The Bureau of Nicole Paultre Bell When It's Real, It's Forever Fund, Inc., The",
+      "address": "191 Rockaway, NY",
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Wills",
+      "amount": 6500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_13486",
+      "name": "Nicole Paultre Bell When It's Real, It's Forever Fund, Inc., The",
+      "address": "Rockaway, NY",
+      "year": 2011,
+      "agency": "DYCD",
+      "amount": 14000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00388",
+      "name": "Halen Keller Services for the Blind",
+      "address": "57 Brooklyn, NY",
+      "year": 2013,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Levin",
+      "amount": 4500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_00387",
+      "name": "Helen Keller for the Blind",
+      "address": "57 Willoughby Street Brooklyn, NY 11201-5290",
+      "year": 2013,
+      "agency": "DFTA",
+      "source": "Aginng",
+      "counselor": "Lander",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_10648",
+      "name": "Frsh Youth Initiatives, Inc.",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth Services Initiative",
+      "counselor": "Brewer",
+      "amount": 4000.0,
+      "status": "Cleared",
+      "city_state": "New York, NY",
+      "street_zip": "505 West 171 Street, 10032"
+    },
+    "right": {
+      "_id": "funding_10649",
+      "name": "Fresh Youth Initiatives, Inc.",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Brewer",
+      "amount": "4000.0",
+      "status": "Cleared",
+      "city_street": "New York, 505 West 171 Street",
+      "state_zip": "NY 10032"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05844",
+      "name": "Union Settlement Association, Inc.",
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs (2010)",
+      "amount": "6100.48",
+      "status": "Pending",
+      "city_state": "New York, NY",
+      "street_zip": "237 East 104th Street @ 10029"
+    },
+    "right": {
+      "_id": "funding_05845",
+      "name": "Unian Settlement Association, Inc.",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending",
+      "city_street": "New York / 237 East 104th Street",
+      "state_zip": "NY / 10029"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14108",
+      "name": "Ridgewood Volunteer Amublance Corp., Inc.",
+      "address": "503 Onderdonk Avenue Ridgewood, NY 11385",
+      "agency": "FDNY",
+      "source": "Local",
+      "counselor": "Crowley",
+      "amount": 2000.0,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_14112",
+      "name": "Ridgewood Volunteer Ambulance Corp., Inc.",
+      "year": 2013,
+      "agency": "FDNY",
+      "source": "Locel",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "11385"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_07527",
+      "name": "Meals on Wheels of Staten Island,",
+      "address": "304 Port Richmond Avenue Staten Island, NY 10302",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_07533",
+      "name": "Meals on Wheels of Statem Island, Inc.",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs - Pending",
+      "amount": 6100.48,
+      "street": "304 Port Richmond Avenue",
+      "city": "Staten Island"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_09898",
+      "name": "Service Corps off Retired Executives (SCORE)",
+      "address": "1550 Richmond Road Staten Island, NY 10304",
+      "year": 2011,
+      "agency": "DSBS",
+      "source": "Local",
+      "counselor": "Ignizio",
+      "amount": 3000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_09903",
+      "name": "  Service Corps of Retired Executives (SCORE)  ",
+      "agency": "DSBS",
+      "source": "Locaal",
+      "counselor": "Rose",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "city": "Staten Island",
+      "state": "NY",
+      "zipcode": "10304"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11886",
+      "name": "Community Service Society of New York",
+      "year": 2012,
+      "agency": "DFTA",
+      "counselor": "Mendez",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "city_state": "New York, NY",
+      "street_zip": "105 East 22nd Street, 10010"
+    },
+    "right": {
+      "_id": "funding_11883",
+      "name": "Community Service Society of New York",
+      "agency": "DFTA",
+      "source": "Aging",
+      "amount": "5000.0",
+      "status": "Cleared",
+      "city_street": "New York, 105 East 22nd Street",
+      "state_zip": "NY 10010"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14330",
+      "name": "Imeinu, Inc.",
+      "address": "3815 Avenue P Brooklyn, NY 11234",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Runaway and Homeless Youth Services PEG Restoration",
+      "amount": 83000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_14331",
+      "name": "Imeinu, Inc.",
+      "address": "Brooklyn, NY",
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Nelson",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05847",
+      "name": "Union Settlement Association, Inc.",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending",
+      "city_state": "New York, NY",
+      "street_zip": "237 East 104th Street, 10029"
+    },
+    "right": {
+      "_id": "funding_05850",
+      "name": "Foundation: Union Settlement Association, Inc.",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": "6100.48",
+      "status": "Pending",
+      "city_street": "New York, 237 East 104th Street",
+      "state_zip": "NY 10029"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_08083",
+      "name": "Sandy Ground Historical Society, The (Staten Island, NY)",
+      "year": 2012,
+      "agency": "DCA",
+      "source": "Local",
+      "counselor": "Rose",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_08082",
+      "name": "Sandy Ground Historical Society, The",
+      "year": 2012,
+      "agency": "DCA",
+      "source": "Loal",
+      "counselor": "Oddo",
+      "amount": "3000.0",
+      "status": "Cleared",
+      "city_street": "Staten Island @ 1538 Woodrow Road",
+      "state_zip": "NY / 10309"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05915",
+      "name": "JBI International,, Inc.",
+      "agency": "DFTA",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "city_state": "New York, NY",
+      "street_zip": "110 East 30th Street, 10016"
+    },
+    "right": {
+      "_id": "funding_05914",
+      "name": "JBI International, Incorporated",
+      "agency": "DFTA",
+      "source": "City Council Discretionary Funding",
+      "amount": "5000.0",
+      "status": "Cleared",
+      "city_street": "New York, 110 East 30th Street",
+      "state_zip": "NY 10016"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00319",
+      "name": "East 86th Street Merchan_ts and Residents Association, Inc.",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Garodnick",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "city_state": "New York, NY",
+      "street_zip": "225 East 79th Street, 10075"
+    },
+    "right": {
+      "_id": "funding_00320",
+      "name": "E.S.M.R.A.",
+      "agency": "DYCD",
+      "counselor": "Lappin",
+      "amount": 4000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_01382",
+      "name": "Parodneck Foundation for Self-Help Housing and Community Development, Inc., The",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Sanders",
+      "amount": 10000.0,
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "10013-1510"
+    },
+    "right": {
+      "_id": "funding_01380",
+      "name": "[Group] Parodneck Foundation for Self-Help Housing and Community Development, Inc., The",
+      "address": "121 Sixth Avenue Suite 501 New York, NY 10013-1510",
+      "agency": "DYCD",
+      "source": "Cleared: Local",
+      "amount": "3500.0"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13160",
+      "name": "Imagine Foundati\u03bfn, Inc. d/b/a Im\u03b1gine \u0391cademy",
+      "year": 2013,
+      "agency": "DOHMH",
+      "source": "Local",
+      "counselor": "Greenfield",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "1458 East 14th Street, 11230"
+    },
+    "right": {
+      "_id": "funding_13161",
+      "name": "Imagine Foundation, Inc. d/b/a Imagine Academy (Association)",
+      "agency": "DOHMH",
+      "source": "Loocal",
+      "counselor": "Recchia",
+      "amount": "5000.0",
+      "status": "Cleared",
+      "city_street": "Brooklyn, 1458 East 14th Street",
+      "state_zip": "NY 11230"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00598",
+      "name": "Resurrection Sqorts Association",
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Fidler",
+      "amount": "2000.0",
+      "status": "Cleared",
+      "street": "2335 Gerritsen Ave",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zipcode": "11229"
+    },
+    "right": {
+      "_id": "funding_00597",
+      "name": "Resurrection Sports Associationiation",
+      "address": "Brooklyn, NY",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Youh",
+      "counselor": "Fidler",
+      "amount": 2000.0,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11040",
+      "name": "Project Enterprise (New York, NY)",
+      "year": 2012,
+      "agency": "DSBS",
+      "source": "Loccal",
+      "counselor": "Dickens",
+      "amount": 4000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_11041",
+      "name": "The Foundation of Project Enterprise",
+      "agency": "DSBS",
+      "source": "Local",
+      "counselor": "Jackson",
+      "amount": "2600.0",
+      "status": "Cleared",
+      "city_street": "New York - 144 West 125 Street",
+      "state_zip": "NY @ 10027"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_03760",
+      "name": "Bridg to Life, Inc., The",
+      "agency": "DYCD",
+      "amount": 3000.0,
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "11355"
+    },
+    "right": {
+      "_id": "funding_03758",
+      "name": "Bridge to Life, Inc., The",
+      "address": "147-32 Sanford Avenue Flushing, NY 11355",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Ulrich",
+      "amount": 3000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05846",
+      "name": "Union Settlement",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": 6100.48,
+      "status": "Pending",
+      "city_state": "New York & NY",
+      "street_zip": "237 East 104th Street / 10029"
+    },
+    "right": {
+      "_id": "funding_05845",
+      "name": "Union Settlement Association, Inc.",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs (6100.48)",
+      "status": "Pending",
+      "city_street": "New York, 237 East 104th Street",
+      "state_zip": "NY 10029"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13975",
+      "name": "Mid-Bronx Senior Citizens Council, Inc. (Bronx, NY)",
+      "agency": "DFTA",
+      "source": "Aging",
+      "amount": "8952.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_13974",
+      "name": "Mid-Bronx Senior Citizens Council, Inc.",
+      "address": "Bronx, NY 10451",
+      "year": 2011,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Foster",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05610",
+      "name": "James Lenox House Association, Inc. (New York)",
+      "agency": "DFTA",
+      "counselor": "Garodnick",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_05611",
+      "name": "James Lenox House Association,",
+      "address": "49 York, NY",
+      "year": 2013,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Garodnick",
+      "amount": "3500.0",
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12557",
+      "name": "The Office of Great Kills Little League",
+      "address": "Island, NY",
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 10000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_12556",
+      "name": "Great Kills Little League",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "City Council Discretionary Funding",
+      "counselor": "Oddo",
+      "amount": 2500.0,
+      "status": "Cleared",
+      "street": "147 Getz Avenue",
+      "city": "Staten Island"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13487",
+      "name": "Nicole Paultre Bell When It's Real, It's Forever Fund, Inc., The",
+      "agency": "DYCD",
+      "source": "Loccal",
+      "counselor": "Comrie",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "city_state": "Far Rockaway / NY",
+      "street_zip": "191 Beach 27th Street / 11691"
+    },
+    "right": {
+      "_id": "funding_13484",
+      "name": "Nicole Paultre Bell When It's Real, It's Forever Fund, Inc., The",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_06861",
+      "name": "NYC Health and Hospital Corp./East New York Diagnostic and Treatment",
+      "agency": "DOHMH",
+      "source": "Infant Mortality Reduction",
+      "amount": "25800.0",
+      "status": "Pending",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zipcode": "11207"
+    },
+    "right": {
+      "_id": "funding_06860",
+      "name": "NYC Health and Hospital Corp./East New York Diagnostic and Treatment Center",
+      "address": "2094 Pitkin Avenue Brooklyn, NY 11207",
+      "year": 2012,
+      "agency": "DOHMH",
+      "source": "Infant Mortality Reduction Initiative",
+      "amount": 15421.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14899",
+      "name": "Zimmer Club Youth Conservation Program of Staten Island, Inc.",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Boro",
+      "counselor": "Ignizio",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "street": "4411 Arthur Kill Road",
+      "city": "Staten Island",
+      "state": "NY",
+      "zipcode": "10309"
+    },
+    "right": {
+      "_id": "funding_14896",
+      "name": "Zimmer Club Youth Conservation Program of Staten Island, Inc.",
+      "address": "4411 Island, NY",
+      "agency": "DYCD",
+      "source": "Boro",
+      "counselor": "Ignizio",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00949",
+      "name": "St. Rafael's Sports Associati#on",
+      "address": "City, NY 11101",
+      "agency": "DYCD",
+      "counselor": "Van Bramer",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_00952",
+      "name": "St. Rafael's Sports Associati#on",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 5000.0,
+      "status": "Pending",
+      "street": "35-20 Greenpoint Avenue",
+      "city": "Long Island City"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14493",
+      "name": "Park Slope Fifth Avenue District Management Association, Inc.",
+      "year": 2011,
+      "agency": "DSBS",
+      "source": "Local",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "street": "247 Fifth Avenue",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zipcode": "11215"
+    },
+    "right": {
+      "_id": "funding_14496",
+      "name": "Park Slope Fifth Avenue District Management Association, Inc.",
+      "address": "247 Fifth Avenue Brooklyn, NY 11215",
+      "year": 2013,
+      "source": "Local - DSBS",
+      "counselor": "Levin",
+      "amount": "3500.0",
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11580",
+      "name": "Ark of Safety Fellowship Churh, Inc.",
+      "address": "635 Commonwealth Avenue Bronx, NY 10473",
+      "agency": "DYCD",
+      "amount": 5000.0,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_11581",
+      "name": "Ark of Safety Fellowship Church, Inc.",
+      "address": "635 Commonwealth Avenue Bronx, NY 10473",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Food Pantries-DYCD",
+      "counselor": "Bronx",
+      "amount": "5000.0",
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_09109",
+      "name": "East Harlem Employment Inc.",
+      "address": "240 3rd Floor New York, NY",
+      "year": 2011,
+      "agency": "DSBS",
+      "counselor": "CC",
+      "amount": 10000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_09110",
+      "name": "East Harlem Employment Services, Inc. (3rd Floor New York, NY)",
+      "year": 2011,
+      "agency": "DSBS",
+      "source": "Local",
+      "counselor": "Viverito",
+      "amount": 15000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_10550",
+      "name": "New  St.  John  the  Baptist  Church",
+      "address": "Bronx, NY",
+      "year": 2012,
+      "agency": "DOHMH",
+      "source": "HIV/AIDS Faith Based Initiative",
+      "amount": "6400.0",
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_10549",
+      "name": "New Street John the Baptist Church",
+      "agency": "DOHMH",
+      "source": "HIV/AIDS Faith Based Initiative",
+      "amount": 6400.0,
+      "status": "Cleared",
+      "street": "2409 Lorillard Place",
+      "city": "Bronx"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14956",
+      "name": "Keren Zichron Yisroel Meir, Inc. - 5318 New Utrecht Ave Brooklyn, NY",
+      "year": 2013,
+      "agency": "DYCD",
+      "counselor": "Recchia",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_14955",
+      "name": "[Foundation] Keren Zichron Yisroel Meir, Inc.",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Lander",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "state": "NY"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05511",
+      "name": "Eest Side House, Inc.",
+      "agency": "DFTA",
+      "amount": 58329.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_05517",
+      "name": "Eest Side House, Inc.",
+      "address": "Bronx, NY 10454",
+      "year": 2013,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Arroyo",
+      "amount": 28573.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13006",
+      "name": "Where to , Inc.",
+      "address": "Island, NY",
+      "agency": "DYCD",
+      "source": "Local - Cleared",
+      "amount": 5000.0
+    },
+    "right": {
+      "_id": "funding_13009",
+      "name": "Where to Turn, Inc.",
+      "address": "150-L Greaves Lane 312 Staten Island, NY 10308",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 4000.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_16077",
+      "name": "Chaverim of Boro Park, Williamsubrg",
+      "year": 2013,
+      "agency": "DFTA",
+      "source": "Aging",
+      "counselor": "Lander",
+      "amount": "4000.0",
+      "status": "Pending",
+      "city_state": "Brooklyn, NY",
+      "street_zip": "1431 59 Street, 11219"
+    },
+    "right": {
+      "_id": "funding_16075",
+      "name": "Chaverim of Boro Park,Williamsburg",
+      "agency": "DFTA",
+      "source": "Aging [Cleared]",
+      "amount": 4000.0,
+      "city_street": "Brooklyn * 1431 59th street",
+      "state_zip": "NY * 11219"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_05042",
+      "name": "New York Military Youth Cadets, Incorporated",
+      "address": "Elmhurst, NY 11373-2531",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Ferreras",
+      "amount": "3500.0",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_05041",
+      "name": "New York Military Youth Caddets, Inc.",
+      "address": "Elmhurst, NY 11373-2531",
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Dromm",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_08270",
+      "name": "Roosevelt Island Youth Program, Inc.",
+      "address": "York, NY",
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Lappin",
+      "amount": 10000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_08272",
+      "name": "Roosevelt Island Youth Progra,m Inc.",
+      "address": "506 Main Street New York, NY 10044",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Lappin",
+      "amount": 10000.0,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14110",
+      "name": "Ridgewood Volunteer Ambulance Corp., Incorporation",
+      "address": "503 Onderdonk Avenue Ridgewood, NY 11385",
+      "year": 2012,
+      "agency": "FDNY",
+      "source": "Locla",
+      "counselor": "Crowley",
+      "amount": 2000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_14113",
+      "name": "Ridgewood Volunteer Ambulance Corp., Inc.",
+      "year": 2013,
+      "agency": "FDNY",
+      "source": "Local",
+      "counselor": "Reyna",
+      "amount": 15000.0,
+      "status": "Cleared",
+      "street": "503 onderdonk Avenue",
+      "city": "Ridgewood",
+      "state": "NY",
+      "zipcode": "11385"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_08101",
+      "name": "Greenwich Village Society for Historic Preservation",
+      "year": 2013,
+      "agency": "DCLA",
+      "source": "Lcoal",
+      "counselor": "Mendez",
+      "amount": "5000.0",
+      "status": "Cleared",
+      "city_state": "New York, NY",
+      "street_zip": "232 East 11th Street, 10003-7301"
+    },
+    "right": {
+      "_id": "funding_08102",
+      "name": "Greenwich Village Society for Historic Preservation",
+      "agency": "DCLA",
+      "source": "Local",
+      "counselor": "Quinn",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "city_street": "New York, 232 East 11th Street",
+      "state_zip": "NY 10003-7301"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12557",
+      "name": "Great Kills Little League",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Ignizio",
+      "amount": 10000.0,
+      "status": "Cleared",
+      "city_state": "Staten Island, NY",
+      "street_zip": "147 Getz Avenue, 10312"
+    },
+    "right": {
+      "_id": "funding_12558",
+      "name": "Great Kills Little League",
+      "year": 2012,
+      "agency": "DYCD",
+      "amount": 2500.0,
+      "status": "Cleared",
+      "city_street": "Staten Island, 147 Getz Ave",
+      "state_zip": "NY 10312"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00690",
+      "name": "Blessed Sacrament Church",
+      "year": 2010,
+      "agency": "DYCD",
+      "source": "Food Pantries",
+      "counselor": "Brooklyn",
+      "amount": 9500.0,
+      "status": "Pending",
+      "state": "NY"
+    },
+    "right": {
+      "_id": "funding_00691",
+      "name": "Blessed Sacrament Church",
+      "address": "198 Euclid Avenue Brooklyn, NY",
+      "agency": "DYCD",
+      "source": "Food Pantries",
+      "amount": "9500.0",
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11769",
+      "name": "Wingspan Arts, Inc.",
+      "year": 2011,
+      "agency": "DCA",
+      "source": "CASA",
+      "counselor": "Brewer",
+      "amount": "20000.0",
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "10036"
+    },
+    "right": {
+      "_id": "funding_11767",
+      "name": "Wingspan Arts, Incorporated",
+      "address": "Suite 410 New York, NY",
+      "agency": "DCA",
+      "source": "CSAA",
+      "counselor": "Brewer",
+      "amount": 20000.0,
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00943",
+      "name": "Broolyn College at the City University of New York",
+      "address": "Brooklyn, NY",
+      "year": 2011,
+      "agency": "CUNY",
+      "source": "Local",
+      "counselor": "Williams",
+      "amount": 5000.0,
+      "status": "Government"
+    },
+    "right": {
+      "_id": "funding_00947",
+      "name": "Brooklyn College at the City University of New York (Department)",
+      "year": 2012,
+      "agency": "CUNY",
+      "counselor": "Williams",
+      "amount": 6000.0,
+      "status": "Cleared",
+      "city": "Brooklyn",
+      "state": "NY",
+      "zipcode": "11210"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_09657",
+      "name": "NEW YORK CARES, Inc.",
+      "agency": "DYCD",
+      "amount": 3000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_09656",
+      "name": "New - York Cares, Inc.",
+      "address": "214 W 29th St 5th Floor New York, NY 10001",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Chin",
+      "amount": "3500.0",
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_02433",
+      "name": "Seaside Summer Concert Series, Inc.",
+      "address": "32 Court Street Brooklyn, NY 11201",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Recchia",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_02432",
+      "name": "Seasida Summer Concert Series, Inc.",
+      "address": "32 Court Street Brooklyn, NY 11201",
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Nelson",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12510",
+      "name": "Puerto Rican Family Institute, Inc., The",
+      "agency": "DYCD",
+      "source": "Local (2012)",
+      "counselor": "Mendez",
+      "amount": 5000.0,
+      "status": "Cleared",
+      "city": "New York",
+      "state": "NY"
+    },
+    "right": {
+      "_id": "funding_12514",
+      "name": "Puerto Rican Institute, Inc., The",
+      "address": "145 West 15th St New York, NY 10011",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": "3500.0",
+      "status": "Pending"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_07339",
+      "name": "Convent Avenue Baptist Church",
+      "address": "York, NY",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs",
+      "amount": "6100.48",
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_07340",
+      "name": "Convent Avenue Baptist Church",
+      "address": "York, NY 10031",
+      "year": 2010,
+      "agency": "DFTA",
+      "source": "Transportation - Operating Costs (Pending)",
+      "amount": 6100.48
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_00315",
+      "name": "Garibaldi-Meucci Museum",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Local",
+      "amount": 3500.0,
+      "status": "Cleared",
+      "city": "Staten Island",
+      "state": "NY",
+      "zipcode": "10305"
+    },
+    "right": {
+      "_id": "funding_00314",
+      "name": "Group: Garibaldi-Meucci Museum",
+      "address": "420 Tompkins Avenue Staten Island, NY 10305 ",
+      "year": 2012,
+      "source": "Local [DCA]",
+      "counselor": "Ignizio",
+      "amount": "10000.0",
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_14112",
+      "name": "Ridgewood Volunteer Ambulance Corp., Inc. @ Ridgewood, NY",
+      "year": 2013,
+      "agency": "FDNY",
+      "source": "Local",
+      "counselor": "Crowley",
+      "amount": 3500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_14111",
+      "name": "Ridgewood Volunteer Ambulance Corp.,, Inc.",
+      "address": "Ridgewood, NY 11385",
+      "year": 2012,
+      "agency": "FDNY",
+      "source": "Local",
+      "amount": 7500.0,
+      "status": "Cleared"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_12556",
+      "name": "Great Kills Little League",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Oddo",
+      "amount": 2500.0,
+      "status": "Cleared",
+      "city_state": "Staten Island, NY",
+      "street_zip": "147 Getz Avenue, 10312"
+    },
+    "right": {
+      "_id": "funding_12560",
+      "name": "Great Kills Litttle League",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Oddo",
+      "amount": "2500.0",
+      "status": "Pending",
+      "city_street": "Staten Island, 147 Getz Avenue",
+      "state_zip": "NY 10312"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_11584",
+      "name": "Child Welfare Organizing Project, Inc.",
+      "address": "80 East 110th Street, 1E New York, NY 10029",
+      "agency": "DYCD",
+      "counselor": "Viverito",
+      "amount": 7500.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_11582",
+      "name": "Child Welfare Organizing Project, Inc.",
+      "year": 2011,
+      "agency": "ACS",
+      "source": "Local",
+      "amount": "5000.0",
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "10029"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_13526",
+      "name": "FATHER'S HEART MINISTRIES, INC., THE",
+      "address": "543545 York, NY",
+      "year": 2011,
+      "agency": "DYCD",
+      "source": "Youth [4000.0]",
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_13529",
+      "name": "Father's Heart Ministries, The",
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Mendez",
+      "amount": "4500.0",
+      "status": "Cleared",
+      "city": "New York",
+      "state": "NY",
+      "zipcode": "10009"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_10141",
+      "name": "Museum of Arts and Design",
+      "address": "2 Columbus Circle New York, NY 10019",
+      "year": 2013,
+      "agency": "DYCD",
+      "source": "Local",
+      "counselor": "Lappin",
+      "amount": 5000.0,
+      "status": "Pending"
+    },
+    "right": {
+      "_id": "funding_10139",
+      "name": "Muse_um of Arts and Design",
+      "agency": "DCA",
+      "source": "Local",
+      "counselor": "Lappin",
+      "amount": 10000.0,
+      "status": "Cleared",
+      "city": "New York",
+      "state": "NY",
+      "zipcode": "10019"
+    },
+    "label": 1
+  },
+  {
+    "left": {
+      "_id": "funding_16140",
+      "name": "Kwatny Foundation,, Inc.",
+      "agency": "DYCD",
+      "source": "Youth Services Initiative",
+      "amount": 5000.0,
+      "status": "Cleared"
+    },
+    "right": {
+      "_id": "funding_16138",
+      "name": "Kwatny Foundation, In.c",
+      "year": 2012,
+      "agency": "DYCD",
+      "source": "Youth",
+      "counselor": "Barron",
+      "amount": "5000.0",
+      "status": "Cleared",
+      "state": "NY",
+      "zipcode": "11207"
+    },
+    "label": 1
+  }
+]

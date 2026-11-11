@@ -1,0 +1,52 @@
+{
+  "dataset": "nyc",
+  "model": "gpt-5.6-luna",
+  "mode": "evidence",
+  "total_pairs": 1000,
+  "matched_pairs": 452,
+  "em_metrics": {
+    "total": 1000,
+    "tp": 346,
+    "fp": 106,
+    "tn": 394,
+    "fn": 154,
+    "precision": 0.7654867256637168,
+    "recall": 0.692,
+    "f1": 0.726890756302521,
+    "accuracy": 0.74
+  },
+  "attr_metrics": {
+    "end_to_end": {
+      "total_pairs": 452,
+      "tp": 1420,
+      "fp": 701,
+      "fn": 121,
+      "precision": 0.6694955209806694,
+      "recall": 0.9214795587280986,
+      "f1": 0.7755324959038776,
+      "accuracy": 0.6333630686886709,
+      "pair_accuracy": 0.4646017699115044,
+      "exact_matches": 210
+    },
+    "conditional": {
+      "total_pairs": 346,
+      "tp": 1420,
+      "fp": 255,
+      "fn": 121,
+      "precision": 0.8477611940298507,
+      "recall": 0.9214795587280986,
+      "f1": 0.8830845771144279,
+      "accuracy": 0.7906458797327395,
+      "pair_accuracy": 0.6069364161849711,
+      "exact_matches": 210
+    }
+  },
+  "joint_metrics": {
+    "joint_exact_match_correct": 604,
+    "joint_exact_match_total": 1000,
+    "joint_exact_match_accuracy": 0.604,
+    "missing_predictions": 0,
+    "invalid_am_outputs": 0,
+    "duplicate_gt_ids": 0
+  }
+}

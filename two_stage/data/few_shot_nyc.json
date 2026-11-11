@@ -1,0 +1,4 @@
+{
+  "pairs_file": "/Users/yixuan/Documents/GitHub/machamp-main/two_stage/data/Dev_dataset/transformed_dataset/nyc_dev_label1.json",
+  "gt_file": "/Users/yixuan/Documents/GitHub/machamp-main/two_stage/data/Dev_dataset/nyc_AT_level_GT/nyc_dev_AM.json"
+}

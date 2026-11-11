@@ -1,0 +1,4633 @@
+[
+  {
+    "left_id": "BN1308",
+    "right_id": "HC0986",
+    "left": {
+      "ID": "BN1308",
+      "Title": "Soldier X",
+      "Price": "$6.99 ",
+      "Author": "Don L. Wulffson",
+      "ISBN13": 9780142500736,
+      "Publisher": "Penguin Young Readers Group",
+      "Publication_Date": "7/14/03",
+      "Pages": 240.0,
+      "Dimensions": "4.25(w) x 6.75(h) x 0.60(d)"
+    },
+    "right": {
+      "id": "HC0986",
+      "title": "Soldier X",
+      "Pages": 227,
+      "Dimensions": "4.30 x 6.74 x 0.59 inches",
+      "prices": {
+        "UsedPrice": "$4.48",
+        "NewPrice": "$8.57"
+      },
+      "authors": "Don L. Wulffson",
+      "publication_info": {
+        "ISBN10": "0142500739",
+        "ISBN13": 9780142500736,
+        "Publisher": "Speak",
+        "Publication_Date": "Jul. 14th, 2003"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2802",
+    "right_id": "HC1753",
+    "left": {
+      "ID": "BN2802",
+      "Title": "Tortall and Other Lands: A Collection of Tales",
+      "Price": "$8.98 ",
+      "Author": "Tamora Pierce",
+      "ISBN13": 9780375866333,
+      "Publisher": "Random House Children's Books",
+      "Publication_Date": "4/10/12",
+      "Pages": 400.0,
+      "Dimensions": "5.40(w) x 8.20(h) x 0.90(d)"
+    },
+    "right": {
+      "id": "HC1753",
+      "title": "Tortall and Other Lands",
+      "Pages": 369,
+      "Dimensions": "5.50 x 8.10 x 1.00 inches",
+      "prices": {
+        "UsedPrice": "$7.07",
+        "NewPrice": "$11.27"
+      },
+      "authors": "Tamora Pierce",
+      "publication_info": {
+        "ISBN10": "0375866337",
+        "ISBN13": 9780375866333,
+        "Publisher": "Bluefire",
+        "Publication_Date": "Apr. 10th, 2012"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2845",
+    "right_id": "HC2208",
+    "left": {
+      "ID": "BN2845",
+      "Title": "Two-Way Street",
+      "Price": "$7.68 ",
+      "Author": "Lauren Barnholdt",
+      "ISBN13": 9781416913184,
+      "Publisher": "Simon Pulse",
+      "Publication_Date": "6/26/07",
+      "Pages": 304.0,
+      "Dimensions": "5.70(w) x 8.10(h) x 0.80(d)"
+    },
+    "right": {
+      "id": "HC2208",
+      "title": "Two-Way Street",
+      "Pages": 304,
+      "Dimensions": "5.54 x 8.16 x 0.82 inches",
+      "prices": {
+        "UsedPrice": "$6.98",
+        "NewPrice": "$10.71"
+      },
+      "authors": "Lauren Barnholdt",
+      "publication_info": {
+        "ISBN10": "1416913181",
+        "ISBN13": 9781416913184,
+        "Publisher": "Simon Pulse",
+        "Publication_Date": "Jun. 1st, 2007"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2847",
+    "right_id": "HC1056",
+    "left": {
+      "ID": "BN2847",
+      "Title": "Habibi",
+      "Price": "$7.99 ",
+      "Author": "Naomi Shihab Nye",
+      "ISBN13": 9780689825231,
+      "Publisher": "Simon Pulse",
+      "Publication_Date": "6/28/99",
+      "Pages": 272.0,
+      "Dimensions": "4.30(w) x 7.00(h) x 0.80(d)"
+    },
+    "right": {
+      "id": "HC1056",
+      "title": "Habibi",
+      "Pages": 272,
+      "Dimensions": "4.20 x 7.32 x 0.79 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$8.69"
+      },
+      "authors": "Naomi Shihab Nye",
+      "publication_info": {
+        "ISBN10": "0689825234",
+        "ISBN13": 9780689825231,
+        "Publisher": "Simon Pulse",
+        "Publication_Date": "Jun. 1st, 1999"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2848",
+    "right_id": "HC1115",
+    "left": {
+      "ID": "BN2848",
+      "Title": "Antes de ser libres (Before We Were Free)",
+      "Price": "$6.99 ",
+      "Author": "Julia Alvarez",
+      "ISBN13": 9780375815454,
+      "Publisher": "Random House Children's Books",
+      "Publication_Date": "4/20/04",
+      "Pages": 192.0,
+      "Dimensions": "4.79(w) x 6.91(h) x 0.56(d)"
+    },
+    "right": {
+      "id": "HC1115",
+      "title": "Antes de Ser Libres",
+      "Pages": 192,
+      "Dimensions": "4.27 x 6.91 x 0.53 inches",
+      "prices": {
+        "UsedPrice": "$6.34",
+        "NewPrice": "$8.43"
+      },
+      "authors": "Julia Alvarez",
+      "publication_info": {
+        "ISBN10": "0375815457",
+        "ISBN13": 9780375815454,
+        "Publisher": "Laurel Leaf Library",
+        "Publication_Date": "Apr. 13th, 2004"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2853",
+    "right_id": "HC2052",
+    "left": {
+      "ID": "BN2853",
+      "Title": "The Carrie Diaries (Carrie Diaries Series #1)",
+      "Price": "$9.99 ",
+      "Author": "Candace Bushnell",
+      "ISBN13": 9780061728921,
+      "Publisher": "HarperCollins Publishers",
+      "Publication_Date": "4/26/11",
+      "Pages": 416.0,
+      "Dimensions": "5.31(w) x 8.00(h) x 0.93(d)"
+    },
+    "right": {
+      "id": "HC2052",
+      "title": "The Carrie Diaries(Carrie Diaries (Paperback))",
+      "Pages": 389,
+      "Dimensions": "5.40 x 7.97 x 1.04 inches",
+      "prices": {
+        "UsedPrice": "$5.79",
+        "NewPrice": "$10.72"
+      },
+      "authors": "Candace Bushnell",
+      "publication_info": {
+        "ISBN10": "0061728926",
+        "ISBN13": 9780061728921,
+        "Publisher": "Balzer & Bray/Harperteen",
+        "Publication_Date": "Apr. 26th, 2011"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2859",
+    "right_id": "HC1664",
+    "left": {
+      "ID": "BN2859",
+      "Title": "Purple Heart",
+      "Price": "$9.99 ",
+      "Author": "Patricia  McCormick",
+      "ISBN13": 9780061730924,
+      "Publisher": "HarperCollins Publishers",
+      "Publication_Date": "2/15/11",
+      "Pages": 199.0,
+      "Dimensions": "5.30(w) x 7.90(h) x 0.60(d)"
+    },
+    "right": {
+      "id": "HC1664",
+      "title": "Purple Heart",
+      "Pages": 199,
+      "Dimensions": "5.40 x 8.20 x 0.50 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$10.58"
+      },
+      "authors": "Patricia McCormick",
+      "publication_info": {
+        "ISBN10": "0061730920",
+        "ISBN13": 9780061730924,
+        "Publisher": "Balzer & Bray/Harperteen",
+        "Publication_Date": "Feb. 15th, 2011"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2860",
+    "right_id": "HC1183",
+    "left": {
+      "ID": "BN2860",
+      "Title": "How to Save a Life",
+      "Price": "$7.24 ",
+      "Author": "Sara Zarr",
+      "ISBN13": 9780316036054,
+      "Publisher": "Little, Brown Books for Young Readers",
+      "Publication_Date": "10/30/12",
+      "Pages": 368.0,
+      "Dimensions": "5.40(w) x 8.20(h) x 3.40(d)"
+    },
+    "right": {
+      "id": "HC1183",
+      "title": "How to Save a Life",
+      "Pages": 368,
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$7.33"
+      },
+      "authors": "Sara Zarr",
+      "publication_info": {
+        "ISBN10": "0316036056",
+        "ISBN13": 9780316036054,
+        "Publisher": "Little, Brown Books for Young Readers",
+        "Publication_Date": "Oct. 30th, 2012"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2865",
+    "right_id": "HC2282",
+    "left": {
+      "ID": "BN2865",
+      "Title": "East",
+      "Price": "$8.95 ",
+      "Author": "Edith Pattou",
+      "ISBN13": 9780152052218,
+      "Publisher": "Houghton Mifflin Harcourt",
+      "Publication_Date": "5/1/05",
+      "Pages": 528.0,
+      "Dimensions": "5.31(w) x 8.00(h) x 1.24(d)"
+    },
+    "right": {
+      "id": "HC2282",
+      "title": "East",
+      "Pages": 507,
+      "Dimensions": "5.31 x 8.08 x 1.25 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$10.27"
+      },
+      "authors": "Edith Pattou",
+      "publication_info": {
+        "ISBN10": "0152052216",
+        "ISBN13": 9780152052218,
+        "Publisher": "Harcourt Brace and Company",
+        "Publication_Date": "May. 1st, 2005"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2871",
+    "right_id": "HC2022",
+    "left": {
+      "ID": "BN2871",
+      "Title": "I Am J",
+      "Price": "$7.31 ",
+      "Author": "Cris Beam",
+      "ISBN13": 9780316053600,
+      "Publisher": "Little, Brown Books for Young Readers",
+      "Publication_Date": "11/13/12",
+      "Pages": 352.0,
+      "Dimensions": "5.40(w) x 8.20(h) x 1.00(d)"
+    },
+    "right": {
+      "id": "HC2022",
+      "title": "I Am J",
+      "Pages": 352,
+      "prices": {
+        "UsedPrice": "$6.89",
+        "NewPrice": "$12.08"
+      },
+      "authors": "Cris Beam",
+      "publication_info": {
+        "ISBN10": "0316053600",
+        "ISBN13": 9780316053600,
+        "Publisher": "Little, Brown Books for Young Readers",
+        "Publication_Date": "Nov. 13th, 2012"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2885",
+    "right_id": "HC1392",
+    "left": {
+      "ID": "BN2885",
+      "Title": "It Gets Better: Coming Out, Overcoming Bullying, and Creating a Life Worth Living",
+      "Price": "$11.92 ",
+      "Author": "Dan Savage",
+      "ISBN13": 9780452297616,
+      "Publisher": "Penguin Publishing Group",
+      "Publication_Date": "1/25/12",
+      "Pages": 352.0,
+      "Dimensions": "5.30(w) x 7.90(h) x 0.90(d)"
+    },
+    "right": {
+      "id": "HC1392",
+      "title": "It Gets Better",
+      "Pages": 338,
+      "Dimensions": "5.30 x 8.00 x 0.60 inches",
+      "prices": {
+        "UsedPrice": "$6.43",
+        "NewPrice": "$14.84"
+      },
+      "authors": "Dan Savage",
+      "publication_info": {
+        "ISBN10": "0452297613",
+        "ISBN13": 9780452297616,
+        "Publisher": "Plume Books",
+        "Publication_Date": "Jan. 25th, 2012"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2914",
+    "right_id": "HC2787",
+    "left": {
+      "ID": "BN2914",
+      "Title": "Temptation",
+      "Price": "$7.81 ",
+      "Author": "Karen Ann Hopkins",
+      "ISBN13": 9780373210541,
+      "Publisher": "Harlequin",
+      "Publication_Date": "6/26/12",
+      "Pages": 400.0,
+      "Dimensions": "5.50(w) x 8.06(h) x 1.08(d)"
+    },
+    "right": {
+      "id": "HC2787",
+      "title": "Temptation(Harlequin Teen)",
+      "Pages": 380,
+      "Dimensions": "5.30 x 8.20 x 1.10 inches",
+      "prices": {
+        "UsedPrice": "$6.08",
+        "NewPrice": "$10.86"
+      },
+      "authors": "Karen Ann Hopkins",
+      "publication_info": {
+        "ISBN10": "037321054X",
+        "ISBN13": 9780373210541,
+        "Publisher": "Harlequin Teen",
+        "Publication_Date": "Jun. 26th, 2012"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2923",
+    "right_id": "HC1514",
+    "left": {
+      "ID": "BN2923",
+      "Title": "Death, Doom, and Detention (Darklight Series #2)",
+      "Price": "$9.99 ",
+      "Author": "Darynda Jones",
+      "ISBN13": 9780312625214,
+      "Publisher": "St. Martin's Press",
+      "Publication_Date": "3/5/13",
+      "Pages": 320.0,
+      "Dimensions": "5.40(w) x 8.50(h) x 1.00(d)"
+    },
+    "right": {
+      "id": "HC1514",
+      "title": "Death, Doom, and Detention",
+      "Pages": 320,
+      "prices": {
+        "UsedPrice": "$4.48",
+        "NewPrice": "$11.29"
+      },
+      "authors": "Darynda Jones",
+      "publication_info": {
+        "ISBN10": "0312625219",
+        "ISBN13": 9780312625214,
+        "Publisher": "St. Martin's Griffin",
+        "Publication_Date": "Mar. 5th, 2013"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2930",
+    "right_id": "HC2572",
+    "left": {
+      "ID": "BN2930",
+      "Title": "Fire and Hemlock",
+      "Price": "$9.07 ",
+      "Author": "Diana Wynne Jones",
+      "ISBN13": 9780142420140,
+      "Publisher": "Penguin Young Readers Group",
+      "Publication_Date": "4/12/12",
+      "Pages": 496.0,
+      "Dimensions": "5.58(w) x 8.08(h) x 1.31(d)"
+    },
+    "right": {
+      "id": "HC2572",
+      "title": "Fire and Hemlock",
+      "Pages": 438,
+      "Dimensions": "5.50 x 8.34 x 1.39 inches",
+      "prices": {
+        "UsedPrice": "$4.48",
+        "NewPrice": "$10.07"
+      },
+      "authors": "Diana Wynne Jones",
+      "publication_info": {
+        "ISBN10": "014242014X",
+        "ISBN13": 9780142420140,
+        "Publisher": "Firebird",
+        "Publication_Date": "Apr. 12th, 2012"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN2991",
+    "right_id": "HC1368",
+    "left": {
+      "ID": "BN2991",
+      "Title": "Take Me There",
+      "Price": "$7.13 ",
+      "Author": "Susane Colasanti",
+      "ISBN13": 9780142414354,
+      "Publisher": "Penguin Young Readers Group",
+      "Publication_Date": "5/14/09",
+      "Pages": 320.0,
+      "Dimensions": "8.30(w) x 5.42(h) x 0.88(d)"
+    },
+    "right": {
+      "id": "HC1368",
+      "title": "Take Me There",
+      "Pages": 290,
+      "Dimensions": "5.40 x 8.20 x 1.10 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$9.37"
+      },
+      "authors": "Susane Colasanti",
+      "publication_info": {
+        "ISBN10": "0142414352",
+        "ISBN13": 9780142414354,
+        "Publisher": "Speak",
+        "Publication_Date": "May. 14th, 2009"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN3013",
+    "right_id": "HC3065",
+    "left": {
+      "ID": "BN3013",
+      "Title": "Teenage Love Affair",
+      "Price": "$8.15 ",
+      "Author": "Ni-Ni Simone",
+      "ISBN13": 9780758241894,
+      "Publisher": "Kensington",
+      "Publication_Date": "4/1/10",
+      "Pages": 240.0,
+      "Dimensions": "5.50(w) x 8.20(h) x 1.00(d)"
+    },
+    "right": {
+      "id": "HC3065",
+      "title": "Teenage Love Affair",
+      "Pages": 240,
+      "Dimensions": "5.80 x 8.20 x 0.90 inches",
+      "prices": {
+        "UsedPrice": "$5.79",
+        "NewPrice": "$10.69"
+      },
+      "authors": "Ni-Ni Simone",
+      "publication_info": {
+        "ISBN10": "0758241895",
+        "ISBN13": 9780758241894,
+        "Publisher": "K-Teen",
+        "Publication_Date": "Apr. 1st, 2010"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "BN3016",
+    "right_id": "HC2784",
+    "left": {
+      "ID": "BN3016",
+      "Title": "Spanking Shakespeare",
+      "Price": "$8.35 ",
+      "Author": "Jake Wizner",
+      "ISBN13": 9780375855948,
+      "Publisher": "Random House Children's Books",
+      "Publication_Date": "10/28/08",
+      "Pages": 304.0,
+      "Dimensions": "5.50(w) x 8.20(h) x 0.70(d)"
+    },
+    "right": {
+      "id": "HC2784",
+      "title": "Spanking Shakespeare",
+      "Pages": 287,
+      "Dimensions": "5.44 x 8.26 x 0.70 inches",
+      "prices": {
+        "UsedPrice": "$3.98",
+        "NewPrice": "$8.51"
+      },
+      "authors": "Jake Wizner",
+      "publication_info": {
+        "ISBN10": "0375855947",
+        "ISBN13": 9780375855948,
+        "Publisher": "Random House Books for Young Readers",
+        "Publication_Date": "Oct. 28th, 2008"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "45",
+    "right_id": "5270",
+    "left": {
+      "ID": 45,
+      "Title": "Schaum's Outline of Essential Computer Mathematics",
+      "Author": "Seymour Lipschutz",
+      "Price": "$12.00 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0070379909",
+      "ISBN_10": "70379904",
+      "Paperback": "256 pages",
+      "Series": "Schaum's Outlines",
+      "Publisher_dummy": "McGraw-Hill Education",
+      "Publisher": "McGraw-Hill Education",
+      "Language": "English",
+      "Product Dimensions": "8.2 x 0.7 x 10.9 inches",
+      "Shipping Weight": "1.6 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 5270,
+      "title": "Schaum's Outline of Essential Computer Mathematics / Edition 1",
+      "prices": {
+        "Paperback": "$12.63 ",
+        "ISBN_13_DUMMY": 9780070000000.0,
+        "ISBN_13": "978-0070379909",
+        "Series": "Schaum's Outline Series",
+        "Publisher": "McGraw-Hill Professional Publishing",
+        "Sales_rank": "777,979",
+        "Pages": 357.0,
+        "Product_dimensions": "8.10(w) x 10.80(h) x 0.60(d)"
+      },
+      "authors": "Seymour Lipschutz"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "172",
+    "right_id": "6198",
+    "left": {
+      "ID": 172,
+      "Title": "Mike Meyers' CompTIA Security+ Certification Passport, Third Edition ",
+      "Author": "T. J. Samuelle",
+      "Price": "$14.25 ",
+      "Edition": "3rd Edition",
+      "ISBN_13": "978-0071770385",
+      "ISBN_10": "71770380",
+      "Paperback": "480 pages",
+      "Series": "Mike Meyers' Certficiation Passport",
+      "Publisher_dummy": "McGraw-Hill Education",
+      "Publisher": "McGraw-Hill Education",
+      "Language": "English",
+      "Product Dimensions": "6 x 0.9 x 9 inches",
+      "Shipping Weight": "1.5 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 6198,
+      "title": "Mike Meyers' CompTIA Security+ Certification Passport 3rd Edition (Exam SY0-301) / Edition 3",
+      "prices": {
+        "Paperback": "$15.00 ",
+        "NOOK_Book": "$17.49 ",
+        "ISBN_13_DUMMY": 9780070000000.0,
+        "ISBN_13": "978-0071770385",
+        "Series": "Mike Meyers' Certficiation Passport Series",
+        "Publisher": "McGraw-Hill Professional Publishing",
+        "Sales_rank": "885,728",
+        "Pages": 480.0,
+        "Product_dimensions": "8.80(w) x 6.00(h) x 0.96(d)"
+      },
+      "authors": "T. J. Samuelle"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "184",
+    "right_id": "9971",
+    "left": {
+      "ID": 184,
+      "Title": "Kinect Open Source Programming Secrets: Hacking the Kinect with OpenNI, NITE, and Java",
+      "Author": "Andrew Davison",
+      "Price": "$25.17 "
+    },
+    "right": {
+      "id": 9971,
+      "title": "Kinect Open Source Programming Secrets: Hacking the Kinect with OpenNI, NITE, and Java",
+      "prices": {
+        "Paperback": "$25.23 ",
+        "NOOK_Book": "$17.99 ",
+        "ISBN_13_DUMMY": 9780070000000.0,
+        "ISBN_13": "978-0071783170",
+        "Publisher": "McGraw-Hill Professional Publishing",
+        "Sales_rank": "1,263,602",
+        "Pages": 336.0,
+        "Product_dimensions": "7.20(w) x 9.00(h) x 0.90(d)"
+      },
+      "authors": "Andrew Davison"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "185",
+    "right_id": "6278",
+    "left": {
+      "ID": 185,
+      "Title": "Genealogy QuickSteps",
+      "Author": "Marty Matthews# Bobbi Sandberg# Marty Matthews",
+      "Price": "$9.99 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0071784207",
+      "ISBN_10": "71784209",
+      "Paperback": "288 pages",
+      "Series": "QuickSteps",
+      "Publisher_dummy": "McGraw-Hill Education",
+      "Publisher": "McGraw-Hill Education",
+      "Language": "English",
+      "Product Dimensions": "8 x 0.6 x 9.9 inches",
+      "Shipping Weight": "1.2 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 6278,
+      "title": "Genealogy",
+      "prices": {
+        "Paperback": "$20.00 ",
+        "NOOK_Book": "$11.99 ",
+        "ISBN_13_DUMMY": 9780070000000.0,
+        "ISBN_13": "978-0071784207",
+        "Series": "QuickSteps Series",
+        "Publisher": "McGraw-Hill Professional Publishing",
+        "Sales_rank": "893,347",
+        "Pages": 288.0,
+        "Product_dimensions": "9.80(w) x 7.90(h) x 0.60(d)"
+      },
+      "authors": "Marty Matthews# Bobbi Sandberg"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "218",
+    "right_id": "1328",
+    "left": {
+      "ID": 218,
+      "Title": "Born to Blog: Building Your Blog for Personal and Business Success One Post at a Time",
+      "Author": "Mark Schaefer# Stanford Smith",
+      "Price": "$8.64 "
+    },
+    "right": {
+      "id": 1328,
+      "title": "Born to Blog: Building Your Blog for Personal and Business Success One Post at a Time",
+      "prices": {
+        "Paperback": "$8.64 ",
+        "NOOK_Book": "$9.99 ",
+        "ISBN_13_DUMMY": 9780070000000.0,
+        "ISBN_13": "978-0071811163",
+        "Publisher": "McGraw-Hill Professional Publishing",
+        "Sales_rank": "318,828",
+        "Pages": 176.0,
+        "Product_dimensions": "5.40(w) x 8.30(h) x 0.60(d)"
+      },
+      "authors": "Mark Schaefer# Stanford Smith"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "251",
+    "right_id": "3867",
+    "left": {
+      "ID": 251,
+      "Title": "People-Centric Security: Transforming Your Enterprise Security Culture",
+      "Author": "Lance Hayden",
+      "Price": "$33.87 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0071846776",
+      "ISBN_10": "71846778",
+      "Paperback": "416 pages",
+      "Publisher_dummy": "McGraw-Hill Education",
+      "Publisher": "McGraw-Hill Education",
+      "Language": "English",
+      "Product Dimensions": "9.1 x 7.4 x 0.8 inches",
+      "Shipping Weight": "12.6 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 3867,
+      "title": "People-Centric Security: Transforming Your Enterprise Security Culture",
+      "prices": {
+        "Paperback": "$36.84 ",
+        "NOOK_Book": "$28.99 ",
+        "ISBN_13_DUMMY": 9780070000000.0,
+        "ISBN_13": "978-0071846776",
+        "Publisher": "McGraw-Hill Professional Publishing",
+        "Sales_rank": "615,615",
+        "Pages": 416.0,
+        "Product_dimensions": "7.30(w) x 9.00(h) x 0.70(d)"
+      },
+      "authors": "Lance Hayden"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "386",
+    "right_id": "3497",
+    "left": {
+      "ID": 386,
+      "Title": "The Designer's Guide to VHDL, Third Edition ",
+      "Author": "Peter J. Ashenden",
+      "Price": "$21.49 - $44.39",
+      "Edition": "3rd Edition",
+      "ISBN_13": "978-0120887859",
+      "ISBN_10": "120887851",
+      "Publisher_dummy": "Morgan Kaufmann",
+      "Publisher": "Morgan Kaufmann",
+      "Language": "English",
+      "Product Dimensions": "9.6 x 7.8 x 2.1 inches",
+      "Shipping Weight": "3.8 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 3497,
+      "title": "The Designer's Guide to VHDL / Edition 3",
+      "prices": {
+        "Hardcover": "$54.01 ",
+        "NOOK_Book": "$57.49 ",
+        "ISBN_13_DUMMY": 9780120000000.0,
+        "ISBN_13": "978-0120887859",
+        "Series": "Systems on Silicon Series",
+        "Publisher": "Elsevier Science",
+        "Sales_rank": "576,826",
+        "Pages": 936.0,
+        "Product_dimensions": "7.80(w) x 9.20(h) x 2.10(d)"
+      },
+      "authors": "Peter J. Ashenden"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "402",
+    "right_id": "4461",
+    "left": {
+      "ID": 402,
+      "Title": "Letting Go of the Words: Writing Web Content that Works ",
+      "Author": "Janice (Ginny) Redish",
+      "Price": "$20.51 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0123694867",
+      "ISBN_10": "123694868",
+      "Paperback": "384 pages",
+      "Series": "Interactive Technologies",
+      "Publisher_dummy": "Morgan Kaufmann",
+      "Publisher": "Morgan Kaufmann",
+      "Language": "English",
+      "Product Dimensions": "9.3 x 7.5 x 0.8 inches",
+      "Shipping Weight": "1.7 pounds"
+    },
+    "right": {
+      "id": 4461,
+      "title": "Letting Go of the Words: Writing Web Content that Works / Edition 1",
+      "prices": {
+        "Paperback": "$30.74 ",
+        "NOOK_Book": "$29.99 ",
+        "ISBN_13_DUMMY": 9780120000000.0,
+        "ISBN_13": "978-0123694867",
+        "Series": "Interactive Technologies Series",
+        "Publisher": "Elsevier Science",
+        "Sales_rank": "694,593",
+        "Pages": 384.0,
+        "Product_dimensions": "7.52(w) x 9.26(h) x 0.77(d)"
+      },
+      "authors": "Janice (Ginny) Redish"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "434",
+    "right_id": "6953",
+    "left": {
+      "ID": 434,
+      "Title": "Pervasive Information Architecture: Designing Cross-Channel User Experiences",
+      "Author": "Andrea Resmini# Luca Rosati",
+      "Price": "$7.94 - $16.41",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0123820945",
+      "ISBN_10": "123820944",
+      "Paperback": "272 pages",
+      "Publisher_dummy": "Morgan Kaufmann",
+      "Publisher": "Morgan Kaufmann",
+      "Language": "English",
+      "Product Dimensions": "7.5 x 0.6 x 9.2 inches",
+      "Shipping Weight": "1.4 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 6953,
+      "title": "Pervasive Information Architecture: Designing Cross-Channel User Experiences",
+      "prices": {
+        "Paperback": "$25.17 ",
+        "NOOK_Book": "$22.99 ",
+        "ISBN_13_DUMMY": 9780120000000.0,
+        "ISBN_13": "978-0123820945",
+        "Publisher": "Elsevier Science",
+        "Sales_rank": "968,949",
+        "Pages": 272.0,
+        "Product_dimensions": "7.40(w) x 9.20(h) x 0.70(d)"
+      },
+      "authors": "Andrea Resmini# Luca Rosati"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "456",
+    "right_id": "1908",
+    "left": {
+      "ID": 456,
+      "Title": "Designing with the Mind in Mind, Second Edition: Simple Guide to Understanding User Interface Design Guidelines",
+      "Author": "Jeff Johnson",
+      "Price": "$33.60 ",
+      "Edition": "2nd Edition",
+      "ISBN_13": "978-0124079144",
+      "ISBN_10": "124079148",
+      "Paperback": "250 pages",
+      "Publisher_dummy": "Morgan Kaufmann",
+      "Publisher": "Morgan Kaufmann",
+      "Language": "English",
+      "Product Dimensions": "7.5 x 0.6 x 9.2 inches",
+      "Shipping Weight": "1.2 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 1908,
+      "title": "Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Guidelines / Edition 2",
+      "prices": {
+        "Paperback": "$36.81 ",
+        "NOOK_Book": "$37.46 ",
+        "ISBN_13_DUMMY": 9780120000000.0,
+        "ISBN_13": "978-0124079144",
+        "Publisher": "Elsevier Science",
+        "Sales_rank": "396,256",
+        "Pages": 250.0,
+        "Product_dimensions": "7.40(w) x 9.20(h) x 0.60(d)"
+      },
+      "authors": "Jeff Johnson"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "547",
+    "right_id": "9321",
+    "left": {
+      "ID": 547,
+      "Title": "Practical Statistics by Example Using Microsoft Excel and Minitab ",
+      "Author": "Terry L. Sincich# David M. Levine# David F. Stephan",
+      "Price": "$35.74 - $89.36",
+      "Edition": "2nd Edition",
+      "ISBN_13": "978-0130415219",
+      "ISBN_10": "130415219",
+      "Paperback": "789 pages",
+      "Publisher_dummy": "Pearson",
+      "Publisher": "Pearson",
+      "Language": "English",
+      "Product Dimensions": "7.9 x 1.5 x 9.9 inches",
+      "Shipping Weight": "3.2 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 9321,
+      "title": "Practical Statistics by Example Using Microsoft Excel and Minitab / Edition 2",
+      "prices": {
+        "Hardcover": "$67.46 ",
+        "Paperback": " ",
+        "ISBN_13_DUMMY": 9780130000000.0,
+        "ISBN_13": "978-0130415219",
+        "Publisher": "Pearson",
+        "Sales_rank": "1,195,060",
+        "Pages": 789.0,
+        "Product_dimensions": "7.90(w) x 9.90(h) x 1.50(d)"
+      },
+      "authors": "Terry L. Sincich# David M. Levine# David Stephan"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "619",
+    "right_id": "3916",
+    "left": {
+      "ID": 619,
+      "Title": "UNIX Shells by Example ",
+      "Author": "Ellie Quigley",
+      "Price": "$18.93 - $30.96",
+      "Edition": "4th Edition",
+      "ISBN_13": "978-0131475724",
+      "ISBN_10": "013147572X",
+      "Paperback": "1200 pages",
+      "Publisher_dummy": "Prentice Hall",
+      "Publisher": "Prentice Hall",
+      "Language": "English",
+      "Product Dimensions": "7 x 1.6 x 9.2 inches",
+      "Shipping Weight": "3.8 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 3916,
+      "title": "UNIX Shells by Example / Edition 4",
+      "prices": {
+        "Paperback": "$30.96 ",
+        "ISBN_13_DUMMY": 9780130000000.0,
+        "ISBN_13": "978-0131475724",
+        "Publisher": "Prentice Hall",
+        "Sales_rank": "621,268",
+        "Pages": 1150.0,
+        "Product_dimensions": "7.00(w) x 9.20(h) x 1.60(d)"
+      },
+      "authors": "Ellie Quigley"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "691",
+    "right_id": "7585",
+    "left": {
+      "ID": 691,
+      "Title": "Computer Literacy for IC3 Unit 3: Living Online ",
+      "Author": "John Preston# Sally Preston# John Preston# Robert Ferrett# Sally Preston",
+      "Price": "$28.95 - $54.31",
+      "Edition": "2nd Edition",
+      "ISBN_13": "978-0133028607",
+      "ISBN_10": "133028607",
+      "Series": "Computers Are Your Future",
+      "Publisher_dummy": "Prentice Hall",
+      "Publisher": "Prentice Hall",
+      "Language": "English",
+      "Product Dimensions": "8.4 x 0.5 x 10.7 inches",
+      "Shipping Weight": "1.2 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 7585,
+      "title": "Computer Literacy for IC3 Unit 3: Living Online / Edition 2",
+      "prices": {
+        "ISBN_13_DUMMY": 9780130000000.0,
+        "ISBN_13": "978-0133028607",
+        "Series": "Computers Are Your Future Series",
+        "Publisher": "Prentice Hall",
+        "Sales_rank": "1,033,393",
+        "Pages": 304.0,
+        "Product_dimensions": "8.60(w) x 10.80(h) x 0.50(d)"
+      },
+      "authors": "John Preston# Sally Preston# Robert Ferrett"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "740",
+    "right_id": "5998",
+    "left": {
+      "ID": 740,
+      "Title": "Cloud Computing Design Patterns ",
+      "Author": "Thomas Erl# Robert Cope# Amin Naserpour# Robert Cope",
+      "Price": "$31.19 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0133858563",
+      "ISBN_10": "133858561",
+      "Series": "The Prentice Hall Service Technology Series from Thomas Erl",
+      "Publisher_dummy": "Prentice Hall",
+      "Publisher": "Prentice Hall",
+      "Language": "English",
+      "Product Dimensions": "7.1 x 1.4 x 9 inches",
+      "Shipping Weight": "2.4 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 5998,
+      "title": "Cloud Computing Design Patterns",
+      "prices": {
+        "Hardcover": "$40.13 ",
+        "NOOK_Book": "$34.49 ",
+        "ISBN_13_DUMMY": 9780130000000.0,
+        "ISBN_13": "978-0133858563",
+        "Series": "Prentice Hall Service Technology Series from Thomas Erl Series",
+        "Publisher": "Prentice Hall",
+        "Sales_rank": "865,299",
+        "Pages": 592.0,
+        "Product_dimensions": "7.20(w) x 9.20(h) x 1.40(d)"
+      },
+      "authors": "Thomas Erl"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "825",
+    "right_id": "8591",
+    "left": {
+      "ID": 825,
+      "Title": "SOA Governance: Governing Shared Services On-Premise and in the Cloud ",
+      "Author": "Thomas Erl# Stephen G. Bennett# Benjamin Carlyle# Clive Gee# Benjamin Carlyle# Robert Laird# Clive Gee# Anne Thomas Manes# Robert Laird# Robert Moores# Robert Schneider# Leo Shuster# Robert Schneider# Andre Tost# Leo Shuster# Chris Venable# Andre Tost# Filippos Santas# Chris Venable",
+      "Price": "$30.30 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0138156756",
+      "ISBN_10": "138156751",
+      "Series": "The Prentice Hall Service Technology Series from Thomas Erl",
+      "Publisher_dummy": "Prentice Hall",
+      "Publisher": "Prentice Hall",
+      "Language": "English",
+      "Product Dimensions": "7.4 x 1.6 x 9.5 inches",
+      "Shipping Weight": "2.8 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 8591,
+      "title": "SOA Governance: Governing Shared Services On-Premise and in the Cloud",
+      "prices": {
+        "Hardcover": "$31.90 ",
+        "NOOK_Book": "$31.99 ",
+        "ISBN_13_DUMMY": 9780140000000.0,
+        "ISBN_13": "978-0138156756",
+        "Series": "The Prentice Hall Service Technology Series from Thomas Erl Series",
+        "Publisher": "Prentice Hall",
+        "Sales_rank": "1,126,956",
+        "Pages": 704.0,
+        "Product_dimensions": "6.90(w) x 9.20(h) x 1.80(d)"
+      },
+      "authors": "Thomas Erl# Stephen G. Bennett# Benjamin Carlyle# Clive Gee"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "836",
+    "right_id": "5443",
+    "left": {
+      "ID": 836,
+      "Title": "Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything",
+      "Author": "Steven Levy",
+      "Price": "$19.65 "
+    },
+    "right": {
+      "id": 5443,
+      "title": "Insanely Great: The Life and Times of Macintosh, the Computer that Changed Everything",
+      "prices": {
+        "Paperback": "$20.04 ",
+        "NOOK_Book": "$4.99 ",
+        "ISBN_13_DUMMY": 9780140000000.0,
+        "ISBN_13": "978-0140291773",
+        "Publisher": "Penguin Publishing Group",
+        "Pages": 336.0,
+        "Product_dimensions": "5.09(w) x 7.74(h) x 0.89(d)"
+      },
+      "authors": "Steven Levy"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "886",
+    "right_id": "4180",
+    "left": {
+      "ID": 886,
+      "Title": "Principles of Computer Hardware",
+      "Author": "Alan Clements",
+      "Price": "$79.95 - $121.95",
+      "Edition": "4th Edition",
+      "ISBN_13": "978-0199273133",
+      "ISBN_10": "199273138",
+      "Paperback": "672 pages",
+      "Publisher_dummy": "Oxford University Press",
+      "Publisher": "Oxford University Press",
+      "Language": "English",
+      "Product Dimensions": "10.3 x 1.2 x 7.5 inches",
+      "Shipping Weight": "3.5 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 4180,
+      "title": "Principles of Computer Hardware / Edition 4",
+      "prices": {
+        "Paperback": "$100.00 ",
+        "ISBN_13_DUMMY": 9780200000000.0,
+        "ISBN_13": "978-0199273133",
+        "Publisher": "Oxford University Press",
+        "Sales_rank": "652,192",
+        "Pages": 672.0,
+        "Product_dimensions": "10.30(w) x 7.50(h) x 1.20(d)"
+      },
+      "authors": "Alan Clements"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "946",
+    "right_id": "9956",
+    "left": {
+      "ID": 946,
+      "Title": "Developing WMI Solutions: A Guide to Windows Management Instrumentation",
+      "Author": "Craig Tunstall# Gwyn Cole",
+      "Price": "$29.95 - $35.26",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0201616132",
+      "ISBN_10": "201616130",
+      "Paperback": "816 pages",
+      "Publisher_dummy": "Addison-Wesley Professional",
+      "Publisher": "Addison-Wesley Professional",
+      "Language": "English",
+      "Product Dimensions": "7.2 x 1.8 x 9 inches",
+      "Shipping Weight": "2.6 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 9956,
+      "title": "Developing WMI Solutions: A Guide to Windows Management Instrumentation",
+      "prices": {
+        "Paperback": "$35.26 ",
+        "ISBN_13_DUMMY": 9780200000000.0,
+        "ISBN_13": "978-0201616132",
+        "Series": "Addison-Wesley Microsoft Technology Series",
+        "Publisher": "Addison-Wesley",
+        "Sales_rank": "1,262,947",
+        "Pages": 789.0,
+        "Product_dimensions": "7.16(w) x 8.97(h) x 1.81(d)"
+      },
+      "authors": "Craig Tunstall# Gwyn Cole# Robert L. McDonald"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1003",
+    "right_id": "2003",
+    "left": {
+      "ID": 1003,
+      "Title": "Smart Machines: IBM's Watson and the Era of Cognitive Computing ",
+      "Author": "John E. Kelly III# Steve Hamm",
+      "Price": "$18.07 "
+    },
+    "right": {
+      "id": 2003,
+      "title": "Smart Machines: IBM's Watson and the Era of Cognitive Computing",
+      "prices": {
+        "Hardcover": "$18.43 ",
+        "NOOK_Book": "$12.49 ",
+        "ISBN_13_DUMMY": 9780230000000.0,
+        "ISBN_13": "978-0231168564",
+        "Publisher": "Columbia University Press",
+        "Sales_rank": "526,609",
+        "Pages": 160.0
+      },
+      "authors": "John E. Kelly# Steve Hamm"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1034",
+    "right_id": "2765",
+    "left": {
+      "ID": 1034,
+      "Title": "Thinking about Video Games: Interviews with the Experts ",
+      "Author": "David S. Heineman",
+      "Price": "$18.61 "
+    },
+    "right": {
+      "id": 2765,
+      "title": "Thinking about Video Games: Interviews with the Experts",
+      "prices": {
+        "Hardcover": "$65.00 ",
+        "Paperback": "$18.67 ",
+        "NOOK_Book": "$13.99 ",
+        "ISBN_13_DUMMY": 9780250000000.0,
+        "ISBN_13": "978-0253017154",
+        "Series": "Digital Game Studies Series",
+        "Publisher": "Indiana University Press",
+        "Sales_rank": "1,015,291",
+        "Pages": 268.0,
+        "Product_dimensions": "5.90(w) x 8.90(h) x 3.10(d)"
+      },
+      "authors": "David S. Heineman"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1047",
+    "right_id": "1259",
+    "left": {
+      "ID": 1047,
+      "Title": "Simulation and Its Discontents ",
+      "Author": "Sherry Turkle# William J. Clancey# Stefan Helmreich# William J. Clancey# Yanni A. Loukissas# Stefan Helmreich# Natasha Myers# Yanni A. Loukissas",
+      "Price": "$16.91 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0262012706",
+      "ISBN_10": "262012707",
+      "Series": "Simplicity",
+      "Publisher_dummy": "The MIT Press",
+      "Publisher": "The MIT Press",
+      "Language": "English",
+      "Product Dimensions": "5.4 x 0.6 x 8 inches",
+      "Shipping Weight": "13.6 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 1259,
+      "title": "Simulation and Its Discontents",
+      "prices": {
+        "Hardcover": "$18.51 ",
+        "NOOK_Book": "$14.99 ",
+        "ISBN_13_DUMMY": 9780260000000.0,
+        "ISBN_13": "978-0262012706",
+        "Series": "Simplicity: Design, Technology, Business, Life",
+        "Publisher": "MIT Press",
+        "Sales_rank": "307,149",
+        "Pages": 232.0
+      },
+      "authors": "Sherry Turkle# William J. Clancey# Stefan Helmreich# Yanni A. Loukissas"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1057",
+    "right_id": "4058",
+    "left": {
+      "ID": 1057,
+      "Title": "Recoding Gender: Women's Changing Participation in Computing ",
+      "Author": "Janet Abbate",
+      "Price": "$24.50 ",
+      "ISBN_13": "978-0262018067",
+      "ISBN_10": "262018063",
+      "Series": "History of Computing",
+      "Publisher_dummy": "The MIT Press ",
+      "Publisher": "The MIT Press",
+      "Language": "English",
+      "Product Dimensions": "6 x 0.5 x 9 inches",
+      "Shipping Weight": "1.1 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 4058,
+      "title": "Recoding Gender: Women's Changing Participation in Computing",
+      "prices": {
+        "Hardcover": "$25.47 ",
+        "NOOK_Book": "$18.99 ",
+        "ISBN_13_DUMMY": 9780260000000.0,
+        "ISBN_13": "978-0262018067",
+        "Series": "History of Computing",
+        "Publisher": "MIT Press",
+        "Sales_rank": "643,188",
+        "Pages": 264.0
+      },
+      "authors": "Janet Abbate"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1156",
+    "right_id": "346",
+    "left": {
+      "ID": 1156,
+      "Title": "Humans Need Not Apply: A Guide to Wealth and Work in the Age of Artificial Intelligence",
+      "Author": "Jerry Kaplan",
+      "Price": "$23.33 "
+    },
+    "right": {
+      "id": 346,
+      "title": "Humans Need Not Apply: A Guide to Wealth and Work in the Age of Artificial Intelligence",
+      "prices": {
+        "Hardcover": "$23.33 ",
+        "NOOK_Book": "$10.49 ",
+        "ISBN_13_DUMMY": 9780300000000.0,
+        "ISBN_13": "978-0300213553",
+        "Publisher": "Yale University Press",
+        "Sales_rank": "112,181",
+        "Pages": 256.0,
+        "Product_dimensions": "5.60(w) x 8.20(h) x 1.10(d)"
+      },
+      "authors": "Jerry Kaplan"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1244",
+    "right_id": "6932",
+    "left": {
+      "ID": 1244,
+      "Title": "The Craft of System Security",
+      "Author": "Sean Smith# John Marchesini# Sean Smith",
+      "Price": "$43.11 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0321434838",
+      "ISBN_10": "321434838",
+      "Paperback": "592 pages",
+      "Publisher_dummy": "Addison-Wesley Professional",
+      "Publisher": "Addison-Wesley Professional",
+      "Language": "English",
+      "Product Dimensions": "7 x 1.4 x 8.9 inches",
+      "Shipping Weight": "1.9 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 6932,
+      "title": "The Craft of System Security / Edition 1",
+      "prices": {
+        "Paperback": "$55.64 ",
+        "NOOK_Book": "$48.49 ",
+        "ISBN_13_DUMMY": 9780320000000.0,
+        "ISBN_13": "978-0321434838",
+        "Publisher": "Addison-Wesley",
+        "Sales_rank": "967,784",
+        "Pages": 557.0,
+        "Product_dimensions": "7.00(w) x 9.00(h) x 1.40(d)"
+      },
+      "authors": "Sean Smith# John Marchesini"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1535",
+    "right_id": "3102",
+    "left": {
+      "ID": 1535,
+      "Title": "IT Disaster Recovery Planning For Dummies",
+      "Author": "Peter H. Gregory# Philip Jan Rothstein",
+      "Price": "$15.99 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0470039731",
+      "ISBN_10": "470039736",
+      "Paperback": "388 pages",
+      "Publisher_dummy": "For Dummies",
+      "Publisher": "For Dummies",
+      "Language": "English",
+      "Product Dimensions": "7.4 x 0.8 x 9.2 inches",
+      "Shipping Weight": "1.4 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 3102,
+      "title": "IT Disaster Recovery Planning For Dummies",
+      "prices": {
+        "Paperback": "$23.99 ",
+        "NOOK_Book": "$16.49 ",
+        "ISBN_13_DUMMY": 9780470000000.0,
+        "ISBN_13": "978-0470039731",
+        "Series": "For Dummies Series",
+        "Publisher": "Wiley",
+        "Sales_rank": "527,785",
+        "Pages": 388.0,
+        "Product_dimensions": "7.40(w) x 9.10(h) x 0.80(d)"
+      },
+      "authors": "Peter H. Gregory"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1581",
+    "right_id": "4806",
+    "left": {
+      "ID": 1581,
+      "Title": "The One Page Project Manager for IT Projects: Communicate and Manage Any Project With A Single Sheet of Paper",
+      "Author": "Clark A. Campbell",
+      "Price": "$19.84 ",
+      "ISBN_13": "978-0470275887",
+      "ISBN_10": "047027588X",
+      "Paperback": "160 pages",
+      "Publisher_dummy": "Wiley",
+      "Publisher": "Wiley",
+      "Language": "English",
+      "Product Dimensions": "6.1 x 0.5 x 9.1 inches",
+      "Shipping Weight": "7.2 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 4806,
+      "title": "The One-Page Project Manager for IT Projects: Communicate and Manage Any Project With a Single Sheet of Paper",
+      "prices": {
+        "Paperback": "$19.64 ",
+        "NOOK_Book": "$12.49 ",
+        "ISBN_13_DUMMY": 9780470000000.0,
+        "ISBN_13": "978-0470275887",
+        "Publisher": "Wiley",
+        "Sales_rank": "724,084",
+        "Pages": 160.0,
+        "Product_dimensions": "5.90(w) x 8.90(h) x 0.50(d)"
+      },
+      "authors": "Clark A. Campbell"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1626",
+    "right_id": "2154",
+    "left": {
+      "ID": 1626,
+      "Title": "IT Architecture For Dummies",
+      "Author": "Kalani Kirk Hausman# Susan L. Cook",
+      "Price": "$24.01 "
+    },
+    "right": {
+      "id": 2154,
+      "title": "IT Architecture For Dummies",
+      "prices": {
+        "Paperback": "$24.46 ",
+        "NOOK_Book": "$18.49 ",
+        "ISBN_13_DUMMY": 9780470000000.0,
+        "ISBN_13": "978-0470554234",
+        "Series": "For Dummies Series",
+        "Publisher": "Wiley",
+        "Sales_rank": "423,243",
+        "Pages": 364.0,
+        "Product_dimensions": "7.30(w) x 9.20(h) x 0.80(d)"
+      },
+      "authors": "Kalani Kirk Hausman# Susan L. Cook"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1972",
+    "right_id": "1574",
+    "left": {
+      "ID": 1972,
+      "Title": "Practical Unix & Internet Security, 3rd Edition",
+      "Author": "Simson Garfinkel# Gene Spafford# Simson Garfinkel# Alan Schwartz",
+      "Price": "$25.49 ",
+      "Edition": "3rd Edition",
+      "ISBN_13": "978-0596003234",
+      "ISBN_10": "596003234",
+      "Paperback": "988 pages",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Language": "English",
+      "Product Dimensions": "7 x 2.1 x 9.2 inches",
+      "Shipping Weight": "3 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 1574,
+      "title": "Practical Unix & Internet Security",
+      "prices": {
+        "Paperback": "$40.00 ",
+        "NOOK_Book": "$25.49 ",
+        "ISBN_13_DUMMY": 9780600000000.0,
+        "ISBN_13": "978-0596003234",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Sales_rank": "348,544",
+        "Pages": 988.0,
+        "Product_dimensions": "7.10(w) x 9.10(h) x 2.10(d)"
+      },
+      "authors": "Simson Garfinkel# Gene Spafford PH.D.# Alan Schwartz PH.D."
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1982",
+    "right_id": "5043",
+    "left": {
+      "ID": 1982,
+      "Title": "Understanding Open Source and Free Software Licensing",
+      "Author": "Andrew M. St. Laurent",
+      "Price": "$16.19 ",
+      "Edition": "First Edition,Annotated Edition",
+      "ISBN_13": "978-0596005818",
+      "ISBN_10": "596005814",
+      "Paperback": "224 pages",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Language": "English",
+      "Product Dimensions": "7 x 0.5 x 9.2 inches",
+      "Shipping Weight": "12.6 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 5043,
+      "title": "Understanding Open Source and Free Software Licensing",
+      "prices": {
+        "Paperback": "$24.27 ",
+        "NOOK_Book": "$17.49 ",
+        "ISBN_13_DUMMY": 9780600000000.0,
+        "ISBN_13": "978-0596005818",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Pages": 208.0,
+        "Product_dimensions": "7.04(w) x 9.16(h) x 0.53(d)"
+      },
+      "authors": "Andrew M. St. Laurent# Andrew M. St. Laurent"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2022",
+    "right_id": "6188",
+    "left": {
+      "ID": 2022,
+      "Title": "Linux Desktop Pocket Guide",
+      "Author": "David Brickner",
+      "Price": "$3.39 - $9.95",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0596101046",
+      "ISBN_10": "059610104X",
+      "Paperback": "208 pages",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Language": "English",
+      "Product Dimensions": "4.2 x 0.6 x 7 inches",
+      "Shipping Weight": "6.4 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 6188,
+      "title": "Linux Desktop Pocket Reference",
+      "prices": {
+        "ISBN_13_DUMMY": 9780600000000.0,
+        "ISBN_13": "978-0596101046",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Sales_rank": "884,824",
+        "Pages": 208.0,
+        "Product_dimensions": "4.38(w) x 7.08(h) x 0.56(d)"
+      },
+      "authors": "David Brickner"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2045",
+    "right_id": "9958",
+    "left": {
+      "ID": 2045,
+      "Title": "Essential SharePoint 2007: A Practical Guide for Users, Administrators and Developers",
+      "Author": "Jeff Webb",
+      "Price": "$17.27 ",
+      "Edition": "Second Edition Edition",
+      "ISBN_13": "978-0596514075",
+      "ISBN_10": "596514077",
+      "Paperback": "448 pages",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Language": "English",
+      "Product Dimensions": "7 x 1.1 x 9.2 inches",
+      "Shipping Weight": "1.3 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 9958,
+      "title": "Essential SharePoint 2007: A Practical Guide for Users, Administrators and Developers",
+      "prices": {
+        "Paperback": "$39.99 ",
+        "NOOK_Book": "$18.49 ",
+        "ISBN_13_DUMMY": 9780600000000.0,
+        "ISBN_13": "978-0596514075",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Pages": 448.0,
+        "Product_dimensions": "7.00(w) x 9.20(h) x 1.10(d)"
+      },
+      "authors": "Jeff Webb"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2058",
+    "right_id": "1008",
+    "left": {
+      "ID": 2058,
+      "Title": "Learning SQL",
+      "Author": "Alan Beaulieu",
+      "Price": "$8.30 - $17.14",
+      "Edition": "2nd Edition",
+      "ISBN_13": "978-0596520830",
+      "ISBN_10": "596520832",
+      "Paperback": "338 pages",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Language": "English",
+      "Product Dimensions": "7 x 0.9 x 9.2 inches",
+      "Shipping Weight": "1 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 1008,
+      "title": "Learning SQL",
+      "prices": {
+        "Paperback": "$27.31 ",
+        "NOOK_Book": "$18.49 ",
+        "ISBN_13_DUMMY": 9780600000000.0,
+        "ISBN_13": "978-0596520830",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Sales_rank": "262,074",
+        "Pages": 338.0,
+        "Product_dimensions": "6.90(w) x 9.10(h) x 0.80(d)"
+      },
+      "authors": "Alan Beaulieu"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2264",
+    "right_id": "2969",
+    "left": {
+      "ID": 2264,
+      "Title": "Windows 7 Step by Step",
+      "Author": "Joan Lambert# Joyce Cox",
+      "Price": "$9.99 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0735626676",
+      "ISBN_10": "735626677",
+      "Paperback": "544 pages",
+      "Series": "Step by Step",
+      "Publisher_dummy": "Microsoft Press",
+      "Publisher": "Microsoft Press",
+      "Language": "English",
+      "Product Dimensions": "7.3 x 1.3 x 9 inches",
+      "Shipping Weight": "2.4 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 2969,
+      "title": "Windows 7 Step by Step",
+      "prices": {
+        "Paperback": "$18.30 ",
+        "NOOK_Book": "$11.99 ",
+        "ISBN_13_DUMMY": 9780740000000.0,
+        "ISBN_13": "978-0735626676",
+        "Series": "Step by Step Series",
+        "Publisher": "Microsoft Press",
+        "Sales_rank": "515,152",
+        "Pages": 544.0,
+        "Product_dimensions": "7.30(w) x 8.80(h) x 1.40(d)"
+      },
+      "authors": "Joan Preppernau# Joyce Cox"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2312",
+    "right_id": "371",
+    "left": {
+      "ID": 2312,
+      "Title": "Microsoft Project 2013 Step by Step",
+      "Author": "Carl Chatfield# Timothy Johnson",
+      "Price": "$13.49 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0735669116",
+      "ISBN_10": "735669112",
+      "Paperback": "576 pages",
+      "Series": "Step by Step",
+      "Publisher_dummy": "Microsoft Press",
+      "Publisher": "Microsoft Press",
+      "Language": "English",
+      "Product Dimensions": "7.3 x 1.3 x 8.8 inches",
+      "Shipping Weight": "2.3 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 371,
+      "title": "Microsoft Project 2013 Step by Step",
+      "prices": {
+        "Paperback": "$25.40 ",
+        "NOOK_Book": "$15.99 ",
+        "ISBN_13_DUMMY": 9780740000000.0,
+        "ISBN_13": "978-0735669116",
+        "Publisher": "Microsoft Press",
+        "Sales_rank": "123,019",
+        "Pages": 578.0,
+        "Product_dimensions": "7.30(w) x 9.00(h) x 1.50(d)"
+      },
+      "authors": "Carl Chatfield# Timothy Johnson"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2315",
+    "right_id": "421",
+    "left": {
+      "ID": 2315,
+      "Title": "MOS 2013 Study Guide for Microsoft Excel Expert ",
+      "Author": "Mark Dodge",
+      "Price": "$9.99 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0735669215",
+      "ISBN_10": "073566921X",
+      "Paperback": "184 pages",
+      "Series": "MOS Study Guide",
+      "Publisher_dummy": "Microsoft Press",
+      "Publisher": "Microsoft Press",
+      "Language": "English",
+      "Product Dimensions": "7.2 x 0.6 x 8.8 inches",
+      "Shipping Weight": "11.2 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 421,
+      "title": "MOS 2013 Study Guide for Microsoft Excel Expert",
+      "prices": {
+        "Paperback": "$19.02 ",
+        "NOOK_Book": "$11.99 ",
+        "ISBN_13_DUMMY": 9780740000000.0,
+        "ISBN_13": "978-0735669215",
+        "Publisher": "Microsoft Press",
+        "Sales_rank": "130,221",
+        "Pages": 184.0,
+        "Product_dimensions": "7.30(w) x 8.90(h) x 0.50(d)"
+      },
+      "authors": "Mark Dodge"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2316",
+    "right_id": "823",
+    "left": {
+      "ID": 2316,
+      "Title": "MOS 2013 Study Guide for Microsoft Outlook ",
+      "Author": "Joan Lambert",
+      "Price": "$9.49 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0735669222",
+      "ISBN_10": "735669228",
+      "Paperback": "166 pages",
+      "Series": "MOS Study Guide",
+      "Publisher_dummy": "Microsoft Press",
+      "Publisher": "Microsoft Press",
+      "Language": "English",
+      "Product Dimensions": "8.9 x 0.7 x 7.2 inches",
+      "Shipping Weight": "10.4 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 823,
+      "title": "MOS 2013 Study Guide for Microsoft Outlook",
+      "prices": {
+        "Paperback": "$15.71 ",
+        "NOOK_Book": "$9.49 ",
+        "ISBN_13_DUMMY": 9780740000000.0,
+        "ISBN_13": "978-0735669222",
+        "Publisher": "Microsoft Press",
+        "Sales_rank": "217,603",
+        "Pages": 166.0,
+        "Product_dimensions": "7.30(w) x 8.90(h) x 0.50(d)"
+      },
+      "authors": "Joan Lambert"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2343",
+    "right_id": "2118",
+    "left": {
+      "ID": 2343,
+      "Title": "Windows 8.1 Step by Step",
+      "Author": "Ciprian Rusen# Joli Ballew",
+      "Price": "$13.49 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0735681309",
+      "ISBN_10": "735681309",
+      "Paperback": "810 pages",
+      "Series": "Step by Step",
+      "Publisher_dummy": "Microsoft Press",
+      "Publisher": "Microsoft Press",
+      "Language": "English",
+      "Product Dimensions": "7.3 x 1.8 x 8.9 inches",
+      "Shipping Weight": "3 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 2118,
+      "title": "Windows 8.1 Step by Step",
+      "prices": {
+        "Paperback": "$23.69 ",
+        "NOOK_Book": "$13.99 ",
+        "ISBN_13_DUMMY": 9780740000000.0,
+        "ISBN_13": "978-0735681309",
+        "Series": "Step by Step Series",
+        "Publisher": "Microsoft Press",
+        "Sales_rank": "421,156",
+        "Pages": 810.0,
+        "Product_dimensions": "7.30(w) x 8.90(h) x 1.80(d)"
+      },
+      "authors": "Ciprian Rusen# Joli Ballew"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2515",
+    "right_id": "4929",
+    "left": {
+      "ID": 2515,
+      "Title": "Computer Security: Protecting Digital Resources",
+      "Author": "Robert C Newman",
+      "Price": "$116.76 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0763759940",
+      "ISBN_10": "763759945",
+      "Paperback": "453 pages",
+      "Publisher_dummy": "Jones & Bartlett Learning",
+      "Publisher": "Jones & Bartlett Learning",
+      "Language": "English",
+      "Product Dimensions": "1.2 x 7.5 x 9 inches",
+      "Shipping Weight": "1.8 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 4929,
+      "title": "Computer Security: Protecting Digital Resources",
+      "prices": {
+        "Paperback": "$126.80 ",
+        "ISBN_13_DUMMY": 9780760000000.0,
+        "ISBN_13": "978-0763759940",
+        "Publisher": "Jones & Bartlett Learning",
+        "Sales_rank": "743,005",
+        "Pages": 453.0,
+        "Product_dimensions": "7.40(w) x 9.10(h) x 1.00(d)"
+      },
+      "authors": "Robert C Newman"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2578",
+    "right_id": "3387",
+    "left": {
+      "ID": 2578,
+      "Title": "Robot Building For Dummies",
+      "Author": "Roger Arrick# Nancy Stevenson",
+      "Price": "$15.19 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0764540691",
+      "ISBN_10": "764540696",
+      "Paperback": "384 pages",
+      "Publisher_dummy": "For Dummies",
+      "Publisher": "For Dummies",
+      "Language": "English",
+      "Product Dimensions": "7.4 x 0.8 x 9.2 inches",
+      "Shipping Weight": "1.8 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 3387,
+      "title": "Robot Building For Dummies",
+      "prices": {
+        "Paperback": "$18.97 ",
+        "NOOK_Book": "$15.49 ",
+        "ISBN_13_DUMMY": 9780760000000.0,
+        "ISBN_13": "978-0764540691",
+        "Series": "For Dummies Series",
+        "Publisher": "Wiley",
+        "Sales_rank": "564,769",
+        "Pages": 384.0,
+        "Product_dimensions": "7.50(w) x 9.25(h) x 0.80(d)"
+      },
+      "authors": "Roger Arrick# Nancy Stevenson"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2717",
+    "right_id": "4323",
+    "left": {
+      "ID": 2717,
+      "Title": "Blogging to Drive Business: Create and Maintain Valuable Customer Connections ",
+      "Author": "Eric Butow# Rebecca Bollwitt",
+      "Price": "$9.99 ",
+      "Edition": "2nd Edition",
+      "ISBN_13": "978-0789749949",
+      "ISBN_10": "789749947",
+      "Paperback": "320 pages",
+      "Series": "Que Biz-Tech",
+      "Publisher_dummy": "Que Publishing",
+      "Publisher": "Que Publishing",
+      "Language": "English",
+      "Product Dimensions": "6 x 1 x 8.8 inches",
+      "Shipping Weight": "13.6 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 4323,
+      "title": "Blogging to Drive Business: Create and Maintain Valuable Customer Connections / Edition 2",
+      "prices": {
+        "Paperback": "$18.49 ",
+        "NOOK_Book": "$11.49 ",
+        "ISBN_13_DUMMY": 9780790000000.0,
+        "ISBN_13": "978-0789749949",
+        "Series": "Que Biz-Tech Series",
+        "Publisher": "Que",
+        "Sales_rank": "696,627",
+        "Pages": 268.0,
+        "Product_dimensions": "5.90(w) x 8.90(h) x 0.30(d)"
+      },
+      "authors": "Eric Butow# Rebecca Bollwitt"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2722",
+    "right_id": "1693",
+    "left": {
+      "ID": 2722,
+      "Title": "My Samsung Galaxy Tab 3",
+      "Author": "Eric Butow# Lonzell Watson",
+      "Price": "$9.99 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-0789751935",
+      "ISBN_10": "789751933",
+      "Paperback": "480 pages",
+      "Series": "My...",
+      "Publisher_dummy": "Que Publishing",
+      "Publisher": "Que Publishing",
+      "Language": "English",
+      "Product Dimensions": "5.9 x 1.1 x 8.8 inches",
+      "Shipping Weight": "1.6 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 1693,
+      "title": "My Samsung Galaxy Tab 3",
+      "prices": {
+        "Paperback": "$18.06 ",
+        "NOOK_Book": "$11.99 ",
+        "ISBN_13_DUMMY": 9780790000000.0,
+        "ISBN_13": "978-0789751935",
+        "Series": "My... Series",
+        "Publisher": "Que",
+        "Sales_rank": "362,538",
+        "Pages": 480.0,
+        "Product_dimensions": "6.00(w) x 8.90(h) x 1.00(d)"
+      },
+      "authors": "Eric Butow# Lonzell Watson"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3149",
+    "right_id": "140",
+    "left": {
+      "ID": 3149,
+      "Title": "The PMP Exam: How to Pass on Your First Try, Fifth Edition",
+      "Author": "Andy Crowe PMP  PgMP",
+      "Price": "$56.19 - $62.89",
+      "Edition": "Fifth Edition, Fifth edition Edition",
+      "ISBN_13": "978-0982760857",
+      "ISBN_10": "098276085X",
+      "Paperback": "516 pages",
+      "Series": "Pmp Exam",
+      "Publisher_dummy": "Velociteach",
+      "Publisher": "Velociteach",
+      "Language": "English",
+      "Product Dimensions": "1.5 x 8.2 x 10.8 inches",
+      "Shipping Weight": "3.1 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 140,
+      "title": "The PMP Exam: How to Pass on Your First Try",
+      "prices": {
+        "Hardcover": " ",
+        "Paperback": "$64.45 ",
+        "ISBN_13_DUMMY": 9780980000000.0,
+        "ISBN_13": "978-0982760857",
+        "Publisher": "Velociteach",
+        "Sales_rank": "71,471",
+        "Pages": 516.0,
+        "Product_dimensions": "8.46(w) x 10.74(h) x 1.33(d)"
+      },
+      "authors": "Andy Crowe"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3223",
+    "right_id": "4229",
+    "left": {
+      "ID": 3223,
+      "Title": "Concepts in Enterprise Resource Planning",
+      "Author": "Ellen Monk# Bret Wagner# Ellen Monk",
+      "Price": "$25.13 - $71.99",
+      "Edition": "4th Edition",
+      "ISBN_13": "978-1111820398",
+      "ISBN_10": "1111820392",
+      "Paperback": "272 pages",
+      "Publisher_dummy": "Course Technology",
+      "Publisher": "Course Technology",
+      "Language": "English",
+      "Product Dimensions": "9 x 7.3 x 0.5 inches",
+      "Shipping Weight": "15.2 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 4229,
+      "title": "Concepts in Enterprise Resource Planning / Edition 4",
+      "prices": {
+        "Paperback": "$81.98 ",
+        "ISBN_13_DUMMY": 9781110000000.0,
+        "ISBN_13": "978-1111820398",
+        "Publisher": "Cengage Learning",
+        "Sales_rank": "658,302",
+        "Pages": 272.0,
+        "Product_dimensions": "7.30(w) x 9.00(h) x 0.50(d)"
+      },
+      "authors": "Ellen Monk"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3241",
+    "right_id": "109",
+    "left": {
+      "ID": 3241,
+      "Title": "CompTIA A+ Certification All-in-One For Dummies",
+      "Author": "Glen E. Clarke# Edward Tetz",
+      "Price": "$20.79 ",
+      "Edition": "3rd Edition",
+      "ISBN_13": "978-1118098790",
+      "ISBN_10": "111809879X",
+      "Paperback": "1320 pages",
+      "Publisher_dummy": "For Dummies",
+      "Publisher": "For Dummies",
+      "Language": "English",
+      "Product Dimensions": "7.4 x 1.5 x 9.3 inches",
+      "Shipping Weight": "4.4 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 109,
+      "title": "CompTIA A+ Certification All-in-One For Dummies",
+      "prices": {
+        "Paperback": "$26.97 ",
+        "NOOK_Book": "$20.99 ",
+        "ISBN_13_DUMMY": 9781120000000.0,
+        "ISBN_13": "978-1118098790",
+        "Series": "For Dummies Series",
+        "Publisher": "Wiley",
+        "Sales_rank": "61,302",
+        "Pages": 1320.0,
+        "Product_dimensions": "9.10(w) x 7.30(h) x 1.80(d)"
+      },
+      "authors": "Glen E. Clarke# Edward Tetz"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3248",
+    "right_id": "4754",
+    "left": {
+      "ID": 3248,
+      "Title": "Adobe After Effects CS6 Digital Classroom",
+      "Author": "Jerron Smith# AGI Creative Team# Jerron Smith",
+      "Price": "$24.66 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1118142790",
+      "ISBN_10": "1118142799",
+      "Paperback": "464 pages",
+      "Publisher_dummy": "Wiley",
+      "Publisher": "Wiley",
+      "Language": "English",
+      "Product Dimensions": "7.5 x 0.9 x 9.2 inches",
+      "Shipping Weight": "2.2 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 4754,
+      "title": "Adobe After Effects CS6 Digital Classroom",
+      "prices": {
+        "Paperback": "$39.76 ",
+        "NOOK_Book": "$25.99 ",
+        "ISBN_13_DUMMY": 9781120000000.0,
+        "ISBN_13": "978-1118142790",
+        "Series": "Digital Classroom Series",
+        "Publisher": "Wiley",
+        "Sales_rank": "718,134",
+        "Pages": 464.0,
+        "Product_dimensions": "7.30(w) x 9.10(h) x 0.90(d)"
+      },
+      "authors": "Jerron Smith# AGI Creative Team"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3252",
+    "right_id": "3314",
+    "left": {
+      "ID": 3252,
+      "Title": "Microsoft Windows Operating System Essentials",
+      "Author": "Tom Carpenter",
+      "Price": "$20.79 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1118195529",
+      "ISBN_10": "1118195523",
+      "Paperback": "400 pages",
+      "Publisher_dummy": "Sybex",
+      "Publisher": "Sybex",
+      "Language": "English",
+      "Product Dimensions": "7.4 x 0.8 x 9.2 inches",
+      "Shipping Weight": "2 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 3314,
+      "title": "Microsoft Windows Operating System Essentials",
+      "prices": {
+        "Paperback": "$24.42 ",
+        "NOOK_Book": "$20.99 ",
+        "ISBN_13_DUMMY": 9781120000000.0,
+        "ISBN_13": "978-1118195529",
+        "Publisher": "Wiley",
+        "Sales_rank": "557,732",
+        "Pages": 400.0,
+        "Product_dimensions": "7.40(w) x 9.10(h) x 0.90(d)"
+      },
+      "authors": "Tom Carpenter"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3275",
+    "right_id": "4563",
+    "left": {
+      "ID": 3275,
+      "Title": "Cloud Essentials: CompTIA Authorized Courseware for Exam CLO-001",
+      "Author": "Kalani Kirk Hausman# Susan L. Cook# Telmo Sampaio# Susan L. Cook",
+      "Price": "$20.79 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1118408735",
+      "ISBN_10": "111840873X",
+      "Paperback": "288 pages",
+      "Publisher_dummy": "Sybex",
+      "Publisher": "Sybex",
+      "Language": "English",
+      "Product Dimensions": "7.4 x 0.7 x 9.2 inches",
+      "Shipping Weight": "1.2 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 4563,
+      "title": "Cloud Essentials: CompTIA Authorized Courseware for Exam CLO-001",
+      "prices": {
+        "Paperback": "$31.70 ",
+        "NOOK_Book": "$20.99 ",
+        "ISBN_13_DUMMY": 9781120000000.0,
+        "ISBN_13": "978-1118408735",
+        "Series": "Essentials Series",
+        "Publisher": "Wiley",
+        "Sales_rank": "702,286",
+        "Pages": 288.0,
+        "Product_dimensions": "7.40(w) x 9.10(h) x 0.70(d)"
+      },
+      "authors": "Kalani Kirk Hausman# Susan L. Cook# Telmo Sampaio"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3311",
+    "right_id": "2989",
+    "left": {
+      "ID": 3311,
+      "Title": "Dragon NaturallySpeaking For Dummies",
+      "Author": "Stephanie Diamond",
+      "Price": "$15.99 ",
+      "Edition": "4th Edition",
+      "ISBN_13": "978-1118961544",
+      "ISBN_10": "1118961544",
+      "Paperback": "360 pages",
+      "Series": "For Dummies",
+      "Publisher_dummy": "For Dummies",
+      "Publisher": "For Dummies",
+      "Language": "English",
+      "Product Dimensions": "7.4 x 0.7 x 9.3 inches",
+      "Shipping Weight": "1 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 2989,
+      "title": "Dragon NaturallySpeaking For Dummies",
+      "prices": {
+        "Paperback": "$22.59 ",
+        "NOOK_Book": "$15.99 ",
+        "ISBN_13_DUMMY": 9781120000000.0,
+        "ISBN_13": "978-1118961544",
+        "Series": "For Dummies Series",
+        "Publisher": "Wiley",
+        "Sales_rank": "516,202",
+        "Pages": 360.0,
+        "Product_dimensions": "7.40(w) x 9.20(h) x 0.80(d)"
+      },
+      "authors": "Stephanie Diamond"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3312",
+    "right_id": "4495",
+    "left": {
+      "ID": 3312,
+      "Title": "Digital Literacy For Dummies",
+      "Author": "Faithe Wempen",
+      "Price": "$15.99 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1118962862",
+      "ISBN_10": "1118962869",
+      "Paperback": "456 pages",
+      "Series": "For Dummies",
+      "Publisher_dummy": "For Dummies",
+      "Publisher": "For Dummies",
+      "Language": "English",
+      "Product Dimensions": "7.4 x 0.9 x 9.3 inches",
+      "Shipping Weight": "1.4 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 4495,
+      "title": "Digital Literacy For Dummies",
+      "prices": {
+        "Paperback": "$20.45 ",
+        "NOOK_Book": "$19.49 ",
+        "ISBN_13_DUMMY": 9781120000000.0,
+        "ISBN_13": "978-1118962862",
+        "Publisher": "Wiley",
+        "Sales_rank": "697,756",
+        "Pages": 456.0,
+        "Product_dimensions": "7.30(w) x 9.10(h) x 1.00(d)"
+      },
+      "authors": "Faithe Wempen"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3412",
+    "right_id": "7063",
+    "left": {
+      "ID": 3412,
+      "Title": "How to Build an Android: The True Story of Philip K. Dick's Robotic Resurrection",
+      "Author": "David F. Dufty",
+      "Price": "$7.99 ",
+      "Edition": "Reprint Edition",
+      "ISBN_13": "978-1250032157",
+      "ISBN_10": "1250032156",
+      "Paperback": "288 pages",
+      "Publisher_dummy": "Picador",
+      "Publisher": "Picador",
+      "Language": "English",
+      "Product Dimensions": "5.9 x 0.8 x 8.2 inches",
+      "Shipping Weight": "8.8 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 7063,
+      "title": "How to Build an Android: The True Story of Philip K. Dick's Robotic Resurrection",
+      "prices": {
+        "Hardcover": "$24.35 ",
+        "Paperback": "$16.00 ",
+        "NOOK_Book": "$7.99 ",
+        "Audiobook": "$26.95 ",
+        "ISBN_13_DUMMY": 9781250000000.0,
+        "ISBN_13": "978-1250032157",
+        "Publisher": "Picador",
+        "Sales_rank": "1,351,282",
+        "Pages": 288.0,
+        "Product_dimensions": "5.87(w) x 8.18(h) x 0.76(d)"
+      },
+      "authors": "David F. Dufty"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3435",
+    "right_id": "2556",
+    "left": {
+      "ID": 3435,
+      "Title": "Practical Microsoft Office 2013 ",
+      "Author": "June Jamrich Parsons# Dan Oja# June Jamrich Parsons",
+      "Price": "$22.49 - $107.10",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1285075990",
+      "ISBN_10": "1285075994",
+      "Paperback": "272 pages",
+      "Series": "New Perspectives",
+      "Publisher_dummy": "Course Technology",
+      "Publisher": "Course Technology",
+      "Language": "English",
+      "Product Dimensions": "10.7 x 8.4 x 0.5 inches",
+      "Shipping Weight": "1.2 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 2556,
+      "title": "Practical Microsoft Office 2013 (with CD-ROM)",
+      "prices": {
+        "Paperback": "$107.10 ",
+        "ISBN_13_DUMMY": 9781290000000.0,
+        "ISBN_13": "978-1285075990",
+        "Series": "New Perspectives Series",
+        "Publisher": "Cengage Learning",
+        "Sales_rank": "471,893",
+        "Pages": 272.0,
+        "Product_dimensions": "8.40(w) x 10.70(h) x 0.50(d)"
+      },
+      "authors": "June Jamrich Parsons"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3498",
+    "right_id": "4906",
+    "left": {
+      "ID": 3498,
+      "Title": "Adobe Illustrator Creative Cloud Revealed Update ",
+      "Author": "Chris Botello",
+      "Price": "$19.46 - $55.49",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1285843285",
+      "ISBN_10": "1285843282",
+      "Publisher_dummy": "Course Technology",
+      "Publisher": "Course Technology",
+      "Language": "English",
+      "Product Dimensions": "1.5 x 9.5 x 7.8 inches",
+      "Shipping Weight": "3.8 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 4906,
+      "title": "Adobe Illustrator Creative Cloud Revealed Update (with CourseMate Printed Access Card)",
+      "prices": {
+        "ISBN_13_DUMMY": 9781290000000.0,
+        "ISBN_13": "978-1285843285",
+        "Publisher": "Cengage Learning",
+        "Sales_rank": "739,711",
+        "Pages": 744.0,
+        "Product_dimensions": "7.70(w) x 9.50(h) x 1.60(d)"
+      },
+      "authors": "Chris Botello"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3624",
+    "right_id": "4427",
+    "left": {
+      "ID": 3624,
+      "Title": "Fake: Forgery, Lies, & eBay",
+      "Author": "Kenneth Walton",
+      "Price": "$12.81 "
+    },
+    "right": {
+      "id": 4427,
+      "title": "Fake: Forgery, Lies, and Ebay",
+      "prices": {
+        "Hardcover": " ",
+        "Paperback": "$12.81 ",
+        "NOOK_Book": "$13.99 ",
+        "ISBN_13_DUMMY": 9781420000000.0,
+        "ISBN_13": "978-1416948056",
+        "Publisher": "Gallery Books",
+        "Pages": 304.0,
+        "Product_dimensions": "5.60(w) x 8.20(h) x 0.80(d)"
+      },
+      "authors": "Kenneth Walton"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3649",
+    "right_id": "2697",
+    "left": {
+      "ID": 3649,
+      "Title": "CWSP Guide to Wireless Security",
+      "Author": "Mark Ciampa",
+      "Price": "$50.27 - $143.99",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1418836375",
+      "ISBN_10": "1418836370",
+      "Paperback": "480 pages",
+      "Publisher_dummy": "Course Technology",
+      "Publisher": "Course Technology",
+      "Language": "English",
+      "Product Dimensions": "7.4 x 1.1 x 9.1 inches",
+      "Shipping Weight": "2.2 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 2697,
+      "title": "CWSP Guide to Wireless Security / Edition 1",
+      "prices": {
+        "Paperback": "$125.97 ",
+        "ISBN_13_DUMMY": 9781420000000.0,
+        "ISBN_13": "978-1418836375",
+        "Publisher": "Cengage Learning",
+        "Sales_rank": "489,178",
+        "Pages": 480.0,
+        "Product_dimensions": "7.30(w) x 9.10(h) x 1.10(d)"
+      },
+      "authors": "Mark Ciampa"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3656",
+    "right_id": "2883",
+    "left": {
+      "ID": 3656,
+      "Title": "Guide to UNIX Using Linux ",
+      "Author": "Michael Palmer",
+      "Price": "$48.25 - $138.49",
+      "Edition": "4th Edition",
+      "ISBN_13": "978-1418837235",
+      "ISBN_10": "1418837237",
+      "Paperback": "720 pages",
+      "Series": "Networking (Course Technology)",
+      "Publisher_dummy": "Course Technology",
+      "Publisher": "Course Technology",
+      "Language": "English",
+      "Product Dimensions": "9.3 x 7.4 x 1.1 inches",
+      "Shipping Weight": "2.4 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 2883,
+      "title": "Guide to UNIX Using Linux / Edition 4",
+      "prices": {
+        "Paperback": "$156.20 ",
+        "ISBN_13_DUMMY": 9781420000000.0,
+        "ISBN_13": "978-1418837235",
+        "Series": "Networking (Thomson Course Technology) S",
+        "Publisher": "Cengage Learning",
+        "Sales_rank": "503,763",
+        "Pages": 704.0,
+        "Product_dimensions": "7.30(w) x 9.10(h) x 1.20(d)"
+      },
+      "authors": "Michael Palmer"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3817",
+    "right_id": "1360",
+    "left": {
+      "ID": 3817,
+      "Title": "Beginning Python Visualization: Crafting Visual Transformation Scripts ",
+      "Author": "Shai Vaingast",
+      "Price": "$11.25 - $36.10",
+      "Edition": "2009th Edition",
+      "ISBN_13": "978-1430218432",
+      "ISBN_10": "1430218436",
+      "Paperback": "384 pages",
+      "Series": "Books for Professionals by Professionals",
+      "Publisher_dummy": "Apress",
+      "Publisher": "Apress",
+      "Language": "English",
+      "Product Dimensions": "7 x 0.9 x 9.2 inches",
+      "Shipping Weight": "1.7 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 1360,
+      "title": "Beginning Python Visualization: Crafting Visual Transformation Scripts / Edition 1",
+      "prices": {
+        "Paperback": "$35.92 ",
+        "ISBN_13_DUMMY": 9781430000000.0,
+        "ISBN_13": "978-1430218432",
+        "Publisher": "Apress",
+        "Sales_rank": "320,770",
+        "Pages": 384.0,
+        "Product_dimensions": "7.00(w) x 9.10(h) x 1.30(d)"
+      },
+      "authors": "Shai Vaingast"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3842",
+    "right_id": "6194",
+    "left": {
+      "ID": 3842,
+      "Title": "Gamers at Work: Stories Behind the Games People Play",
+      "Author": "Morgan Ramsay# Peter Molyneux",
+      "Price": "$7.32 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1430233510",
+      "ISBN_10": "1430233516",
+      "Paperback": "356 pages",
+      "Publisher_dummy": "Apress",
+      "Publisher": "Apress",
+      "Language": "English",
+      "Product Dimensions": "6 x 0.8 x 9 inches",
+      "Shipping Weight": "1.3 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 6194,
+      "title": "Gamers at Work: Stories Behind the Games People Play",
+      "prices": {
+        "Paperback": "$23.85 ",
+        "NOOK_Book": "$19.49 ",
+        "ISBN_13_DUMMY": 9781430000000.0,
+        "ISBN_13": "978-1430233510",
+        "Publisher": "Apress",
+        "Sales_rank": "885,221",
+        "Pages": 356.0,
+        "Product_dimensions": "6.00(w) x 8.90(h) x 1.00(d)"
+      },
+      "authors": "Morgan Ramsay"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3872",
+    "right_id": "6638",
+    "left": {
+      "ID": 3872,
+      "Title": "Building Your Own Electronics Lab: A Guide to Setting Up Your Own Gadget Workshop ",
+      "Author": "Dale Wheat",
+      "Price": "$21.20 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1430243861",
+      "ISBN_10": "1430243864",
+      "Paperback": "184 pages",
+      "Series": "Technology in Action",
+      "Publisher_dummy": "Apress",
+      "Publisher": "Apress",
+      "Language": "English",
+      "Product Dimensions": "7.5 x 0.4 x 9.2 inches",
+      "Shipping Weight": "12 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 6638,
+      "title": "Building Your Own Electronics Lab: A Guide to Setting Up Your Own Gadget Workshop",
+      "prices": {
+        "Paperback": "$21.62 ",
+        "NOOK_Book": "$19.49 ",
+        "ISBN_13_DUMMY": 9781430000000.0,
+        "ISBN_13": "978-1430243861",
+        "Publisher": "Apress",
+        "Sales_rank": "937,025",
+        "Pages": 184.0,
+        "Product_dimensions": "7.50(w) x 9.10(h) x 0.40(d)"
+      },
+      "authors": "Dale Wheat"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3879",
+    "right_id": "8766",
+    "left": {
+      "ID": 3879,
+      "Title": "Big Data Imperatives: Enterprise Big Data Warehouse, BI Implementations and Analytics ",
+      "Author": "Soumendra Mohanty# Madhu Jagadeesh# Harsha Srivatsa",
+      "Price": "$19.24 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1430248729",
+      "ISBN_10": "1430248726",
+      "Paperback": "320 pages",
+      "Series": "The Expert's Voice",
+      "Publisher_dummy": "Apress",
+      "Publisher": "Apress",
+      "Language": "English",
+      "Product Dimensions": "6 x 0.7 x 9 inches",
+      "Shipping Weight": "15.2 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 8766,
+      "title": "Big Data Imperatives: Enterprise Big Data Warehouse, BI Implementations and Analytics",
+      "prices": {
+        "Paperback": "$49.99 ",
+        "NOOK_Book": "$32.49 ",
+        "ISBN_13_DUMMY": 9781430000000.0,
+        "ISBN_13": "978-1430248729",
+        "Publisher": "Apress",
+        "Pages": 320.0,
+        "Product_dimensions": "6.00(w) x 8.90(h) x 0.60(d)"
+      },
+      "authors": "Soumendra Mohanty# Madhu Jagadeesh# Harsha Srivatsa"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3938",
+    "right_id": "5088",
+    "left": {
+      "ID": 3938,
+      "Title": "Computer Forensics: Hard Disk and Operating Systems ",
+      "Author": "EC-Council",
+      "Price": "$57.98 - $89.95",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1435483507",
+      "ISBN_10": "1435483502",
+      "Paperback": "240 pages",
+      "Series": "EC-Council Press",
+      "Publisher_dummy": "Course Technology",
+      "Publisher": "Course Technology",
+      "Language": "English",
+      "Product Dimensions": "0.8 x 8.8 x 11.2 inches",
+      "Shipping Weight": "1.3 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 5088,
+      "title": "Computer Forensics: Hard Disk and Operating Systems / Edition 1",
+      "prices": {
+        "Paperback": "$46.42 ",
+        "ISBN_13_DUMMY": 9781440000000.0,
+        "ISBN_13": "978-1435483507",
+        "Series": "EC-Council Press Series",
+        "Publisher": "Cengage Learning",
+        "Sales_rank": "758,496",
+        "Pages": 608.0,
+        "Product_dimensions": "8.40(w) x 10.80(h) x 0.70(d)"
+      },
+      "authors": "EC-Council"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "4108",
+    "right_id": "1991",
+    "left": {
+      "ID": 4108,
+      "Title": "Inside Cyber Warfare: Mapping the Cyber Underworld",
+      "Author": "Jeffrey Carr",
+      "Price": "$10.10 - $22.49",
+      "Edition": "Second Edition Edition",
+      "ISBN_13": "978-1449310042",
+      "ISBN_10": "1449310044",
+      "Paperback": "318 pages",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Language": "English",
+      "Product Dimensions": "7 x 0.8 x 9.2 inches",
+      "Shipping Weight": "1 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 1991,
+      "title": "Inside Cyber Warfare: Mapping the Cyber Underworld",
+      "prices": {
+        "Paperback": "$34.80 ",
+        "NOOK_Book": "$22.49 ",
+        "ISBN_13_DUMMY": 9781450000000.0,
+        "ISBN_13": "978-1449310042",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Sales_rank": "610,063",
+        "Pages": 318.0,
+        "Product_dimensions": "6.90(w) x 9.10(h) x 0.80(d)"
+      },
+      "authors": "Jeffrey Carr"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "4141",
+    "right_id": "6075",
+    "left": {
+      "ID": 4141,
+      "Title": "Hackers & Painters: Big Ideas from the Computer Age",
+      "Author": "Paul Graham",
+      "Price": "$5.08 - $10.49",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1449389550",
+      "ISBN_10": "1449389554",
+      "Paperback": "272 pages",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Language": "English",
+      "Product Dimensions": "5.5 x 0.7 x 8.5 inches",
+      "Shipping Weight": "14.4 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 6075,
+      "title": "Hackers and Painters: Big Ideas from the Computer Age",
+      "prices": {
+        "Hardcover": " ",
+        "Paperback": "$14.49 ",
+        "NOOK_Book": "$10.49 ",
+        "ISBN_13_DUMMY": 9781450000000.0,
+        "ISBN_13": "978-1449389550",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Sales_rank": "873,684",
+        "Pages": 258.0,
+        "Product_dimensions": "5.50(w) x 8.40(h) x 0.80(d)"
+      },
+      "authors": "Paul Graham"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "4367",
+    "right_id": "4365",
+    "left": {
+      "ID": 4367,
+      "Title": "PMI-ACP Exam Prep Study Guide: Extra Preparation for PMI-ACP Certification Examination",
+      "Author": "Vivek Vaishampayan",
+      "Price": "$20.15 "
+    },
+    "right": {
+      "id": 4365,
+      "title": "PMI-Acp Exam Prep Study Guide: Extra Preparation for PMI-Acp Certification Examination",
+      "prices": {
+        "Paperback": "$20.15 ",
+        "NOOK_Book": "$2.49 ",
+        "ISBN_13_DUMMY": 9781490000000.0,
+        "ISBN_13": "978-1491735565",
+        "Publisher": "iUniverse, Incorporated",
+        "Pages": 200.0,
+        "Product_dimensions": "8.25(w) x 11.00(h) x 0.42(d)"
+      },
+      "authors": "Pmp McTs PMI-Acp Vaishampayan"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "4369",
+    "right_id": "5028",
+    "left": {
+      "ID": 4369,
+      "Title": "Programming Google App Engine with Python: Build and Run Scalable Python Apps on Google's Infrastructure",
+      "Author": "Dan Sanderson",
+      "Price": "$22.49 ",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1491900253",
+      "ISBN_10": "1491900253",
+      "Paperback": "464 pages",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Language": "English",
+      "Product Dimensions": "9.2 x 7 x 1 inches",
+      "Shipping Weight": "1.7 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 5028,
+      "title": "Programming Google App Engine with Python: Build and Run Scalable Python Apps on Google's Infrastructure",
+      "prices": {
+        "Paperback": "$35.65 ",
+        "NOOK_Book": "$22.49 ",
+        "ISBN_13_DUMMY": 9781490000000.0,
+        "ISBN_13": "978-1491900253",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Sales_rank": "1,317,608",
+        "Pages": 464.0,
+        "Product_dimensions": "7.00(w) x 9.10(h) x 1.10(d)"
+      },
+      "authors": "Dan Sanderson"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "4531",
+    "right_id": "5882",
+    "left": {
+      "ID": 4531,
+      "Title": "Persuasive Technology: Using Computers to Change What We Think and Do ",
+      "Author": "B.J. Fogg",
+      "Price": "$10.53 - $21.75",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1558606432",
+      "ISBN_10": "1558606432",
+      "Paperback": "312 pages",
+      "Series": "Interactive Technologies",
+      "Publisher_dummy": "Morgan Kaufmann",
+      "Publisher": "Morgan Kaufmann",
+      "Language": "English",
+      "Product Dimensions": "7.5 x 0.6 x 9.2 inches",
+      "Shipping Weight": "1.5 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 5882,
+      "title": "Persuasive Technology: Using Computers to Change What We Think and Do / Edition 1",
+      "prices": {
+        "Paperback": "$35.97 ",
+        "ISBN_13_DUMMY": 9781560000000.0,
+        "ISBN_13": "978-1558606432",
+        "Series": "Interactive Technologies Series",
+        "Publisher": "Elsevier Science",
+        "Sales_rank": "856,621",
+        "Pages": 312.0,
+        "Product_dimensions": "0.65(w) x 7.50(h) x 9.25(d)"
+      },
+      "authors": "B.J. Fogg"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "4940",
+    "right_id": "364",
+    "left": {
+      "ID": 4940,
+      "Title": "Trust Me, I'm Lying: Confessions of a Media Manipulator",
+      "Author": "Ryan Holiday",
+      "Price": "$8.98 "
+    },
+    "right": {
+      "id": 364,
+      "title": "Trust Me, I'm Lying: Confessions of a Media Manipulator",
+      "prices": {
+        "Hardcover": " ",
+        "Paperback": "$8.98 ",
+        "NOOK_Book": "$12.99 ",
+        "ISBN_13_DUMMY": 9781590000000.0,
+        "ISBN_13": "978-1591846284",
+        "Publisher": "Penguin Publishing Group",
+        "Sales_rank": "232,164",
+        "Pages": 320.0
+      },
+      "authors": "Ryan Holiday"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "5048",
+    "right_id": "5910",
+    "left": {
+      "ID": 5048,
+      "Title": "Security Risk Management: Building an Information Security Risk Management Program from the Ground Up",
+      "Author": "Evan Wheeler",
+      "Price": "$9.93 - $20.51",
+      "Edition": "1st Edition",
+      "ISBN_13": "978-1597496155",
+      "ISBN_10": "1597496154",
+      "Paperback": "360 pages",
+      "Publisher_dummy": "Syngress",
+      "Publisher": "Syngress",
+      "Language": "English",
+      "Product Dimensions": "9.2 x 7.4 x 0.9 inches",
+      "Shipping Weight": "1.6 pounds (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 5910,
+      "title": "Security Risk Management: Building an Information Security Risk Management Program from the Ground Up",
+      "prices": {
+        "Paperback": "$29.00 ",
+        "NOOK_Book": "$28.99 ",
+        "ISBN_13_DUMMY": 9781600000000.0,
+        "ISBN_13": "978-1597496155",
+        "Publisher": "Elsevier Science",
+        "Sales_rank": "858,350",
+        "Pages": 360.0,
+        "Product_dimensions": "7.40(w) x 9.10(h) x 1.00(d)"
+      },
+      "authors": "Evan Wheeler"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "5127",
+    "right_id": "2471",
+    "left": {
+      "ID": 5127,
+      "Title": "Composition for Computer Musicians",
+      "Author": "Michael Hewitt",
+      "Price": "$19.15 "
+    },
+    "right": {
+      "id": 2471,
+      "title": "Composition for Computer Musicians",
+      "prices": {
+        "Paperback": "$19.34 ",
+        "NOOK_Book": "$24.49 ",
+        "ISBN_13_DUMMY": 9781600000000.0,
+        "ISBN_13": "978-1598638615",
+        "Publisher": "Cengage Learning",
+        "Sales_rank": "463,608",
+        "Pages": 220.0,
+        "Product_dimensions": "7.30(w) x 9.00(h) x 0.70(d)"
+      },
+      "authors": "Michael Hewitt"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "5184",
+    "right_id": "8673",
+    "left": {
+      "ID": 5184,
+      "Title": "Linked Data ",
+      "Author": "Tom Heath# Christian Bizer# James Hendler",
+      "Price": "$35.00 ",
+      "ISBN_13": "978-1608454303",
+      "ISBN_10": "1608454304",
+      "Paperback": "136 pages",
+      "Publisher_dummy": "Morgan & Claypool Publishers",
+      "Publisher": "Morgan & Claypool Publishers",
+      "Language": "English",
+      "Product Dimensions": "7.5 x 0.3 x 9.2 inches",
+      "Shipping Weight": "11.4 ounces (View shipping rates and policies)"
+    },
+    "right": {
+      "id": 8673,
+      "title": "Linked Data",
+      "prices": {
+        "Paperback": "$35.00 ",
+        "NOOK_Book": "$28.49 ",
+        "ISBN_13_DUMMY": 9781610000000.0,
+        "ISBN_13": "978-1608454303",
+        "Series": "Synthesis Lectures on Web Engineering Series",
+        "Publisher": "Morgan and Claypool Publishers",
+        "Sales_rank": "1,131,217",
+        "Pages": 138.0,
+        "Product_dimensions": "7.50(w) x 9.25(h) x 0.30(d)"
+      },
+      "authors": "Tom Heath# Christian Bizer"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "5252",
+    "right_id": "4581",
+    "left": {
+      "ID": 5252,
+      "Title": "From Gutenberg to Zuckerberg: Disruptive Innovation in the Age of the Internet",
+      "Author": "John Naughton",
+      "Price": "$18.35 "
+    },
+    "right": {
+      "id": 4581,
+      "title": "From Gutenberg to Zuckerberg: Disruptive Innovation in the Age of the Internet",
+      "prices": {
+        "Hardcover": "$18.71 ",
+        "Paperback": "$11.37 ",
+        "NOOK_Book": "$9.99 ",
+        "ISBN_13_DUMMY": 9781620000000.0,
+        "ISBN_13": "978-1623658786",
+        "Publisher": "Quercus",
+        "Sales_rank": "703,014",
+        "Pages": 384.0,
+        "Product_dimensions": "5.50(w) x 8.10(h) x 1.00(d)"
+      },
+      "authors": "John Naughton"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "5304",
+    "right_id": "6356",
+    "left": {
+      "ID": 5304,
+      "Title": "Microsoft Dynamics GP 2013 Financial Management",
+      "Author": "Ian Grieve",
+      "Price": "$39.99 "
+    },
+    "right": {
+      "id": 6356,
+      "title": "Microsoft Dynamics GP 2013 Financial Management",
+      "prices": {
+        "Paperback": "$39.99 ",
+        "NOOK_Book": "$16.79 ",
+        "ISBN_13_DUMMY": 9781780000000.0,
+        "ISBN_13": "978-1782171300",
+        "Publisher": "Packt Publishing",
+        "Sales_rank": "900,326",
+        "Pages": 110.0,
+        "Product_dimensions": "7.50(w) x 9.25(h) x 0.23(d)"
+      },
+      "authors": "Ian Grieve"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "5310",
+    "right_id": "9342",
+    "left": {
+      "ID": 5310,
+      "Title": "Marketing Automation with Eloqua",
+      "Author": "Ben Griffith",
+      "Price": "$34.99 "
+    },
+    "right": {
+      "id": 9342,
+      "title": "Marketing Automation with Eloqua",
+      "prices": {
+        "Paperback": "$34.99 ",
+        "NOOK_Book": "$14.69 ",
+        "ISBN_13_DUMMY": 9781780000000.0,
+        "ISBN_13": "978-1782177784",
+        "Publisher": "Packt Publishing",
+        "Sales_rank": "1,196,497",
+        "Pages": 136.0,
+        "Product_dimensions": "7.50(w) x 9.25(h) x 0.29(d)"
+      },
+      "authors": "Ben Griffith"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "5312",
+    "right_id": "7909",
+    "left": {
+      "ID": 5312,
+      "Title": "Reporting with Visual Studio and Crystal Reports",
+      "Author": "Mahmoud Elkoush",
+      "Price": "$39.99 "
+    },
+    "right": {
+      "id": 7909,
+      "title": "Reporting with Visual Studio and Crystal Reports",
+      "prices": {
+        "Paperback": "$39.99 ",
+        "NOOK_Book": "$16.79 ",
+        "ISBN_13_DUMMY": 9781780000000.0,
+        "ISBN_13": "978-1782178026",
+        "Publisher": "Packt Publishing",
+        "Pages": 148.0,
+        "Product_dimensions": "7.50(w) x 9.25(h) x 0.32(d)"
+      },
+      "authors": "Mahmoud Elkoush"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "6528",
+    "right_id": "9361",
+    "left": {
+      "ID": 6528,
+      "Title": "Digital Photo Editing for Seniors: Learn How to Edit Your Digital Photos with Arcsoft PhotoStudio ",
+      "Author": "Addo Stuur",
+      "Price": "$20.83 "
+    },
+    "right": {
+      "id": 9361,
+      "title": "Digital Photo Editing for Seniors: Learn How to Edit Your Digital Photos with Arcsoft PhotoStudio",
+      "prices": {
+        "Paperback": "$20.62 ",
+        "ISBN_13_DUMMY": 9789060000000.0,
+        "ISBN_13": "978-9059050648",
+        "Series": "Computer Books for Seniors series",
+        "Publisher": "Visual Steps Publishing",
+        "Sales_rank": "1,197,501",
+        "Pages": 382.0,
+        "Product_dimensions": "7.75(w) x 11.00(h) x 0.82(d)"
+      },
+      "authors": "Addo Stuur"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "6669",
+    "right_id": "5867",
+    "left": {
+      "ID": 6669,
+      "Title": "101 Nook Color Tips, Tricks, and Hacks: The Unofficial Guide to Getting the Most Out of the Newest Nook eReader By William Percy",
+      "Author": "Minute Help Guides",
+      "Price": "$2.99 ",
+      "Edition": "Kindle Edition",
+      "ASIN": "B004GKMYSG",
+      "Publisher_dummy": "Minute Help Press ",
+      "Publisher": "Minute Help Press",
+      "Publication_Date": "16-Dec-10",
+      "Sold_by": "Amazon Digital Services,  Inc.",
+      "Language": "English"
+    },
+    "right": {
+      "id": 5867,
+      "title": "101 Nook Color Tips, Tricks, and Hacks: The Unofficial Guide to Getting the Most Out of the Newest Nook eReader",
+      "prices": {
+        "ISBN_13_DUMMY": 9781610000000.0,
+        "ISBN_13": "978-1610423502",
+        "Publisher": "Minute Help Press",
+        "Sales_rank": "854,741"
+      },
+      "authors": "Minute Help Guides"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "6682",
+    "right_id": "5856",
+    "left": {
+      "ID": 6682,
+      "Title": "View and Manage Your Photos on the iPad: The Mini Missing Manual",
+      "Author": "J. D. Biersdorfer",
+      "Price": "$4.99 ",
+      "Edition": "Kindle Edition",
+      "ASIN": "B004P5NRW4",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Publication_Date": "3-May-10",
+      "Sold_by": "Amazon Digital Services,  Inc.",
+      "Language": "English"
+    },
+    "right": {
+      "id": 5856,
+      "title": "View and Manage Your Photos on the iPad: The Mini Missing Manual",
+      "prices": {
+        "ISBN_13_DUMMY": 9781450000000.0,
+        "ISBN_13": "978-1449390631",
+        "Series": "Missing Manual Series",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Sales_rank": "853,697"
+      },
+      "authors": "J. D. Biersdorfer"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "6921",
+    "right_id": "48",
+    "left": {
+      "ID": 6921,
+      "Title": "JavaScript and HTML5 Now",
+      "Author": "Kyle Simpson",
+      "Price": "$0.00 ",
+      "Edition": "Kindle Edition",
+      "ASIN": "B0084HJE0S",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Publication_Date": "30-Jun-12",
+      "Sold_by": "Amazon Digital Services,  Inc.",
+      "Language": "English"
+    },
+    "right": {
+      "id": 48,
+      "title": "JavaScript and HTML5 Now",
+      "prices": {
+        "ISBN_13_DUMMY": 9781450000000.0,
+        "ISBN_13": "978-1449339067",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Sales_rank": "38,987",
+        "Pages": 18.0
+      },
+      "authors": "Kyle Simpson"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "7153",
+    "right_id": "5682",
+    "left": {
+      "ID": 7153,
+      "Title": "Industrial Internet",
+      "Author": "Jon Bruner",
+      "Price": "$0.00 ",
+      "Edition": "Kindle Edition",
+      "ASIN": "B00C10Y9CC",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Publication_Date": "27-Mar-13",
+      "Sold_by": "Amazon Digital Services,  Inc.",
+      "Language": "English"
+    },
+    "right": {
+      "id": 5682,
+      "title": "Industrial Internet",
+      "prices": {
+        "ISBN_13_DUMMY": 9781450000000.0,
+        "ISBN_13": "978-1449365905",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Sales_rank": "823,861",
+        "Pages": 50.0
+      },
+      "authors": "Jon Bruner"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "7239",
+    "right_id": "454",
+    "left": {
+      "ID": 7239,
+      "Title": "Real-Time Big Data Analytics: Emerging Architecture",
+      "Author": "Mike Barlow",
+      "Price": "$0.00 ",
+      "Edition": "Kindle Edition",
+      "ASIN": "B00DO33RSW",
+      "Publisher_dummy": "O'Reilly Media",
+      "Publisher": "O'Reilly Media",
+      "Publication_Date": "24-Jun-13",
+      "Sold_by": "Amazon Digital Services,  Inc.",
+      "Language": "English"
+    },
+    "right": {
+      "id": 454,
+      "title": "Real-Time Big Data Analytics: Emerging Architecture",
+      "prices": {
+        "Paperback": "$15.82 ",
+        "NOOK_Book": "$0.00 ",
+        "ISBN_13_DUMMY": 9781450000000.0,
+        "ISBN_13": "978-1449364694",
+        "Publisher": "O'Reilly Media, Incorporated",
+        "Sales_rank": "138,327"
+      },
+      "authors": "Mike Barlow"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "7549",
+    "right_id": "8935",
+    "left": {
+      "ID": 7549,
+      "Title": "Group Policy Administration: The Personal Trainer for Windows Server 2008 and Windows Server 2008 R2 ",
+      "Author": "William Stanek",
+      "Price": "$9.99 Save $30.00 (75%)",
+      "Edition": "Kindle Edition"
+    },
+    "right": {
+      "id": 8935,
+      "title": "Group Policy Administration: The Personal Trainer for Windows Server 2008 and Windows Server 2008 R2",
+      "prices": {
+        "Paperback": "$39.99 ",
+        "NOOK_Book": "$29.99 ",
+        "ISBN_13_DUMMY": 9781630000000.0,
+        "ISBN_13": "978-1627161626",
+        "Publisher": "Stanek & Associates",
+        "Sales_rank": "1,155,090",
+        "Pages": 422.0,
+        "Product_dimensions": "7.00(w) x 10.00(h) x 0.86(d)"
+      },
+      "authors": "William Stanek"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "7684",
+    "right_id": "6007",
+    "left": {
+      "ID": 7684,
+      "Title": "Content Chemistry: An Illustrated Handbook for Content Marketing",
+      "Author": "Andy Crestodina",
+      "Price": "$5.99\r\n                            \r\n                            \r\n                                \r\n                                    Save $4.00 (40%)",
+      "Edition": "Kindle Edition"
+    },
+    "right": {
+      "id": 6007,
+      "title": "Content Chemistry: An Illustrated Handbook for Content Marketing",
+      "prices": {
+        "Paperback": "$19.99 ",
+        "NOOK_Book": "$5.99 ",
+        "ISBN_13_DUMMY": 9780990000000.0,
+        "ISBN_13": "978-0988336438",
+        "Publisher": "Orbit Media Studios, Inc",
+        "Sales_rank": "866,492",
+        "Pages": 112.0,
+        "Product_dimensions": "8.50(w) x 9.83(h) x 0.33(d)"
+      },
+      "authors": "Andy Crestodina"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "7780",
+    "right_id": "1527",
+    "left": {
+      "ID": 7780,
+      "Title": "The Basics of Digital Forensics: The Primer for Getting Started in Digital Forensics",
+      "Author": "John Sammons",
+      "Price": "$16.61 Save $13.34 (45%)",
+      "Edition": "Kindle Edition"
+    },
+    "right": {
+      "id": 1527,
+      "title": "The Basics of Digital Forensics: The Primer for Getting Started in Digital Forensics",
+      "prices": {
+        "Paperback": "$27.71 ",
+        "NOOK_Book": "$20.49 ",
+        "ISBN_13_DUMMY": 9780130000000.0,
+        "ISBN_13": "978-0128016350",
+        "Publisher": "Elsevier Science",
+        "Sales_rank": "341,879",
+        "Pages": 200.0,
+        "Product_dimensions": "7.50(w) x 9.10(h) x 0.50(d)"
+      },
+      "authors": "John Sammons"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "7841",
+    "right_id": "1285",
+    "left": {
+      "ID": 7841,
+      "Title": "Windows Command-Line for Windows 8.1, Windows Server 2012, Windows Server 2012 R2 ",
+      "Author": "William Stanek",
+      "Price": "$9.99 Save $30.00 (75%)",
+      "Edition": "Kindle Edition"
+    },
+    "right": {
+      "id": 1285,
+      "title": "Windows Command Line: The Personal Trainer for Windows 8.1 Windows Server 2012 and Windows Server 2012 R2",
+      "prices": {
+        "ISBN_13_DUMMY": 9781630000000.0,
+        "ISBN_13": "978-1627164139",
+        "Publisher": "RP Media",
+        "Sales_rank": "311,881",
+        "Pages": 360.0
+      },
+      "authors": "William Stanek"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "8228",
+    "right_id": "5432",
+    "left": {
+      "ID": 8228,
+      "Title": "The Internet Of Garbage",
+      "Author": "Sarah Jeong",
+      "Price": "$4.99 Save $3.00 (38%)",
+      "Edition": "Kindle Edition",
+      "ASIN": "B011JAV030",
+      "Publisher_dummy": "Forbes Media ",
+      "Publisher": "Forbes Media",
+      "Publication_Date": "15-Jul-15",
+      "Sold_by": "Amazon Digital Services,  Inc.",
+      "Language": "English"
+    },
+    "right": {
+      "id": 5432,
+      "title": "The Internet Of Garbage",
+      "prices": {
+        "ISBN_13_DUMMY": 9781510000000.0,
+        "ISBN_13": "978-1508018865",
+        "Publisher": "Forbes Media",
+        "Sales_rank": "792,252"
+      },
+      "authors": "Sarah Jeong"
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_2953",
+    "right_id": "B36",
+    "left": {
+      "ID": "bn_2953",
+      "Title": "DB2 11: The Database for Big Data & Analytics",
+      "Author": "Cristian Molaro,  Surekha Parekh,  Terry Purcell,  Julian Stuhler",
+      "ISBN": 9781583473856,
+      "Publisher": "Mc Press",
+      "PublicationDate": "11/22/2013",
+      "Pages": 128.0,
+      "price": "$17.95",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B36",
+      "title": "DB2 11: The Database for Big Data & Analytics",
+      "cover": "paperback",
+      "pages": 128.0,
+      "language": " English",
+      "publication_info": {
+        "publisher": " Mc Press (November 22, 2013)",
+        "ISBN-10": "1583473858",
+        "ISBN13": 9781583473856.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_743",
+    "right_id": "B60",
+    "left": {
+      "ID": "bn_743",
+      "Title": "Oracle RMAN for Absolute Beginners",
+      "Author": "Darl Kuhn",
+      "ISBN": 9781484207642,
+      "Publisher": "Apress",
+      "PublicationDate": "11/05/2014",
+      "Pages": 280.0,
+      "price": "$24.18",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B60",
+      "title": "Oracle RMAN for Absolute Beginners",
+      "cover": "paperback",
+      "pages": 280.0,
+      "language": " English",
+      "price": "$24.18",
+      "authors": [
+        "Darl Kuhn",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Apress; 2014 edition (November 5, 2014)",
+        "ISBN-10": "1484207645",
+        "ISBN13": 9781484207642.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_39",
+    "right_id": "B103",
+    "left": {
+      "ID": "bn_39",
+      "Title": "MySQL: The Complete Reference / Edition 1",
+      "Author": "Vikram Vaswani,  Pamela Smith",
+      "ISBN": 9780072224771,
+      "Publisher": "McGraw-Hill Professional Publishing",
+      "PublicationDate": "12/28/2003",
+      "Pages": 544.0,
+      "price": "$25.70",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B103",
+      "title": "MySQL(TM): The Complete Reference",
+      "cover": "paperback",
+      "pages": 544.0,
+      "language": " English",
+      "price": "$25.96",
+      "authors": [
+        "Vikram Vaswani",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " McGraw-Hill Education; 1 edition (January 8, 2004)",
+        "ISBN-10": "72224770",
+        "ISBN13": 9780072224771.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_6",
+    "right_id": "B142",
+    "left": {
+      "ID": "bn_6",
+      "Title": "CMDB Systems: Making Change Work in the Age of Cloud and Agile",
+      "Author": "Dennis Drogseth,  Dan Twing",
+      "ISBN": 9780128012659,
+      "Publisher": "Elsevier Science",
+      "PublicationDate": "04/03/2015",
+      "Pages": 402.0,
+      "price": "$41.42",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B142",
+      "title": "CMDB Systems: Making Change Work in the Age of Cloud and Agile",
+      "cover": "paperback",
+      "pages": 402.0,
+      "language": " English",
+      "price": "$41.42",
+      "authors": [
+        "Dennis Drogseth",
+        "Rick Sturm",
+        "Dan Twing",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Morgan Kaufmann; 1 edition (April 3, 2015)",
+        "ISBN-10": " 012801265X",
+        "ISBN13": 9780128012659.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_963",
+    "right_id": "B181",
+    "left": {
+      "ID": "bn_963",
+      "Title": "Oracle CRM On Demand Embedded Analytics",
+      "Author": "Michael D. Lairson",
+      "ISBN": 9780071745369,
+      "Publisher": "McGraw-Hill Professional Publishing",
+      "PublicationDate": "02/01/2011",
+      "Pages": 192.0,
+      "price": "$30.00",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B181",
+      "title": "Oracle CRM On Demand Embedded Analytics (Oracle Press)",
+      "cover": "paperback",
+      "pages": 192.0,
+      "language": " English",
+      "price": "$30.00",
+      "authors": [
+        "Michael D. Lairson",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " McGraw-Hill Education; 1 edition (January 31, 2011)",
+        "ISBN-10": " 007174536X",
+        "ISBN13": 9780071745369.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1155",
+    "right_id": "B360",
+    "left": {
+      "ID": "bn_1155",
+      "Title": "MySQL and JSP Web Applications: Data-Driven Programming Using Tomcat and MySQL",
+      "Author": "James Turner",
+      "ISBN": 9780672323096,
+      "Publisher": "Sams",
+      "PublicationDate": "03/28/2002",
+      "Pages": 9780672323096.0,
+      "price": "$44.99",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B360",
+      "title": "MySQL and JSP Web Applications: Data-Driven Programming Using Tomcat and MySQL",
+      "cover": "paperback",
+      "pages": 576.0,
+      "language": " English",
+      "price": "$44.99",
+      "authors": [
+        "James Turner",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Sams Publishing; 1 edition (April 6, 2002)",
+        "ISBN-10": "672323095",
+        "ISBN13": 9780672323096.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_2762",
+    "right_id": "B503",
+    "left": {
+      "ID": "bn_2762",
+      "Title": "Crystal Reports Encyclopedia Volume 2: Programming .NET 2005",
+      "Author": "Brian Bischof",
+      "ISBN": 9780974953618,
+      "Publisher": "Dotnet Tech",
+      "PublicationDate": "11/01/2008",
+      "Pages": 500.0,
+      "price": "$42.74",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B503",
+      "title": "Crystal Reports Encyclopedia Volume 2: .NET 2005/2008",
+      "cover": "paperback",
+      "pages": 500.0,
+      "language": " English",
+      "authors": [
+        "Brian Bischof",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Dotnet Tech; 2nd edition edition (November 1, 2008)",
+        "ISBN-10": " 097495361X",
+        "ISBN13": 9780974953618.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1840",
+    "right_id": "B582",
+    "left": {
+      "ID": "bn_1840",
+      "Title": "Oracle8i Database Administration",
+      "Author": "Noel Yuhanna",
+      "ISBN": 9781884777783,
+      "Publisher": "O'Reilly Media, Incorporated",
+      "PublicationDate": "12/01/1999",
+      "Pages": 543.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B582",
+      "title": "Oracle8i Database Administration",
+      "cover": "paperback",
+      "pages": 543.0,
+      "language": " English",
+      "authors": [
+        "Noel Yuhanna",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Manning Publications (November 1, 1999)",
+        "ISBN-10": "1884777783",
+        "ISBN13": 9781884777783.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_2627",
+    "right_id": "B610",
+    "left": {
+      "ID": "bn_2627",
+      "Title": "Microsoft Data Warehousing: Building Distributed Decision Support Systems",
+      "Author": "Robert S. Craig,  David Berkovitch,  Joseph A. Vivona,  David Bercovich",
+      "ISBN": 9780471327615,
+      "Publisher": "Wiley",
+      "PublicationDate": "03/22/1999",
+      "Pages": 384.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B610",
+      "title": "Microsoft(r) Data Warehousing: Building Distributed Decision Support Systems",
+      "cover": "paperback",
+      "pages": 384.0,
+      "language": " English",
+      "price": "$18.79",
+      "authors": [
+        "Robert S. Craig",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Wiley; 1 edition (March 22, 1999)",
+        "ISBN-10": "471327611",
+        "ISBN13": 9780471327615.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1455",
+    "right_id": "B662",
+    "left": {
+      "ID": "bn_1455",
+      "Title": "Interactive Computing Series: Microsoft Access 97 / Edition 1",
+      "Author": "Kenneth Laudon",
+      "ISBN": 9780070384354,
+      "Publisher": "McGraw-Hill Higher Education",
+      "PublicationDate": "03/28/1998",
+      "Pages": 120.0,
+      "price": "$6.35",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B662",
+      "title": "Interactive Computing Series: Microsoft Access 97",
+      "cover": "paperback",
+      "pages": 120.0,
+      "language": " English",
+      "publication_info": {
+        "publisher": " Richard D Irwin (February 2, 1998)",
+        "ISBN-10": "70384355",
+        "ISBN13": 9780070384354.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_2726",
+    "right_id": "B701",
+    "left": {
+      "ID": "bn_2726",
+      "Title": "Creating Microsoft Access 2000 Solutions: A Power Users' Guide",
+      "Author": "Gordon Padwick,  Rick Winter",
+      "ISBN": 9780672318948,
+      "Publisher": "Sams",
+      "PublicationDate": "05/24/2000",
+      "Pages": 555.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B701",
+      "title": "Creating Microsoft Access 2000 Solutions:  A Power Users' Guide",
+      "cover": "paperback",
+      "pages": 600.0,
+      "language": " English",
+      "authors": [
+        "Gordon Padwick",
+        "Rick Winter",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Sams (May 24, 2000)",
+        "ISBN-10": "672318946",
+        "ISBN13": 9780672318948.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1663",
+    "right_id": "B755",
+    "left": {
+      "ID": "bn_1663",
+      "Title": "Informix Guide to SQL: Reference and Syntax",
+      "Author": "Informix Software,  Inc.",
+      "ISBN": 9780130161666,
+      "Publisher": "Pearson Education",
+      "PublicationDate": "11/18/1999",
+      "Pages": 1776.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B755",
+      "title": "Informix Guide to SQL: Reference and Syntax (2nd Edition)",
+      "cover": "paperback",
+      "pages": 1776.0,
+      "language": " English",
+      "publication_info": {
+        "publisher": " Prentice Hall PTR; 2 Sub edition (November 12, 1999)",
+        "ISBN-10": "130161667",
+        "ISBN13": 9780130161666.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1029",
+    "right_id": "B759",
+    "left": {
+      "ID": "bn_1029",
+      "Title": "Microsoft SQL Server 2005: Applied Techniques Step by Step",
+      "Author": "Solid Quality Learning",
+      "ISBN": 9780735623163,
+      "Publisher": "Microsoft Press",
+      "PublicationDate": "07/19/2006",
+      "Pages": 368.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B759",
+      "title": "Microsoft® SQL Server 2005: Applied Techniques Step by Step (Step by Step Developer)",
+      "cover": "paperback",
+      "pages": 368.0,
+      "language": " English",
+      "price": "$18.79",
+      "publication_info": {
+        "publisher": " Microsoft Press (June 21, 2006)",
+        "ISBN-10": "735623163",
+        "ISBN13": 9780735623163.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_2102",
+    "right_id": "B1128",
+    "left": {
+      "ID": "bn_2102",
+      "Title": "Text Mining Application Programming / Edition 1",
+      "Author": "Manu Konchady",
+      "ISBN": 9781584504603,
+      "Publisher": "Cengage Learning",
+      "PublicationDate": "05/04/2006",
+      "Pages": 412.0,
+      "price": "$31.62",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B1128",
+      "title": "Text Mining Application Programming (Charles River Media Programming)",
+      "cover": "paperback",
+      "pages": 432.0,
+      "language": " English",
+      "authors": [
+        "Manu Konchady",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Charles River Media; 1 edition (May 4, 2006)",
+        "ISBN-10": "1584504609",
+        "ISBN13": 9781584504603.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_2561",
+    "right_id": "B1199",
+    "left": {
+      "ID": "bn_2561",
+      "Title": "Expert Access 2007 Programming",
+      "Author": "Rob Cooper,  Michael Tucker",
+      "ISBN": 9780470174029,
+      "Publisher": "Wiley",
+      "PublicationDate": "11/05/2007",
+      "Pages": 688.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B1199",
+      "title": "Expert Access 2007 Programming",
+      "cover": "paperback",
+      "pages": 688.0,
+      "language": " English",
+      "price": "$3.47",
+      "authors": [
+        "Rob Cooper",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Wrox; 1 edition (November 5, 2007)",
+        "ISBN-10": "470174021",
+        "ISBN13": 9780470174029.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1961",
+    "right_id": "B1308",
+    "left": {
+      "ID": "bn_1961",
+      "Title": "Quick and Easy Guide to dBASE IV",
+      "Author": "Steve Davis",
+      "ISBN": 9780874552065,
+      "Publisher": "Compute Publications International, Limited",
+      "PublicationDate": "02/01/1990",
+      "Pages": 224.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B1308",
+      "title": "Compute!'s Quick and Easy Guide to dBASE IV",
+      "cover": "paperback",
+      "pages": 239.0,
+      "language": " English",
+      "authors": [
+        "Steve Davis",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Compute (February 1990)",
+        "ISBN-10": "874552060",
+        "ISBN13": 9780874552065.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_853",
+    "right_id": "B1353",
+    "left": {
+      "ID": "bn_853",
+      "Title": "The Organization of Reduction, Data Flow, and Control Flow Systems",
+      "Author": "Werner Kluge",
+      "ISBN": 9780262610810,
+      "Publisher": "MIT Press",
+      "PublicationDate": "09/24/1992",
+      "Pages": 481.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B1353",
+      "title": "The Organization of Reduction, Data Flow, and Control Flow Systems (Computer Systems)",
+      "cover": "paperback",
+      "pages": 481.0,
+      "language": " English",
+      "authors": [
+        "Werner Kluge",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " The MIT Press (September 24, 1992)",
+        "ISBN-10": "262610817",
+        "ISBN13": 9780262610810.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1829",
+    "right_id": "B1489",
+    "left": {
+      "ID": "bn_1829",
+      "Title": "Oracle XSQL: Combining SQL, Oracle Text, XSLT, and Java to Publish Dynamic Web Content / Edition 1",
+      "Author": "Michael D. Thomas",
+      "ISBN": 9780471271208,
+      "Publisher": "Wiley",
+      "PublicationDate": "01/17/2003",
+      "Pages": 592.0,
+      "price": "$8.40",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B1489",
+      "title": "Oracle XSQL: Combining SQL, Oracle Text, XSLT, and Java to Publish Dynamic Web Content",
+      "cover": "paperback",
+      "pages": 592.0,
+      "language": " English",
+      "price": "$18.00",
+      "authors": [
+        "Michael D. Thomas",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Wiley; 1 edition (January 17, 2003)",
+        "ISBN-10": "471271209",
+        "ISBN13": 9780471271208.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1613",
+    "right_id": "B1501",
+    "left": {
+      "ID": "bn_1613",
+      "Title": "Linux for the Oracle DBA: The Definitive Reference",
+      "Author": "Jon Emmons",
+      "ISBN": 9780982306192,
+      "Publisher": "Rampant TechPress",
+      "PublicationDate": "12/01/2010",
+      "Pages": 460.0,
+      "price": "$40.92",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B1501",
+      "title": "Linux for the Oracle DBA: The Definitive Reference (Oracle In-Focus series) (Volume 40)",
+      "cover": "paperback",
+      "pages": 350.0,
+      "language": " English",
+      "publication_info": {
+        "publisher": " Rampant Techpress; First edition (December 1, 2010)",
+        "ISBN-10": "982306199",
+        "ISBN13": 9780982306192.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_2701",
+    "right_id": "B1540",
+    "left": {
+      "ID": "bn_2701",
+      "Title": "Microsoft SQL Server 2000: A Guide to Enhancements and New Features",
+      "Author": "Rahul Sharma",
+      "ISBN": 9780201752830,
+      "Publisher": "Pearson Education",
+      "PublicationDate": "03/01/1902",
+      "Pages": 592.0,
+      "ProductType": "Other Format"
+    },
+    "right": {
+      "id": "B1540",
+      "title": "Microsoft SQL Server 2000: A Guide to Enhancements and New Features",
+      "cover": "paperback",
+      "pages": 592.0,
+      "language": " English",
+      "authors": [
+        "Rahul Sharma",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Pearson Education (March 19, 2002)",
+        "ISBN-10": "201752832",
+        "ISBN13": 9780201752830.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_355",
+    "right_id": "B1724",
+    "left": {
+      "ID": "bn_355",
+      "Title": "SQL Functions: Programmer's Reference",
+      "Author": "Arie Jones,  Ryan K. Stephens,  Ronald R. Plew,  Robert F. Garrett",
+      "ISBN": 9780764569012,
+      "Publisher": "Wiley",
+      "PublicationDate": "04/18/2005",
+      "Pages": 790.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B1724",
+      "title": "SQL Functions Programmer's Reference (Programmer to Programmer)",
+      "cover": "paperback",
+      "pages": 790.0,
+      "language": " English",
+      "price": "$18.79",
+      "publication_info": {
+        "publisher": " Wrox; 1 edition (April 29, 2005)",
+        "ISBN-10": "764569015",
+        "ISBN13": 9780764569012.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_77",
+    "right_id": "B1805",
+    "left": {
+      "ID": "bn_77",
+      "Title": "Microsoft Access 2013 Step By Step",
+      "Author": "Joan Lambert,  Joyce Cox",
+      "ISBN": 9780735669086,
+      "Publisher": "Microsoft Press",
+      "PublicationDate": "02/27/2013",
+      "Pages": 448.0,
+      "price": "$25.50",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B1805",
+      "title": "Microsoft Access 2013 Step by Step",
+      "cover": "paperback",
+      "pages": 448.0,
+      "language": " English",
+      "price": "$24.88",
+      "authors": [
+        "Joan Lambert",
+        "Joyce Cox",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Microsoft Press; 1 edition (February 25, 2013)",
+        "ISBN-10": "735669082",
+        "ISBN13": 9780735669086.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1696",
+    "right_id": "B1877",
+    "left": {
+      "ID": "bn_1696",
+      "Title": "SQL For Dummies",
+      "Author": "Allen G. Taylor",
+      "ISBN": 9781118607961,
+      "Publisher": "Wiley",
+      "PublicationDate": "09/03/2013",
+      "Pages": 480.0,
+      "price": "$21.19",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B1877",
+      "title": "SQL For Dummies",
+      "cover": "paperback",
+      "pages": 480.0,
+      "language": " English",
+      "price": "$20.80",
+      "authors": [
+        "Allen G. Taylor",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " For Dummies; 8 edition (September 3, 2013)",
+        "ISBN-10": "1118607961",
+        "ISBN13": 9781118607961.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1460",
+    "right_id": "B1878",
+    "left": {
+      "ID": "bn_1460",
+      "Title": "FileMaker Pro 14: The Missing Manual",
+      "Author": "Susan Prosser,  Stuart Gripman",
+      "ISBN": 9781491917480,
+      "Publisher": "O'Reilly Media, Incorporated",
+      "PublicationDate": "05/23/2015",
+      "Pages": 972.0,
+      "price": "$26.19",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B1878",
+      "title": "FileMaker Pro 14: The Missing Manual",
+      "cover": "paperback",
+      "pages": 972.0,
+      "language": " English",
+      "price": "$26.06",
+      "publication_info": {
+        "publisher": " O'Reilly Media; 1 edition (May 23, 2015)",
+        "ISBN-10": "1491917482",
+        "ISBN13": 9781491917480.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1062",
+    "right_id": "B2170",
+    "left": {
+      "ID": "bn_1062",
+      "Title": "XML and SQL: Developing Web Applications / Edition 1",
+      "Author": "Daniel K. Appelquist,  Daniel K. Applequist",
+      "ISBN": 9780201657968,
+      "Publisher": "Addison-Wesley",
+      "PublicationDate": "12/28/2001",
+      "Pages": 256.0,
+      "price": "$37.99",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2170",
+      "title": "XML and SQL: Developing Web Applications",
+      "cover": "paperback",
+      "pages": 256.0,
+      "language": " English",
+      "price": "$39.99",
+      "authors": [
+        "Daniel K. Appelquist",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Addison-Wesley Professional; 1 edition (December 16, 2001)",
+        "ISBN-10": "201657961",
+        "ISBN13": 9780201657968.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1129",
+    "right_id": "B2219",
+    "left": {
+      "ID": "bn_1129",
+      "Title": "Oracle8i for Windows NT Starter Kit",
+      "Author": "Steve M. Bobrowski",
+      "ISBN": 9780072122480,
+      "Publisher": "McGraw-Hill Professional",
+      "PublicationDate": "03/01/2000",
+      "Pages": 481.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2219",
+      "title": "Oracle8I for Windows Nt Starter Kit (Oracle Press Series)",
+      "cover": "paperback",
+      "pages": 688.0,
+      "language": " English",
+      "price": "$0.57",
+      "publication_info": {
+        "publisher": " Mcgraw-Hill Osborne Media (November 1, 2005)",
+        "ISBN-10": " 007212248X",
+        "ISBN13": 9780072122480.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_2729",
+    "right_id": "B2223",
+    "left": {
+      "ID": "bn_2729",
+      "Title": "Beginning Power BI with Excel 2013: Self-Service Business Intelligence Using Power Pivot, Power View, Power Query, and Power Map",
+      "Author": "Dan Clark",
+      "ISBN": 9781430264453,
+      "Publisher": "Apress",
+      "PublicationDate": "09/30/2014",
+      "Pages": 324.0,
+      "price": "$31.98",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2223",
+      "title": "Beginning Power BI with Excel 2013: Self-Service Business Intelligence Using Power Pivot, Power View, Power Query, and Power Map",
+      "cover": "paperback",
+      "pages": 324.0,
+      "language": " English",
+      "price": "$31.50",
+      "authors": [
+        "Dan Clark",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Apress; 1 edition (September 24, 2014)",
+        "ISBN-10": "1430264454",
+        "ISBN13": 9781430264453.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_462",
+    "right_id": "B2255",
+    "left": {
+      "ID": "bn_462",
+      "Title": "Dynamic Web Application Development Using PHP and MySQL / Edition 1",
+      "Author": "Simon Stobart,  David Parsons",
+      "ISBN": 9781844807536,
+      "Publisher": "Cengage Learning EMEA Higher Education",
+      "PublicationDate": "02/01/2008",
+      "Pages": 656.0,
+      "price": "$92.09",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2255",
+      "title": "Dynamic Web Application Development Using PHP and MySQL",
+      "cover": "paperback",
+      "pages": 656.0,
+      "language": " English",
+      "price": "$44.38",
+      "publication_info": {
+        "publisher": " Cengage Learning EMEA; 1 edition (February 1, 2008)",
+        "ISBN-10": "1844807533",
+        "ISBN13": 9781844807536.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_72",
+    "right_id": "B2312",
+    "left": {
+      "ID": "bn_72",
+      "Title": "Access VBA Programming / Edition 1",
+      "Author": "Charles Brown,  Ron Petrusha",
+      "ISBN": 9780072231977,
+      "Publisher": "McGraw-Hill Professional Publishing",
+      "PublicationDate": "08/23/2004",
+      "Pages": 464.0,
+      "price": "$1.99",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2312",
+      "title": "Access VBA Programming",
+      "cover": "paperback",
+      "pages": 464.0,
+      "language": " English",
+      "price": "$35.54",
+      "publication_info": {
+        "publisher": " McGraw-Hill Education; 1 edition (September 13, 2004)",
+        "ISBN-10": "72231971",
+        "ISBN13": 9780072231977.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1376",
+    "right_id": "B2577",
+    "left": {
+      "ID": "bn_1376",
+      "Title": "The Data Warehouse Lifecycle Toolkit / Edition 2",
+      "Author": "Ralph Kimball,  Margy Ross,  Warren Thornthwaite,  Joy Mundy",
+      "ISBN": 9780470149775,
+      "Publisher": "Wiley",
+      "PublicationDate": "01/10/2008",
+      "Pages": 672.0,
+      "price": "$9.13",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2577",
+      "title": "The Data Warehouse Lifecycle Toolkit",
+      "cover": "paperback",
+      "pages": 672.0,
+      "language": " English",
+      "price": "$35.29",
+      "publication_info": {
+        "publisher": " Wiley; 2 edition (January 10, 2008)",
+        "ISBN-10": "470149779",
+        "ISBN13": 9780470149775.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_2811",
+    "right_id": "B2679",
+    "left": {
+      "ID": "bn_2811",
+      "Title": "Microsoft Access 2007 Data Analysis",
+      "Author": "Michael Alexander",
+      "ISBN": 9780470104859,
+      "Publisher": "Wiley",
+      "PublicationDate": "03/26/2007",
+      "Pages": 552.0,
+      "price": "$25.44",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2679",
+      "title": "Microsoft Access 2007 Data Analysis",
+      "cover": "paperback",
+      "pages": 552.0,
+      "language": " English",
+      "price": "$25.44",
+      "authors": [
+        "Michael Alexander",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Wiley; 1 edition (March 26, 2007)",
+        "ISBN-10": "470104856",
+        "ISBN13": 9780470104859.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1631",
+    "right_id": "B2812",
+    "left": {
+      "ID": "bn_1631",
+      "Title": "SQL Server 2000 Stored Procedure & XML Programming, Second Edition",
+      "Author": "Dejan Sunderic",
+      "ISBN": 9780072228960,
+      "Publisher": "McGraw-Hill Companies, The",
+      "PublicationDate": "05/16/2003",
+      "Pages": 696.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2812",
+      "title": "SQL Server 2000 Stored Procedure & XML Programming, Second Edition",
+      "cover": "paperback",
+      "pages": 696.0,
+      "language": " English",
+      "price": "$9.97",
+      "authors": [
+        "Dejan Sunderic",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " McGraw-Hill Osborne Media; 2 edition (May 16, 2003)",
+        "ISBN-10": "72228962",
+        "ISBN13": 9780072228960.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1579",
+    "right_id": "B2813",
+    "left": {
+      "ID": "bn_1579",
+      "Title": "Personal Oracle Real Application Clusters: Create Oracle 10g Grid Computing At-Home",
+      "Author": "Edward Stoever",
+      "ISBN": 9780976157380,
+      "Publisher": "Rampant Techpress",
+      "PublicationDate": "08/31/2006",
+      "Pages": 200.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2813",
+      "title": "Personal Oracle Real Application Clusters: Create Oracle 10g Grid Computing at-home (Oracle In-Focus series)",
+      "cover": "paperback",
+      "pages": 200.0,
+      "language": " English",
+      "price": "$1.63",
+      "authors": [
+        "Edward Stoever",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Rampant Techpress (August 31, 2006)",
+        "ISBN-10": "976157381",
+        "ISBN13": 9780976157380.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1135",
+    "right_id": "B2830",
+    "left": {
+      "ID": "bn_1135",
+      "Title": "Access 2002 For Dummies Quick Reference",
+      "Author": "Alison Barrows",
+      "ISBN": 9780764508523,
+      "Publisher": "Wiley",
+      "PublicationDate": "06/28/2001",
+      "Pages": 9780764508523.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2830",
+      "title": "Access 2002 For Dummies Quick Reference",
+      "cover": "paperback",
+      "pages": 240.0,
+      "language": " English",
+      "price": "$4.00",
+      "authors": [
+        "Alison Barrows",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " For Dummies (June 15, 2001)",
+        "ISBN-10": "764508520",
+        "ISBN13": 9780764508523.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_820",
+    "right_id": "B2891",
+    "left": {
+      "ID": "bn_820",
+      "Title": "Sams Teach Yourself Oracle 8 in 21 Days",
+      "Author": "Edward Whalen,  Steve Adrien Deluca,  Ed Whalen",
+      "ISBN": 9780672311598,
+      "Publisher": "Sams",
+      "PublicationDate": "11/28/1997",
+      "Pages": 604.0,
+      "ProductType": "Hardcover"
+    },
+    "right": {
+      "id": "B2891",
+      "title": "Teach Yourself Oracle8 in 21 Days (Sams Teach Yourself...)",
+      "cover": "paperback",
+      "pages": 800.0,
+      "language": " English",
+      "authors": [
+        "Edward Whalen",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Sams; 1st edition (November 1997)",
+        "ISBN-10": "672311593",
+        "ISBN13": 9780672311598.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_2350",
+    "right_id": "B2966",
+    "left": {
+      "ID": "bn_2350",
+      "Title": "Common Warehouse Metamodel",
+      "Author": "John Poole,  Dan Chang,  Douglas Tolbert,  David Mellor",
+      "ISBN": 9780471200529,
+      "Publisher": "Wiley",
+      "PublicationDate": "11/01/2001",
+      "Pages": 288.0,
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2966",
+      "title": "Common Warehouse Metamodel (OMG)",
+      "cover": "paperback",
+      "pages": 288.0,
+      "language": " English",
+      "price": "$0.15",
+      "authors": [
+        "Douglas Tolbert",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " Wiley; 1 edition (December 3, 2001)",
+        "ISBN-10": "471200522",
+        "ISBN13": 9780471200529.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1448",
+    "right_id": "B2985",
+    "left": {
+      "ID": "bn_1448",
+      "Title": "Microsoft SQL Server 2008 R2 Analytics & Data Visualization",
+      "Author": "Doug Harts,  Jim Dugan,  Tricia Almas",
+      "ISBN": 9780071601436,
+      "Publisher": "McGraw-Hill Professional Publishing",
+      "PublicationDate": "09/29/2010",
+      "Pages": 576.0,
+      "price": "$40.39",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2985",
+      "title": "Microsoft® SQL Server 2008 R2 Analytics & Data Visualization",
+      "cover": "paperback",
+      "pages": 576.0,
+      "language": " English",
+      "price": "$40.39",
+      "authors": [
+        "Doug Harts",
+        ""
+      ],
+      "publication_info": {
+        "publisher": " McGraw-Hill Education; 1 edition (September 30, 2010)",
+        "ISBN-10": "71601430",
+        "ISBN13": 9780071601436.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "bn_1482",
+    "right_id": "B2998",
+    "left": {
+      "ID": "bn_1482",
+      "Title": "Microsoft Office Access 2007: Illustrated Introductory / Edition 1",
+      "Author": "Lisa Friedrichsen",
+      "ISBN": 9781423905189,
+      "Publisher": "Cengage Learning",
+      "PublicationDate": "06/05/2007",
+      "Pages": 256.0,
+      "price": "$1.99",
+      "ProductType": "Paperback"
+    },
+    "right": {
+      "id": "B2998",
+      "title": "Microsoft Office Access 2007: Illustrated Introductory (Available Titles Skills Assessment Manager (SAM) - Office 2007)",
+      "cover": "paperback",
+      "pages": 256.0,
+      "language": " English",
+      "price": "$0.01",
+      "publication_info": {
+        "publisher": " Course Technology; 1 edition (June 5, 2007)",
+        "ISBN-10": "1423905180",
+        "ISBN13": 9781423905189.0
+      }
+    },
+    "pred": 1,
+    "label": 1
+  }
+]

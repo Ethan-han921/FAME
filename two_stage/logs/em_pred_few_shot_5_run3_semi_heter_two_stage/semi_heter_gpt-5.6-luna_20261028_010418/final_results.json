@@ -1,0 +1,37 @@
+{
+  "dataset": "semi_heter",
+  "model": "gpt-5.6-luna",
+  "mode": "two_stage",
+  "total_pairs": 214,
+  "matched_pairs": 214,
+  "stage1_em": {},
+  "stage2_attr": {
+    "end_to_end": {
+      "total_pairs": 214,
+      "tp": 585,
+      "fp": 181,
+      "fn": 62,
+      "precision": 0.7637075718015666,
+      "recall": 0.9041731066460588,
+      "f1": 0.8280254777070064,
+      "accuracy": 0.7065217391304348,
+      "pair_accuracy": 0.3878504672897196,
+      "exact_matches": 83,
+      "total_gt_correspondences": 647
+    },
+    "conditional": {
+      "total_pairs": 170,
+      "tp": 585,
+      "fp": 98,
+      "fn": 62,
+      "precision": 0.8565153733528551,
+      "recall": 0.9041731066460588,
+      "f1": 0.8796992481203008,
+      "accuracy": 0.785234899328859,
+      "pair_accuracy": 0.48823529411764705,
+      "exact_matches": 83,
+      "total_gt_correspondences": 647
+    }
+  },
+  "joint_metrics": {}
+}

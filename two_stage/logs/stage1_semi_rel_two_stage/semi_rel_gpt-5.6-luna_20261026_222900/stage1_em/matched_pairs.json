@@ -1,0 +1,4833 @@
+[
+  {
+    "left_id": "a-1897",
+    "right_id": "b-1668",
+    "left": {
+      "id": "a-1897",
+      "title": "House of Wax",
+      "director": "Jaume Collet-Serra",
+      "actors": "Charles Belden^Chad Hayes",
+      "year": "2005-05-06",
+      "rating": "5.3",
+      "information": "Cast : Chad Michael Murray^Paris Hilton^Elisha Cuthbert ; Genre : Horror^Thriller ; Duration : 113 min ; ContentRating : R ; Summary : Six friends are on their way to a football game. They decide to camp out for the night and continue driving the next day. The next day the friends find that they're having car troubles so two of the friends accept a stranger's ride into a small town named Ambrose. The main attraction in Ambrose is the House of Wax. Except something is not right in this town the wax figures are so realistic and the whole town is deserted - except for two murderous twin brothers. The six friends must fight to survive and escape from being the next exhibits in the House of Wax. ;"
+    },
+    "right": {
+      "ID": "b-1668",
+      "Title": "House of Wax",
+      "Year": "5/6/2005",
+      "Director": "Jaume Collet-Serra",
+      "Creators": [
+        "Chad Hayes",
+        "Carey W. Hayes",
+        "Carey Hayes"
+      ],
+      "Cast": "Elisha Cuthbert^Chad Michael Murray^Brian Van Holt^Paris Hilton",
+      "Genre": "Mystery & Suspense^Horror",
+      "Duration": "1 hr. 53 min.",
+      "Summary": "no transportation. At the risk of being stranded they accept a local's invitation for a ride into Ambrose the only town for miles. Once there they are drawn to Ambrose's main attraction -- Trudy's House of Wax which is filled with remarkably life-like wax sculptures. But as they soon discover there is a shocking reason that the exhibits look so real. As the friends uncover the town's dark secrets they are stalked by a demented killer and find themselves in a bloody battle for survival. The group must find a way out of Ambrose -- or become permanent additions to the House of Wax.",
+      "ratings": {
+        "Rating": "4.3",
+        "ContentRating": "R"
+      }
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1142",
+    "right_id": "637",
+    "left": {
+      "id": "1142",
+      "title": "Wolf Creek 2",
+      "director": "Greg Mclean",
+      "actors": "John Jarratt,Ryan Corr,Shannon Ashlyn,Phillipe Klaus,Gerard Kennedy,Annie Byron",
+      "year": "2014.0",
+      "rating": "1.0",
+      "information": "genre : Horror, Thriller ; pg_rating : Rated NR ; duration : 106 minutes ;"
+    },
+    "right": {
+      "id": 637,
+      "movie_name": "Wolf Creek 2",
+      "year": 2013,
+      "directors": "Greg McLean",
+      "actors": [
+        "John Jarratt",
+        " Ryan Corr",
+        " Shannon Ashlyn"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Horror, Thriller",
+      "duration": "106 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1159",
+    "right_id": "219",
+    "left": {
+      "id": "1159",
+      "title": "Brick Mansions",
+      "director": "Camille Delamarre",
+      "actors": "Paul Walker,David Belle,RZA,Robert Maillet,Carlo Rota,Catalina Denis,Ayisha Issa",
+      "year": "2014.0",
+      "rating": "2.5",
+      "information": "genre : Action, Crime ; pg_rating : Rated PG-13 ; duration : 90 minutes ;"
+    },
+    "right": {
+      "id": 219,
+      "movie_name": "Brick Mansions",
+      "year": 2014,
+      "directors": "Camille Delamarre",
+      "actors": [
+        "Paul Walker",
+        " David Belle",
+        " RZA"
+      ],
+      "movie_rating": 5.7,
+      "genre": "Action, Crime, Drama",
+      "duration": "90 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1168",
+    "right_id": "235",
+    "left": {
+      "id": "1168",
+      "title": "The Amazing Spider-Man 2",
+      "director": "Marc Webb",
+      "actors": "Andrew Garfield,Emma Stone,Jamie Foxx,Dane DeHaan,Colm Feore,Felicity Jones,Paul Giamatti,Sally Field,Marton Csokas,Embeth Davidtz,Denis Leary,Chris Zylka,B.J. Novak",
+      "year": "2014.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Fantasy ; pg_rating : Rated PG-13 ; duration : 142 minutes ;"
+    },
+    "right": {
+      "id": 235,
+      "movie_name": "The Amazing Spider-Man 2",
+      "year": 2014,
+      "directors": "Marc Webb",
+      "actors": [
+        "Andrew Garfield",
+        " Emma Stone",
+        " Jamie Foxx"
+      ],
+      "movie_rating": 6.8,
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "142 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1189",
+    "right_id": "810",
+    "left": {
+      "id": "1189",
+      "title": "Rigor Mortis",
+      "director": "Juno Mak",
+      "actors": "Chin Siu-Ho,Anthony Chan,Kara Hui,Richard Ng,Hoi-Pang Lo,Hee Ching Paw",
+      "year": "2014.0",
+      "rating": "3.0",
+      "information": "genre : Action, Drama, Horror ; pg_rating : nan ; duration : 105 minutes ;"
+    },
+    "right": {
+      "id": 810,
+      "movie_name": "Rigor Mortis",
+      "year": 2013,
+      "directors": "Juno Mak",
+      "actors": [
+        "Anthony Chan",
+        " Siu-Ho Chin",
+        " Fat Chung"
+      ],
+      "movie_rating": 6.3,
+      "genre": "Action, Drama, Horror",
+      "duration": "103 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1220",
+    "right_id": "279",
+    "left": {
+      "id": "1220",
+      "title": "The Raid 2",
+      "director": "Gareth Evans",
+      "actors": "Iko Uwais,Julie Estelle,Arifin Putra,Tio Pakusodewo,Oka Antara,Ryuhei Matsuda,Ken'ichi Endô",
+      "year": "2014.0",
+      "rating": "2.0",
+      "information": "genre : Action, Crime, Thriller ; pg_rating : Rated R ; duration : nan ;"
+    },
+    "right": {
+      "id": 279,
+      "movie_name": "The Raid 2",
+      "year": 2014,
+      "directors": "Gareth Evans",
+      "actors": [
+        "Iko Uwais",
+        " Yayan Ruhian",
+        " Arifin Putra"
+      ],
+      "movie_rating": 8.0,
+      "genre": "Action, Crime, Thriller",
+      "duration": "150 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1227",
+    "right_id": "242",
+    "left": {
+      "id": "1227",
+      "title": "Noah",
+      "director": "Darren Aronofsky",
+      "actors": "Russell Crowe,Jennifer Connelly,Emma Watson,Logan Lerman,Douglas Booth,Anthony Hopkins,Ray Winstone,Kevin Durand",
+      "year": "2014.0",
+      "rating": "3.0",
+      "information": "genre : Action, Drama, Fantasy ; pg_rating : Rated PG-13 ; duration : nan ;"
+    },
+    "right": {
+      "id": 242,
+      "movie_name": "Noah",
+      "year": 2014,
+      "directors": "Darren Aronofsky",
+      "actors": [
+        "Russell Crowe",
+        " Jennifer Connelly",
+        " Anthony Hopkins"
+      ],
+      "movie_rating": 5.9,
+      "genre": "Action, Adventure, Drama",
+      "duration": "138 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1240",
+    "right_id": "633",
+    "left": {
+      "id": "1240",
+      "title": "Stalingrad",
+      "director": "Fedor Bondarchuk",
+      "actors": "Mariya Smolnikova,Yanina Studilina,Pyotr Fyodorov,Thomas Kretschmann,Philippe Reinhardt,Sergey Bondarchuk,Dmitriy Lysenkov",
+      "year": "2013.0",
+      "rating": "2.5",
+      "information": "genre : Action, Drama, War ; pg_rating : Rated R ; duration : 135 minutes ;"
+    },
+    "right": {
+      "id": 633,
+      "movie_name": "Stalingrad",
+      "year": 2013,
+      "directors": "Fedor Bondarchuk",
+      "actors": [
+        "Mariya Smolnikova",
+        " Yanina Studilina",
+        " Pyotr Fyodorov"
+      ],
+      "movie_rating": 5.6,
+      "genre": "Action, Drama, War",
+      "duration": "131 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1244",
+    "right_id": "334",
+    "left": {
+      "id": "1244",
+      "title": "Gulaab Gang",
+      "director": "Soumik Sen",
+      "actors": "Madhuri Dixit,Juhi Chawla,Priyanka Bose",
+      "year": "2014.0",
+      "rating": "2.5",
+      "information": "genre : Action, Drama ; pg_rating : Rated NR ; duration : 139 minutes ;"
+    },
+    "right": {
+      "id": 334,
+      "movie_name": "Gulaab Gang",
+      "year": 2014,
+      "directors": "Soumik Sen",
+      "actors": [
+        "Madhuri Dixit",
+        " Juhi Chawla",
+        " Divya Jagdale"
+      ],
+      "movie_rating": 6.2,
+      "genre": "Action, Drama",
+      "duration": "139 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1255",
+    "right_id": "208",
+    "left": {
+      "id": "1255",
+      "title": "300: Rise of an Empire",
+      "director": "Noam Murro",
+      "actors": "Lena Headey,Sullivan Stapleton,Eva Green,Jack O'Connell,Rodrigo Santoro,David Wenham,Callan Mulvey,Andrew Tiernan,Ashraf Barhom,Andrew Pleavin",
+      "year": "2014.0",
+      "rating": "2.5",
+      "information": "genre : Action ; pg_rating : Rated R ; duration : nan ;"
+    },
+    "right": {
+      "id": 208,
+      "movie_name": "300: Rise of an Empire",
+      "year": 2014,
+      "directors": "Noam Murro",
+      "actors": [
+        "Sullivan Stapleton",
+        " Eva Green",
+        " Lena Headey"
+      ],
+      "movie_rating": 6.3,
+      "genre": "Action, Drama, Fantasy",
+      "duration": "102 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1271",
+    "right_id": "297",
+    "left": {
+      "id": "1271",
+      "title": "Need for Speed",
+      "director": "Scott Waugh",
+      "actors": "Aaron Paul,Dominic Cooper,Imogen Poots,Scott Mescudi,Rami Malek,Ramón Rodríguez,Harrison Gilbertson,Dakota Johnson,Michael Keaton",
+      "year": "2014.0",
+      "rating": "1.0",
+      "information": "genre : Action, Crime, Drama, Thriller ; pg_rating : Rated PG-13 ; duration : 102 minutes ;"
+    },
+    "right": {
+      "id": 297,
+      "movie_name": "Need for Speed",
+      "year": 2014,
+      "directors": "Scott Waugh",
+      "actors": [
+        "Aaron Paul",
+        " Dominic Cooper",
+        " Imogen Poots"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Crime, Drama",
+      "duration": "132 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1304",
+    "right_id": "271",
+    "left": {
+      "id": "1304",
+      "title": "The Outsider",
+      "director": "Brian A Miller",
+      "actors": "Shannon Elizabeth,James Caan,Jason Patric,Craig Fairbrass,Melissa Ordway",
+      "year": "2013.0",
+      "rating": "1.0",
+      "information": "genre : Action, Crime, Drama ; pg_rating : Rated NR ; duration : 94 minutes ;"
+    },
+    "right": {
+      "id": 271,
+      "movie_name": "The Outsider",
+      "year": 2014,
+      "directors": "Brian A Miller",
+      "actors": [
+        "Craig Fairbrass",
+        " James Caan",
+        " Jason Patric"
+      ],
+      "movie_rating": 4.8,
+      "genre": "Action, Crime, Drama",
+      "duration": "94 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1318",
+    "right_id": "218",
+    "left": {
+      "id": "1318",
+      "title": "Ride Along",
+      "director": "Tim Story",
+      "actors": "Kevin Hart,Tika Sumpter,Ice Cube,Jasmine Burke,David Banner,John Leguizamo,Laurence Fishburne,Jay Pharaoh",
+      "year": "2014.0",
+      "rating": "2.0",
+      "information": "genre : Action, Comedy ; pg_rating : Rated PG-13 ; duration : nan ;"
+    },
+    "right": {
+      "id": 218,
+      "movie_name": "Ride Along",
+      "year": 2014,
+      "directors": "Tim Story",
+      "actors": [
+        "Ice Cube",
+        " Kevin Hart",
+        " Tika Sumpter"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Comedy",
+      "duration": "99 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1360",
+    "right_id": "335",
+    "left": {
+      "id": "1360",
+      "title": "Gunday",
+      "director": "Ali Abbas Zafar",
+      "actors": "Ranveer Singh,Arjun Kapoor,Priyanka Chopra,Irrfan Khan",
+      "year": "2014.0",
+      "rating": "3.0",
+      "information": "genre : Action, Crime, Drama ; pg_rating : Rated NR ; duration : 152 minutes ;"
+    },
+    "right": {
+      "id": 335,
+      "movie_name": "Gunday",
+      "year": 2014,
+      "directors": "Ali Abbas Zafar",
+      "actors": [
+        "Ranveer Singh",
+        " Arjun Kapoor",
+        " Priyanka Chopra"
+      ],
+      "movie_rating": 2.0,
+      "genre": "Action, Crime, Drama",
+      "duration": "152 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1366",
+    "right_id": "265",
+    "left": {
+      "id": "1366",
+      "title": "3 Days to Kill",
+      "director": "McG",
+      "actors": "Kevin Costner,Amber Heard,Hailee Steinfeld,Connie Nielsen,Richard Sammel,Tómas Lemarquis,Marc Andréoni,Eriq Ebouaney",
+      "year": "2014.0",
+      "rating": "2.0",
+      "information": "genre : Action, Crime, Drama, Thriller ; pg_rating : Rated PG-13 ; duration : 113 minutes ;"
+    },
+    "right": {
+      "id": 265,
+      "movie_name": "3 Days to Kill",
+      "year": 2014,
+      "directors": "McG",
+      "actors": [
+        "Kevin Costner",
+        " Hailee Steinfeld",
+        " Connie Nielsen"
+      ],
+      "movie_rating": 6.2,
+      "genre": "Action, Drama, Thriller",
+      "duration": "117 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1376",
+    "right_id": "733",
+    "left": {
+      "id": "1376",
+      "title": "Enemies Closer",
+      "director": "Peter Hyams",
+      "actors": "Jean-Claude Van Damme,Tom Everett Scott,Orlando Jones,Linzey Cocker,Kristopher Van Varenberg",
+      "year": "2014.0",
+      "rating": "2.5",
+      "information": "genre : Action, Thriller ; pg_rating : Rated R ; duration : 85 minutes ;"
+    },
+    "right": {
+      "id": 733,
+      "movie_name": "Enemies Closer",
+      "year": 2013,
+      "directors": "Peter Hyams",
+      "actors": [
+        "Tom Everett Scott",
+        " Jean-Claude Van Damme",
+        " Orlando Jones"
+      ],
+      "movie_rating": 5.1,
+      "genre": "Action, Thriller",
+      "duration": "85 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1396",
+    "right_id": "666",
+    "left": {
+      "id": "1396",
+      "title": "Welcome to the Jungle",
+      "director": "Rob Meltzer",
+      "actors": "Kristen Schaal,Megan Boone,Jean-Claude Van Damme,Adam Brody,Rob Huebel,Aaron Takahashi,Bianca Bree,Eric Edelstein,Robert Peters",
+      "year": "2013.0",
+      "rating": "1.0",
+      "information": "genre : Comedy ; pg_rating : Rated NR ; duration : 95 minutes ;"
+    },
+    "right": {
+      "id": 666,
+      "movie_name": "Welcome to the Jungle",
+      "year": 2013,
+      "directors": "Rob Meltzer",
+      "actors": [
+        "Jean-Claude Van Damme",
+        " Adam Brody",
+        " Rob Huebel"
+      ],
+      "movie_rating": 5.0,
+      "genre": "Action, Adventure, Comedy",
+      "duration": "95 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1413",
+    "right_id": "573",
+    "left": {
+      "id": "1413",
+      "title": "Oldboy",
+      "director": "Spike Lee",
+      "actors": "Josh Brolin,Samuel L. Jackson,Elizabeth Olsen,Sharlto Copley,Lance Reddick,Michael Imperioli,Richard Portnow,Max Casella",
+      "year": "2013.0",
+      "rating": "3.0",
+      "information": "genre : Drama, Mystery, Thriller ; pg_rating : Rated R ; duration : nan ;"
+    },
+    "right": {
+      "id": 573,
+      "movie_name": "Oldboy",
+      "year": 2013,
+      "directors": "Spike Lee",
+      "actors": [
+        "Josh Brolin",
+        " Elizabeth Olsen",
+        " Samuel L. Jackson"
+      ],
+      "movie_rating": 5.8,
+      "genre": "Action, Drama, Mystery",
+      "duration": "104 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1416",
+    "right_id": "690",
+    "left": {
+      "id": "1416",
+      "title": "Homefront",
+      "director": "Gary Fleder",
+      "actors": "James Franco,Jason Statham,Winona Ryder,Rachelle Lefevre,Kate Bosworth",
+      "year": "2013.0",
+      "rating": "2.5",
+      "information": "genre : Action, Thriller ; pg_rating : Rated R ; duration : nan ;"
+    },
+    "right": {
+      "id": 690,
+      "movie_name": "Homefront",
+      "year": 2013,
+      "directors": "Gary Fleder",
+      "actors": [
+        "Jason Statham",
+        " James Franco",
+        " Winona Ryder"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Crime, Drama",
+      "duration": "100 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1449",
+    "right_id": "773",
+    "left": {
+      "id": "1449",
+      "title": "Boss",
+      "director": "Anthony D'Souza",
+      "actors": "Akshay Kumar,Mithun Chakraborty,Shiv Pandit,Ronit Roy,Aditi Rao Hydari",
+      "year": "2013.0",
+      "rating": "1.5",
+      "information": "genre : Action, Drama ; pg_rating : Rated NR ; duration : 143 minutes ;"
+    },
+    "right": {
+      "id": 773,
+      "movie_name": "Boss",
+      "year": 2013,
+      "directors": "Anthony D'Souza",
+      "actors": [
+        "Akshay Kumar",
+        " Shiv Pandit",
+        " Mithun Chakraborty"
+      ],
+      "movie_rating": 5.4,
+      "genre": "Action, Comedy, Drama",
+      "duration": "143 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1451",
+    "right_id": "617",
+    "left": {
+      "id": "1451",
+      "title": "Big Ass Spider!",
+      "director": "Mike Mendez",
+      "actors": "Greg Grunberg,Lombardo Boyar,Clare Kramer,Ray Wise,Lin Shaye,Patrick Bauchau,Lloyd Kaufman",
+      "year": "2013.0",
+      "rating": "2.0",
+      "information": "genre : Science Fiction ; pg_rating : Rated PG-13 ; duration : 85 minutes ;"
+    },
+    "right": {
+      "id": 617,
+      "movie_name": "Big Ass Spider!",
+      "year": 2013,
+      "directors": "Mike Mendez",
+      "actors": [
+        "Greg Grunberg",
+        " Lin Shaye",
+        " Ruben Pla"
+      ],
+      "movie_rating": 5.3,
+      "genre": "Action, Comedy, Sci-Fi",
+      "duration": "80 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1462",
+    "right_id": "639",
+    "left": {
+      "id": "1462",
+      "title": "Man of Tai Chi",
+      "director": "Keanu Reeves",
+      "actors": "Keanu Reeves, Tiger Hu Chen,Jeremy Marinas,Steven Dasz,Karen Mok Man-Wai,Michael Chan,Qing Ye,Yu Hai,Sam Lee,Iko Uwais",
+      "year": "2013.0",
+      "rating": "3.0",
+      "information": "genre : Action ; pg_rating : Rated R ; duration : 105 minutes ;"
+    },
+    "right": {
+      "id": 639,
+      "movie_name": "Man of Tai Chi",
+      "year": 2013,
+      "directors": "Keanu Reeves",
+      "actors": [
+        "Tiger Hu Chen",
+        " Keanu Reeves",
+        " Karen Mok"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Drama",
+      "duration": "105 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1464",
+    "right_id": "607",
+    "left": {
+      "id": "1464",
+      "title": "Ender's Game",
+      "director": "Gavin Hood",
+      "actors": "Asa Butterfield,Hailee Steinfeld,Harrison Ford,Abigail Breslin,Aramis Knight,Moisés Arias,Jimmy Jax Pinchak,Viola Davis,Ben Kingsley,Suraj Partha,Khlylin Rhambo",
+      "year": "2013.0",
+      "rating": "2.0",
+      "information": "genre : Science Fiction ; pg_rating : Rated PG-13 ; duration : 110 minutes ;"
+    },
+    "right": {
+      "id": 607,
+      "movie_name": "Ender's Game",
+      "year": 2013,
+      "directors": "Gavin Hood",
+      "actors": [
+        "Harrison Ford",
+        " Asa Butterfield",
+        " Hailee Steinfeld"
+      ],
+      "movie_rating": 6.7,
+      "genre": "Action, Sci-Fi",
+      "duration": "114 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1496",
+    "right_id": "581",
+    "left": {
+      "id": "1496",
+      "title": "Riddick",
+      "director": "David Twohy",
+      "actors": "Vin Diesel,Karl Urban,Katee Sackhoff,Jordi Mollà,Bokeem Woodbine,Nolan Gerard Funk,Noah Danby,Neil Napier,Dave Bautista",
+      "year": "2013.0",
+      "rating": "2.5",
+      "information": "genre : Action, Science Fiction, Thriller ; pg_rating : Rated R ; duration : 119 minutes ;"
+    },
+    "right": {
+      "id": 581,
+      "movie_name": "Riddick",
+      "year": 2013,
+      "directors": "David Twohy",
+      "actors": [
+        "Vin Diesel",
+        " Karl Urban",
+        " Katee Sackhoff"
+      ],
+      "movie_rating": 6.4,
+      "genre": "Action, Sci-Fi, Thriller",
+      "duration": "119 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1499",
+    "right_id": "591",
+    "left": {
+      "id": "1499",
+      "title": "The Mortal Instruments: City of Bones",
+      "director": "Harald Zwart",
+      "actors": "Lily Collins,Jamie Campbell Bower,Kevin Zegers,Jemima West,Robert Sheehan,Jared Harris,Lena Headey,Aidan Turner,Godfrey Gao",
+      "year": "2013.0",
+      "rating": "1.0",
+      "information": "genre : Action, Adventure, Drama ; pg_rating : nan ; duration : nan ;"
+    },
+    "right": {
+      "id": 591,
+      "movie_name": "The Mortal Instruments: City of Bones",
+      "year": 2013,
+      "directors": "Harald Zwart",
+      "actors": [
+        "Lily Collins",
+        " Jamie Campbell Bower",
+        " Robert Sheehan"
+      ],
+      "movie_rating": 6.0,
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "130 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1506",
+    "right_id": "572",
+    "left": {
+      "id": "1506",
+      "title": "The World's End",
+      "director": "Edgar Wright",
+      "actors": "Simon Pegg,Nick Frost,Rosamund Pike,Paddy Considine,Eddie Marsan,Martin Freeman,David Bradley,Bill Nighy",
+      "year": "2013.0",
+      "rating": "3.5",
+      "information": "genre : Action, Comedy, Science Fiction ; pg_rating : Rated R ; duration : 109 minutes ;"
+    },
+    "right": {
+      "id": 572,
+      "movie_name": "The World's End",
+      "year": 2013,
+      "directors": "Edgar Wright",
+      "actors": [
+        "Simon Pegg",
+        " Nick Frost",
+        " Martin Freeman"
+      ],
+      "movie_rating": 7.0,
+      "genre": "Action, Comedy, Sci-Fi",
+      "duration": "109 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1507",
+    "right_id": "585",
+    "left": {
+      "id": "1507",
+      "title": "The Grandmaster",
+      "director": "Wong Kar-Wai",
+      "actors": "Tony Leung Chiu-Wai,Ziyi Zhang,Song Hye-Kyo,Chang Chen,Wong Hing-Cheung,Zhao Ben-Shan",
+      "year": "2013.0",
+      "rating": "3.0",
+      "information": "genre : Action, Drama, Foreign, History ; pg_rating : Rated PG-13 ; duration : 130 minutes ;"
+    },
+    "right": {
+      "id": 585,
+      "movie_name": "The Grandmaster",
+      "year": 2013,
+      "directors": "Kar Wai Wong",
+      "actors": [
+        "Tony Chiu Wai Leung",
+        " Ziyi Zhang",
+        " Jin Zhang"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Biography, Drama",
+      "duration": "130 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1533",
+    "right_id": "753",
+    "left": {
+      "id": "1533",
+      "title": "Ip Man: The Final Fight",
+      "director": "Herman Yau",
+      "actors": "Anthony Wong Chau-Sang,Gillian Chung,Eric Tsang,Zhou Chu-Chu,Timmy Hung,Jiang Lu-Xia,Xiong Xin-Xin,Anita Yuen,Jordan Chan Siu-Chun",
+      "year": "2013.0",
+      "rating": "2.5",
+      "information": "genre : Action, Drama ; pg_rating : Rated PG-13 ; duration : 100 minutes ;"
+    },
+    "right": {
+      "id": 753,
+      "movie_name": "Ip Man: The Final Fight",
+      "year": 2013,
+      "directors": "Herman Yau",
+      "actors": [
+        "Anthony Chau-Sang Wong",
+        " Gillian Chung",
+        " Jordan Chan"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Biography, Drama",
+      "duration": "100 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1535",
+    "right_id": "569",
+    "left": {
+      "id": "1535",
+      "title": "The Colony",
+      "director": "Jeff Renfroe",
+      "actors": "Laurence Fishburne,Kevin Zegers,Bill Paxton,Charlotte Sullivan,John Tench,Atticus Dean Mitchell,Dru Viergever,Romano Orzari",
+      "year": "2013.0",
+      "rating": "1.5",
+      "information": "genre : Action, Science Fiction, Thriller ; pg_rating : Rated NR ; duration : 95 minutes ;"
+    },
+    "right": {
+      "id": 569,
+      "movie_name": "The Colony",
+      "year": 2013,
+      "directors": "Jeff Renfroe",
+      "actors": [
+        "Kevin Zegers",
+        " Laurence Fishburne",
+        " Bill Paxton"
+      ],
+      "movie_rating": 5.3,
+      "genre": "Action, Horror, Sci-Fi",
+      "duration": "95 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1553",
+    "right_id": "636",
+    "left": {
+      "id": "1553",
+      "title": "Machete Kills",
+      "director": "Robert Rodriguez",
+      "actors": "Jessica Alba,Mel Gibson,Michelle Rodriguez,Danny Trejo,Tom Savini,Sofía Vergara,Lady Gaga,Vanessa Hudgens,Alexa Vega,Cuba Gooding Jr.,Amber Heard,Demián Bichir,Charlie Sheen",
+      "year": "2013.0",
+      "rating": "2.0",
+      "information": "genre : Action ; pg_rating : Rated R ; duration : 107 minutes ;"
+    },
+    "right": {
+      "id": 636,
+      "movie_name": "Machete Kills",
+      "year": 2013,
+      "directors": "Robert Rodriguez",
+      "actors": [
+        "Danny Trejo",
+        " Alexa PenaVega",
+        " Mel Gibson"
+      ],
+      "movie_rating": 5.6,
+      "genre": "Action, Crime, Thriller",
+      "duration": "107 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1579",
+    "right_id": "825",
+    "left": {
+      "id": "1579",
+      "title": "Madras Cafe",
+      "director": "Shoojit Sircar",
+      "actors": "John Abraham,Nargis Fakhri,Rashi Khanna,Siddharth Basu,Prakash Belawadi",
+      "year": "2013.0",
+      "rating": "1.5",
+      "information": "genre : nan ; pg_rating : nan ; duration : nan ;"
+    },
+    "right": {
+      "id": 825,
+      "movie_name": "Madras Cafe",
+      "year": 2013,
+      "directors": "Shoojit Sircar",
+      "actors": [
+        "Nargis Fakhri",
+        " John Abraham",
+        " Rashi Khanna"
+      ],
+      "movie_rating": 7.8,
+      "genre": "Action, Drama, History",
+      "duration": "130 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1580",
+    "right_id": "1051",
+    "left": {
+      "id": "1580",
+      "title": "I Declare War",
+      "director": "Jason Lapeyre,Robert Wilson",
+      "actors": "Siam Yu,Gage Munroe,Michael Friend,Aidan Gouveia,Mackenzie Munro,Alex Cardillo,Dyson Fyke,Spencer Howes,Andy Reid,Kolton Stewart,Richard Nguyen,Eric Hanson,Alex Wall",
+      "year": "2013.0",
+      "rating": "1.5",
+      "information": "genre : Action, Comedy, Drama ; pg_rating : Rated R ; duration : 94 minutes ;"
+    },
+    "right": {
+      "id": 1051,
+      "movie_name": "I Declare War",
+      "year": 2012,
+      "directors": "Jason Lapeyre",
+      "actors": [
+        "Siam Yu",
+        " Kolton Stewart",
+        " Gage Munroe"
+      ],
+      "movie_rating": 6.0,
+      "genre": "Action, Comedy, Drama",
+      "duration": "94 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1582",
+    "right_id": "658",
+    "left": {
+      "id": "1582",
+      "title": "Getaway",
+      "director": "Courtney Solomon",
+      "actors": "Ethan Hawke,Selena Gomez,Jon Voight,Paul Freeman,Bruce Payne,Rebecca Budig",
+      "year": "2013.0",
+      "rating": "1.5",
+      "information": "genre : Action, Crime ; pg_rating : Rated PG-13 ; duration : nan ;"
+    },
+    "right": {
+      "id": 658,
+      "movie_name": "Getaway",
+      "year": 2013,
+      "directors": "Courtney Solomon",
+      "actors": [
+        "Ethan Hawke",
+        " Selena Gomez",
+        " Jon Voight"
+      ],
+      "movie_rating": 4.4,
+      "genre": "Action, Crime, Thriller",
+      "duration": "90 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1588",
+    "right_id": "719",
+    "left": {
+      "id": "1588",
+      "title": "Bounty Killer",
+      "director": "Henry Saine",
+      "actors": "Matthew Marsden,Kristanna Loken,Christian Pitre,Barak Hardley,Abraham Benrubi,Gary Busey,Beverly D'Angelo,Eve,Kevin McNally,Alexa Vega",
+      "year": "2013.0",
+      "rating": "2.0",
+      "information": "genre : Action ; pg_rating : Rated R ; duration : 93 minutes ;"
+    },
+    "right": {
+      "id": 719,
+      "movie_name": "Bounty Killer",
+      "year": 2013,
+      "directors": "Henry Saine",
+      "actors": [
+        "Matthew Marsden",
+        " Kristanna Loken",
+        " Christian Pitre"
+      ],
+      "movie_rating": 5.4,
+      "genre": "Action, Sci-Fi, Thriller",
+      "duration": "92 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1599",
+    "right_id": "606",
+    "left": {
+      "id": "1599",
+      "title": "We're the Millers",
+      "director": "Rawson Marshall Thurber",
+      "actors": "Jason Sudeikis,Jennifer Aniston,Emma Roberts,Will Poulter,Ed Helms,Nick Offerman,Kathryn Hahn,Thomas Lennon,Mark L. Young",
+      "year": "2013.0",
+      "rating": "3.0",
+      "information": "genre : Comedy, Crime ; pg_rating : Rated R ; duration : 110 minutes ;"
+    },
+    "right": {
+      "id": 606,
+      "movie_name": "We're the Millers",
+      "year": 2013,
+      "directors": "Rawson Marshall Thurber",
+      "actors": [
+        "Jason Sudeikis",
+        " Jennifer Aniston",
+        " Emma Roberts"
+      ],
+      "movie_rating": 7.1,
+      "genre": "Action, Adventure, Comedy",
+      "duration": "110 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1603",
+    "right_id": "651",
+    "left": {
+      "id": "1603",
+      "title": "Chennai Express",
+      "director": "Rohit Shetty",
+      "actors": "Deepika Padukone,Shahrukh Khan,Sathyaraj,Nikitin Dheer",
+      "year": "2013.0",
+      "rating": "3.0",
+      "information": "genre : nan ; pg_rating : nan ; duration : nan ;"
+    },
+    "right": {
+      "id": 651,
+      "movie_name": "Chennai Express",
+      "year": 2013,
+      "directors": "Rohit Shetty",
+      "actors": [
+        "Deepika Padukone",
+        " Shah Rukh Khan",
+        " Satyaraj"
+      ],
+      "movie_rating": 5.9,
+      "genre": "Action, Comedy, Romance",
+      "duration": "141 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1618",
+    "right_id": "562",
+    "left": {
+      "id": "1618",
+      "title": "R.I.P.D.",
+      "director": "Robert Schwentke",
+      "actors": "Jeff Bridges,Ryan Reynolds,Kevin Bacon,Stephanie Szostak,Mary-Louise Parker,Marisa Miller,Robert Knepper,James Hong",
+      "year": "2013.0",
+      "rating": "1.0",
+      "information": "genre : Action, Comedy, Crime ; pg_rating : Rated PG-13 ; duration : nan ;"
+    },
+    "right": {
+      "id": 562,
+      "movie_name": "R.I.P.D.",
+      "year": 2013,
+      "directors": "Robert Schwentke",
+      "actors": [
+        "Ryan Reynolds",
+        " Jeff Bridges",
+        " Mary-Louise Parker"
+      ],
+      "movie_rating": 5.6,
+      "genre": "Action, Comedy, Sci-Fi",
+      "duration": "96 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1620",
+    "right_id": "614",
+    "left": {
+      "id": "1620",
+      "title": "RED 2",
+      "director": "Dean Parisot",
+      "actors": "Bruce Willis,Mary-Louise Parker,Helen Mirren,John Malkovich,Catherine Zeta-Jones,Anthony Hopkins,David Thewlis",
+      "year": "2013.0",
+      "rating": "2.5",
+      "information": "genre : Action, Comedy, Crime, Thriller ; pg_rating : Rated PG-13 ; duration : nan ;"
+    },
+    "right": {
+      "id": 614,
+      "movie_name": "RED 2",
+      "year": 2013,
+      "directors": "Dean Parisot",
+      "actors": [
+        "Bruce Willis",
+        " Helen Mirren",
+        " John Malkovich"
+      ],
+      "movie_rating": 6.7,
+      "genre": "Action, Comedy, Crime",
+      "duration": "116 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1635",
+    "right_id": "629",
+    "left": {
+      "id": "1635",
+      "title": "Frankenstein's Army",
+      "director": "Richard Raaphorst",
+      "actors": "Karel Roden,Joshua Sasse,Robert Gwilym,Alexander Mercury,Luke Newberry",
+      "year": "2013.0",
+      "rating": "2.5",
+      "information": "genre : Action, Horror ; pg_rating : Rated R ; duration : 84 minutes ;"
+    },
+    "right": {
+      "id": 629,
+      "movie_name": "Frankenstein's Army",
+      "year": 2013,
+      "directors": "Richard Raaphorst",
+      "actors": [
+        "Robert Gwilym",
+        " Hon Ping Tang",
+        " Alexander Mercury"
+      ],
+      "movie_rating": 5.3,
+      "genre": "Action, Horror, Sci-Fi",
+      "duration": "84 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1652",
+    "right_id": "699",
+    "left": {
+      "id": "1652",
+      "title": "White House Down",
+      "director": "Roland Emmerich",
+      "actors": "Channing Tatum,Jamie Foxx,Joey King,Maggie Gyllenhaal,Richard Jenkins,James Woods",
+      "year": "2013.0",
+      "rating": "3.0",
+      "information": "genre : Action, Drama, Thriller ; pg_rating : Rated PG-13 ; duration : 137 minutes ;"
+    },
+    "right": {
+      "id": 699,
+      "movie_name": "White House Down",
+      "year": 2013,
+      "directors": "Roland Emmerich",
+      "actors": [
+        "Channing Tatum",
+        " Jamie Foxx",
+        " Maggie Gyllenhaal"
+      ],
+      "movie_rating": 6.4,
+      "genre": "Action, Drama, Thriller",
+      "duration": "131 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1678",
+    "right_id": "579",
+    "left": {
+      "id": "1678",
+      "title": "Star Trek Into Darkness",
+      "director": "J.J. Abrams",
+      "actors": "Chris Pine,Benedict Cumberbatch,Zachary Quinto,Simon Pegg,Zoe Saldana",
+      "year": "2013.0",
+      "rating": "2.5",
+      "information": "genre : Action, Adventure, Science Fiction ; pg_rating : Rated PG-13 ; duration : 129 minutes ;"
+    },
+    "right": {
+      "id": 579,
+      "movie_name": "Star Trek Into Darkness",
+      "year": 2013,
+      "directors": "J.J. Abrams",
+      "actors": [
+        "Chris Pine",
+        " Zachary Quinto",
+        " Zoe Saldana"
+      ],
+      "movie_rating": 7.8,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "132 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1680",
+    "right_id": "626",
+    "left": {
+      "id": "1680",
+      "title": "Fast & Furious 6",
+      "director": "Justin Lin",
+      "actors": "Paul Walker,Vin Diesel,Dwayne Johnson,Jordana Brewster,Gina Carano,Luke Evans,Michelle Rodriguez,Tyrese Gibson,Eva Mendes,Gal Gadot,Sung Kang,Jason Statham",
+      "year": "2013.0",
+      "rating": "2.0",
+      "information": "genre : Action, Thriller ; pg_rating : Rated PG-13 ; duration : 140 minutes ;"
+    },
+    "right": {
+      "id": 626,
+      "movie_name": "Fast & Furious 6",
+      "year": 2013,
+      "directors": "Justin Lin",
+      "actors": [
+        "Vin Diesel",
+        " Paul Walker",
+        " Dwayne Johnson"
+      ],
+      "movie_rating": 7.2,
+      "genre": "Action, Crime, Thriller",
+      "duration": "130 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1684",
+    "right_id": "613",
+    "left": {
+      "id": "1684",
+      "title": "After Earth",
+      "director": "M. Night Shyamalan",
+      "actors": "Will Smith,Jaden Smith,Sophie Okonedo,Zoe Kravitz",
+      "year": "2013.0",
+      "rating": "3.5",
+      "information": "genre : Action, Adventure, Science Fiction ; pg_rating : Rated PG-13 ; duration : nan ;"
+    },
+    "right": {
+      "id": 613,
+      "movie_name": "After Earth",
+      "year": 2013,
+      "directors": "M. Night Shyamalan",
+      "actors": [
+        "Jaden Smith",
+        " David Denman",
+        " Will Smith"
+      ],
+      "movie_rating": 4.9,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "100 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1711",
+    "right_id": "634",
+    "left": {
+      "id": "1711",
+      "title": "Pain & Gain",
+      "director": "Michael Bay",
+      "actors": "Mark Wahlberg,Rebel Wilson,Dwayne Johnson,Ken Jeong,Ed Harris,Anthony Mackie,Tony Shalhoub,Rob Corddry",
+      "year": "2013.0",
+      "rating": "2.5",
+      "information": "genre : Action ; pg_rating : Rated R ; duration : 130 minutes ;"
+    },
+    "right": {
+      "id": 634,
+      "movie_name": "Pain & Gain",
+      "year": 2013,
+      "directors": "Michael Bay",
+      "actors": [
+        "Mark Wahlberg",
+        " Dwayne Johnson",
+        " Anthony Mackie"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Comedy, Crime",
+      "duration": "129 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1725",
+    "right_id": "1042",
+    "left": {
+      "id": "1725",
+      "title": "Spring Breakers",
+      "director": "nan",
+      "actors": "Selena Gomez,James Franco,Vanessa Hudgens,Ashley Benson,Rachel Korine,Heather Morris,Gucci Mane,James Franco",
+      "year": "2013.0",
+      "rating": "3.5",
+      "information": "genre : Comedy ; pg_rating : Rated R ; duration : 94 minutes ;"
+    },
+    "right": {
+      "id": 1042,
+      "movie_name": "Spring Breakers",
+      "year": 2012,
+      "directors": "Harmony Korine",
+      "actors": [
+        "Vanessa Hudgens",
+        " Selena Gomez",
+        " Ashley Benson"
+      ],
+      "movie_rating": 5.3,
+      "genre": "Action, Crime, Drama",
+      "duration": "94 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1741",
+    "right_id": "597",
+    "left": {
+      "id": "1741",
+      "title": "A Good Day to Die Hard",
+      "director": "John Moore",
+      "actors": "Bruce Willis,Jai Courtney,Sebastian Koch,Cole Hauser,Yuliya Snigir",
+      "year": "2013.0",
+      "rating": "1.5",
+      "information": "genre : Action, Thriller ; pg_rating : Rated R ; duration : 97 minutes ;"
+    },
+    "right": {
+      "id": 597,
+      "movie_name": "A Good Day to Die Hard",
+      "year": 2013,
+      "directors": "John Moore",
+      "actors": [
+        "Bruce Willis",
+        " Jai Courtney",
+        " Sebastian Koch"
+      ],
+      "movie_rating": 5.3,
+      "genre": "Action, Crime, Thriller",
+      "duration": "98 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1761",
+    "right_id": "625",
+    "left": {
+      "id": "1761",
+      "title": "Parker",
+      "director": "Taylor Hackford",
+      "actors": "Jason Statham,Jennifer Lopez,Michael Chiklis,Wendell Pierce,Clifton Collins Jr.,Micah A. Hauptman,Bobby Canavale,Nick Nolte",
+      "year": "2013.0",
+      "rating": "1.5",
+      "information": "genre : Crime, Thriller ; pg_rating : Rated R ; duration : nan ;"
+    },
+    "right": {
+      "id": 625,
+      "movie_name": "Parker",
+      "year": 2013,
+      "directors": "Taylor Hackford",
+      "actors": [
+        "Jason Statham",
+        " Jennifer Lopez",
+        " Michael Chiklis"
+      ],
+      "movie_rating": 6.2,
+      "genre": "Action, Crime, Thriller",
+      "duration": "118 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1772",
+    "right_id": "914",
+    "left": {
+      "id": "1772",
+      "title": "Bullet to the Head",
+      "director": "Walter Hill",
+      "actors": "Sylvester Stallone,Sung Kang,Christian Slater,Adewale Akinnuoye-Agbaje,Jason Momoa,Jon Seda,Sarah Shahi",
+      "year": "2013.0",
+      "rating": "2.0",
+      "information": "genre : Action, Crime, Thriller ; pg_rating : Rated R ; duration : 92 minutes ;"
+    },
+    "right": {
+      "id": 914,
+      "movie_name": "Bullet to the Head",
+      "year": 2012,
+      "directors": "Walter Hill",
+      "actors": [
+        "Sylvester Stallone",
+        " Jason Momoa",
+        " Christian Slater"
+      ],
+      "movie_rating": 5.7,
+      "genre": "Action, Crime, Thriller",
+      "duration": "92 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1799",
+    "right_id": "574",
+    "left": {
+      "id": "1799",
+      "title": "Gangster Squad",
+      "director": "Ruben Fleischer",
+      "actors": "Mickey Cohen,Sgt. John O'Mara,Sgt. Jerry Wooters,Grace Faraday,Connie O'Mara,Chief Parker,Officer Max Kennard,Officer Conway Keeler",
+      "year": "2012.0",
+      "rating": "2.0",
+      "information": "genre : Crime, Drama ; pg_rating : Rated R ; duration : 113 minutes ;"
+    },
+    "right": {
+      "id": 574,
+      "movie_name": "Gangster Squad",
+      "year": 2013,
+      "directors": "Ruben Fleischer",
+      "actors": [
+        "Sean Penn",
+        " Ryan Gosling",
+        " Emma Stone"
+      ],
+      "movie_rating": 6.8,
+      "genre": "Action, Crime, Drama",
+      "duration": "113 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1803",
+    "right_id": "592",
+    "left": {
+      "id": "1803",
+      "title": "The Last Stand",
+      "director": "Jee-woon Kim",
+      "actors": "Arnold Schwarzenegger,Forest Whitaker,Eduardo Noriega,Luis Guzman,Peter Stormare,Johnny Knoxville",
+      "year": "2013.0",
+      "rating": "3.0",
+      "information": "genre : Action, Crime, Thriller ; pg_rating : Rated R ; duration : 107 minutes ;"
+    },
+    "right": {
+      "id": 592,
+      "movie_name": "The Last Stand",
+      "year": 2013,
+      "directors": "Jee-woon Kim",
+      "actors": [
+        "Arnold Schwarzenegger",
+        " Forest Whitaker",
+        " Johnny Knoxville"
+      ],
+      "movie_rating": 6.4,
+      "genre": "Action, Crime, Thriller",
+      "duration": "107 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1809",
+    "right_id": "1041",
+    "left": {
+      "id": "1809",
+      "title": "Hit and Run",
+      "director": "Dax Shepard,David Palmer",
+      "actors": "Dax Shepard,Tom Arnold,Kristen Bell,Kal Bennett,Beau Bridges,Kristin Chenoweth,Bradley Cooper,Michael Rosenbaum,Jess Rowland",
+      "year": "2012.0",
+      "rating": "3.5",
+      "information": "genre : Action, Comedy, Romance ; pg_rating : Rated R ; duration : 100 minutes ;"
+    },
+    "right": {
+      "id": 1041,
+      "movie_name": "Hit and Run",
+      "year": 2012,
+      "directors": "David Palmer",
+      "actors": [
+        "Dax Shepard",
+        " Kristen Bell",
+        " Bradley Cooper"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Comedy, Romance",
+      "duration": "100 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1814",
+    "right_id": "928",
+    "left": {
+      "id": "1814",
+      "title": "Premium Rush",
+      "director": "David Koepp",
+      "actors": "Joseph Gordon-Levitt,Michael Shannon,Daniela Ramirez,Lauren Ashley Carter,Jamie Chung,Wole Parks",
+      "year": "2012.0",
+      "rating": "3.5",
+      "information": "genre : Action, Thriller ; pg_rating : Rated PG-13 ; duration : 91 minutes ;"
+    },
+    "right": {
+      "id": 928,
+      "movie_name": "Premium Rush",
+      "year": 2012,
+      "directors": "David Koepp",
+      "actors": [
+        "Joseph Gordon-Levitt",
+        " Michael Shannon",
+        " Dania Ramirez"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Crime, Thriller",
+      "duration": "91 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1841",
+    "right_id": "911",
+    "left": {
+      "id": "1841",
+      "title": "Looper",
+      "director": "nan",
+      "actors": "Joseph Gordon-Levitt,Bruce Willis,Emily Blunt,Paul Dano,Jeff Daniels",
+      "year": "2012.0",
+      "rating": "3.5",
+      "information": "genre : Action, Science Fiction, Thriller ; pg_rating : Rated R ; duration : 118 minutes ;"
+    },
+    "right": {
+      "id": 911,
+      "movie_name": "Looper",
+      "year": 2012,
+      "directors": "Rian Johnson",
+      "actors": [
+        "Joseph Gordon-Levitt",
+        " Bruce Willis",
+        " Emily Blunt"
+      ],
+      "movie_rating": 7.5,
+      "genre": "Action, Crime, Sci-Fi",
+      "duration": "119 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1852",
+    "right_id": "920",
+    "left": {
+      "id": "1852",
+      "title": "Taken 2",
+      "director": "Olivier Megaton",
+      "actors": "Liam Neeson,Famke Janssen,Maggie Grace,Rade Sherbedgia,D.B. Sweeney",
+      "year": "2012.0",
+      "rating": "3.0",
+      "information": "genre : Action, Crime, Drama, Thriller ; pg_rating : Rated PG-13 ; duration : 91 minutes ;"
+    },
+    "right": {
+      "id": 920,
+      "movie_name": "Taken 2",
+      "year": 2012,
+      "directors": "Olivier Megaton",
+      "actors": [
+        "Liam Neeson",
+        " Famke Janssen",
+        " Maggie Grace"
+      ],
+      "movie_rating": 6.3,
+      "genre": "Action, Thriller",
+      "duration": "92 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1931",
+    "right_id": "918",
+    "left": {
+      "id": "1931",
+      "title": "Total Recall",
+      "director": "Len Wiseman",
+      "actors": "Colin Farrell,Kate Beckinsale,Jessica Biel,Bryan Cranston,Bokeem Woodbine,Bill Nighy",
+      "year": "2012.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 121 minutes ;"
+    },
+    "right": {
+      "id": 918,
+      "movie_name": "Total Recall",
+      "year": 2012,
+      "directors": "Len Wiseman",
+      "actors": [
+        "Colin Farrell",
+        " Bokeem Woodbine",
+        " Bryan Cranston"
+      ],
+      "movie_rating": 6.3,
+      "genre": "Action, Adventure, Mystery",
+      "duration": "118 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1937",
+    "right_id": "906",
+    "left": {
+      "id": "1937",
+      "title": "The Bourne Legacy",
+      "director": "nan",
+      "actors": "Jeremy Renner,Rachel Weisz,Edward Norton,Scott Glenn,Stacy Keach,Albert Finney,David Strathairn",
+      "year": "2012.0",
+      "rating": "2.5",
+      "information": "genre : Action, Thriller ; pg_rating : Rated PG-13 ; duration : 120 minutes ;"
+    },
+    "right": {
+      "id": 906,
+      "movie_name": "The Bourne Legacy",
+      "year": 2012,
+      "directors": "Tony Gilroy",
+      "actors": [
+        "Jeremy Renner",
+        " Rachel Weisz",
+        " Edward Norton"
+      ],
+      "movie_rating": 6.7,
+      "genre": "Action, Adventure, Mystery",
+      "duration": "135 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1961",
+    "right_id": "922",
+    "left": {
+      "id": "1961",
+      "title": "Men in Black III",
+      "director": "Barry Sonnenfeld",
+      "actors": "Will Smith,Tommy Lee Jones,Josh Brolin,Jemaine Clement,Emma Thompson,Michael Stuhlbarg,Alice Eve,David Rasche",
+      "year": "2012.0",
+      "rating": "3.0",
+      "information": "genre : nan ; pg_rating : Rated PG-13 ; duration : nan ;"
+    },
+    "right": {
+      "id": 922,
+      "movie_name": "Men in Black 3",
+      "year": 2012,
+      "directors": "Barry Sonnenfeld",
+      "actors": [
+        "Will Smith",
+        " Tommy Lee Jones",
+        " Josh Brolin"
+      ],
+      "movie_rating": 6.9,
+      "genre": "Action, Comedy, Sci-Fi",
+      "duration": "106 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1993",
+    "right_id": "904",
+    "left": {
+      "id": "1993",
+      "title": "The Girl from the Naked Eye",
+      "director": "David Ren",
+      "actors": "Jason Yee,Samantha Streets,Gary Stretch,Dominique Swain,Sasha Grey",
+      "year": "2012.0",
+      "rating": "2.0",
+      "information": "genre : Action, Romance, Thriller ; pg_rating : Rated R ; duration : 80 minutes ;"
+    },
+    "right": {
+      "id": 904,
+      "movie_name": "The Girl from the Naked Eye",
+      "year": 2012,
+      "directors": "David Ren",
+      "actors": [
+        "Jason Yee",
+        " Samantha Streets",
+        " Ron Yuan"
+      ],
+      "movie_rating": 4.9,
+      "genre": "Action, Crime, Mystery",
+      "duration": "84 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "1999",
+    "right_id": "940",
+    "left": {
+      "id": "1999",
+      "title": "Abraham Lincoln: Vampire Hunter",
+      "director": "Timur Bekmambetov",
+      "actors": "Benjamin Walker,Dominic Cooper,Anthony Mackie,Mary Elizabeth Winstead,Rufus Sewell,Jimmi Simpson,Erin Wasson,John Rothman",
+      "year": "2012.0",
+      "rating": "3.0",
+      "information": "genre : Horror, Thriller ; pg_rating : Rated R ; duration : 94 minutes ;"
+    },
+    "right": {
+      "id": 940,
+      "movie_name": "Abraham Lincoln: Vampire Hunter",
+      "year": 2012,
+      "directors": "Timur Bekmambetov",
+      "actors": [
+        "Benjamin Walker",
+        " Rufus Sewell",
+        " Dominic Cooper"
+      ],
+      "movie_rating": 5.9,
+      "genre": "Action, Fantasy, Horror",
+      "duration": "105 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2005",
+    "right_id": "944",
+    "left": {
+      "id": "2005",
+      "title": "Wrath of the Titans",
+      "director": "Jonathan Liebesman",
+      "actors": "Sam Worthington,Liam Neeson,Ralph Fiennes,Rosamund Pike,Bill Nighy,Danny Huston,Edgar Ramirez,Toby Kebbell",
+      "year": "2012.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Fantasy ; pg_rating : Rated PG-13 ; duration : 99 minutes ;"
+    },
+    "right": {
+      "id": 944,
+      "movie_name": "Wrath of the Titans",
+      "year": 2012,
+      "directors": "Jonathan Liebesman",
+      "actors": [
+        "Sam Worthington",
+        " Liam Neeson",
+        " Rosamund Pike"
+      ],
+      "movie_rating": 5.8,
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "99 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2014",
+    "right_id": "1247",
+    "left": {
+      "id": "2014",
+      "title": "The Grey",
+      "director": "Joe Carnahan",
+      "actors": "Liam Neeson,Dermot Mulroney,Frank Grillo,Dallas Roberts,Joe Anderson",
+      "year": "2012.0",
+      "rating": "3.5",
+      "information": "genre : Action, Adventure, Drama, Thriller ; pg_rating : Rated R ; duration : 117 minutes ;"
+    },
+    "right": {
+      "id": 1247,
+      "movie_name": "The Grey",
+      "year": 2011,
+      "directors": "Joe Carnahan",
+      "actors": [
+        "Liam Neeson",
+        " Dermot Mulroney",
+        " Frank Grillo"
+      ],
+      "movie_rating": 6.8,
+      "genre": "Action, Adventure, Drama",
+      "duration": "117 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2027",
+    "right_id": "936",
+    "left": {
+      "id": "2027",
+      "title": "Lockout",
+      "director": "Stephen St. Legal,James Mather",
+      "actors": "Guy Pearce,Maggie Grace,Vincent Regan,Peter Hudson,Peter Stormare",
+      "year": "2012.0",
+      "rating": "2.5",
+      "information": "genre : Action, Foreign, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 95 minutes ;"
+    },
+    "right": {
+      "id": 936,
+      "movie_name": "Lockout",
+      "year": 2012,
+      "directors": "James Mather",
+      "actors": [
+        "Guy Pearce",
+        " Maggie Grace",
+        " Peter Stormare"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Drama, Sci-Fi",
+      "duration": "95 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2043",
+    "right_id": "937",
+    "left": {
+      "id": "2043",
+      "title": "This Means War",
+      "director": "McG",
+      "actors": "Reese Witherspoon,Chris Pine,Tom Hardy,Til Schweiger,Angela Bassett,Chelsea Handler",
+      "year": "2012.0",
+      "rating": "1.5",
+      "information": "genre : Action, Comedy, Romance, Thriller ; pg_rating : Rated PG-13 ; duration : 97 minutes ;"
+    },
+    "right": {
+      "id": 937,
+      "movie_name": "This Means War",
+      "year": 2012,
+      "directors": "McG",
+      "actors": [
+        "Reese Witherspoon",
+        " Chris Pine",
+        " Tom Hardy"
+      ],
+      "movie_rating": 6.4,
+      "genre": "Action, Comedy, Romance",
+      "duration": "103 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2050",
+    "right_id": "6386",
+    "left": {
+      "id": "2050",
+      "title": "Harakiri",
+      "director": "nan",
+      "actors": "nan",
+      "year": "1962.0",
+      "rating": "4.0",
+      "information": "genre : Drama, Foreign ; pg_rating : Rated Unrated ; duration : 135 minutes ;"
+    },
+    "right": {
+      "id": 6386,
+      "movie_name": "Harakiri",
+      "year": 1962,
+      "directors": "Masaki Kobayashi",
+      "actors": [
+        "Tatsuya Nakadai",
+        " Akira Ishihama",
+        " Shima Iwashita"
+      ],
+      "movie_rating": 8.7,
+      "genre": "Action, Drama, History",
+      "duration": "133 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2054",
+    "right_id": "935",
+    "left": {
+      "id": "2054",
+      "title": "Act of Valor",
+      "director": "Mike McCoy,Scott Waugh",
+      "actors": "Roselyn Sanchez",
+      "year": "2012.0",
+      "rating": "2.5",
+      "information": "genre : Action, Adventure, Thriller, War ; pg_rating : Rated R ; duration : 110 minutes ;"
+    },
+    "right": {
+      "id": 935,
+      "movie_name": "Act of Valor",
+      "year": 2012,
+      "directors": "Mike McCoy",
+      "actors": [
+        "Alex Veadov",
+        " Roselyn Sanchez",
+        " Nestor Serrano"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Thriller, War",
+      "duration": "110 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2058",
+    "right_id": "896",
+    "left": {
+      "id": "2058",
+      "title": "John Carter",
+      "director": "Andrew Stanton",
+      "actors": "Taylor Kitsch,Lynn Collins,Willem Dafoe,Thomas Haden Church,Samantha Morton,Dominic West,Ciaran Hinds",
+      "year": "2012.0",
+      "rating": "2.5",
+      "information": "genre : Action, Adventure, Fantasy, Science Fiction ; pg_rating : Rated PG-13 ; duration : 132 minutes ;"
+    },
+    "right": {
+      "id": 896,
+      "movie_name": "John Carter",
+      "year": 2012,
+      "directors": "Andrew Stanton",
+      "actors": [
+        "Taylor Kitsch",
+        " Lynn Collins",
+        " Willem Dafoe"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "132 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2066",
+    "right_id": "1182",
+    "left": {
+      "id": "2066",
+      "title": "Seeking Justice",
+      "director": "Roger Donaldson",
+      "actors": "Nicolas Cage,January Jones,Guy Pearce,Harold Perrineau,Jennifer Carpenter",
+      "year": "2012.0",
+      "rating": "1.5",
+      "information": "genre : Action, Drama, Thriller ; pg_rating : Rated R ; duration : 105 minutes ;"
+    },
+    "right": {
+      "id": 1182,
+      "movie_name": "Seeking Justice",
+      "year": 2011,
+      "directors": "Roger Donaldson",
+      "actors": [
+        "Nicolas Cage",
+        " January Jones",
+        " Guy Pearce"
+      ],
+      "movie_rating": 6.2,
+      "genre": "Action, Drama, Thriller",
+      "duration": "105 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2083",
+    "right_id": "930",
+    "left": {
+      "id": "2083",
+      "title": "Man on a Ledge",
+      "director": "Asger Leth",
+      "actors": "Sam Worthington,Elizabeth Banks,Edward Burns,Jamie Bell,Genesis Rodriguez,Ed Harris,Kyra Sedgwick",
+      "year": "2012.0",
+      "rating": "2.0",
+      "information": "genre : Action, Crime, Thriller ; pg_rating : Rated PG-13 ; duration : 102 minutes ;"
+    },
+    "right": {
+      "id": 930,
+      "movie_name": "Man on a Ledge",
+      "year": 2012,
+      "directors": "Asger Leth",
+      "actors": [
+        "Sam Worthington",
+        " Elizabeth Banks",
+        " Jamie Bell"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Crime, Thriller",
+      "duration": "102 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2096",
+    "right_id": "1263",
+    "left": {
+      "id": "2096",
+      "title": "The Double",
+      "director": "Michael Brandt",
+      "actors": "Richard Gere,Topher Grace,Martin Sheen,Stephen Moyer,Odette Yustman",
+      "year": "2011.0",
+      "rating": "2.0",
+      "information": "genre : Action, Crime, Drama, Mystery, Thriller ; pg_rating : Rated PG-13 ; duration : 98 minutes ;"
+    },
+    "right": {
+      "id": 1263,
+      "movie_name": "The Double",
+      "year": 2011,
+      "directors": "Michael Brandt",
+      "actors": [
+        "Richard Gere",
+        " Topher Grace",
+        " Martin Sheen"
+      ],
+      "movie_rating": 5.9,
+      "genre": "Action, Crime, Drama",
+      "duration": "98 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2106",
+    "right_id": "1190",
+    "left": {
+      "id": "2106",
+      "title": "Immortals",
+      "director": "Tarsem Singh",
+      "actors": "Henry Cavill,Mickey Rourke,Stephen Dorff,Freida Pinto,Luke Evans,John Hurt,Lysander,Aethra,The Monk,Alan Van Sprang,Peter Stebbings,Daniel Sharman,Isabel Lucas",
+      "year": "2011.0",
+      "rating": "1.5",
+      "information": "genre : Action, Fantasy, Science Fiction ; pg_rating : Rated R ; duration : 110 minutes ;"
+    },
+    "right": {
+      "id": 1190,
+      "movie_name": "Immortals",
+      "year": 2011,
+      "directors": "Tarsem Singh",
+      "actors": [
+        "Henry Cavill",
+        " Mickey Rourke",
+        " John Hurt"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Drama, Fantasy",
+      "duration": "110 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2156",
+    "right_id": "1225",
+    "left": {
+      "id": "2156",
+      "title": "Sherlock Holmes: A Game of Shadows",
+      "director": "Guy Ritchie",
+      "actors": "Robert Downey Jr.,Jude Law,Noomi Rapace,Rachel McAdams,Jared Harris,Stephen Fry,Paul Anderson,Kelly Reilly,Eddie Marsan",
+      "year": "2011.0",
+      "rating": "3.5",
+      "information": "genre : Action, Adventure, Comedy, Crime, Mystery, Thriller ; pg_rating : Rated PG-13 ; duration : 129 minutes ;"
+    },
+    "right": {
+      "id": 1225,
+      "movie_name": "Sherlock Holmes: A Game of Shadows",
+      "year": 2011,
+      "directors": "Guy Ritchie",
+      "actors": [
+        "Robert Downey Jr.",
+        " Jude Law",
+        " Jared Harris"
+      ],
+      "movie_rating": 7.5,
+      "genre": "Action, Adventure, Crime",
+      "duration": "129 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2157",
+    "right_id": "1185",
+    "left": {
+      "id": "2157",
+      "title": "Mission: Impossible -- Ghost Protocol",
+      "director": "Brad Bird",
+      "actors": "Tom Cruise,Jeremy Renner,Simon Pegg,Paula Patton,Michael Nyqvist",
+      "year": "2011.0",
+      "rating": "3.5",
+      "information": "genre : Action, Adventure, Thriller ; pg_rating : Rated PG-13 ; duration : 133 minutes ;"
+    },
+    "right": {
+      "id": 1185,
+      "movie_name": "Mission: Impossible - Ghost Protocol",
+      "year": 2011,
+      "directors": "Brad Bird",
+      "actors": [
+        "Tom Cruise",
+        " Jeremy Renner",
+        " Simon Pegg"
+      ],
+      "movie_rating": 7.4,
+      "genre": "Action, Adventure, Thriller",
+      "duration": "133 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2162",
+    "right_id": "1175",
+    "left": {
+      "id": "2162",
+      "title": "The Adventures of Tintin",
+      "director": "Steven Spielberg",
+      "actors": "Jamie Bell,Andy Serkis,Daniel Craig,Nick Frost,Simon Pegg,Toby Jones",
+      "year": "2011.0",
+      "rating": "3.5",
+      "information": "genre : Action, Adventure, Animation, Family ; pg_rating : Rated PG ; duration : 107 minutes ;"
+    },
+    "right": {
+      "id": 1175,
+      "movie_name": "The Adventures of Tintin",
+      "year": 2011,
+      "directors": "Steven Spielberg",
+      "actors": [
+        "Jamie Bell",
+        " Andy Serkis",
+        " Daniel Craig"
+      ],
+      "movie_rating": 7.4,
+      "genre": "Animation, Action, Adventure",
+      "duration": "107 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2164",
+    "right_id": "1222",
+    "left": {
+      "id": "2164",
+      "title": "Haywire",
+      "director": "Steven Soderbergh",
+      "actors": "Gina Carano,Michael Fassbender,Ewan McGregor,Bill Paxton,Channing Tatum,Antonio Banderas,Michael Douglas",
+      "year": "2012.0",
+      "rating": "3.0",
+      "information": "genre : Action, Thriller ; pg_rating : Rated R ; duration : 93 minutes ;"
+    },
+    "right": {
+      "id": 1222,
+      "movie_name": "Haywire",
+      "year": 2011,
+      "directors": "Steven Soderbergh",
+      "actors": [
+        "Gina Carano",
+        " Ewan McGregor",
+        " Michael Fassbender"
+      ],
+      "movie_rating": 5.8,
+      "genre": "Action, Thriller",
+      "duration": "93 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2193",
+    "right_id": "1164",
+    "left": {
+      "id": "2193",
+      "title": "Cowboys & Aliens",
+      "director": "John Favreau",
+      "actors": "Daniel Craig,Harrison Ford,Olivia Wilde,Sam Rockwell,Adam Beach,Paul Dano,Keith Carradine",
+      "year": "2011.0",
+      "rating": "3.0",
+      "information": "genre : Action, Science Fiction, Thriller, Western ; pg_rating : Rated PG-13 ; duration : 119 minutes ;"
+    },
+    "right": {
+      "id": 1164,
+      "movie_name": "Cowboys & Aliens",
+      "year": 2011,
+      "directors": "Jon Favreau",
+      "actors": [
+        "Daniel Craig",
+        " Harrison Ford",
+        " Olivia Wilde"
+      ],
+      "movie_rating": 6.0,
+      "genre": "Action, Sci-Fi, Thriller",
+      "duration": "119 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2208",
+    "right_id": "1208",
+    "left": {
+      "id": "2208",
+      "title": "Transformers: Dark of the Moon",
+      "director": "Michael Bay",
+      "actors": "Shia LaBeouf,Rosie Huntington-Whiteley,Josh Duhamel,John Turturro,Tyrese Gibson,Patrick Dempsey,Frances McDormand,John Malkovich,Kevin Dunn,Julie White,Alan Tudyk,Ken Jeong,Glenn Morshower",
+      "year": "2011.0",
+      "rating": "1.0",
+      "information": "genre : Action, Adventure, Science Fiction ; pg_rating : Rated PG-13 ; duration : 154 minutes ;"
+    },
+    "right": {
+      "id": 1208,
+      "movie_name": "Transformers: Dark of the Moon",
+      "year": 2011,
+      "directors": "Michael Bay",
+      "actors": [
+        "Shia LaBeouf",
+        " Rosie Huntington-Whiteley",
+        " Tyrese Gibson"
+      ],
+      "movie_rating": 6.3,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "154 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2228",
+    "right_id": "1218",
+    "left": {
+      "id": "2228",
+      "title": "Attack the Block",
+      "director": "nan",
+      "actors": "John Boyega,Jodie Whittaker,Alex Esmail,Luke Treadaway,Simon Howard,Nick Frost",
+      "year": "2011.0",
+      "rating": "3.0",
+      "information": "genre : Action, Comedy, Foreign, Science Fiction ; pg_rating : Rated R ; duration : 88 minutes ;"
+    },
+    "right": {
+      "id": 1218,
+      "movie_name": "Attack the Block",
+      "year": 2011,
+      "directors": "Joe Cornish",
+      "actors": [
+        "John Boyega",
+        " Jodie Whittaker",
+        " Alex Esmail"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Comedy, Sci-Fi",
+      "duration": "88 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2245",
+    "right_id": "1214",
+    "left": {
+      "id": "2245",
+      "title": "Killer Elite",
+      "director": "Gary Mc",
+      "actors": "Jason Statham,Clive Owen,Robert De Niro,Dominic Purcell,Aden Young",
+      "year": "2011.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Thriller ; pg_rating : Rated R ; duration : 116 minutes ;"
+    },
+    "right": {
+      "id": 1214,
+      "movie_name": "Killer Elite",
+      "year": 2011,
+      "directors": "Gary McKendry",
+      "actors": [
+        "Jason Statham",
+        " Clive Owen",
+        " Robert De Niro"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Crime, Thriller",
+      "duration": "116 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2246",
+    "right_id": "1463",
+    "left": {
+      "id": "2246",
+      "title": "Detective Dee and the Mystery of the Phantom Flame",
+      "director": "Tsui Hark",
+      "actors": "Andy Lau,Carina Lau,Li Bingbing,Tony Leung Ka-fai,Chao Deng",
+      "year": "2011.0",
+      "rating": "3.5",
+      "information": "genre : Action, Crime, Foreign, Thriller ; pg_rating : Rated PG-13 ; duration : 119 minutes ;"
+    },
+    "right": {
+      "id": 1463,
+      "movie_name": "Detective Dee: Mystery of the Phantom Flame",
+      "year": 2010,
+      "directors": "Hark Tsui",
+      "actors": [
+        "Tony Ka Fai Leung",
+        " Chao Deng",
+        " Carina Lau"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Adventure, Drama",
+      "duration": "119 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2248",
+    "right_id": "1240",
+    "left": {
+      "id": "2248",
+      "title": "Machine Gun Preacher",
+      "director": "Marc Forster",
+      "actors": "Gerard Butler,Michael Shannon,Michelle Monaghan,Kathy Baker,Souleymane Sy Savane,Madeline Carroll",
+      "year": "2011.0",
+      "rating": "2.0",
+      "information": "genre : Action, Crime, Thriller ; pg_rating : Rated R ; duration : 129 minutes ;"
+    },
+    "right": {
+      "id": 1240,
+      "movie_name": "Machine Gun Preacher",
+      "year": 2011,
+      "directors": "Marc Forster",
+      "actors": [
+        "Gerard Butler",
+        " Michelle Monaghan",
+        " Michael Shannon"
+      ],
+      "movie_rating": 6.8,
+      "genre": "Action, Biography, Crime",
+      "duration": "129 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2265",
+    "right_id": "1219",
+    "left": {
+      "id": "2265",
+      "title": "5 Days of War",
+      "director": "Renny Harlin",
+      "actors": "Rupert Friend,Richard Coyle,Emmanuelle Chriqui,Johnathon Schaech,Val Kilmer,Andy Garcia,Heather Graham",
+      "year": "2011.0",
+      "rating": "1.5",
+      "information": "genre : Action, Comedy, Drama, Romance, Thriller ; pg_rating : Rated R ; duration : 113 minutes ;"
+    },
+    "right": {
+      "id": 1219,
+      "movie_name": "5 Days of War",
+      "year": 2011,
+      "directors": "Renny Harlin",
+      "actors": [
+        "Rupert Friend",
+        " Emmanuelle Chriqui",
+        " Richard Coyle"
+      ],
+      "movie_rating": 5.6,
+      "genre": "Action, Drama, War",
+      "duration": "113 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2276",
+    "right_id": "1188",
+    "left": {
+      "id": "2276",
+      "title": "Bellflower",
+      "director": "nan",
+      "actors": "Evan Glodell,Jessie Wiseman,Tyler Dawson,Rebekah Brandes,Vincent Grashaw",
+      "year": "2011.0",
+      "rating": "3.0",
+      "information": "genre : Action, Drama, Indie, Romance ; pg_rating : Rated R ; duration : 106 minutes ;"
+    },
+    "right": {
+      "id": 1188,
+      "movie_name": "Bellflower",
+      "year": 2011,
+      "directors": "Evan Glodell",
+      "actors": [
+        "Evan Glodell",
+        " Tyler Dawson",
+        " Jessie Wiseman"
+      ],
+      "movie_rating": 6.4,
+      "genre": "Action, Drama, Romance",
+      "duration": "106 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2282",
+    "right_id": "1165",
+    "left": {
+      "id": "2282",
+      "title": "Real Steel",
+      "director": "Shawn Levy",
+      "actors": "Hugh Jackman,Dakota Goyo,Evangeline Lilly,Anthony Mackie,Kevin Durand,Hope Davis,James Rebhorn",
+      "year": "2011.0",
+      "rating": "3.0",
+      "information": "genre : Action, Drama, Science Fiction, Sport ; pg_rating : Rated PG-13 ; duration : 127 minutes ;"
+    },
+    "right": {
+      "id": 1165,
+      "movie_name": "Real Steel",
+      "year": 2011,
+      "directors": "Shawn Levy",
+      "actors": [
+        "Hugh Jackman",
+        " Evangeline Lilly",
+        " Dakota Goyo"
+      ],
+      "movie_rating": 7.1,
+      "genre": "Action, Drama, Sci-Fi",
+      "duration": "127 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2287",
+    "right_id": "1254",
+    "left": {
+      "id": "2287",
+      "title": "Blackthorn",
+      "director": "Mateo Gil",
+      "actors": "Sam Shepard,Eduardo Noriega,Stephen Rea,Magaly Solier,Dominique McElligott,Nikolaj Coster-Waldau,Padraic Delaney",
+      "year": "2011.0",
+      "rating": "2.0",
+      "information": "genre : Action, Western ; pg_rating : Rated R ; duration : 98 minutes ;"
+    },
+    "right": {
+      "id": 1254,
+      "movie_name": "Blackthorn",
+      "year": 2011,
+      "directors": "Mateo Gil",
+      "actors": [
+        "Sam Shepard",
+        " Eduardo Noriega",
+        " Stephen Rea"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Adventure, Western",
+      "duration": "102 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2320",
+    "right_id": "1537",
+    "left": {
+      "id": "2320",
+      "title": "Faster",
+      "director": "George Tillman Jr",
+      "actors": "nan",
+      "year": "2010.0",
+      "rating": "2.5",
+      "information": "genre : Action, Drama, Thriller ; pg_rating : Rated R ; duration : 98 minutes ;"
+    },
+    "right": {
+      "id": 1537,
+      "movie_name": "Faster",
+      "year": 2010,
+      "directors": "George Tillman Jr.",
+      "actors": [
+        "Dwayne Johnson",
+        " Billy Bob Thornton",
+        " Maggie Grace"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Crime, Drama",
+      "duration": "98 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2321",
+    "right_id": "1451",
+    "left": {
+      "id": "2321",
+      "title": "The Nutcracker in 3D",
+      "director": "Andrei Konchalovsky",
+      "actors": "nan",
+      "year": "2010.0",
+      "rating": "1.0",
+      "information": "genre : Action, Family, Fantasy, Science Fiction ; pg_rating : Rated PG ; duration : 110 minutes ;"
+    },
+    "right": {
+      "id": 1451,
+      "movie_name": "The Nutcracker in 3D",
+      "year": 2010,
+      "directors": "Andrey Konchalovskiy",
+      "actors": [
+        "Elle Fanning",
+        " Nathan Lane",
+        " John Turturro"
+      ],
+      "movie_rating": 4.4,
+      "genre": "Action, Family, Fantasy",
+      "duration": "110 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2332",
+    "right_id": "1168",
+    "left": {
+      "id": "2332",
+      "title": "Season of the Witch",
+      "director": "Dominic Sena",
+      "actors": "Nicolas Cage,Ron Perlman,Claire Foy,Robert Sheehan,Christopher Lee",
+      "year": "2011.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Drama, Fantasy, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 95 minutes ;"
+    },
+    "right": {
+      "id": 1168,
+      "movie_name": "Season of the Witch",
+      "year": 2011,
+      "directors": "Dominic Sena",
+      "actors": [
+        "Nicolas Cage",
+        " Ron Perlman",
+        " Claire Foy"
+      ],
+      "movie_rating": 5.4,
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "95 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2338",
+    "right_id": "1167",
+    "left": {
+      "id": "2338",
+      "title": "The Mechanic",
+      "director": "Simon West",
+      "actors": "Jason Statham,Ben Foster,Tony Goldwyn,Donald Sutherland,Jeff Chase",
+      "year": "2011.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Crime, Drama, Thriller ; pg_rating : Rated R ; duration : 93 minutes ;"
+    },
+    "right": {
+      "id": 1167,
+      "movie_name": "The Mechanic",
+      "year": 2011,
+      "directors": "Simon West",
+      "actors": [
+        "Jason Statham",
+        " Ben Foster",
+        " Donald Sutherland"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Crime, Thriller",
+      "duration": "93 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2346",
+    "right_id": "1178",
+    "left": {
+      "id": "2346",
+      "title": "The Eagle",
+      "director": "Kevin MacDonald",
+      "actors": "Channing Tatum,Jamie Bell,Donald Sutherland,Mark Strong,Tahar Rahim,Denis O'Hare",
+      "year": "2011.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Drama, Thriller ; pg_rating : Rated PG-13 ; duration : 114 minutes ;"
+    },
+    "right": {
+      "id": 1178,
+      "movie_name": "The Eagle",
+      "year": 2011,
+      "directors": "Kevin Macdonald",
+      "actors": [
+        "Channing Tatum",
+        " Jamie Bell",
+        " Donald Sutherland"
+      ],
+      "movie_rating": 6.2,
+      "genre": "Action, Adventure, Drama",
+      "duration": "114 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2351",
+    "right_id": "1217",
+    "left": {
+      "id": "2351",
+      "title": "I Am Number Four",
+      "director": "D.J. Caruso",
+      "actors": "Alex Pettyfer,Timothy Olyphant,Dianna Agron,Callan McAuliffe",
+      "year": "2011.0",
+      "rating": "1.5",
+      "information": "genre : Action, Adventure, Drama, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 109 minutes ;"
+    },
+    "right": {
+      "id": 1217,
+      "movie_name": "I Am Number Four",
+      "year": 2011,
+      "directors": "D.J. Caruso",
+      "actors": [
+        "Alex Pettyfer",
+        " Timothy Olyphant",
+        " Dianna Agron"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "109 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2352",
+    "right_id": "1209",
+    "left": {
+      "id": "2352",
+      "title": "Unknown",
+      "director": "Jaume Collet-Serra",
+      "actors": "Liam Neeson,Diane Kruger,January Jones,Aidan Quinn,Bruno Ganz,Frank Langella",
+      "year": "2011.0",
+      "rating": "2.0",
+      "information": "genre : Action, Drama, Indie, Mystery, Thriller ; pg_rating : Rated PG-13 ; duration : 113 minutes ;"
+    },
+    "right": {
+      "id": 1209,
+      "movie_name": "Unknown",
+      "year": 2011,
+      "directors": "Jaume Collet-Serra",
+      "actors": [
+        "Liam Neeson",
+        " Diane Kruger",
+        " January Jones"
+      ],
+      "movie_rating": 6.9,
+      "genre": "Action, Mystery, Thriller",
+      "duration": "113 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2358",
+    "right_id": "1220",
+    "left": {
+      "id": "2358",
+      "title": "Drive Angry 3D",
+      "director": "Patrick Lussier",
+      "actors": "Nicolas Cage,Amber Heard,William Fichtner,Billy Burke,David Morse,Todd Farmer,Christa Campbell,Charlotte Ross,Tom Atkins,Jack McGee",
+      "year": "2011.0",
+      "rating": "2.0",
+      "information": "genre : nan ; pg_rating : Rated R ; duration : nan ;"
+    },
+    "right": {
+      "id": 1220,
+      "movie_name": "Drive Angry",
+      "year": 2011,
+      "directors": "Patrick Lussier",
+      "actors": [
+        "Nicolas Cage",
+        " Amber Heard",
+        " William Fichtner"
+      ],
+      "movie_rating": 5.5,
+      "genre": "Action, Comedy, Fantasy",
+      "duration": "104 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2359",
+    "right_id": "1488",
+    "left": {
+      "id": "2359",
+      "title": "The Tourist",
+      "director": "Florian Henckel",
+      "actors": "Angelina Jolie,Johnny Depp,Paul Bettany,Timothy Dalton,Steven Berkoff,Rufus Sewell",
+      "year": "2010.0",
+      "rating": "2.0",
+      "information": "genre : Action, Mystery, Romance, Thriller ; pg_rating : Rated PG ; duration : 103 minutes ;"
+    },
+    "right": {
+      "id": 1488,
+      "movie_name": "The Tourist",
+      "year": 2010,
+      "directors": "Florian Henckel von Donnersmarck",
+      "actors": [
+        "Johnny Depp",
+        " Angelina Jolie",
+        " Paul Bettany"
+      ],
+      "movie_rating": 6.0,
+      "genre": "Action, Romance, Thriller",
+      "duration": "103 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2380",
+    "right_id": "5590",
+    "left": {
+      "id": "2380",
+      "title": "Superman",
+      "director": "nan",
+      "actors": "nan",
+      "year": "1978.0",
+      "rating": "4.0",
+      "information": "genre : Action, Family, Fantasy, Science Fiction ; pg_rating : Rated PG ; duration : 143 minutes ;"
+    },
+    "right": {
+      "id": 5590,
+      "movie_name": "Superman",
+      "year": 1978,
+      "directors": "Richard Donner",
+      "actors": [
+        "Christopher Reeve",
+        " Margot Kidder",
+        " Gene Hackman"
+      ],
+      "movie_rating": 7.3,
+      "genre": "Action, Drama, Sci-Fi",
+      "duration": "143 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2382",
+    "right_id": "1441",
+    "left": {
+      "id": "2382",
+      "title": "Megamind",
+      "director": "Tom McGrath",
+      "actors": "Will Ferrell,Tina Fey,Jonah Hill,David Cross,Brad Pitt",
+      "year": "2010.0",
+      "rating": "3.0",
+      "information": "genre : Action, Animation, Comedy, Family ; pg_rating : Rated PG ; duration : 95 minutes ;"
+    },
+    "right": {
+      "id": 1441,
+      "movie_name": "Megamind",
+      "year": 2010,
+      "directors": "Tom McGrath",
+      "actors": [
+        "Will Ferrell",
+        " Jonah Hill",
+        " Brad Pitt"
+      ],
+      "movie_rating": 7.3,
+      "genre": "Animation, Action, Comedy",
+      "duration": "95 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2386",
+    "right_id": "1425",
+    "left": {
+      "id": "2386",
+      "title": "Prince of Persia: The Sands of Time",
+      "director": "Mike Newell",
+      "actors": "Jake Gyllenhaal,Gemma Arterton,Ben Kingsley,Alfred Molina,Toby Kebbell",
+      "year": "2010.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Fantasy, Science Fiction ; pg_rating : Rated PG-13 ; duration : 116 minutes ;"
+    },
+    "right": {
+      "id": 1425,
+      "movie_name": "Prince of Persia: The Sands of Time",
+      "year": 2010,
+      "directors": "Mike Newell",
+      "actors": [
+        "Jake Gyllenhaal",
+        " Gemma Arterton",
+        " Ben Kingsley"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "116 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2396",
+    "right_id": "1469",
+    "left": {
+      "id": "2396",
+      "title": "The Karate Kid",
+      "director": "Harald Zwart",
+      "actors": "Jaden Smith,Jackie Chan,Taraji P. Henson,Han Wenwen",
+      "year": "2010.0",
+      "rating": "3.5",
+      "information": "genre : Action, Adventure, Drama, Family ; pg_rating : Rated PG ; duration : 140 minutes ;"
+    },
+    "right": {
+      "id": 1469,
+      "movie_name": "The Karate Kid",
+      "year": 2010,
+      "directors": "Harald Zwart",
+      "actors": [
+        "Jackie Chan",
+        " Jaden Smith",
+        " Taraji P. Henson"
+      ],
+      "movie_rating": 6.2,
+      "genre": "Action, Drama, Family",
+      "duration": "140 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2405",
+    "right_id": "1422",
+    "left": {
+      "id": "2405",
+      "title": "The A-Team",
+      "director": "Joe Carnahan",
+      "actors": "Liam Neeson,Jessica Biel,Bradley Cooper,Sharlto Copley,Quinton,Patrick Wilson",
+      "year": "2010.0",
+      "rating": "1.5",
+      "information": "genre : Action, Thriller ; pg_rating : Rated PG-13 ; duration : 117 minutes ;"
+    },
+    "right": {
+      "id": 1422,
+      "movie_name": "The A-Team",
+      "year": 2010,
+      "directors": "Joe Carnahan",
+      "actors": [
+        "Liam Neeson",
+        " Bradley Cooper",
+        " Sharlto Copley"
+      ],
+      "movie_rating": 6.8,
+      "genre": "Action, Adventure, Comedy",
+      "duration": "117 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2406",
+    "right_id": "1453",
+    "left": {
+      "id": "2406",
+      "title": "Jonah Hex",
+      "director": "Jimy Hayward",
+      "actors": "Josh Brolin,John Malkovich,Megan Fox,Michael Fassbender,Will Arnett,John Gallagher Jr.,Tom Wopat,Michael Shannon,Wes Bentley,Julia Jones",
+      "year": "2010.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Drama, Science Fiction, Thriller, Western ; pg_rating : Rated PG-13 ; duration : 80 minutes ;"
+    },
+    "right": {
+      "id": 1453,
+      "movie_name": "Jonah Hex",
+      "year": 2010,
+      "directors": "Jimmy Hayward",
+      "actors": [
+        "Josh Brolin",
+        " Megan Fox",
+        " John Malkovich"
+      ],
+      "movie_rating": 4.6,
+      "genre": "Action, Drama, Fantasy",
+      "duration": "81 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2432",
+    "right_id": "1437",
+    "left": {
+      "id": "2432",
+      "title": "The Sorcerer's Apprentice",
+      "director": "Jon Turteltaub",
+      "actors": "Nicolas Cage,Jay Baruchel,Alfred Molina,Teresa Palmer,Monica Bellucci,Alice Krige,Jake Cherry,James A. Stephens",
+      "year": "2010.0",
+      "rating": "2.5",
+      "information": "genre : Action, Adventure, Comedy, Family, Fantasy, Science Fiction ; pg_rating : Rated PG ; duration : 109 minutes ;"
+    },
+    "right": {
+      "id": 1437,
+      "movie_name": "The Sorcerer's Apprentice",
+      "year": 2010,
+      "directors": "Jon Turteltaub",
+      "actors": [
+        "Nicolas Cage",
+        " Jay Baruchel",
+        " Alfred Molina"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Adventure, Comedy",
+      "duration": "109 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2460",
+    "right_id": "1434",
+    "left": {
+      "id": "2460",
+      "title": "Salt",
+      "director": "Phillip Noyce",
+      "actors": "Angelina Jolie,Liev Schreiber,Chiwetel Ejiofor,Daniel Olbrychski,Andre Braugher,Hunt Block",
+      "year": "2010.0",
+      "rating": "4.0",
+      "information": "genre : Action, Thriller ; pg_rating : Rated PG-13 ; duration : 100 minutes ;"
+    },
+    "right": {
+      "id": 1434,
+      "movie_name": "Salt",
+      "year": 2010,
+      "directors": "Phillip Noyce",
+      "actors": [
+        "Angelina Jolie",
+        " Liev Schreiber",
+        " Chiwetel Ejiofor"
+      ],
+      "movie_rating": 6.4,
+      "genre": "Action, Crime, Mystery",
+      "duration": "100 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2471",
+    "right_id": "1819",
+    "left": {
+      "id": "2471",
+      "title": "Vengeance",
+      "director": "Johnnie To",
+      "actors": "Johnny Hallyday,Sylvie Testud,Anthony Wong,Lam Ka-tung,Lam Suet,Simon Yam",
+      "year": "2010.0",
+      "rating": "3.5",
+      "information": "genre : Action, Foreign, Horror, Thriller ; pg_rating : Rated NR ; duration : 108 minutes ;"
+    },
+    "right": {
+      "id": 1819,
+      "movie_name": "Vengeance",
+      "year": 2009,
+      "directors": "Johnnie To",
+      "actors": [
+        "Johnny Hallyday",
+        " Sylvie Testud",
+        " Anthony Chau-Sang Wong"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Crime, Drama",
+      "duration": "108 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2480",
+    "right_id": "1450",
+    "left": {
+      "id": "2480",
+      "title": "The Bounty Hunter",
+      "director": "Andy Tennant",
+      "actors": "Jennifer Aniston,Gerard Butler,Jason Sudeikis,Christine Baranski",
+      "year": "2010.0",
+      "rating": "1.5",
+      "information": "genre : Action, Comedy, Romance ; pg_rating : Rated PG-13 ; duration : 110 minutes ;"
+    },
+    "right": {
+      "id": 1450,
+      "movie_name": "The Bounty Hunter",
+      "year": 2010,
+      "directors": "Andy Tennant",
+      "actors": [
+        "Jennifer Aniston",
+        " Gerard Butler",
+        " Gio Perez"
+      ],
+      "movie_rating": 5.5,
+      "genre": "Action, Comedy, Romance",
+      "duration": "110 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2481",
+    "right_id": "1787",
+    "left": {
+      "id": "2481",
+      "title": "District 13: Ultimatum",
+      "director": "Patrick Alessandrin",
+      "actors": "Cyril Raffaelli,David Belle,Philippe Torreton,Daniel Duval,Elodie Yung",
+      "year": "2010.0",
+      "rating": "3.0",
+      "information": "genre : Action, Crime, Foreign, Science Fiction, Thriller ; pg_rating : Rated R ; duration : 101 minutes ;"
+    },
+    "right": {
+      "id": 1787,
+      "movie_name": "District 13: Ultimatum",
+      "year": 2009,
+      "directors": "Patrick Alessandrin",
+      "actors": [
+        "Cyril Raffaelli",
+        " David Belle",
+        " Philippe Torreton"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Crime, Thriller",
+      "duration": "101 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2524",
+    "right_id": "1427",
+    "left": {
+      "id": "2524",
+      "title": "The Losers",
+      "director": "Sylvain White",
+      "actors": "Jeffrey Dean Morgan,Zoe Saldana,Chris Evans,Idris Elba,Columbus Short,Oscar Jaenada,Jason Patric",
+      "year": "2010.0",
+      "rating": "3.5",
+      "information": "genre : Action, Adventure, Crime, Mystery, Thriller ; pg_rating : Rated PG-13 ; duration : 97 minutes ;"
+    },
+    "right": {
+      "id": 1427,
+      "movie_name": "The Losers",
+      "year": 2010,
+      "directors": "Sylvain White",
+      "actors": [
+        "Idris Elba",
+        " Zoe Saldana",
+        " Jeffrey Dean Morgan"
+      ],
+      "movie_rating": 6.4,
+      "genre": "Action, Crime, Drama",
+      "duration": "97 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2531",
+    "right_id": "1799",
+    "left": {
+      "id": "2531",
+      "title": "Harry Brown",
+      "director": "Daniel Barber",
+      "actors": "Michael Caine,Emily Mortimer,Charlie Creed-Miles,Ben Drew",
+      "year": "2010.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Foreign, Thriller ; pg_rating : Rated R ; duration : 103 minutes ;"
+    },
+    "right": {
+      "id": 1799,
+      "movie_name": "Harry Brown",
+      "year": 2009,
+      "directors": "Daniel Barber",
+      "actors": [
+        "Michael Caine",
+        " Emily Mortimer",
+        " David Bradley"
+      ],
+      "movie_rating": 7.2,
+      "genre": "Action, Crime, Drama",
+      "duration": "103 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2540",
+    "right_id": "1483",
+    "left": {
+      "id": "2540",
+      "title": "Iron Man 2",
+      "director": "Favreau",
+      "actors": "Robert Downey Jr.,Gwyneth Paltrow,Scarlett Johansson,Sam Rockwell,Mickey Rourke,Samuel L. Jackson,Clark Gregg,John Slattery,Garry Shandling",
+      "year": "2010.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 124 minutes ;"
+    },
+    "right": {
+      "id": 1483,
+      "movie_name": "Iron Man 2",
+      "year": 2010,
+      "directors": "Jon Favreau",
+      "actors": [
+        "Robert Downey Jr.",
+        " Mickey Rourke",
+        " Gwyneth Paltrow"
+      ],
+      "movie_rating": 7.0,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "124 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2579",
+    "right_id": "1687",
+    "left": {
+      "id": "2579",
+      "title": "Cirque du Freak: The Vampire's Assistant",
+      "director": "Paul Weitz",
+      "actors": "John C. Reilly,Ken Watanabe,Josh Hutcherson,Chris Massoglia",
+      "year": "2009.0",
+      "rating": "1.5",
+      "information": "genre : Action, Adventure, Fantasy, Horror, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 109 minutes ;"
+    },
+    "right": {
+      "id": 1687,
+      "movie_name": "Cirque du Freak: The Vampire's Assistant",
+      "year": 2009,
+      "directors": "Paul Weitz",
+      "actors": [
+        "Chris Massoglia",
+        " John C. Reilly",
+        " Salma Hayek"
+      ],
+      "movie_rating": 6.0,
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "109 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2605",
+    "right_id": "1768",
+    "left": {
+      "id": "2605",
+      "title": "2012",
+      "director": "Roland Emmerich",
+      "actors": "John Cusack,Amanda Peet,Chiwetel Ejiofor,Oliver Platt,Woody Harrelson,Danny Glover,Thandie Newton",
+      "year": "2009.0",
+      "rating": "3.5",
+      "information": "genre : Action, Adventure, Disaster, Drama, Thriller ; pg_rating : Rated PG-13 ; duration : 158 minutes ;"
+    },
+    "right": {
+      "id": 1768,
+      "movie_name": "2012",
+      "year": 2009,
+      "directors": "Roland Emmerich",
+      "actors": [
+        "John Cusack",
+        " Thandie Newton",
+        " Chiwetel Ejiofor"
+      ],
+      "movie_rating": 5.8,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "158 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2606",
+    "right_id": "1806",
+    "left": {
+      "id": "2606",
+      "title": "The Boondock Saints II: All Saints Day",
+      "director": "nan",
+      "actors": "Sean Patrick Flanery,Norman Reedus,Billy Connolly,Clifton Collins Jr.,Julie Benz,Peter Fonda",
+      "year": "2009.0",
+      "rating": "1.0",
+      "information": "genre : Action, Adventure, Drama, Thriller ; pg_rating : Rated R ; duration : 118 minutes ;"
+    },
+    "right": {
+      "id": 1806,
+      "movie_name": "The Boondock Saints II: All Saints Day",
+      "year": 2009,
+      "directors": "Troy Duffy",
+      "actors": [
+        "Sean Patrick Flanery",
+        " Norman Reedus",
+        " Billy Connolly"
+      ],
+      "movie_rating": 6.3,
+      "genre": "Action, Comedy, Crime",
+      "duration": "118 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2632",
+    "right_id": "1714",
+    "left": {
+      "id": "2632",
+      "title": "Sherlock Holmes",
+      "director": "Guy Ritchie",
+      "actors": "Robert Downey Jr.,Jude Law,Mark Strong,Rachel McAdams,Kelly Reilly",
+      "year": "2009.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Comedy, Crime, Drama, Mystery, Thriller ; pg_rating : Rated PG-13 ; duration : 128 minutes ;"
+    },
+    "right": {
+      "id": 1714,
+      "movie_name": "Sherlock Holmes",
+      "year": 2009,
+      "directors": "Guy Ritchie",
+      "actors": [
+        "Robert Downey Jr.",
+        " Jude Law",
+        " Rachel McAdams"
+      ],
+      "movie_rating": 7.6,
+      "genre": "Action, Adventure, Crime",
+      "duration": "128 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2635",
+    "right_id": "1684",
+    "left": {
+      "id": "2635",
+      "title": "Daybreakers",
+      "director": "nan",
+      "actors": "Ethan Hawke,Willem Dafoe,Claudia Karvan,Sam Neill,Michael Dorman",
+      "year": "2010.0",
+      "rating": "2.5",
+      "information": "genre : Action, Drama, Horror, Science Fiction, Thriller ; pg_rating : Rated R ; duration : 98 minutes ;"
+    },
+    "right": {
+      "id": 1684,
+      "movie_name": "Daybreakers",
+      "year": 2009,
+      "directors": "Michael Spierig",
+      "actors": [
+        "Ethan Hawke",
+        " Willem Dafoe",
+        " Sam Neill"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Horror, Sci-Fi",
+      "duration": "98 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2646",
+    "right_id": "1447",
+    "left": {
+      "id": "2646",
+      "title": "The Book of Eli",
+      "director": "Albert,Allen Hughes",
+      "actors": "Denzel Washington,Gary Oldman,Mila Kunis,Ray Stevenson,Jennifer Beals,Tom Waits,Michael Gambon",
+      "year": "2010.0",
+      "rating": "3.0",
+      "information": "genre : Action, Science Fiction, Thriller ; pg_rating : Rated R ; duration : 118 minutes ;"
+    },
+    "right": {
+      "id": 1447,
+      "movie_name": "The Book of Eli",
+      "year": 2010,
+      "directors": "Albert Hughes",
+      "actors": [
+        "Denzel Washington",
+        " Mila Kunis",
+        " Ray Stevenson"
+      ],
+      "movie_rating": 6.9,
+      "genre": "Action, Adventure, Drama",
+      "duration": "118 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2648",
+    "right_id": "1494",
+    "left": {
+      "id": "2648",
+      "title": "The Spy Next Door",
+      "director": "Brian Levant",
+      "actors": "Jackie Chan,Amber Valletta,Madeline Carroll,Magnus Scheving,Billy Ray Cyrus,George Lopez,Will Shadley,Alina Foley",
+      "year": "2010.0",
+      "rating": "1.5",
+      "information": "genre : Action, Adventure, Comedy, Drama, Family ; pg_rating : Rated PG ; duration : 94 minutes ;"
+    },
+    "right": {
+      "id": 1494,
+      "movie_name": "The Spy Next Door",
+      "year": 2010,
+      "directors": "Brian Levant",
+      "actors": [
+        "Jackie Chan",
+        " Amber Valletta",
+        " Billy Ray Cyrus"
+      ],
+      "movie_rating": 5.4,
+      "genre": "Action, Comedy, Family",
+      "duration": "94 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2649",
+    "right_id": "1713",
+    "left": {
+      "id": "2649",
+      "title": "Surrogates",
+      "director": "nan",
+      "actors": "Bruce Willis,Radha Mitchell,Rosamund Pike,Boris Kodjoe,James Francis Ginty,James Cromwell,Ving Rhames,Jack Noseworthy,Devin Ratray,Michael Cudlit",
+      "year": "2009.0",
+      "rating": "2.5",
+      "information": "genre : Action, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 89 minutes ;"
+    },
+    "right": {
+      "id": 1713,
+      "movie_name": "Surrogates",
+      "year": 2009,
+      "directors": "Jonathan Mostow",
+      "actors": [
+        "Bruce Willis",
+        " Radha Mitchell",
+        " Ving Rhames"
+      ],
+      "movie_rating": 6.3,
+      "genre": "Action, Sci-Fi, Thriller",
+      "duration": "89 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2679",
+    "right_id": "1724",
+    "left": {
+      "id": "2679",
+      "title": "G.I. Joe: The Rise of Cobra",
+      "director": "Stephen Sommers",
+      "actors": "Adewale Akinnuoye-Agbaje,Christopher Eccleston,Joseph Gordon-Levitt,Byung-hun Lee,Sienna Miller,Rachel Nichols,Ray Park,Jonathan Pryce,Said Taghmaoui,Channing Tatum,Marlon Wayans,Dennis Quaid",
+      "year": "2009.0",
+      "rating": "1.5",
+      "information": "genre : Action, Adventure, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 118 minutes ;"
+    },
+    "right": {
+      "id": 1724,
+      "movie_name": "G.I. Joe: The Rise of Cobra",
+      "year": 2009,
+      "directors": "Stephen Sommers",
+      "actors": [
+        "Dennis Quaid",
+        " Channing Tatum",
+        " Marlon Wayans"
+      ],
+      "movie_rating": 5.8,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "118 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2699",
+    "right_id": "1934",
+    "left": {
+      "id": "2699",
+      "title": "The Baader-Meinhof Complex",
+      "director": "Uli Edel",
+      "actors": "Bruno Ganz,Martina Gedeck,Moritz Bleibtreu,Johanna Wokalek,Nadja Uhl",
+      "year": "2009.0",
+      "rating": "2.5",
+      "information": "genre : nan ; pg_rating : Rated NR ; duration : nan ;"
+    },
+    "right": {
+      "id": 1934,
+      "movie_name": "The Baader Meinhof Complex",
+      "year": 2008,
+      "directors": "Uli Edel",
+      "actors": [
+        "Martina Gedeck",
+        " Moritz Bleibtreu",
+        " Johanna Wokalek"
+      ],
+      "movie_rating": 7.4,
+      "genre": "Action, Biography, Crime",
+      "duration": "150 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2744",
+    "right_id": "1685",
+    "left": {
+      "id": "2744",
+      "title": "The Perfect Sleep",
+      "director": "Jeremy Alter",
+      "actors": "Anton Pardoe,Roselyn Sanchez,Patrick Bauchau,Tony Amendola",
+      "year": "2009.0",
+      "rating": "1.5",
+      "information": "genre : Action, Adventure, Drama, Indie, Thriller ; pg_rating : Rated R ; duration : 99 minutes ;"
+    },
+    "right": {
+      "id": 1685,
+      "movie_name": "The Perfect Sleep",
+      "year": 2009,
+      "directors": "Jeremy Alter",
+      "actors": [
+        "Anton Pardoe",
+        " Anthony Dilio",
+        " David Beck"
+      ],
+      "movie_rating": 4.8,
+      "genre": "Action, Drama, Romance",
+      "duration": "99 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2764",
+    "right_id": "1694",
+    "left": {
+      "id": "2764",
+      "title": "Star Trek",
+      "director": "J. J. Abrams",
+      "actors": "Chris Pine,Zachary Quinto,Leonard Nimoy,Eric Bana,Bruce Greenwood,Zoe Saldana,John Cho,Anton Yelchin,Ben Cross,Winona Ryder,Chris Hemsworth,Jennifer Morrison",
+      "year": "2009.0",
+      "rating": "2.5",
+      "information": "genre : Action, Adventure, Science Fiction ; pg_rating : Rated PG-13 ; duration : 127 minutes ;"
+    },
+    "right": {
+      "id": 1694,
+      "movie_name": "Star Trek",
+      "year": 2009,
+      "directors": "J.J. Abrams",
+      "actors": [
+        "Chris Pine",
+        " Zachary Quinto",
+        " Simon Pegg"
+      ],
+      "movie_rating": 8.0,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "127 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2766",
+    "right_id": "2187",
+    "left": {
+      "id": "2766",
+      "title": "Battle for Terra",
+      "director": "Aristomenis Tsirbas",
+      "actors": "Evan Rachel Wood,Luke Wilson,Justin Long,Brian Cox,James Garner,Dennis Quaid,Chris Evans,David Cross",
+      "year": "2009.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Animation, Family ; pg_rating : Rated PG-13 ; duration : 85 minutes ;"
+    },
+    "right": {
+      "id": 2187,
+      "movie_name": "Battle for Terra",
+      "year": 2007,
+      "directors": "Aristomenis Tsirbas",
+      "actors": [
+        "Evan Rachel Wood",
+        " Luke Wilson",
+        " Justin Long"
+      ],
+      "movie_rating": 6.7,
+      "genre": "Animation, Action, Adventure",
+      "duration": "85 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2767",
+    "right_id": "1737",
+    "left": {
+      "id": "2767",
+      "title": "Next Day Air",
+      "director": "Benny Boom",
+      "actors": "Donald Faison,Mike Epps,Mos Def,Wood Harris,Omari Hardwick,Emilio Rivera",
+      "year": "2009.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Comedy, Crime ; pg_rating : Rated R ; duration : 84 minutes ;"
+    },
+    "right": {
+      "id": 1737,
+      "movie_name": "Next Day Air",
+      "year": 2009,
+      "directors": "Benny Boom",
+      "actors": [
+        "Yasiin Bey",
+        " Mike Epps",
+        " Donald Faison"
+      ],
+      "movie_rating": 5.9,
+      "genre": "Action, Comedy, Crime",
+      "duration": "84 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2800",
+    "right_id": "1717",
+    "left": {
+      "id": "2800",
+      "title": "Fast & Furious",
+      "director": "Justin Lin",
+      "actors": "Vin Diesel,Paul Walker,Jordana Brewster,Michelle Rodriguez,John Ortiz",
+      "year": "2009.0",
+      "rating": "1.5",
+      "information": "genre : Action, Adventure, Crime, Drama, Thriller ; pg_rating : Rated PG-13 ; duration : 107 minutes ;"
+    },
+    "right": {
+      "id": 1717,
+      "movie_name": "Fast & Furious",
+      "year": 2009,
+      "directors": "Justin Lin",
+      "actors": [
+        "Vin Diesel",
+        " Paul Walker",
+        " Michelle Rodriguez"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Crime, Drama",
+      "duration": "107 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2831",
+    "right_id": "1949",
+    "left": {
+      "id": "2831",
+      "title": "The Spirit",
+      "director": "nan",
+      "actors": "Gabriel Macht,Samuel L. Jackson,Scarlett Johansson,Eva Mendes,Sarah Paulson,Paz Vega",
+      "year": "2008.0",
+      "rating": "1.0",
+      "information": "genre : Action, Comedy, Crime, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 103 minutes ;"
+    },
+    "right": {
+      "id": 1949,
+      "movie_name": "The Spirit",
+      "year": 2008,
+      "directors": "Frank Miller",
+      "actors": [
+        "Gabriel Macht",
+        " Samuel L. Jackson",
+        " Scarlett Johansson"
+      ],
+      "movie_rating": 4.8,
+      "genre": "Action, Crime, Fantasy",
+      "duration": "103 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2832",
+    "right_id": "1992",
+    "left": {
+      "id": "2832",
+      "title": "Defiance",
+      "director": "Edward Zwick",
+      "actors": "Daniel Craig,Liev Schreiber,Jamie Bell,Allan Corduner,Alexa Davalos",
+      "year": "2009.0",
+      "rating": "2.5",
+      "information": "genre : Action, Drama, History, War ; pg_rating : Rated R ; duration : 137 minutes ;"
+    },
+    "right": {
+      "id": 1992,
+      "movie_name": "Defiance",
+      "year": 2008,
+      "directors": "Edward Zwick",
+      "actors": [
+        "Daniel Craig",
+        " Liev Schreiber",
+        " Jamie Bell"
+      ],
+      "movie_rating": 7.2,
+      "genre": "Action, Drama, History",
+      "duration": "137 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2835",
+    "right_id": "1914",
+    "left": {
+      "id": "2835",
+      "title": "Outlander",
+      "director": "Howard McCain",
+      "actors": "Jim Caviezel,Sophia Myles,Jack Huston,Ron Perlman,John Hurt",
+      "year": "2009.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Fantasy, Science Fiction ; pg_rating : Rated R ; duration : 115 minutes ;"
+    },
+    "right": {
+      "id": 1914,
+      "movie_name": "Outlander",
+      "year": 2008,
+      "directors": "Howard McCain",
+      "actors": [
+        "Jim Caviezel",
+        " Sophia Myles",
+        " Ron Perlman"
+      ],
+      "movie_rating": 6.3,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "115 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2845",
+    "right_id": "1962",
+    "left": {
+      "id": "2845",
+      "title": "Taken",
+      "director": "Pierre Morel",
+      "actors": "Liam Neeson,Maggie Grace,Famke Janssen,Katie Cassidy,Arben Bajraktaraj,Gerard Watkins",
+      "year": "2009.0",
+      "rating": "2.5",
+      "information": "genre : Action, Crime, Foreign, Thriller ; pg_rating : Rated PG-13 ; duration : 93 minutes ;"
+    },
+    "right": {
+      "id": 1962,
+      "movie_name": "Taken",
+      "year": 2008,
+      "directors": "Pierre Morel",
+      "actors": [
+        "Liam Neeson",
+        " Maggie Grace",
+        " Famke Janssen"
+      ],
+      "movie_rating": 7.9,
+      "genre": "Action, Thriller",
+      "duration": "93 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2848",
+    "right_id": "1690",
+    "left": {
+      "id": "2848",
+      "title": "Push",
+      "director": "Paul McGuigan",
+      "actors": "Chris Evans,Dakota Fanning,Camilla Belle,Djimon Hounsou",
+      "year": "2009.0",
+      "rating": "1.5",
+      "information": "genre : Action, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 111 minutes ;"
+    },
+    "right": {
+      "id": 1690,
+      "movie_name": "Push",
+      "year": 2009,
+      "directors": "Paul McGuigan",
+      "actors": [
+        "Camilla Belle",
+        " Dakota Fanning",
+        " Chris Evans"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Sci-Fi, Thriller",
+      "duration": "111 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2852",
+    "right_id": "1707",
+    "left": {
+      "id": "2852",
+      "title": "The International",
+      "director": "Tom Tykwer",
+      "actors": "Clive Owen,Naomi Watts,Armin Mueller-Stahl,Brian F. O'Byrne,James Rebhorn",
+      "year": "2009.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Crime, Mystery, Thriller ; pg_rating : Rated R ; duration : 118 minutes ;"
+    },
+    "right": {
+      "id": 1707,
+      "movie_name": "The International",
+      "year": 2009,
+      "directors": "Tom Tykwer",
+      "actors": [
+        "Clive Owen",
+        " Naomi Watts",
+        " Armin Mueller-Stahl"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Crime, Drama",
+      "duration": "118 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2862",
+    "right_id": "1736",
+    "left": {
+      "id": "2862",
+      "title": "Chandni Chowk to China",
+      "director": "Nikhil Advani",
+      "actors": "Akshay Kumar,Deepika Padukone,Mithun Chakraborty,Ranvir Shorey,Gordon Liu,Roger Yuan",
+      "year": "2009.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Comedy, Drama, Foreign, Musical ; pg_rating : Rated NR ; duration : 149 minutes ;"
+    },
+    "right": {
+      "id": 1736,
+      "movie_name": "Chandni Chowk to China",
+      "year": 2009,
+      "directors": "Nikhil Advani",
+      "actors": [
+        "Akshay Kumar",
+        " Deepika Padukone",
+        " Chia-Hui Liu"
+      ],
+      "movie_rating": 3.9,
+      "genre": "Action, Adventure, Comedy",
+      "duration": "154 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2867",
+    "right_id": "1919",
+    "left": {
+      "id": "2867",
+      "title": "Madagascar: Escape 2 Africa",
+      "director": "Eric Darnell,Tom McGrath",
+      "actors": "Ben Stiller,Chris Rock,David Schwimmer,Jada Pinkett Smith,Sacha Baron Cohen,Cedric The Entertainer,Andy Richter,Bernie Mac,Alec Baldwin,Sherri Shepherd,will.i.am",
+      "year": "2008.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Animation, Family ; pg_rating : Rated PG ; duration : 89 minutes ;"
+    },
+    "right": {
+      "id": 1919,
+      "movie_name": "Madagascar: Escape 2 Africa",
+      "year": 2008,
+      "directors": "Eric Darnell",
+      "actors": [
+        "Ben Stiller",
+        " Chris Rock",
+        " David Schwimmer"
+      ],
+      "movie_rating": 6.7,
+      "genre": "Animation, Action, Adventure",
+      "duration": "89 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2870",
+    "right_id": "1948",
+    "left": {
+      "id": "2870",
+      "title": "Quantum of Solace",
+      "director": "Marc Forster",
+      "actors": "Daniel Craig,Olga Kurylenko,Mathieu Amalric,Judi Dench,Giancarlo Giannini,Gemma Arterton,Jeffrey Wright,David Harbour",
+      "year": "2008.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Crime, Foreign, Thriller ; pg_rating : Rated PG-13 ; duration : 106 minutes ;"
+    },
+    "right": {
+      "id": 1948,
+      "movie_name": "Quantum of Solace",
+      "year": 2008,
+      "directors": "Marc Forster",
+      "actors": [
+        "Daniel Craig",
+        " Olga Kurylenko",
+        " Mathieu Amalric"
+      ],
+      "movie_rating": 6.7,
+      "genre": "Action, Adventure",
+      "duration": "106 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2892",
+    "right_id": "1991",
+    "left": {
+      "id": "2892",
+      "title": "RocknRolla",
+      "director": "nan",
+      "actors": "Gerard Butler,Tom Wilkinson,Thandie Newton,Tom Hardy,Jeremy Piven,Toby Kebbell",
+      "year": "2008.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Comedy, Crime, Foreign, Thriller ; pg_rating : Rated R ; duration : 114 minutes ;"
+    },
+    "right": {
+      "id": 1991,
+      "movie_name": "RocknRolla",
+      "year": 2008,
+      "directors": "Guy Ritchie",
+      "actors": [
+        "Gerard Butler",
+        " Tom Wilkinson",
+        " Idris Elba"
+      ],
+      "movie_rating": 7.3,
+      "genre": "Action, Crime, Thriller",
+      "duration": "114 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2902",
+    "right_id": "2022",
+    "left": {
+      "id": "2902",
+      "title": "Transporter 3",
+      "director": "nan",
+      "actors": "nan",
+      "year": "2008.0",
+      "rating": "2.5",
+      "information": "genre : Action, Adventure, Thriller ; pg_rating : Rated PG-13 ; duration : 104 minutes ;"
+    },
+    "right": {
+      "id": 2022,
+      "movie_name": "Transporter 3",
+      "year": 2008,
+      "directors": "Olivier Megaton",
+      "actors": [
+        "Jason Statham",
+        " Robert Knepper",
+        " Natalya Rudakova"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Adventure, Crime",
+      "duration": "104 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2905",
+    "right_id": "1910",
+    "left": {
+      "id": "2905",
+      "title": "Punisher: War Zone",
+      "director": "Lexi Alexander",
+      "actors": "Ray Stevenson,Dominic West,Doug Hutchison,Julie Benz,Wayne Knight",
+      "year": "2008.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Thriller ; pg_rating : Rated R ; duration : 107 minutes ;"
+    },
+    "right": {
+      "id": 1910,
+      "movie_name": "Punisher: War Zone",
+      "year": 2008,
+      "directors": "Lexi Alexander",
+      "actors": [
+        "Ray Stevenson",
+        " Dominic West",
+        " Julie Benz"
+      ],
+      "movie_rating": 6.0,
+      "genre": "Action, Crime, Drama",
+      "duration": "103 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2915",
+    "right_id": "2003",
+    "left": {
+      "id": "2915",
+      "title": "Eagle Eye",
+      "director": "D.J. Caruso",
+      "actors": "Shia LaBeouf,Michelle Monaghan,Rosario Dawson,Michael Chilkis,Billy Bob Thornton,Anthony Mackie,Ethan Embry",
+      "year": "2008.0",
+      "rating": "2.0",
+      "information": "genre : Action, Mystery, Thriller ; pg_rating : Rated PG-13 ; duration : 118 minutes ;"
+    },
+    "right": {
+      "id": 2003,
+      "movie_name": "Eagle Eye",
+      "year": 2008,
+      "directors": "D.J. Caruso",
+      "actors": [
+        "Shia LaBeouf",
+        " Michelle Monaghan",
+        " Rosario Dawson"
+      ],
+      "movie_rating": 6.6,
+      "genre": "Action, Mystery, Thriller",
+      "duration": "118 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2920",
+    "right_id": "2000",
+    "left": {
+      "id": "2920",
+      "title": "Miracle at St. Anna",
+      "director": "Spike Lee",
+      "actors": "Derek Luke,Michael Ealy,Laz Alonso,Omar Benson Miller,Pierfrancesco Favino,Valentina Cervi,Matteo Sciabordi,Joseph Gordon-Levitt,John Turturro,John Leguizamo,Kerry Washington,D.B. Sweeney",
+      "year": "2008.0",
+      "rating": "3.0",
+      "information": "genre : Action, Drama, History ; pg_rating : Rated R ; duration : 160 minutes ;"
+    },
+    "right": {
+      "id": 2000,
+      "movie_name": "Miracle at St. Anna",
+      "year": 2008,
+      "directors": "Spike Lee",
+      "actors": [
+        "Derek Luke",
+        " Michael Ealy",
+        " Laz Alonso"
+      ],
+      "movie_rating": 6.0,
+      "genre": "Action, Crime, Drama",
+      "duration": "160 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2944",
+    "right_id": "1977",
+    "left": {
+      "id": "2944",
+      "title": "Traitor",
+      "director": "Jeffrey Nachmanoff",
+      "actors": "Don Cheadle,Guy Pearce,Said Taghmaoui,Neal McDonough,Aly Khan,Archie Panjabi,Jeff Daniels,Raad Rawi,Hassam Ghancy,Mozhan Marno",
+      "year": "2008.0",
+      "rating": "3.0",
+      "information": "genre : Action, Crime, Drama, Thriller ; pg_rating : Rated PG-13 ; duration : 114 minutes ;"
+    },
+    "right": {
+      "id": 1977,
+      "movie_name": "Traitor",
+      "year": 2008,
+      "directors": "Jeffrey Nachmanoff",
+      "actors": [
+        "Don Cheadle",
+        " Guy Pearce",
+        " Archie Panjabi"
+      ],
+      "movie_rating": 7.0,
+      "genre": "Action, Crime, Drama",
+      "duration": "114 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2946",
+    "right_id": "1932",
+    "left": {
+      "id": "2946",
+      "title": "Body of Lies",
+      "director": "Ridley Scott",
+      "actors": "Leonardo DiCaprio,Russell Crowe,Mark Strong,Golshifteh Farahani,Oscar Isaac,Simon McBurney",
+      "year": "2008.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Drama, Suspense, Thriller ; pg_rating : Rated R ; duration : 128 minutes ;"
+    },
+    "right": {
+      "id": 1932,
+      "movie_name": "Body of Lies",
+      "year": 2008,
+      "directors": "Ridley Scott",
+      "actors": [
+        "Leonardo DiCaprio",
+        " Russell Crowe",
+        " Mark Strong"
+      ],
+      "movie_rating": 7.1,
+      "genre": "Action, Drama, Thriller",
+      "duration": "128 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2969",
+    "right_id": "1943",
+    "left": {
+      "id": "2969",
+      "title": "Speed Racer",
+      "director": "nan",
+      "actors": "Emile Hirsch,Matthew Fox,Christina Ricci,Paulie Litt,Susan Sarandon,John Goodman",
+      "year": "2008.0",
+      "rating": "1.5",
+      "information": "genre : Action, Family, Thriller ; pg_rating : Rated PG ; duration : 135 minutes ;"
+    },
+    "right": {
+      "id": 1943,
+      "movie_name": "Speed Racer",
+      "year": 2008,
+      "directors": "Andy Wachowski",
+      "actors": [
+        "Emile Hirsch",
+        " Matthew Fox",
+        " Christina Ricci"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Family, Sport",
+      "duration": "135 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2971",
+    "right_id": "2178",
+    "left": {
+      "id": "2971",
+      "title": "Son of Rambow",
+      "director": "nan",
+      "actors": "Bill Milner,Will Poulter,Jessica Stevenson,Ed Westwick,Neil Dudgeon,Jules Sitruk,Anna Wing",
+      "year": "2008.0",
+      "rating": "3.0",
+      "information": "genre : Comedy, Foreign, Indie ; pg_rating : Rated PG-13 ; duration : 96 minutes ;"
+    },
+    "right": {
+      "id": 2178,
+      "movie_name": "Son of Rambow",
+      "year": 2007,
+      "directors": "Garth Jennings",
+      "actors": [
+        "Bill Milner",
+        " Will Poulter",
+        " Jessica Hynes"
+      ],
+      "movie_rating": 7.0,
+      "genre": "Action, Adventure, Comedy",
+      "duration": "96 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2979",
+    "right_id": "1952",
+    "left": {
+      "id": "2979",
+      "title": "The Mummy: Tomb of the Dragon Emperor",
+      "director": "Rob Cohen",
+      "actors": "Brendan Fraser,Jet Li,Maria Bello,Michelle Yeoh,Luke Ford",
+      "year": "2008.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Fantasy, Thriller ; pg_rating : Rated PG-13 ; duration : 112 minutes ;"
+    },
+    "right": {
+      "id": 1952,
+      "movie_name": "The Mummy: Tomb of the Dragon Emperor",
+      "year": 2008,
+      "directors": "Rob Cohen",
+      "actors": [
+        "Brendan Fraser",
+        " Jet Li",
+        " Maria Bello"
+      ],
+      "movie_rating": 5.2,
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "112 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2987",
+    "right_id": "1959",
+    "left": {
+      "id": "2987",
+      "title": "Pineapple Express",
+      "director": "David Gordon Green",
+      "actors": "Seth Rogen,James Franco,Gary Cole,Amber Heard,Bill Hader,James Remar,Rosie Perez,Ed Begley Jr.,Nora Dunn",
+      "year": "2008.0",
+      "rating": "3.5",
+      "information": "genre : Action, Comedy ; pg_rating : Rated R ; duration : 111 minutes ;"
+    },
+    "right": {
+      "id": 1959,
+      "movie_name": "Pineapple Express",
+      "year": 2008,
+      "directors": "David Gordon Green",
+      "actors": [
+        "Seth Rogen",
+        " James Franco",
+        " Gary Cole"
+      ],
+      "movie_rating": 7.0,
+      "genre": "Action, Comedy, Crime",
+      "duration": "111 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2990",
+    "right_id": "1898",
+    "left": {
+      "id": "2990",
+      "title": "Hell Ride",
+      "director": "nan",
+      "actors": "Larry Bishop,Michael Madsen,Eric Balfour,Dennis Hopper,Leonor Varela,Vinnie Jones,Julia Jones",
+      "year": "2008.0",
+      "rating": "1.0",
+      "information": "genre : Action, Indie, Thriller ; pg_rating : Rated R ; duration : 84 minutes ;"
+    },
+    "right": {
+      "id": 1898,
+      "movie_name": "Hell Ride",
+      "year": 2008,
+      "directors": "Larry Bishop",
+      "actors": [
+        "Larry Bishop",
+        " Dennis Hopper",
+        " Michael Madsen"
+      ],
+      "movie_rating": 5.1,
+      "genre": "Action, Drama, Thriller",
+      "duration": "84 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "2995",
+    "right_id": "1964",
+    "left": {
+      "id": "2995",
+      "title": "Tropic Thunder",
+      "director": "Ben Stiller",
+      "actors": "Ben Stiller,Jack Black,Robert Downey Jr.,Nick Nolte,Steve Coogan,Jay Baruchel,Danny McBride,Brandon T. Jackson,Bill Hader",
+      "year": "2008.0",
+      "rating": "3.5",
+      "information": "genre : Action, Comedy ; pg_rating : Rated R ; duration : 107 minutes ;"
+    },
+    "right": {
+      "id": 1964,
+      "movie_name": "Tropic Thunder",
+      "year": 2008,
+      "directors": "Ben Stiller",
+      "actors": [
+        "Ben Stiller",
+        " Jack Black",
+        " Robert Downey Jr."
+      ],
+      "movie_rating": 7.0,
+      "genre": "Action, Comedy",
+      "duration": "107 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3006",
+    "right_id": "1899",
+    "left": {
+      "id": "3006",
+      "title": "Hellboy II: The Golden Army",
+      "director": "Guillermo Del Toro",
+      "actors": "Ron Perlman,Selma Blair,Doug Jones,John Alexander/James Dodd,Anna Walton,Luke Goss,Jeffrey Tambor",
+      "year": "2008.0",
+      "rating": "3.5",
+      "information": "genre : Action, Adventure, Comedy, Fantasy, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 120 minutes ;"
+    },
+    "right": {
+      "id": 1899,
+      "movie_name": "Hellboy II: The Golden Army",
+      "year": 2008,
+      "directors": "Guillermo del Toro",
+      "actors": [
+        "Ron Perlman",
+        " Selma Blair",
+        " Doug Jones"
+      ],
+      "movie_rating": 7.0,
+      "genre": "Action, Adventure, Fantasy",
+      "duration": "120 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3009",
+    "right_id": "1896",
+    "left": {
+      "id": "3009",
+      "title": "Journey to the Center of the Earth",
+      "director": "Eric Brevig",
+      "actors": "Brendan Fraser,Josh Hutcherson,Anita Briem,Seth Meyers,Michel Pare,Jane Wheeler",
+      "year": "2007.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Comedy, Science Fiction ; pg_rating : Rated PG ; duration : 93 minutes ;"
+    },
+    "right": {
+      "id": 1896,
+      "movie_name": "Journey to the Center of the Earth",
+      "year": 2008,
+      "directors": "Eric Brevig",
+      "actors": [
+        "Brendan Fraser",
+        " Josh Hutcherson",
+        " Anita Briem"
+      ],
+      "movie_rating": 5.8,
+      "genre": "Action, Adventure, Family",
+      "duration": "93 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3019",
+    "right_id": "1905",
+    "left": {
+      "id": "3019",
+      "title": "Kung Fu Panda",
+      "director": "John Stevenson,Mark Osborne",
+      "actors": "Jack Black,Dustin Hoffman,Angelina Jolie,Ian McShane,Seth Rogen,Lucy Liu,David Cross,Randall Duk Kim,James Hong,Dan Fogler,Michael Clarke Duncan,Jackie Chan",
+      "year": "2008.0",
+      "rating": "3.0",
+      "information": "genre : Animation, Family ; pg_rating : Rated PG ; duration : 90 minutes ;"
+    },
+    "right": {
+      "id": 1905,
+      "movie_name": "Kung Fu Panda",
+      "year": 2008,
+      "directors": "Mark Osborne",
+      "actors": [
+        "Jack Black",
+        " Ian McShane",
+        " Angelina Jolie"
+      ],
+      "movie_rating": 7.6,
+      "genre": "Animation, Action, Adventure",
+      "duration": "92 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3021",
+    "right_id": "1942",
+    "left": {
+      "id": "3021",
+      "title": "The Incredible Hulk",
+      "director": "Louis Leterrier",
+      "actors": "Edward Norton,Liv Tyler,Tim Roth,Tim Blake Nelson,William Hurt,Lou Ferrigno",
+      "year": "2008.0",
+      "rating": "2.5",
+      "information": "genre : Action, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 114 minutes ;"
+    },
+    "right": {
+      "id": 1942,
+      "movie_name": "The Incredible Hulk",
+      "year": 2008,
+      "directors": "Louis Leterrier",
+      "actors": [
+        "Edward Norton",
+        " Liv Tyler",
+        " Tim Roth"
+      ],
+      "movie_rating": 6.9,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "112 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3028",
+    "right_id": "1901",
+    "left": {
+      "id": "3028",
+      "title": "Get Smart",
+      "director": "Peter Segal",
+      "actors": "Steve Carell,Anne Hathaway,Alan Arkin,Dwayne Johnson,Terence Stamp,James Caan,Patrick Warburton",
+      "year": "2008.0",
+      "rating": "3.5",
+      "information": "genre : Action, Adventure, Comedy ; pg_rating : Rated PG-13 ; duration : 110 minutes ;"
+    },
+    "right": {
+      "id": 1901,
+      "movie_name": "Get Smart",
+      "year": 2008,
+      "directors": "Peter Segal",
+      "actors": [
+        "Steve Carell",
+        " Anne Hathaway",
+        " Alan Arkin"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Adventure, Comedy",
+      "duration": "110 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3051",
+    "right_id": "1967",
+    "left": {
+      "id": "3051",
+      "title": "You Don't Mess With the Zohan",
+      "director": "Dennis Dugan",
+      "actors": "Adam Sandler,John Turturro,Emmanuelle Chriqui,Lainie Kazan,Rob Schneider,Charlotte Rae,Kevin Nealon,Michael Buffer",
+      "year": "2008.0",
+      "rating": "3.0",
+      "information": "genre : Action, Comedy ; pg_rating : Rated PG-13 ; duration : 113 minutes ;"
+    },
+    "right": {
+      "id": 1967,
+      "movie_name": "You Don't Mess with the Zohan",
+      "year": 2008,
+      "directors": "Dennis Dugan",
+      "actors": [
+        "Adam Sandler",
+        " John Turturro",
+        " Emmanuelle Chriqui"
+      ],
+      "movie_rating": 5.5,
+      "genre": "Action, Comedy",
+      "duration": "113 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3056",
+    "right_id": "2091",
+    "left": {
+      "id": "3056",
+      "title": "Spider-Man 3",
+      "director": "nan",
+      "actors": "Tobey Maguire,Kirsten Dunst,James Franco,Thomas Haden Church,Topher Grace,J.K. Simmons,James Cromwell,Willem Dafoe",
+      "year": "2007.0",
+      "rating": "2.0",
+      "information": "genre : Action, Drama, Fantasy, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 139 minutes ;"
+    },
+    "right": {
+      "id": 2091,
+      "movie_name": "Spider-Man 3",
+      "year": 2007,
+      "directors": "Sam Raimi",
+      "actors": [
+        "Tobey Maguire",
+        " Kirsten Dunst",
+        " Topher Grace"
+      ],
+      "movie_rating": 6.2,
+      "genre": "Action, Adventure",
+      "duration": "139 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3057",
+    "right_id": "2098",
+    "left": {
+      "id": "3057",
+      "title": "Beowulf",
+      "director": "Robert Zemeckis",
+      "actors": "Ray Winstone,Anthony Hopkins,John Malkovich,Brendan Gleeson,Crispin Glover,Angelina Jolie",
+      "year": "2007.0",
+      "rating": "3.0",
+      "information": "genre : Action, Adventure, Animation ; pg_rating : Rated PG-13 ; duration : 115 minutes ;"
+    },
+    "right": {
+      "id": 2098,
+      "movie_name": "Beowulf",
+      "year": 2007,
+      "directors": "Robert Zemeckis",
+      "actors": [
+        "Ray Winstone",
+        " Crispin Glover",
+        " Angelina Jolie"
+      ],
+      "movie_rating": 6.3,
+      "genre": "Animation, Action, Adventure",
+      "duration": "115 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3087",
+    "right_id": "1900",
+    "left": {
+      "id": "3087",
+      "title": "Street Kings",
+      "director": "David Ayer",
+      "actors": "Keanu Reeves,Forest Whitaker,Hugh Laurie,Chris Evans,Cedric The Entertainer",
+      "year": "2008.0",
+      "rating": "1.5",
+      "information": "genre : Action, Crime, Drama, Thriller ; pg_rating : Rated R ; duration : 109 minutes ;"
+    },
+    "right": {
+      "id": 1900,
+      "movie_name": "Street Kings",
+      "year": 2008,
+      "directors": "David Ayer",
+      "actors": [
+        "Keanu Reeves",
+        " Forest Whitaker",
+        " Hugh Laurie"
+      ],
+      "movie_rating": 6.8,
+      "genre": "Action, Crime, Drama",
+      "duration": "109 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3097",
+    "right_id": "2164",
+    "left": {
+      "id": "3097",
+      "title": "Strength and Honor",
+      "director": "nan",
+      "actors": "Michael Madsen,Vinnie Jones,Richard Chamberlain,Patrick Bergin",
+      "year": "2007.0",
+      "rating": "2.5",
+      "information": "genre : nan ; pg_rating : Rated R ; duration : nan ;"
+    },
+    "right": {
+      "id": 2164,
+      "movie_name": "Strength and Honour",
+      "year": 2007,
+      "directors": "Mark Mahon",
+      "actors": [
+        "Michael Madsen",
+        " Vinnie Jones",
+        " Patrick Bergin"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Drama",
+      "duration": "95 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3119",
+    "right_id": "1923",
+    "left": {
+      "id": "3119",
+      "title": "Jumper",
+      "director": "Doug Liman",
+      "actors": "Hayden Christensen,Jamie Bell,Rachel Bison,Dine Lane,Samuel L. Jackson,Michael Rooker",
+      "year": "2008.0",
+      "rating": "1.5",
+      "information": "genre : Action, Adventure, Science Fiction, Thriller ; pg_rating : Rated PG-13 ; duration : 88 minutes ;"
+    },
+    "right": {
+      "id": 1923,
+      "movie_name": "Jumper",
+      "year": 2008,
+      "directors": "Doug Liman",
+      "actors": [
+        "Hayden Christensen",
+        " Samuel L. Jackson",
+        " Jamie Bell"
+      ],
+      "movie_rating": 6.1,
+      "genre": "Action, Adventure, Sci-Fi",
+      "duration": "88 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3138",
+    "right_id": "2118",
+    "left": {
+      "id": "3138",
+      "title": "National Treasure: Book of Secrets",
+      "director": "Jon Turteltaub",
+      "actors": "Nicolas Cage,Jon Voight,Justin Bartha,Harvey Keitel,Ed Harris,Diane Kruger,Helen Mirren,Bruce Greenwood",
+      "year": "2007.0",
+      "rating": "2.0",
+      "information": "genre : Action, Adventure, Mystery, Thriller ; pg_rating : Rated PG ; duration : 124 minutes ;"
+    },
+    "right": {
+      "id": 2118,
+      "movie_name": "National Treasure: Book of Secrets",
+      "year": 2007,
+      "directors": "Jon Turteltaub",
+      "actors": [
+        "Nicolas Cage",
+        " Diane Kruger",
+        " Justin Bartha"
+      ],
+      "movie_rating": 6.5,
+      "genre": "Action, Adventure, Mystery",
+      "duration": "124 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3172",
+    "right_id": "2112",
+    "left": {
+      "id": "3172",
+      "title": "Grindhouse",
+      "director": "nan",
+      "actors": "nan",
+      "year": "2007.0",
+      "rating": "2.5",
+      "information": "genre : Action, Horror, Thriller ; pg_rating : Rated R ; duration : 191 minutes ;"
+    },
+    "right": {
+      "id": 2112,
+      "movie_name": "Grindhouse",
+      "year": 2007,
+      "directors": "Robert Rodriguez",
+      "actors": [
+        "Kurt Russell",
+        " Rose McGowan",
+        " Danny Trejo"
+      ],
+      "movie_rating": 7.7,
+      "genre": "Action, Horror, Thriller",
+      "duration": "191 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3269",
+    "right_id": "5590",
+    "left": {
+      "id": "3269",
+      "title": "Superman",
+      "director": "nan",
+      "actors": "nan",
+      "year": "1978.0",
+      "rating": "4.0",
+      "information": "genre : Action, Family, Fantasy, Science Fiction ; pg_rating : Rated PG ; duration : 143 minutes ;"
+    },
+    "right": {
+      "id": 5590,
+      "movie_name": "Superman",
+      "year": 1978,
+      "directors": "Richard Donner",
+      "actors": [
+        "Christopher Reeve",
+        " Margot Kidder",
+        " Gene Hackman"
+      ],
+      "movie_rating": 7.3,
+      "genre": "Action, Drama, Sci-Fi",
+      "duration": "143 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3286",
+    "right_id": "6386",
+    "left": {
+      "id": "3286",
+      "title": "Harakiri",
+      "director": "nan",
+      "actors": "nan",
+      "year": "1962.0",
+      "rating": "4.0",
+      "information": "genre : Drama, Foreign ; pg_rating : Rated Unrated ; duration : 135 minutes ;"
+    },
+    "right": {
+      "id": 6386,
+      "movie_name": "Harakiri",
+      "year": 1962,
+      "directors": "Masaki Kobayashi",
+      "actors": [
+        "Tatsuya Nakadai",
+        " Akira Ishihama",
+        " Shima Iwashita"
+      ],
+      "movie_rating": 8.7,
+      "genre": "Action, Drama, History",
+      "duration": "133 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3317",
+    "right_id": "6810",
+    "left": {
+      "id": "3317",
+      "title": "The Adventures of Robin Hood",
+      "director": "nan",
+      "actors": "nan",
+      "year": "1938.0",
+      "rating": "4.0",
+      "information": "genre : Action, Adventure, Drama, Romance ; pg_rating : Rated PG ; duration : 102 minutes ;"
+    },
+    "right": {
+      "id": 6810,
+      "movie_name": "The Adventures of Robin Hood",
+      "year": 1938,
+      "directors": "Michael Curtiz",
+      "actors": [
+        "Errol Flynn",
+        " Olivia de Havilland",
+        " Basil Rathbone"
+      ],
+      "movie_rating": 8.0,
+      "genre": "Action, Adventure, Romance",
+      "duration": "102 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3345",
+    "right_id": "6681",
+    "left": {
+      "id": "3345",
+      "title": "The Treasure of the Sierra Madre",
+      "director": "nan",
+      "actors": "nan",
+      "year": "1948.0",
+      "rating": "4.0",
+      "information": "genre : Action, Adventure, Drama, Western ; pg_rating : Rated NR ; duration : 126 minutes ;"
+    },
+    "right": {
+      "id": 6681,
+      "movie_name": "The Treasure of the Sierra Madre",
+      "year": 1948,
+      "directors": "John Huston",
+      "actors": [
+        "Humphrey Bogart",
+        " Walter Huston",
+        " Tim Holt"
+      ],
+      "movie_rating": 8.3,
+      "genre": "Action, Adventure, Drama",
+      "duration": "126 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3405",
+    "right_id": "5072",
+    "left": {
+      "id": "3405",
+      "title": "Ran",
+      "director": "nan",
+      "actors": "nan",
+      "year": "1985.0",
+      "rating": "4.0",
+      "information": "genre : Action, Adventure, Drama, Foreign, History, Indie ; pg_rating : Rated R ; duration : 162 minutes ;"
+    },
+    "right": {
+      "id": 5072,
+      "movie_name": "Ran",
+      "year": 1985,
+      "directors": "Akira Kurosawa",
+      "actors": [
+        "Tatsuya Nakadai",
+        " Akira Terao",
+        " Jinpachi Nezu"
+      ],
+      "movie_rating": 8.3,
+      "genre": "Action, Drama, War",
+      "duration": "162 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3418",
+    "right_id": "5841",
+    "left": {
+      "id": "3418",
+      "title": "Bring Me the Head of Alfredo Garcia",
+      "director": "nan",
+      "actors": "nan",
+      "year": "1974.0",
+      "rating": "4.0",
+      "information": "genre : Action, Comedy, Crime, Drama, Thriller ; pg_rating : Rated R ; duration : 112 minutes ;"
+    },
+    "right": {
+      "id": 5841,
+      "movie_name": "Bring Me the Head of Alfredo Garcia",
+      "year": 1974,
+      "directors": "Sam Peckinpah",
+      "actors": [
+        "Warren Oates",
+        " Isela Vega",
+        " Robert Webber"
+      ],
+      "movie_rating": 7.6,
+      "genre": "Action, Crime, Drama",
+      "duration": "112 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3487",
+    "right_id": "6676",
+    "left": {
+      "id": "3487",
+      "title": "Red River",
+      "director": "Howard Hawks",
+      "actors": "John Wayne,Montgomery Clift,Joanne Dru Groot,Walter Brennan,Coleen Gray,John Ireland,Noah Beery Jr.",
+      "year": "1948.0",
+      "rating": "4.0",
+      "information": "genre : Action, Western ; pg_rating : Rated NR ; duration : 133 minutes ;"
+    },
+    "right": {
+      "id": 6676,
+      "movie_name": "Red River",
+      "year": 1948,
+      "directors": "Howard Hawks",
+      "actors": [
+        "John Wayne",
+        " Montgomery Clift",
+        " Joanne Dru"
+      ],
+      "movie_rating": 7.8,
+      "genre": "Action, Adventure, Romance",
+      "duration": "133 min "
+    },
+    "pred": 1,
+    "label": 1
+  },
+  {
+    "left_id": "3464",
+    "right_id": "6123",
+    "left": {
+      "id": "3464",
+      "title": "The Babadook (Special Edition) [Deluxe Packaging] [Blu-ray] ",
+      "director": "Jennifer Kent",
+      "actors": "$18.99 ",
+      "year": "2015",
+      "rating": "n/a",
+      "information": "time :  93 minutes  ; cost : $18.99  ;"
+    },
+    "right": {
+      "id": 6123,
+      "title": "The Babadook",
+      "time": "1 hr. 34 min.",
+      "director": "Jennifer Kent",
+      "year": 2014,
+      "stars": [
+        "Essie Davis",
+        "Barbara West",
+        "Daniel Henshall",
+        "Hayley McElhinney",
+        "Noah Wiseman",
+        "Tim Purcell"
+      ],
+      "ratings": {
+        "rotten_tomatoes": "98",
+        "audience_rating": "73",
+        "reviews": [
+          "The line between terrifying reality and terrifying fantasy isn't so much blurred as altogether obliterated.",
+          "This simple yet shiver-inducing tale, the auspicious feature debut of Australian writer/director Jennifer Kent, makes for one of the better horror movies of recent times.",
+          "It presents grief as a demon, questions reality, and creeps out the viewer by making psychopathology seem like something that could happen to anybody.",
+          "At its heart, \"The Babadook\" is a story of mother and son, whose relationship ultimately determines whether they survive the demon - or die trying.",
+          "In the running with Boyhood as my favorite movie of 2014 is another work that turns on the challenges of parenting. This one is a tad more insane."
+        ]
+      }
+    },
+    "pred": 1,
+    "label": 0
+  },
+  {
+    "left_id": "1232",
+    "right_id": "688",
+    "left": {
+      "id": "1232",
+      "title": "Afflicted",
+      "director": "Clif Prowse,Derek Lee",
+      "actors": "Baya Rehaz,Derek Lee,Clif Prowse",
+      "year": "2014.0",
+      "rating": "2.0",
+      "information": "genre : Action, Thriller ; pg_rating : Rated R ; duration : 85 minutes ;"
+    },
+    "right": {
+      "id": 688,
+      "movie_name": "Afflicted",
+      "year": 2013,
+      "directors": "Derek Lee",
+      "actors": [
+        "Clif Prowse",
+        " Derek Lee",
+        " Michael Gill"
+      ],
+      "movie_rating": 6.3,
+      "genre": "Horror, Mystery, Thriller",
+      "duration": "85 min "
+    },
+    "pred": 1,
+    "label": 0
+  }
+]

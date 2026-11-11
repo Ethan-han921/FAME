@@ -1,0 +1,1185 @@
+[
+  {
+    "left_id": "BN0867",
+    "right_id": "HC0794",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": 2754,
+    "right_id": 2722,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year_month\", \"pub_day\"], [\"publication_info.publication_date\"]]"
+    ]
+  },
+  {
+    "left_id": 3334,
+    "right_id": 3492,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year_month\", \"pub_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 2415,
+    "right_id": 1388,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 150,
+    "right_id": 2826,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 1920,
+    "right_id": 3424,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year_month\", \"pub_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0426",
+    "right_id": "HC0725",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_Date\"]]"
+    ]
+  },
+  {
+    "left_id": 932,
+    "right_id": 751,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 1870,
+    "right_id": 303,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"PageCount\"], [\"Pages\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"PublishDate\"], [\"publication_info.PublicationDate\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0340",
+    "right_id": "HC0456",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_Date\"]]"
+    ]
+  },
+  {
+    "left_id": 1373,
+    "right_id": 136,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"PageCount\"], [\"Pages\"]]",
+      "[[\"FirstAuthor\", \"SecondAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 2448,
+    "right_id": 752,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 1507,
+    "right_id": 2185,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN1301",
+    "right_id": "HC1073",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0849",
+    "right_id": "HC1063",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_Date\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]",
+      "[[\"Pages\"], [\"Pages\"]]"
+    ]
+  },
+  {
+    "left_id": 2935,
+    "right_id": 802,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 200,
+    "right_id": 514,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 2139,
+    "right_id": 2413,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year\", \"pub_month_day\"], [\"publication_info.publication_date\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0674",
+    "right_id": "HC0853",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_Date\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": 392,
+    "right_id": 3325,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN1226",
+    "right_id": "HC1246",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Pages\"], [\"Pages\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 1871,
+    "right_id": 3074,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 1891,
+    "right_id": 3286,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN1294",
+    "right_id": "HC2155",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": 63,
+    "right_id": 2522,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 1350,
+    "right_id": 3333,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN1299",
+    "right_id": "HC0477",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 2175,
+    "right_id": 3363,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 1210,
+    "right_id": 2216,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 114,
+    "right_id": 408,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0273",
+    "right_id": "HC0760",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0194",
+    "right_id": "HC0471",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Pages\"], [\"Pages\"]]"
+    ]
+  },
+  {
+    "left_id": 839,
+    "right_id": 2739,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pubyear\", \"pubmonth\", \"pubday\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": "BN1194",
+    "right_id": "HC0652",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0199",
+    "right_id": "HC1862",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 3096,
+    "right_id": 380,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 788,
+    "right_id": 1242,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0657",
+    "right_id": "HC0764",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Pages\"], [\"Pages\"]]"
+    ]
+  },
+  {
+    "left_id": 3243,
+    "right_id": 2464,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 3030,
+    "right_id": 2095,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year_month\", \"pub_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 1910,
+    "right_id": 2633,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year_month\", \"pub_day\"], [\"publication_info.publication_date\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0544",
+    "right_id": "HC0864",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_Date\"], [\"publication_info.Publication_Date\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0372",
+    "right_id": "HC0053",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 614,
+    "right_id": 379,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"PageCount\"], [\"Pages\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0956",
+    "right_id": "HC0792",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_Date\"]]"
+    ]
+  },
+  {
+    "left_id": 3166,
+    "right_id": 285,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0206",
+    "right_id": "HC3094",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 1669,
+    "right_id": 807,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0408",
+    "right_id": "HC1219",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_Date\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0059",
+    "right_id": "HC0014",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0420",
+    "right_id": "HC0299",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": 3488,
+    "right_id": 1849,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0791",
+    "right_id": "HC0525",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0093",
+    "right_id": "HC0112",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 448,
+    "right_id": 750,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year\", \"pub_month_day\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": 1217,
+    "right_id": 3053,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 604,
+    "right_id": 3090,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pubyear\", \"pubmonth\", \"pubday\"], [\"publication_info.publication_date\"]]"
+    ]
+  },
+  {
+    "left_id": 45,
+    "right_id": 195,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year_month\", \"pub_day\"],[\"publication_info.publication_date\"]]"
+    ]
+  },
+  {
+    "left_id": 1754,
+    "right_id": 3042,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 2940,
+    "right_id": 276,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]"
+    ]
+  },
+  {
+    "left_id": 2646,
+    "right_id": 2407,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 2254,
+    "right_id": 3286,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN1001",
+    "right_id": "HC0977",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 1036,
+    "right_id": 2172,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 1472,
+    "right_id": 2333,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year_month\", \"pub_day\"], [\"publication_info.publication_date\"]]"
+    ]
+  },
+  {
+    "left_id": 3901,
+    "right_id": 410,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"PageCount\"], [\"Pages\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"PublishDate\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 467,
+    "right_id": 1195,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 2575,
+    "right_id": 791,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0874",
+    "right_id": "HC1113",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": 2011,
+    "right_id": 2152,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 488,
+    "right_id": 774,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\", \"SecondAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 423,
+    "right_id": 2534,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0936",
+    "right_id": "HC2557",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 1682,
+    "right_id": 3000,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"pubyear\", \"pubmonth\", \"pubday\"], [\"publication_info.publication_date\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 1818,
+    "right_id": 2412,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 2,
+    "right_id": 2541,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 3405,
+    "right_id": 2846,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 693,
+    "right_id": 2244,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 1461,
+    "right_id": 495,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"PageCount\"], [\"Pages\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0149",
+    "right_id": "HC0189",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_Date\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 569,
+    "right_id": 3442,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 1455,
+    "right_id": 3131,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 488,
+    "right_id": 132,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 3634,
+    "right_id": 2619,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0811",
+    "right_id": "HC0783",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 720,
+    "right_id": 2384,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 3180,
+    "right_id": 3497,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 1777,
+    "right_id": 448,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN1009",
+    "right_id": "HC0716",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Pages\"], [\"Pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0605",
+    "right_id": "HC1378",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 3346,
+    "right_id": 1425,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\", \"SecondAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0745",
+    "right_id": "HC2141",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 301,
+    "right_id": 2173,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pubyear\", \"pubmonth\", \"pubday\"],[\"publication_info.publication_date\"]]"
+    ]
+  },
+  {
+    "left_id": 3101,
+    "right_id": 2712,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"PublishDate\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 3187,
+    "right_id": 1384,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0753",
+    "right_id": "HC0362",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 729,
+    "right_id": 2439,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year\", \"pub_month_day\"], [\"publication_info.publication_date\"]]"
+    ]
+  },
+  {
+    "left_id": 2110,
+    "right_id": 159,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"PageCount\"], [\"Pages\"]]",
+      "[[\"FirstAuthor\", \"SecondAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN1209",
+    "right_id": "HC2628",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_Date\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0078",
+    "right_id": "HC0095",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 584,
+    "right_id": 1568,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0757",
+    "right_id": "HC1974",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 2473,
+    "right_id": 63,
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"FirstAuthor\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]"
+    ]
+  },
+  {
+    "left_id": 395,
+    "right_id": 2473,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 3493,
+    "right_id": 3174,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": 457,
+    "right_id": 672,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year_month\", \"pub_day\"], [\"publication_info.publication_date\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0856",
+    "right_id": "HC1912",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0705",
+    "right_id": "HC1558",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0095",
+    "right_id": "HC0887",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Pages\"], [\"Pages\"]]"
+    ]
+  },
+  {
+    "left_id": 3224,
+    "right_id": 294,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0908",
+    "right_id": "HC2150",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year_month\", \"Publication_day\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": 3416,
+    "right_id": 759,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]"
+    ]
+  },
+  {
+    "left_id": 3383,
+    "right_id": 2700,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"edition\"], [\"publication_info.edition\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pub_year\", \"pub_month_day\"], [\"publication_info.Publication_year_month\", \"publication_info.Publication_day\"]]"
+    ]
+  },
+  {
+    "left_id": 688,
+    "right_id": 139,
+    "output": [
+      "[[\"title\"], [\"title\"]]",
+      "[[\"authors\"], [\"authors\"]]",
+      "[[\"publisher\"], [\"publication_info.publisher\"]]",
+      "[[\"series\"], [\"series\"]]",
+      "[[\"pages\"], [\"pages\"]]",
+      "[[\"pubyear\", \"pubmonth\", \"pubday\"], [\"publication_info.Publication_year\", \"publication_info.Publication_month_day\"]]"
+    ]
+  },
+  {
+    "left_id": "BN0988",
+    "right_id": "HC1167",
+    "output": [
+      "[[\"Title\"], [\"title\"]]",
+      "[[\"Author\"], [\"authors\"]]",
+      "[[\"Publisher\"], [\"publication_info.Publisher\"]]",
+      "[[\"Publication_year\", \"Publication_month_day\"], [\"publication_info.Publication_Date\"]]"
+    ]
+  }
+]
