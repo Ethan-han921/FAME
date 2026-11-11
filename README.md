@@ -44,3 +44,12 @@ FAME provides three evaluation settings for attribute matching:
 - **Predicted-Positive AM:** Evaluates attribute correspondences for record pairs predicted as matches.
 - **Conditional AM:** Evaluates attribute correspondences for correctly predicted matching pairs.
 - **Oracle-EM AM:** Evaluates attribute matching using ground-truth record matching decisions.
+
+- ## TODO
+- 
+- [x] Release the test datasets with ground-truth annotations.
+- [x] Release the LLM-based baseline implementations.
+- [ ] Release the non-LLM and hybrid baseline implementations.
+- [ ] Release the evaluation scripts and documentation.
+
+**The remaining code and resources will be released soon.**
