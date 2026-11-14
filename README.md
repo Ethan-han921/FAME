@@ -127,7 +127,7 @@ python pipeline.py --dataset semi_heter --mode evidence --model gpt-5.6-luna
 
 | Mode | Description |
 |------|-------------|
-| `two_stage` | Stage 1: Entity Matching → Stage 2: Attribute Matching (separate LLM calls) |
+| `two_stage` | Stage 1: Record Matching → Stage 2: Attribute Matching (separate LLM calls) |
 | `whole` | Single LLM call for both Entity and Attribute Matching |
 | `evidence` | Evidence-driven approach with intermediate reasoning |
 
