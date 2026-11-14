@@ -33,7 +33,7 @@ from openai import OpenAI
 # Add parent directory to path
 sys.path.insert(0, str(Path(__file__).parent))
 
-from config import DATASETS, DEFAULT_MODEL, MODEL_CONFIGS, LOG_DIR
+from config import DATASETS, DEFAULT_MODEL, MODEL_CONFIGS, LOG_DIR, PROJECT_ROOT
 from prompts import EM_PROMPTS, ATTR_PROMPTS, WHOLE_STAGE_PROMPTS, EVIDENCE_DRIVEN_PROMPTS
 import random
 
@@ -129,6 +129,12 @@ def load_few_shot_examples(few_shot_file: Path, num_examples: int = 5, seed: int
     if 'pairs_file' in config and 'gt_file' in config:
         pairs_path = Path(config['pairs_file'])
         gt_path = Path(config['gt_file'])
+
+        # If relative path, resolve relative to PROJECT_ROOT
+        if not pairs_path.is_absolute():
+            pairs_path = PROJECT_ROOT / pairs_path
+        if not gt_path.is_absolute():
+            gt_path = PROJECT_ROOT / gt_path
 
         # Load pairs
         with open(pairs_path, 'r', encoding='utf-8') as f:

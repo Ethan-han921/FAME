@@ -1,0 +1,12 @@
+# Core dependencies
+openai==2.30.0
+python-dotenv==1.0.0
+numpy==1.26.4
+
+# For TF-IDF baseline
+scikit-learn==1.6.1
+
+# For Embedding baseline
+sentence-transformers==2.7.0
+torch==2.2.2
+transformers==4.40.0

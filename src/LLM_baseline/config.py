@@ -4,9 +4,9 @@ Configuration for Two-Stage GEM Pipeline
 from pathlib import Path
 
 # Base paths
-PROJECT_ROOT = Path(__file__).parent.parent
-TWO_STAGE_ROOT = Path(__file__).parent
-DATA_ROOT = TWO_STAGE_ROOT / 'data' / 'Test_dataset'
+TWO_STAGE_ROOT = Path(__file__).parent           # src/LLM_baseline/
+PROJECT_ROOT = TWO_STAGE_ROOT.parent.parent      # FAME/ (project root)
+DATA_ROOT = PROJECT_ROOT / 'data' / 'Test_dataset'
 
 # =============================================================================
 # DATASET CONFIGURATIONS
