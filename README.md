@@ -241,6 +241,47 @@ python sentence-transformer.py \
 
 The hybrid approaches combine embedding-based methods with LLM refinement.
 
+Navigate to the Hybrid baseline directory:
+
+```bash
+cd src/Hyber_baseline
+```
+
+#### Embedding-Based Hybrid
+
+This hybrid baseline uses a two-stage approach:
+- **Stage 1 (Record Matching):** Uses the LLM two-stage baseline's Stage 1 to identify matching record pairs.
+- **Stage 2 (Attribute Matching):** Uses Sentence-Transformer embeddings with heuristic candidate generation and greedy selection.
+
+**Step 1:** Run Stage 1 (Record Matching) using LLM baseline:
+
+```bash
+cd src/LLM_baseline
+python pipeline.py --dataset nyc --mode two_stage --model gpt-5.6-luna --stage1-only
+# Output: logs/nyc_two_stage/<run_folder>/stage1_em/matched_pairs.json
+```
+
+**Step 2:** Run Stage 2 (Attribute Matching) using Embedding-Based method:
+
+```bash
+cd src/Hyber_baseline
+python Embedding_Based.py \
+    --test_data <path_to_matched_pairs.json_from_stage1> \
+    --ground_truth ../../data/Test_dataset/nyc_AT_level_GT/results_verified_manually.json \
+    --output ./output_embedding_based_nyc.json \
+    --similarity_threshold 0.5 \
+    --top_k 3 \
+    --group_threshold 0.6
+```
+
+| Parameter | Description | Default |
+|-----------|-------------|---------|
+| `--similarity_threshold` | Single attribute similarity threshold | 0.5 |
+| `--top_k` | Top-k candidates per attribute | 3 |
+| `--group_threshold` | Group selection threshold | 0.6 |
+| `--enable_nn` / `--disable_nn` | Enable/disable N-N correspondences | enabled |
+| `--nn_max_size` | Max size per side for N-N groups | 4 |
+
 #### LLM-Refined Hybrid
 
 This hybrid baseline uses a two-stage approach:
