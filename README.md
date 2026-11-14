@@ -128,7 +128,7 @@ python pipeline.py --dataset semi_heter --mode evidence --model gpt-5.6-luna
 | Mode | Description |
 |------|-------------|
 | `two_stage` | Stage 1: Record Matching → Stage 2: Attribute Matching (separate LLM calls) |
-| `whole` | Single LLM call for both Entity and Attribute Matching |
+| `whole` | Single LLM call for both Record and Attribute Matching |
 | `evidence` | Evidence-driven approach with intermediate reasoning |
 
 #### Additional Options
@@ -137,7 +137,7 @@ python pipeline.py --dataset semi_heter --mode evidence --model gpt-5.6-luna
 # Limit number of pairs (for testing)
 python pipeline.py --dataset nyc --mode two_stage --model gpt-4o-mini --limit 10
 
-# Run only Stage 1 (Entity Matching)
+# Run only Stage 1 (Record Matching)
 python pipeline.py --dataset nyc --mode two_stage --model gpt-5.6-luna --stage1-only
 
 # Run only Stage 2 (Attribute Matching, assumes all pairs match)
@@ -148,7 +148,7 @@ python pipeline.py --dataset nyc --mode two_stage --model gpt-5.6-luna --stage2-
 
 The few-shot approach uses examples from the development set to improve Stage 2 (Attribute Matching) performance.
 
-**Step 1:** Run Stage 1 to get entity matching predictions:
+**Step 1:** Run Stage 1 to get record matching predictions:
 
 ```bash
 python pipeline.py --dataset nyc --mode two_stage --model gpt-5.6-luna --stage1-only
@@ -200,7 +200,7 @@ python tfidf_baseline.py \
 
 | Parameter | Description | Default |
 |-----------|-------------|---------|
-| `--em_threshold` | Entity matching similarity threshold | 0.1 |
+| `--em_threshold` | Record matching similarity threshold | 0.1 |
 | `--am_threshold` | Attribute matching similarity threshold | 0.5 |
 | `--max_group_size` | Maximum attribute group size (None=dynamic) | None |
 
@@ -222,7 +222,7 @@ python sentence-transformer.py \
 
 | Parameter | Description | Default |
 |-----------|-------------|---------|
-| `--em_threshold` | Entity matching similarity threshold | 0.7 |
+| `--em_threshold` | Record matching similarity threshold | 0.7 |
 | `--similarity_threshold` | AM candidate similarity threshold | 0.5 |
 | `--group_threshold` | AM group selection threshold | 0.6 |
 | `--top_k` | Top-k candidates per attribute | 3 |
@@ -285,10 +285,10 @@ python Embedding_Based.py \
 #### LLM-Refined Hybrid
 
 This hybrid baseline uses a two-stage approach:
-- **Stage 1 (Entity Matching):** Uses the LLM two-stage baseline's Stage 1 to identify matching record pairs.
+- **Stage 1 (Record Matching):** Uses the LLM two-stage baseline's Stage 1 to identify matching record pairs.
 - **Stage 2 (Attribute Matching):** Uses sentence embeddings to generate attribute correspondence candidates, then sends them to LLM for final selection.
 
-**Step 1:** Run Stage 1 (Entity Matching) using LLM baseline:
+**Step 1:** Run Stage 1 (Record Matching) using LLM baseline:
 
 ```bash
 cd src/LLM_baseline
@@ -326,7 +326,7 @@ logs/
 └── <dataset>_<mode>/
     └── <dataset>_<model>_<timestamp>/
         ├── final_results.json      # Overall metrics
-        ├── stage1_em/              # Entity matching results
+        ├── stage1_em/              # Record matching results
         └── stage2_attr/            # Attribute matching results
 ```
 
