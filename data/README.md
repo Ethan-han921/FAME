@@ -1,4 +1,4 @@
-# Data Directory Structure
+# Dataset explanation
 
 This directory contains the datasets used in the FAME benchmark.
 
