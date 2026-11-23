@@ -100,8 +100,8 @@ cd src/LLM_baseline
 # Usage: python pipeline.py --dataset <DATASET> --mode <MODE> --model <MODEL>
 
 # Datasets: nyc, semi_rel, semi_heter
-# Modes: two_stage, whole, evidence
-# Models: gpt-5.6-luna, gpt-4o, gpt-4o-mini, etc.
+# Modes: two_stage, whole (one-stage), evidence
+# Models: gpt-5.6-luna
 ```
 
 **Example commands:**
@@ -128,7 +128,7 @@ python pipeline.py --dataset semi_heter --mode evidence --model gpt-5.6-luna
 | Mode | Description |
 |------|-------------|
 | `two_stage` | Stage 1: Record Matching → Stage 2: Attribute Matching (separate LLM calls) |
-| `whole` | Single LLM call for both Record and Attribute Matching |
+| `whole` | Single LLM call for both Record and Attribute Matching. This is the LLM-One configuration in the paper |
 | `evidence` | Evidence-driven approach with intermediate reasoning |
 
 #### Additional Options
