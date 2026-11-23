@@ -329,11 +329,3 @@ logs/
         ├── stage1_em/              # Record matching results
         └── stage2_attr/            # Attribute matching results
 ```
-
-## TODO
-- [x] Release the test datasets with ground-truth annotations.
-- [x] Release the LLM-based baseline implementations.
-- [x] Release the non-LLM and hybrid baseline implementations.
-- [ ] Release the evaluation scripts and documentation.
-
-**The remaining code and resources will be released soon.**
